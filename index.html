@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="公元 220–979 年中国中古史资料库：三国、两晋、南北朝、隋、唐、五代十国、宋初。目录、全文索引与结构化游戏数据。">
+  <title>cn-history-220-979 · 中古史资料库</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">跳到主要内容</a>
+
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <div class="brand">
+        <p class="eyebrow">公元 220–979</p>
+        <h1><span>cn-history</span><span class="brand-years">220–979</span></h1>
+        <p class="tagline">三国 · 两晋 · 南北朝 · 隋 · 唐 · 五代十国 · 宋初</p>
+      </div>
+      <div class="header-actions">
+        <button id="theme-toggle" class="ghost-button" type="button" aria-label="切换明暗主题">明 / 暗</button>
+        <a class="ghost-button" href="https://github.com/zhuhuang907-lang/cn-history-220-979" target="_blank" rel="noopener">GitHub</a>
+      </div>
+    </div>
+    <div class="wrap stats" id="stats" aria-live="polite">
+      <span>正在载入数据……</span>
+    </div>
+  </header>
+
+  <nav class="wrap tabs" id="tabs" aria-label="数据分类">
+    <button class="tab is-active" data-tab="catalog" type="button">史料目录</button>
+    <button class="tab" data-tab="faction" type="button">政权</button>
+    <button class="tab" data-tab="character" type="button">人物</button>
+    <button class="tab" data-tab="event" type="button">事件</button>
+    <button class="tab" data-tab="location" type="button">地点</button>
+    <button class="tab" data-tab="glossary" type="button">术语</button>
+    <button class="tab" data-tab="disambiguation" type="button">同名辨析</button>
+    <button class="tab" data-tab="period" type="button">时代</button>
+  </nav>
+
+  <main id="main" class="wrap layout">
+    <section class="browser" aria-label="检索与结果">
+      <form class="searchbar" id="search-form" role="search">
+        <label class="search-label" for="search">检索</label>
+        <input id="search" type="search" name="q" placeholder="书名、人物、事件、地名、术语……" autocomplete="off" spellcheck="false">
+        <button class="primary-button" type="submit">搜索</button>
+      </form>
+
+      <div class="filters" id="filters">
+        <label>
+          <span>类型</span>
+          <select id="type-filter">
+            <option value="">全部</option>
+          </select>
+        </label>
+        <label>
+          <span>时代</span>
+          <select id="period-filter">
+            <option value="">全部</option>
+          </select>
+        </label>
+        <label>
+          <span>可信度</span>
+          <select id="reliability-filter">
+            <option value="">全部</option>
+          </select>
+        </label>
+        <label>
+          <span>排序</span>
+          <select id="sort-order">
+            <option value="default">默认</option>
+            <option value="year">年代</option>
+            <option value="name">名称</option>
+          </select>
+        </label>
+      </div>
+
+      <div class="result-meta">
+        <p id="result-count" aria-live="polite">—</p>
+        <p class="hint" id="hint">点击条目查看详情；全文检索请在本地运行 <code>python scripts/search.py</code>。</p>
+      </div>
+
+      <div id="results" class="results" aria-live="polite"></div>
+      <p id="empty" class="empty" hidden>没有匹配的条目。试试更短的关键词，或清空筛选。</p>
+    </section>
+
+    <aside id="detail" class="detail" aria-label="条目详情" hidden>
+      <div class="detail-head">
+        <p class="eyebrow" id="detail-kind">详情</p>
+        <button id="close-detail" class="icon-button" type="button" aria-label="关闭详情">×</button>
+      </div>
+      <div id="detail-body"></div>
+    </aside>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-grid">
+      <div>
+        <h2>cn-history-220-979</h2>
+        <p>古籍原文公有领域；Wikisource 转录与本站新增内容以 CC BY-SA 4.0 发布。现代研究仅提供书目与外链，小说/演义标记为 F。</p>
+      </div>
+      <div class="footer-links">
+        <a href="https://github.com/zhuhuang907-lang/cn-history-220-979/blob/main/README.md">README</a>
+        <a href="https://github.com/zhuhuang907-lang/cn-history-220-979/blob/main/CLAUDE.md">Claude 手册</a>
+        <a href="https://github.com/zhuhuang907-lang/cn-history-220-979/blob/main/docs/methodology.md">方法说明</a>
+        <a href="https://github.com/zhuhuang907-lang/cn-history-220-979/blob/main/NOTICE.md">版权说明</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

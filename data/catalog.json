@@ -1,0 +1,5946 @@
+[
+  {
+    "id": "ZIZHITONGJIAN",
+    "type": "primary",
+    "priority": "core",
+    "title": "资治通鉴",
+    "title_trad": "資治通鑑",
+    "title_en": "Comprehensive Mirror for Aid in Government",
+    "aliases": [
+      "司马光资治通鉴",
+      "Zizhi Tongjian",
+      "通鉴"
+    ],
+    "authors": [
+      {
+        "name": "司马光等",
+        "dates": "1019–1086",
+        "role": "撰"
+      }
+    ],
+    "date": "1084",
+    "periods": [
+      "东汉末",
+      "三国",
+      "西晋",
+      "东晋",
+      "十六国",
+      "南朝",
+      "北朝",
+      "隋",
+      "初唐",
+      "盛唐",
+      "中唐",
+      "晚唐",
+      "五代",
+      "十国"
+    ],
+    "cover_start": -403,
+    "cover_end": 959,
+    "genre": "编年体通史",
+    "structure": "294卷；本库收录卷59–294（汉末至五代）",
+    "reliability": "A",
+    "summary": "编年体通史，汉末至五代部分按年月排比，考异保存异说，是交叉核对正史的核心工具。",
+    "game_use": "建立精确年表、战役时序、政权更替、人物活动轨迹。",
+    "caveats": "编纂以政治鉴戒为目的，取舍有立场；不可替代正史原文，需结合《通鉴考异》。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/資治通鑑",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=資治通鑑"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/zizhitongjian",
+      "note": "卷59–294",
+      "volumes_available": 236,
+      "chars": 2688247
+    },
+    "tags": [
+      "编年体",
+      "通史",
+      "年表",
+      "战争",
+      "政治"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "TONGDIAN",
+    "type": "primary",
+    "priority": "core",
+    "title": "通典",
+    "title_trad": "通典",
+    "title_en": "Comprehensive Institutions",
+    "aliases": [
+      "杜佑通典",
+      "Tongdian"
+    ],
+    "authors": [
+      {
+        "name": "杜佑",
+        "dates": "735–812",
+        "role": "撰"
+      }
+    ],
+    "date": "801",
+    "periods": [
+      "跨期",
+      "盛唐",
+      "中唐"
+    ],
+    "cover_start": -221,
+    "cover_end": 756,
+    "genre": "政书",
+    "structure": "200卷：食货、选举、职官、礼、乐、兵、刑法、州郡、边防九典",
+    "reliability": "A",
+    "summary": "唐代制度通史，分九典叙述上古至唐天宝制度，保存大量唐代制度、政令、财政、军事、地理资料。",
+    "game_use": "设计中晚唐官制、财政、军事、礼制、地理的核心工具书。",
+    "caveats": "以唐制为中心回溯，早期制度有简化；需与《唐六典》《唐会要》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/通典",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=通典"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "政书",
+      "制度",
+      "财政",
+      "军事",
+      "地理"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "HOUHANSHU",
+    "type": "primary",
+    "priority": "core",
+    "title": "后汉书",
+    "title_trad": "後漢書",
+    "title_en": "Book of the Later Han",
+    "aliases": [
+      "范晔后汉书",
+      "Hou Hanshu"
+    ],
+    "authors": [
+      {
+        "name": "范晔",
+        "dates": "398–445",
+        "role": "撰"
+      },
+      {
+        "name": "司马彪",
+        "dates": "？–306",
+        "role": "续志"
+      }
+    ],
+    "date": "约445；志为晋人补",
+    "periods": [
+      "东汉末",
+      "三国"
+    ],
+    "cover_start": 25,
+    "cover_end": 220,
+    "genre": "纪传体正史",
+    "structure": "120卷：纪10、志30、列传80",
+    "reliability": "A",
+    "summary": "纪传体东汉史，含纪、志、列传。东汉末三国前夜的政治、人物、边疆、党锢、黄巾等背景史料。",
+    "game_use": "设计汉末乱世、党锢、州郡、边疆、士人网络、黄巾之乱。",
+    "caveats": "范晔未完成志，今本志为司马彪《续汉志》补入；部分列传晚出。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/後漢書",
+      "kanripo": "https://github.com/kanripo/KR2a0009"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/houhanshu",
+      "volumes_available": 131,
+      "chars": 1451474
+    },
+    "tags": [
+      "正史",
+      "东汉",
+      "三国前夜",
+      "人物",
+      "制度"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "SANGUOZHI",
+    "type": "primary",
+    "priority": "core",
+    "title": "三国志",
+    "title_trad": "三國志",
+    "title_en": "Records of the Three Kingdoms",
+    "aliases": [
+      "陈寿三国志",
+      "Sanguozhi",
+      "San Guo Zhi"
+    ],
+    "authors": [
+      {
+        "name": "陈寿",
+        "dates": "233–297",
+        "role": "撰"
+      }
+    ],
+    "date": "约280–297",
+    "periods": [
+      "东汉末",
+      "三国"
+    ],
+    "cover_start": 184,
+    "cover_end": 280,
+    "genre": "纪传体正史",
+    "structure": "65卷：魏书30卷、蜀书15卷、吴书20卷",
+    "reliability": "A",
+    "summary": "西晋陈寿所撰纪传体三国史，以魏为正统，分魏、蜀、吴三书。叙事简洁，是三国史最核心的框架性史料。",
+    "game_use": "建立人物、势力、官职、战役的基础年表；细节需用裴注、《后汉书》《资治通鉴》补足。",
+    "caveats": "陈寿为晋臣，对魏晋禅代、司马氏多所回护；蜀汉、东吴记载相对简略；无志、表。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/三國志",
+      "kanripo": "https://github.com/kanripo/KR2a0012",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=三國志"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/sanguozhi",
+      "volumes_available": 65,
+      "chars": 881434
+    },
+    "tags": [
+      "正史",
+      "三国",
+      "人物",
+      "战争",
+      "政治"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "PEIZHU",
+    "type": "primary",
+    "priority": "core",
+    "title": "三国志注",
+    "title_trad": "三國志注",
+    "title_en": "Annotations to the Records of the Three Kingdoms",
+    "aliases": [
+      "裴松之注",
+      "裴注",
+      "Pei Songzhi zhu"
+    ],
+    "authors": [
+      {
+        "name": "裴松之",
+        "dates": "372–451",
+        "role": "注"
+      }
+    ],
+    "date": "429",
+    "periods": [
+      "东汉末",
+      "三国"
+    ],
+    "cover_start": 184,
+    "cover_end": 280,
+    "genre": "史注",
+    "structure": "随《三国志》65卷正文附注",
+    "reliability": "A/B",
+    "summary": "裴松之奉宋文帝命为《三国志》作注，广引汉魏六朝文献，补阙、备异、惩妄、论辩，保存大量佚书。",
+    "game_use": "三国人物、事件细节的第一扩展层；许多演义素材源于裴注所引杂史。",
+    "caveats": "引书多佚，需注意转引与传闻；裴注并非全为史实，含志怪、传闻。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/三國志",
+      "kanripo": "https://github.com/kanripo/KR2a0012"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "注疏",
+      "三国",
+      "佚书",
+      "人物"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "SHISHUOXINYU",
+    "type": "primary",
+    "priority": "core",
+    "title": "世说新语",
+    "title_trad": "世說新語",
+    "title_en": "A New Account of Tales of the World",
+    "aliases": [
+      "刘义庆世说新语",
+      "Shishuo Xinyu",
+      "世说"
+    ],
+    "authors": [
+      {
+        "name": "刘义庆",
+        "dates": "403–444",
+        "role": "撰"
+      },
+      {
+        "name": "刘孝标",
+        "dates": "462–521",
+        "role": "注"
+      }
+    ],
+    "date": "5世纪；注6世纪",
+    "periods": [
+      "东汉末",
+      "三国",
+      "西晋",
+      "东晋",
+      "南朝"
+    ],
+    "cover_start": 184,
+    "cover_end": 420,
+    "genre": "轶事小说、人物志",
+    "structure": "3卷36门",
+    "reliability": "B",
+    "summary": "魏晋清谈与人物轶事集，分德行、言语、政事、文学等36门，保存门阀社会的言行、审美、社交网络。",
+    "game_use": "设计人物性格、对话、声望、清谈、社交事件、门阀关系。",
+    "caveats": "轶事小说，多有虚构与夸张；不能直接当史实，需与正史对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/世說新語",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=世說新語"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/shishuoxinyu",
+      "volumes_available": 36,
+      "chars": 238914
+    },
+    "tags": [
+      "轶事",
+      "魏晋",
+      "门阀",
+      "清谈",
+      "人物"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "HUAYANGGUOZHI",
+    "type": "primary",
+    "priority": "core",
+    "title": "华阳国志",
+    "title_trad": "華陽國志",
+    "title_en": "Chronicle of Huayang",
+    "aliases": [
+      "常璩华阳国志",
+      "Huayang Guozhi"
+    ],
+    "authors": [
+      {
+        "name": "常璩",
+        "dates": "291–361",
+        "role": "撰"
+      }
+    ],
+    "date": "约348–354",
+    "periods": [
+      "东汉末",
+      "三国",
+      "西晋",
+      "东晋",
+      "十六国"
+    ],
+    "cover_start": 184,
+    "cover_end": 347,
+    "genre": "地方史志",
+    "structure": "12卷：巴志、汉中志、蜀志、南中志、公孙述刘二牧志、刘先主志、刘后主志、大同志、李特雄期寿势志、先贤士女总赞、后贤志、序志",
+    "reliability": "A/B",
+    "summary": "西南地方史志，记巴蜀、汉中、南中、成汉等地理、人物、民族、政权，是三国两晋西南史的核心。",
+    "game_use": "设计益州、汉中、南中、成汉、西南民族、地方豪族。",
+    "caveats": "地方视角，人物褒贬受乡里关系影响；与《三国志》《晋书》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/華陽國志",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=華陽國志"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/huayangguozhi",
+      "volumes_available": 12,
+      "chars": 253720
+    },
+    "tags": [
+      "地方志",
+      "巴蜀",
+      "西南",
+      "成汉",
+      "民族"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "SHUIJINGZHU",
+    "type": "primary",
+    "priority": "core",
+    "title": "水经注",
+    "title_trad": "水經注",
+    "title_en": "Commentary on the Water Classic",
+    "aliases": [
+      "郦道元水经注",
+      "Shuijing Zhu"
+    ],
+    "authors": [
+      {
+        "name": "郦道元",
+        "dates": "472–527",
+        "role": "注"
+      }
+    ],
+    "date": "约515–524",
+    "periods": [
+      "北朝",
+      "南朝",
+      "十六国"
+    ],
+    "cover_start": 220,
+    "cover_end": 534,
+    "genre": "地理志",
+    "structure": "40卷，注《水经》137条河流",
+    "reliability": "A/B",
+    "summary": "以《水经》为纲，详注河流、山川、城邑、关隘、水利、碑刻、传说，是六朝地理与地方史的资料库。",
+    "game_use": "设计地图、河流、城池、关隘、行军路线、地方传说。",
+    "caveats": "郦注博采传闻，部分地理信息有误；需与考古、正史对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/水經注",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=水經注"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "地理",
+      "河流",
+      "城邑",
+      "北朝",
+      "碑刻"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "JINSHU",
+    "type": "primary",
+    "priority": "core",
+    "title": "晋书",
+    "title_trad": "晉書",
+    "title_en": "Book of Jin",
+    "aliases": [
+      "房玄龄晋书",
+      "Jin Shu"
+    ],
+    "authors": [
+      {
+        "name": "房玄龄等",
+        "dates": "唐初",
+        "role": "撰"
+      }
+    ],
+    "date": "648",
+    "periods": [
+      "西晋",
+      "东晋",
+      "十六国"
+    ],
+    "cover_start": 265,
+    "cover_end": 420,
+    "genre": "纪传体正史",
+    "structure": "130卷：纪10、志20、列传70、载记30",
+    "reliability": "A",
+    "summary": "唐初官修晋史，含西晋、东晋及十六国载记。列传、载记保存大量十六国政权史料。",
+    "game_use": "两晋门阀、八王之乱、永嘉之乱、十六国政权的基础史料。",
+    "caveats": "成书较晚，采摭小说杂说，叙事有荒诞处；十六国部分需与《十六国春秋》辑本、《魏书》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/晉書",
+      "kanripo": "https://github.com/kanripo/KR2a0015"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/jinshu",
+      "volumes_available": 130,
+      "chars": 1503553
+    },
+    "tags": [
+      "正史",
+      "两晋",
+      "十六国",
+      "门阀",
+      "战争"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "BEISHI",
+    "type": "primary",
+    "priority": "core",
+    "title": "北史",
+    "title_trad": "北史",
+    "title_en": "History of the Northern Dynasties",
+    "aliases": [
+      "李延寿北史",
+      "Bei Shi"
+    ],
+    "authors": [
+      {
+        "name": "李延寿",
+        "dates": "唐初",
+        "role": "撰"
+      }
+    ],
+    "date": "659",
+    "periods": [
+      "北朝",
+      "隋"
+    ],
+    "cover_start": 386,
+    "cover_end": 618,
+    "genre": "纪传体通史",
+    "structure": "100卷：纪12、列传88",
+    "reliability": "A/B",
+    "summary": "唐初李延寿所撰北魏至隋北方通史，删并魏书、北齐书、周书、隋书，叙事连贯。",
+    "game_use": "快速把握北朝至隋的人物与政权脉络；细节回查原书。",
+    "caveats": "删减较多，制度细节需回查原书；与《魏书》《北齐书》《周书》《隋书》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/北史",
+      "kanripo": "https://github.com/kanripo/KR2a0025"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/beishi",
+      "volumes_available": 100,
+      "chars": 1399090
+    },
+    "tags": [
+      "正史",
+      "北朝",
+      "隋",
+      "通史",
+      "人物"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "WEISHU",
+    "type": "primary",
+    "priority": "core",
+    "title": "魏书",
+    "title_trad": "魏書",
+    "title_en": "Book of Wei",
+    "aliases": [
+      "魏收魏书",
+      "Wei Shu",
+      "北魏书"
+    ],
+    "authors": [
+      {
+        "name": "魏收",
+        "dates": "507–572",
+        "role": "撰"
+      }
+    ],
+    "date": "554",
+    "periods": [
+      "北朝",
+      "十六国"
+    ],
+    "cover_start": 386,
+    "cover_end": 550,
+    "genre": "纪传体正史",
+    "structure": "114卷：纪12、志20、列传82",
+    "reliability": "A",
+    "summary": "北齐魏收所撰北魏纪传体正史，含帝纪、列传、志，是北魏、东魏制度与社会的基础史料。",
+    "game_use": "北魏建国、孝文帝改革、六镇、洛阳、北朝制度。",
+    "caveats": "魏收“秽史”之争，叙事褒贬受北齐政治影响；北魏早期史事需与《北史》《宋书》《资治通鉴》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/魏書",
+      "kanripo": "https://github.com/kanripo/KR2a0020"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/weishu",
+      "volumes_available": 124,
+      "chars": 1357515
+    },
+    "tags": [
+      "正史",
+      "北朝",
+      "北魏",
+      "制度",
+      "民族"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "QIMINYAOSHU",
+    "type": "primary",
+    "priority": "core",
+    "title": "齐民要术",
+    "title_trad": "齊民要術",
+    "title_en": "Essential Techniques for the Common People",
+    "aliases": [
+      "贾思勰齐民要术",
+      "Qimin Yaoshu"
+    ],
+    "authors": [
+      {
+        "name": "贾思勰",
+        "dates": "北魏",
+        "role": "撰"
+      }
+    ],
+    "date": "约533–544",
+    "periods": [
+      "北朝"
+    ],
+    "cover_start": 386,
+    "cover_end": 550,
+    "genre": "农书",
+    "structure": "10卷92篇",
+    "reliability": "A/B",
+    "summary": "北朝农业百科全书，记耕作、作物、园艺、畜牧、酿造、食品、手工业，反映北朝乡村经济。",
+    "game_use": "设计农业、粮草、屯田、手工业、食物、灾荒系统。",
+    "caveats": "技术总结，不一定反映所有地区；时代与地域需谨慎。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/齊民要術",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=齊民要術"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/qimin-yaoshu",
+      "volumes_available": 10,
+      "chars": 144727
+    },
+    "tags": [
+      "农书",
+      "北朝",
+      "经济",
+      "食物",
+      "手工业"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "NANSHI",
+    "type": "primary",
+    "priority": "core",
+    "title": "南史",
+    "title_trad": "南史",
+    "title_en": "History of the Southern Dynasties",
+    "aliases": [
+      "李延寿南史",
+      "Nan Shi"
+    ],
+    "authors": [
+      {
+        "name": "李延寿",
+        "dates": "唐初",
+        "role": "撰"
+      }
+    ],
+    "date": "659",
+    "periods": [
+      "南朝"
+    ],
+    "cover_start": 420,
+    "cover_end": 589,
+    "genre": "纪传体通史",
+    "structure": "80卷：纪10、列传70",
+    "reliability": "A/B",
+    "summary": "唐初李延寿所撰南朝宋齐梁陈通史，删并四书，叙事连贯，便于通读。",
+    "game_use": "快速把握南朝四代人物与政治脉络；细节回查四书。",
+    "caveats": "删减原始史料，细节不如四书；可与《宋书》《南齐书》《梁书》《陈书》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/南史",
+      "kanripo": "https://github.com/kanripo/KR2a0024"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/nanshi",
+      "volumes_available": 80,
+      "chars": 874481
+    },
+    "tags": [
+      "正史",
+      "南朝",
+      "通史",
+      "人物"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "SONGSHU",
+    "type": "primary",
+    "priority": "core",
+    "title": "宋书",
+    "title_trad": "宋書",
+    "title_en": "Book of Song",
+    "aliases": [
+      "沈约宋书",
+      "Song Shu"
+    ],
+    "authors": [
+      {
+        "name": "沈约",
+        "dates": "441–513",
+        "role": "撰"
+      }
+    ],
+    "date": "488",
+    "periods": [
+      "南朝"
+    ],
+    "cover_start": 420,
+    "cover_end": 479,
+    "genre": "纪传体正史",
+    "structure": "100卷：纪10、志30、列传60",
+    "reliability": "A",
+    "summary": "南朝宋纪传体正史，八志上溯魏晋，保存律历、礼乐、州郡、百官等制度史料。",
+    "game_use": "南朝宋政治、制度、门阀、战争；八志可补三国两晋制度。",
+    "caveats": "沈约为宋臣、齐臣，叙事有回护；部分志书超越刘宋范围。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/宋書",
+      "kanripo": "https://github.com/kanripo/KR2a0016"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/songshu",
+      "volumes_available": 99,
+      "chars": 1172875
+    },
+    "tags": [
+      "正史",
+      "南朝",
+      "刘宋",
+      "制度",
+      "门阀"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "NANQISHU",
+    "type": "primary",
+    "priority": "core",
+    "title": "南齐书",
+    "title_trad": "南齊書",
+    "title_en": "Book of Southern Qi",
+    "aliases": [
+      "萧子显南齐书",
+      "Nan Qi Shu"
+    ],
+    "authors": [
+      {
+        "name": "萧子显",
+        "dates": "489–537",
+        "role": "撰"
+      }
+    ],
+    "date": "约537",
+    "periods": [
+      "南朝"
+    ],
+    "cover_start": 479,
+    "cover_end": 502,
+    "genre": "纪传体正史",
+    "structure": "59卷：纪8、志11、列传40",
+    "reliability": "A",
+    "summary": "南朝齐纪传体正史，萧子显以宗室身份修史，文笔简洁，保存齐代政治与文学史料。",
+    "game_use": "南朝齐宫廷政变、宗室斗争、文学群体。",
+    "caveats": "篇幅较短，制度记载不如《宋书》系统；需与《南史》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/南齊書",
+      "kanripo": "https://github.com/kanripo/KR2a0017"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/nanqishu",
+      "volumes_available": 59,
+      "chars": 416849
+    },
+    "tags": [
+      "正史",
+      "南朝",
+      "南齐",
+      "宗室",
+      "文学"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "LUOYANGQIELANJI",
+    "type": "primary",
+    "priority": "core",
+    "title": "洛阳伽蓝记",
+    "title_trad": "洛陽伽藍記",
+    "title_en": "Record of the Buddhist Monasteries of Luoyang",
+    "aliases": [
+      "杨衒之洛阳伽蓝记",
+      "Luoyang Qielan Ji"
+    ],
+    "authors": [
+      {
+        "name": "杨衒之",
+        "dates": "北魏–东魏",
+        "role": "撰"
+      }
+    ],
+    "date": "约547",
+    "periods": [
+      "北朝"
+    ],
+    "cover_start": 493,
+    "cover_end": 534,
+    "genre": "城市志、佛教史",
+    "structure": "5卷，按洛阳城门方位记寺院",
+    "reliability": "A/B",
+    "summary": "北魏洛阳城市志与佛教寺院记，详述城门、宫殿、寺塔、园林、风俗、人物，是北朝城市史与佛教史的第一手资料。",
+    "game_use": "设计北魏洛阳地图、寺院、里坊、节庆、民族杂居、城市生活。",
+    "caveats": "以佛教兴衰为叙事框架，带有怀旧与批判；地理记载可与《水经注》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/洛陽伽藍記",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=洛陽伽藍記"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/luoyangqielanji",
+      "volumes_available": 5,
+      "chars": 36792
+    },
+    "tags": [
+      "城市",
+      "洛阳",
+      "北魏",
+      "佛教",
+      "地理"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "LIANGSHU",
+    "type": "primary",
+    "priority": "core",
+    "title": "梁书",
+    "title_trad": "梁書",
+    "title_en": "Book of Liang",
+    "aliases": [
+      "姚思廉梁书",
+      "Liang Shu"
+    ],
+    "authors": [
+      {
+        "name": "姚思廉",
+        "dates": "557–637",
+        "role": "撰"
+      }
+    ],
+    "date": "636",
+    "periods": [
+      "南朝"
+    ],
+    "cover_start": 502,
+    "cover_end": 557,
+    "genre": "纪传体正史",
+    "structure": "56卷：纪6、列传50",
+    "reliability": "A",
+    "summary": "南朝梁纪传体正史，保存梁武帝时期政治、文化、佛教、对外交流史料。",
+    "game_use": "梁武帝时代、侯景之乱、南朝佛教、南北交流。",
+    "caveats": "姚氏父子历陈、隋、唐，叙事对梁宗室多有回护；侯景之乱需与《南史》《资治通鉴》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/梁書",
+      "kanripo": "https://github.com/kanripo/KR2a0018"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/liangshu",
+      "volumes_available": 56,
+      "chars": 381986
+    },
+    "tags": [
+      "正史",
+      "南朝",
+      "梁",
+      "佛教",
+      "侯景之乱"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "YANSHIJIAXUN",
+    "type": "primary",
+    "priority": "core",
+    "title": "颜氏家训",
+    "title_trad": "顏氏家訓",
+    "title_en": "Family Instructions of the Yan Clan",
+    "aliases": [
+      "颜之推颜氏家训",
+      "Yanshi Jiaxun"
+    ],
+    "authors": [
+      {
+        "name": "颜之推",
+        "dates": "531–591",
+        "role": "撰"
+      }
+    ],
+    "date": "约6世纪末",
+    "periods": [
+      "南朝",
+      "北朝",
+      "隋"
+    ],
+    "cover_start": 531,
+    "cover_end": 591,
+    "genre": "家训、社会史",
+    "structure": "7卷20篇",
+    "reliability": "A/B",
+    "summary": "南北朝士族家训，记教育、风俗、语言、宗教、仕宦、家庭，反映乱世士族的生活与价值观。",
+    "game_use": "设计士族家庭、教育、婚姻、家风、南北文化差异。",
+    "caveats": "个人经验与价值判断，非社会统计；需与墓志、正史对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/顏氏家訓",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=顏氏家訓"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/yanshijiaxun",
+      "volumes_available": 7,
+      "chars": 44206
+    },
+    "tags": [
+      "家训",
+      "士族",
+      "南北朝",
+      "社会",
+      "教育"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "BEIQISHU",
+    "type": "primary",
+    "priority": "core",
+    "title": "北齐书",
+    "title_trad": "北齊書",
+    "title_en": "Book of Northern Qi",
+    "aliases": [
+      "李百药北齐书",
+      "Bei Qi Shu"
+    ],
+    "authors": [
+      {
+        "name": "李百药",
+        "dates": "565–648",
+        "role": "撰"
+      }
+    ],
+    "date": "636",
+    "periods": [
+      "北朝"
+    ],
+    "cover_start": 534,
+    "cover_end": 577,
+    "genre": "纪传体正史",
+    "structure": "50卷：纪8、列传42",
+    "reliability": "A",
+    "summary": "唐初李百药所撰北齐纪传体正史，保存东魏、北齐政治、军事、民族与制度史料。",
+    "game_use": "东魏北齐宫廷、六镇余绪、胡汉冲突、并州军事集团。",
+    "caveats": "北齐史料多经唐初整理，对高氏政权有道德化批评；需与《北史》《隋书》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/北齊書",
+      "kanripo": "https://github.com/kanripo/KR2a0021"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/beiqishu",
+      "volumes_available": 50,
+      "chars": 280614
+    },
+    "tags": [
+      "正史",
+      "北朝",
+      "北齐",
+      "东魏",
+      "胡汉"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "ZHOUSHU",
+    "type": "primary",
+    "priority": "core",
+    "title": "周书",
+    "title_trad": "周書",
+    "title_en": "Book of Zhou",
+    "aliases": [
+      "令狐德棻周书",
+      "Zhou Shu",
+      "北周书"
+    ],
+    "authors": [
+      {
+        "name": "令狐德棻等",
+        "dates": "唐初",
+        "role": "撰"
+      }
+    ],
+    "date": "636",
+    "periods": [
+      "北朝"
+    ],
+    "cover_start": 535,
+    "cover_end": 581,
+    "genre": "纪传体正史",
+    "structure": "50卷：纪8、列传42",
+    "reliability": "A",
+    "summary": "唐初官修西魏、北周纪传体正史，保存宇文泰集团、府兵制、关陇集团形成的重要史料。",
+    "game_use": "西魏北周改革、府兵制、关陇集团、北周灭齐。",
+    "caveats": "西魏部分较简；北周政治多经唐初史臣剪裁，需与《北史》《隋书》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/周書",
+      "kanripo": "https://github.com/kanripo/KR2a0022"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/zhoushu",
+      "volumes_available": 50,
+      "chars": 455915
+    },
+    "tags": [
+      "正史",
+      "北朝",
+      "西魏",
+      "北周",
+      "府兵制"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "CHENSHU",
+    "type": "primary",
+    "priority": "core",
+    "title": "陈书",
+    "title_trad": "陳書",
+    "title_en": "Book of Chen",
+    "aliases": [
+      "姚思廉陈书",
+      "Chen Shu"
+    ],
+    "authors": [
+      {
+        "name": "姚思廉",
+        "dates": "557–637",
+        "role": "撰"
+      }
+    ],
+    "date": "636",
+    "periods": [
+      "南朝"
+    ],
+    "cover_start": 557,
+    "cover_end": 589,
+    "genre": "纪传体正史",
+    "structure": "36卷：纪6、列传30",
+    "reliability": "A",
+    "summary": "南朝陈纪传体正史，篇幅最短，保存陈朝政治、军事与南方社会史料。",
+    "game_use": "南朝末期、陈隋对峙、江南地方势力。",
+    "caveats": "陈朝史料本少，列传多简；需与《南史》《隋书》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/陳書",
+      "kanripo": "https://github.com/kanripo/KR2a0019"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/chenshu",
+      "volumes_available": 36,
+      "chars": 237436
+    },
+    "tags": [
+      "正史",
+      "南朝",
+      "陈",
+      "江南"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "SUISHU",
+    "type": "primary",
+    "priority": "core",
+    "title": "隋书",
+    "title_trad": "隋書",
+    "title_en": "Book of Sui",
+    "aliases": [
+      "魏征隋书",
+      "Sui Shu"
+    ],
+    "authors": [
+      {
+        "name": "魏征等",
+        "dates": "唐初",
+        "role": "撰"
+      }
+    ],
+    "date": "636",
+    "periods": [
+      "隋",
+      "南朝",
+      "北朝"
+    ],
+    "cover_start": 581,
+    "cover_end": 618,
+    "genre": "纪传体正史",
+    "structure": "85卷：纪5、志30、列传50",
+    "reliability": "A",
+    "summary": "唐初官修隋史，含帝纪、列传、十志。十志保存梁、陈、北齐、北周、隋五代制度，是研究中古制度的核心。",
+    "game_use": "隋统一、科举、官制、刑法、地理、音乐、对外关系。",
+    "caveats": "编纂目的在鉴戒，叙事有强烈政治训诫；隋末群雄需与两《唐书》《资治通鉴》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/隋書",
+      "kanripo": "https://github.com/kanripo/KR2a0023"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/suishu",
+      "volumes_available": 85,
+      "chars": 918351
+    },
+    "tags": [
+      "正史",
+      "隋",
+      "制度",
+      "统一",
+      "对外关系"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "DATANGCHUANGYEQIJUZHU",
+    "type": "primary",
+    "priority": "core",
+    "title": "大唐创业起居注",
+    "title_trad": "大唐創業起居注",
+    "title_en": "Diary of the Founding of the Great Tang",
+    "aliases": [
+      "温大雅大唐创业起居注",
+      "Datang Chuangye Qijuzhu"
+    ],
+    "authors": [
+      {
+        "name": "温大雅",
+        "dates": "唐初",
+        "role": "撰"
+      }
+    ],
+    "date": "约618",
+    "periods": [
+      "隋",
+      "初唐"
+    ],
+    "cover_start": 617,
+    "cover_end": 618,
+    "genre": "起居注",
+    "structure": "3卷",
+    "reliability": "A",
+    "summary": "李渊起兵建唐的起居注，记晋阳起兵、入关中、建唐过程，是最接近现场的第一手史料。",
+    "game_use": "设计晋阳起兵、李渊集团、隋末群雄、建国叙事。",
+    "caveats": "温大雅为李渊近臣，叙事有美化；与两《唐书》《资治通鉴》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/大唐創業起居注",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=大唐創業起居注"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/datangchuangyeqijuzhu",
+      "volumes_available": 3,
+      "chars": 26771
+    },
+    "tags": [
+      "起居注",
+      "唐初",
+      "建国",
+      "李渊"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "TANGHUIYAO",
+    "type": "primary",
+    "priority": "core",
+    "title": "唐会要",
+    "title_trad": "唐會要",
+    "title_en": "Institutional History of Tang",
+    "aliases": [
+      "王溥唐会要",
+      "Tang Huiyao"
+    ],
+    "authors": [
+      {
+        "name": "王溥",
+        "dates": "919–982",
+        "role": "撰"
+      }
+    ],
+    "date": "961",
+    "periods": [
+      "初唐",
+      "盛唐",
+      "中唐",
+      "晚唐",
+      "五代"
+    ],
+    "cover_start": 618,
+    "cover_end": 907,
+    "genre": "会要体政书",
+    "structure": "100卷，分类记唐代制度与政事",
+    "reliability": "A/B",
+    "summary": "分类汇编唐代制度、政令、事件，保存大量诏令、奏议、制度沿革，是唐史研究的资料库。",
+    "game_use": "按主题查唐代官制、礼仪、选举、藩镇、民族、灾害、法律。",
+    "caveats": "分类编排，需按主题检索；部分条目与正史有出入。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/唐會要",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=唐會要"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/tanghuiyao",
+      "volumes_available": 100,
+      "chars": 1004654
+    },
+    "tags": [
+      "政书",
+      "唐",
+      "制度",
+      "诏令",
+      "藩镇"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "TANGDAZHAOLINGJI",
+    "type": "primary",
+    "priority": "core",
+    "title": "唐大诏令集",
+    "title_trad": "唐大詔令集",
+    "title_en": "Great Edicts of Tang",
+    "aliases": [
+      "宋敏求唐大诏令集",
+      "Tang Dazhaoling Ji"
+    ],
+    "authors": [
+      {
+        "name": "宋敏求",
+        "dates": "1019–1079",
+        "role": "编"
+      }
+    ],
+    "date": "1070",
+    "periods": [
+      "初唐",
+      "盛唐",
+      "中唐",
+      "晚唐"
+    ],
+    "cover_start": 618,
+    "cover_end": 907,
+    "genre": "诏令汇编",
+    "structure": "130卷，分类收唐代诏令、册文、赦文",
+    "reliability": "A/B",
+    "summary": "唐代诏令、册文、赦文、制诰的分类汇编，保存大量正史未收的原始政治文本。",
+    "game_use": "设计诏书、册封、赦免、政策发布、政治合法性。",
+    "caveats": "今本有缺卷；诏令多经润色，需注意发布背景。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/唐大詔令集"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "诏令",
+      "唐",
+      "政治",
+      "文书"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "TANGLVSHUYI",
+    "type": "primary",
+    "priority": "core",
+    "title": "唐律疏议",
+    "title_trad": "唐律疏議",
+    "title_en": "Tang Code with Commentary",
+    "aliases": [
+      "唐律",
+      "Tanglü Shuyi"
+    ],
+    "authors": [
+      {
+        "name": "长孙无忌等",
+        "dates": "唐高宗朝",
+        "role": "撰"
+      }
+    ],
+    "date": "653",
+    "periods": [
+      "初唐",
+      "盛唐",
+      "中唐",
+      "晚唐"
+    ],
+    "cover_start": 618,
+    "cover_end": 907,
+    "genre": "法典与律学",
+    "structure": "30卷，12篇502条",
+    "reliability": "A",
+    "summary": "唐律及其官方疏议，保存唐代法律体系、量刑原则、社会等级与家庭制度。",
+    "game_use": "设计法律、审判、身份、婚姻、财产、刑罚系统。",
+    "caveats": "法律文本不等于司法实践；需结合判例、墓志、笔记。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/唐律疏議",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=唐律疏議"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/tanglushuyi",
+      "volumes_available": 30,
+      "chars": 280335
+    },
+    "tags": [
+      "法律",
+      "唐",
+      "社会",
+      "身份",
+      "刑罚"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "TANGZHIYAN",
+    "type": "primary",
+    "priority": "core",
+    "title": "唐摭言",
+    "title_trad": "唐摭言",
+    "title_en": "Gleanings on Tang",
+    "aliases": [
+      "王定保唐摭言",
+      "Tang Zhiyan"
+    ],
+    "authors": [
+      {
+        "name": "王定保",
+        "dates": "五代",
+        "role": "撰"
+      }
+    ],
+    "date": "约940",
+    "periods": [
+      "唐",
+      "五代"
+    ],
+    "cover_start": 618,
+    "cover_end": 907,
+    "genre": "笔记",
+    "structure": "15卷",
+    "reliability": "B",
+    "summary": "唐代科举与士人笔记，记贡举、登第、宴集、行卷、座主门生，是科举社会史核心。",
+    "game_use": "设计科举、士人网络、行卷、座主门生、长安社交。",
+    "caveats": "多记轶事，制度细节需与《唐六典》《唐会要》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/唐摭言",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=唐摭言"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/tangzhiyan",
+      "volumes_available": 15,
+      "chars": 79829
+    },
+    "tags": [
+      "笔记",
+      "科举",
+      "士人",
+      "唐"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "XINTANGSHU",
+    "type": "primary",
+    "priority": "core",
+    "title": "新唐书",
+    "title_trad": "新唐書",
+    "title_en": "New Book of Tang",
+    "aliases": [
+      "欧阳修新唐书",
+      "Xin Tang Shu"
+    ],
+    "authors": [
+      {
+        "name": "欧阳修",
+        "dates": "1007–1072",
+        "role": "撰"
+      },
+      {
+        "name": "宋祁",
+        "dates": "998–1061",
+        "role": "撰"
+      }
+    ],
+    "date": "1060",
+    "periods": [
+      "初唐",
+      "盛唐",
+      "中唐",
+      "晚唐",
+      "五代"
+    ],
+    "cover_start": 618,
+    "cover_end": 907,
+    "genre": "纪传体正史",
+    "structure": "225卷：纪10、志50、表15、列传150",
+    "reliability": "A/B",
+    "summary": "北宋重修唐史，志、表系统完整，文字简练，补充不少晚唐五代史料。",
+    "game_use": "制度、地理、宰相世系、方镇表；与《旧唐书》互补。",
+    "caveats": "欧阳修以春秋笔法删改，叙事有道德化倾向；与《旧唐书》对读，不可偏废。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/新唐書",
+      "kanripo": "https://github.com/kanripo/KR2a0027"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/xintangshu",
+      "volumes_available": 248,
+      "chars": 3067129
+    },
+    "tags": [
+      "正史",
+      "唐",
+      "制度",
+      "地理",
+      "世系"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "JIUTANGSHU",
+    "type": "primary",
+    "priority": "core",
+    "title": "旧唐书",
+    "title_trad": "舊唐書",
+    "title_en": "Old Book of Tang",
+    "aliases": [
+      "刘昫旧唐书",
+      "Jiu Tang Shu"
+    ],
+    "authors": [
+      {
+        "name": "刘昫等",
+        "dates": "后晋",
+        "role": "撰"
+      }
+    ],
+    "date": "945",
+    "periods": [
+      "初唐",
+      "盛唐",
+      "中唐",
+      "晚唐",
+      "五代"
+    ],
+    "cover_start": 618,
+    "cover_end": 907,
+    "genre": "纪传体正史",
+    "structure": "200卷：纪20、志30、列传150",
+    "reliability": "A",
+    "summary": "后晋官修唐史，保存唐代原始文献、诏令、奏议较多，是中晚唐五代十国研究的基础史料。",
+    "game_use": "唐代人物、制度、藩镇、宦官、党争、安史之乱、黄巢之乱的主干史料。",
+    "caveats": "成书仓促，纪传之间时有矛盾；与《新唐书》《资治通鉴》《唐会要》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/舊唐書",
+      "kanripo": "https://github.com/kanripo/KR2a0026"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/jiutangshu",
+      "volumes_available": 213,
+      "chars": 2423463
+    },
+    "tags": [
+      "正史",
+      "唐",
+      "中晚唐",
+      "藩镇",
+      "人物"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "ZHENGGUANZHENGYAO",
+    "type": "primary",
+    "priority": "core",
+    "title": "贞观政要",
+    "title_trad": "貞觀政要",
+    "title_en": "Essentials of Government of the Zhenguan Era",
+    "aliases": [
+      "吴兢贞观政要",
+      "Zhenguan Zhengyao"
+    ],
+    "authors": [
+      {
+        "name": "吴兢",
+        "dates": "670–749",
+        "role": "撰"
+      }
+    ],
+    "date": "约720",
+    "periods": [
+      "初唐"
+    ],
+    "cover_start": 626,
+    "cover_end": 649,
+    "genre": "政论、君臣问答",
+    "structure": "10卷40篇",
+    "reliability": "B",
+    "summary": "分类记唐太宗君臣论政，涉及君道、任贤、纳谏、俭约、教化、边防，是贞观政治的理想化记录。",
+    "game_use": "设计明君、谏臣、朝议、政策合法性、君臣关系。",
+    "caveats": "成书于玄宗朝，有政治教化目的；非现场实录，需与其他史书对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/貞觀政要",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=貞觀政要"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/zhenguanzhengyao",
+      "volumes_available": 10,
+      "chars": 89698
+    },
+    "tags": [
+      "初唐",
+      "政治",
+      "君臣",
+      "谏议"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "ANSHANSHIJI",
+    "type": "primary",
+    "priority": "core",
+    "title": "安禄山事迹",
+    "title_trad": "安祿山事跡",
+    "title_en": "Deeds of An Lushan",
+    "aliases": [
+      "姚汝能安禄山事迹",
+      "An Lushan Shiji"
+    ],
+    "authors": [
+      {
+        "name": "姚汝能",
+        "dates": "唐",
+        "role": "撰"
+      }
+    ],
+    "date": "约9世纪",
+    "periods": [
+      "盛唐",
+      "中唐"
+    ],
+    "cover_start": 703,
+    "cover_end": 761,
+    "genre": "专题史传",
+    "structure": "3卷",
+    "reliability": "A/B",
+    "summary": "安禄山专题史料，记其出身、崛起、范阳起兵、安史之乱过程，保存大量细节。",
+    "game_use": "设计安史之乱、范阳军、胡汉关系、边镇军政。",
+    "caveats": "成书较晚，采摭传闻；与两《唐书》《资治通鉴》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/安祿山事跡",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=安祿山事跡"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "安史之乱",
+      "藩镇",
+      "盛唐",
+      "中唐",
+      "民族"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "TANGLIUDIAN",
+    "type": "primary",
+    "priority": "core",
+    "title": "唐六典",
+    "title_trad": "唐六典",
+    "title_en": "Six Codes of Tang",
+    "aliases": [
+      "大唐六典",
+      "Tang Liudian"
+    ],
+    "authors": [
+      {
+        "name": "李林甫等",
+        "dates": "唐玄宗朝",
+        "role": "撰"
+      }
+    ],
+    "date": "738",
+    "periods": [
+      "盛唐"
+    ],
+    "cover_start": 713,
+    "cover_end": 741,
+    "genre": "官修行政法典",
+    "structure": "30卷，按三省六部九寺五监及地方官制编排",
+    "reliability": "A",
+    "summary": "唐代官修行政法典，详列三省六部、九寺五监、地方官制、品阶、职掌，是盛唐官制的基准。",
+    "game_use": "设计盛唐官僚体系、官职权限、品阶、考核、文书流程。",
+    "caveats": "成书于开元，不能直接套用于中晚唐；使职、藩镇、宦官机构需用《唐会要》《旧唐书·职官志》补。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/唐六典",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=唐六典"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/tangliudian",
+      "volumes_available": 30,
+      "chars": 253388
+    },
+    "tags": [
+      "官制",
+      "盛唐",
+      "行政",
+      "法典"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "FENGTIANLU",
+    "type": "primary",
+    "priority": "core",
+    "title": "奉天录",
+    "title_trad": "奉天錄",
+    "title_en": "Record of Fengtian",
+    "aliases": [
+      "赵元一奉天录",
+      "Fengtian Lu"
+    ],
+    "authors": [
+      {
+        "name": "赵元一",
+        "dates": "唐",
+        "role": "撰"
+      }
+    ],
+    "date": "约784",
+    "periods": [
+      "中唐"
+    ],
+    "cover_start": 783,
+    "cover_end": 784,
+    "genre": "专题史",
+    "structure": "4卷",
+    "reliability": "A/B",
+    "summary": "泾原兵变与德宗奉天蒙难的专题史料，记朱泚、李希烈、李晟、浑瑊等，细节丰富。",
+    "game_use": "设计京城兵变、皇帝流亡、藩镇忠诚、守城战。",
+    "caveats": "作者立场与传闻需辨析；与两《唐书》《资治通鉴》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/奉天錄",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=奉天錄"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/fengtianlu",
+      "volumes_available": 4,
+      "chars": 25314
+    },
+    "tags": [
+      "泾原兵变",
+      "中唐",
+      "德宗",
+      "藩镇",
+      "守城"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "SHUNZONGSHILU",
+    "type": "primary",
+    "priority": "core",
+    "title": "顺宗实录",
+    "title_trad": "順宗實錄",
+    "title_en": "Veritable Records of Emperor Shunzong",
+    "aliases": [
+      "韩愈顺宗实录",
+      "Shunzong Shilu"
+    ],
+    "authors": [
+      {
+        "name": "韩愈",
+        "dates": "768–824",
+        "role": "撰"
+      }
+    ],
+    "date": "约807–810",
+    "periods": [
+      "中唐"
+    ],
+    "cover_start": 805,
+    "cover_end": 805,
+    "genre": "实录",
+    "structure": "5卷",
+    "reliability": "A",
+    "summary": "唐顺宗朝实录，记永贞革新、王叔文集团、宦官与藩镇反应，是中唐政治转折的核心史料。",
+    "game_use": "设计永贞革新、宦官与士大夫冲突、短命改革。",
+    "caveats": "韩愈政治立场影响叙事；今本有残缺，需与两《唐书》《资治通鉴》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/順宗實錄",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=順宗實錄"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/shunzongshilu",
+      "volumes_available": 5,
+      "chars": 18315
+    },
+    "tags": [
+      "实录",
+      "中唐",
+      "永贞革新",
+      "宦官"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "RUTANGQIUFAXUNLIJINGJI",
+    "type": "primary",
+    "priority": "core",
+    "title": "入唐求法巡礼行记",
+    "title_trad": "入唐求法巡禮行記",
+    "title_en": "Record of a Pilgrimage to Tang in Search of the Dharma",
+    "aliases": [
+      "圆仁入唐求法巡礼行记",
+      "Ennin",
+      "Nittō Guhō Junrei Kōki"
+    ],
+    "authors": [
+      {
+        "name": "圆仁",
+        "dates": "794–864",
+        "role": "撰"
+      }
+    ],
+    "date": "838–847",
+    "periods": [
+      "中唐",
+      "晚唐"
+    ],
+    "cover_start": 838,
+    "cover_end": 847,
+    "genre": "旅行日记",
+    "structure": "4卷",
+    "reliability": "A",
+    "summary": "日本僧人圆仁入唐求法日记，记晚唐交通、寺院、官场、民生、会昌灭佛，是第一手社会史料。",
+    "game_use": "设计晚唐旅行、驿站、寺院、地方官、灭佛事件。",
+    "caveats": "个人见闻，地域有限；但细节极为珍贵。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/入唐求法巡禮行記",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=入唐求法巡禮行記"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/rutangqiufa",
+      "volumes_available": 4,
+      "chars": 105185
+    },
+    "tags": [
+      "日记",
+      "晚唐",
+      "交通",
+      "佛教",
+      "会昌灭佛"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "DONGQUANZOUJI",
+    "type": "primary",
+    "priority": "core",
+    "title": "东观奏记",
+    "title_trad": "東觀奏記",
+    "title_en": "Memorials from the Eastern Pavilion",
+    "aliases": [
+      "裴庭裕东观奏记",
+      "Dongguan Zouji"
+    ],
+    "authors": [
+      {
+        "name": "裴庭裕",
+        "dates": "唐",
+        "role": "撰"
+      }
+    ],
+    "date": "约9世纪末",
+    "periods": [
+      "晚唐"
+    ],
+    "cover_start": 847,
+    "cover_end": 859,
+    "genre": "编年史",
+    "structure": "3卷",
+    "reliability": "A/B",
+    "summary": "唐宣宗朝编年史，记大中年间政治、官场、宦官、藩镇，是晚唐政治的核心史料。",
+    "game_use": "设计大中中兴、晚唐宫廷、宦官与宰相、藩镇关系。",
+    "caveats": "作者为宣宗朝史官，叙事有回护；与两《唐书》《资治通鉴》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/東觀奏記",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=東觀奏記"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "编年",
+      "晚唐",
+      "宣宗",
+      "宦官",
+      "藩镇"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "BEIMENGSUOYAN",
+    "type": "primary",
+    "priority": "core",
+    "title": "北梦琐言",
+    "title_trad": "北夢瑣言",
+    "title_en": "Trifling Tales from the North",
+    "aliases": [
+      "孙光宪北梦琐言",
+      "Beimeng Suoyan"
+    ],
+    "authors": [
+      {
+        "name": "孙光宪",
+        "dates": "900–968",
+        "role": "撰"
+      }
+    ],
+    "date": "约10世纪中叶",
+    "periods": [
+      "晚唐",
+      "五代",
+      "十国"
+    ],
+    "cover_start": 850,
+    "cover_end": 960,
+    "genre": "笔记",
+    "structure": "20卷",
+    "reliability": "B",
+    "summary": "晚唐五代笔记，记政治、人物、文学、社会、十国见闻，是五代十国史的重要补充。",
+    "game_use": "设计晚唐五代人物、藩镇、十国、士人流动。",
+    "caveats": "作者为十国官员，立场与见闻有限；与正史对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/北夢瑣言",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=北夢瑣言"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/beimengsuoyan",
+      "volumes_available": 20,
+      "chars": 82643
+    },
+    "tags": [
+      "笔记",
+      "晚唐",
+      "五代",
+      "十国"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "SHIGUOCHUNQIU",
+    "type": "primary",
+    "priority": "core",
+    "title": "十国春秋",
+    "title_trad": "十國春秋",
+    "title_en": "Spring and Autumn of the Ten Kingdoms",
+    "aliases": [
+      "吴任臣十国春秋",
+      "Shiguo Chunqiu"
+    ],
+    "authors": [
+      {
+        "name": "吴任臣",
+        "dates": "清",
+        "role": "撰"
+      }
+    ],
+    "date": "1670",
+    "periods": [
+      "五代",
+      "十国"
+    ],
+    "cover_start": 902,
+    "cover_end": 979,
+    "genre": "纪传体专史",
+    "structure": "114卷",
+    "reliability": "B/C",
+    "summary": "清代十国专史，合《旧五代史》《新五代史》《九国志》《南唐书》等，是十国最系统的参考书。",
+    "game_use": "十国政权、君主、人物、制度、地理的快速索引。",
+    "caveats": "清人编纂，史料来源与考订需核查；不可替代原始文献。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/十國春秋",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=十國春秋"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/shiguochunqiu",
+      "volumes_available": 114,
+      "chars": 761454,
+      "note": "全 114 卷已入库，约 76.1 万字；转写自 Wikisource 渲染页面。"
+    },
+    "tags": [
+      "十国",
+      "五代",
+      "专史",
+      "人物"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "WUDAIHUIYAO",
+    "type": "primary",
+    "priority": "core",
+    "title": "五代会要",
+    "title_trad": "五代會要",
+    "title_en": "Institutional History of the Five Dynasties",
+    "aliases": [
+      "王溥五代会要",
+      "Wudai Huiyao"
+    ],
+    "authors": [
+      {
+        "name": "王溥",
+        "dates": "919–982",
+        "role": "撰"
+      }
+    ],
+    "date": "961",
+    "periods": [
+      "五代",
+      "十国"
+    ],
+    "cover_start": 907,
+    "cover_end": 960,
+    "genre": "会要体政书",
+    "structure": "30卷，分类记五代制度与政事",
+    "reliability": "A/B",
+    "summary": "分类汇编五代制度、政令、事件，是五代十国制度史的基础史料。",
+    "game_use": "五代官制、财政、刑法、礼制、民族、对外关系。",
+    "caveats": "篇幅有限，十国制度多缺；与《旧五代史》《新五代史》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/五代會要",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=五代會要"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/wudaihuiyao",
+      "volumes_available": 30,
+      "chars": 208083
+    },
+    "tags": [
+      "政书",
+      "五代",
+      "十国",
+      "制度"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "WUYUEBEISHI",
+    "type": "primary",
+    "priority": "core",
+    "title": "吴越备史",
+    "title_trad": "吳越備史",
+    "title_en": "Complete History of Wuyue",
+    "aliases": [
+      "钱俨吴越备史",
+      "Wuyue Beishi"
+    ],
+    "authors": [
+      {
+        "name": "钱俨",
+        "dates": "北宋",
+        "role": "撰"
+      }
+    ],
+    "date": "约10世纪末",
+    "periods": [
+      "五代",
+      "十国"
+    ],
+    "cover_start": 907,
+    "cover_end": 978,
+    "genre": "编年体专史",
+    "structure": "4卷",
+    "reliability": "B",
+    "summary": "吴越国编年史，记钱氏三世五王、政治、外交、水利、佛教。",
+    "game_use": "吴越国、杭州、水利、海贸、保境安民。",
+    "caveats": "钱氏后人所撰，美化明显；与《旧五代史》《新五代史》《十国春秋》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/吳越備史",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=吳越備史"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/wuyuebeishi",
+      "volumes_available": 4,
+      "chars": 56651
+    },
+    "tags": [
+      "吴越",
+      "十国",
+      "编年",
+      "水利"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "XINWUDAISHI",
+    "type": "primary",
+    "priority": "core",
+    "title": "新五代史",
+    "title_trad": "新五代史",
+    "title_en": "New History of the Five Dynasties",
+    "aliases": [
+      "欧阳修新五代史",
+      "Xin Wu Dai Shi"
+    ],
+    "authors": [
+      {
+        "name": "欧阳修",
+        "dates": "1007–1072",
+        "role": "撰"
+      }
+    ],
+    "date": "1053",
+    "periods": [
+      "五代",
+      "十国"
+    ],
+    "cover_start": 907,
+    "cover_end": 960,
+    "genre": "纪传体正史",
+    "structure": "74卷：本纪12、列传45、考3、世家及年谱11、四夷附录3",
+    "reliability": "A/B",
+    "summary": "欧阳修私修五代史，义例严谨，文字简省，附《十国世家》《四夷附录》。",
+    "game_use": "五代十国政治伦理、政权合法性、士人评价；与旧史互补。",
+    "caveats": "删削大量史实，褒贬强烈；与《旧五代史》《资治通鉴》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/新五代史",
+      "kanripo": "https://github.com/kanripo/KR2a0030"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/xinwudaishi",
+      "volumes_available": 74,
+      "chars": 401615
+    },
+    "tags": [
+      "正史",
+      "五代",
+      "十国",
+      "正统",
+      "士人"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "XUWUDAISHI",
+    "type": "primary",
+    "priority": "core",
+    "title": "新五代史",
+    "title_trad": "新五代史",
+    "title_en": "New History of the Five Dynasties",
+    "aliases": [
+      "五代史记",
+      "欧阳修新五代史"
+    ],
+    "authors": [
+      {
+        "name": "欧阳修",
+        "dates": "1007–1072",
+        "role": "撰"
+      }
+    ],
+    "date": "约1053",
+    "periods": [
+      "五代",
+      "十国",
+      "宋初"
+    ],
+    "cover_start": 907,
+    "cover_end": 960,
+    "genre": "纪传体正史",
+    "structure": "74卷",
+    "reliability": "A",
+    "summary": "欧阳修私修的五代史，以《春秋》笔法褒贬人物，本纪简略而列传、世家、附录详于十国与契丹。",
+    "game_use": "五代十国人物评价、政权合法性、契丹关系与十国世家。",
+    "caveats": "欧阳修重书法褒贬，叙事简省，部分细节不及《旧五代史》；应与《旧五代史》《资治通鉴》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/新五代史",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=新五代史"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "五代",
+      "十国",
+      "正史",
+      "欧阳修"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "JIUWUDAISHI",
+    "type": "primary",
+    "priority": "core",
+    "title": "旧五代史",
+    "title_trad": "舊五代史",
+    "title_en": "Old History of the Five Dynasties",
+    "aliases": [
+      "薛居正旧五代史",
+      "Jiu Wu Dai Shi"
+    ],
+    "authors": [
+      {
+        "name": "薛居正等",
+        "dates": "北宋初",
+        "role": "撰"
+      }
+    ],
+    "date": "974",
+    "periods": [
+      "五代",
+      "十国"
+    ],
+    "cover_start": 907,
+    "cover_end": 960,
+    "genre": "纪传体正史",
+    "structure": "150卷：梁唐晋汉周书及世袭、外国、志",
+    "reliability": "A",
+    "summary": "北宋初官修五代史，保存五代十国原始史料较多，列传、志、考系统。",
+    "game_use": "五代政权更替、十国世袭、牙兵、藩镇、契丹关系。",
+    "caveats": "今本为清人辑佚，非完全原貌；与《新五代史》《资治通鉴》《五代会要》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/舊五代史",
+      "kanripo": "https://github.com/kanripo/KR2a0029"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/jiuwudaishi",
+      "volumes_available": 150,
+      "chars": 869908
+    },
+    "tags": [
+      "正史",
+      "五代",
+      "十国",
+      "藩镇",
+      "牙兵"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "LIAOSHI",
+    "type": "primary",
+    "priority": "core",
+    "title": "辽史",
+    "title_trad": "遼史",
+    "title_en": "History of Liao",
+    "aliases": [
+      "脱脱辽史"
+    ],
+    "authors": [
+      {
+        "name": "脱脱等",
+        "dates": "1314–1356",
+        "role": "修"
+      }
+    ],
+    "date": "1344",
+    "periods": [
+      "五代",
+      "宋"
+    ],
+    "cover_start": 907,
+    "cover_end": 1125,
+    "genre": "纪传体正史",
+    "structure": "116卷",
+    "reliability": "A",
+    "summary": "元修辽史，记契丹建国、燕云十六州、辽晋关系与辽宋和战，是契丹史的核心正史。",
+    "game_use": "契丹建国、燕云十六州、辽灭后晋、辽宋战争。",
+    "caveats": "成书仓促，史料残缺，纪年与人物名号偶有混乱；需与《旧五代史》《新五代史》《宋史》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/遼史",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=遼史"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "辽",
+      "契丹",
+      "正史",
+      "燕云十六州"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "NANTANGSHU_LU",
+    "type": "primary",
+    "priority": "core",
+    "title": "南唐书（陆游）",
+    "title_trad": "南唐書（陸游）",
+    "title_en": "Book of Southern Tang (Lu You)",
+    "aliases": [
+      "陆游南唐书",
+      "Lu You Nantang Shu"
+    ],
+    "authors": [
+      {
+        "name": "陆游",
+        "dates": "1125–1210",
+        "role": "撰"
+      }
+    ],
+    "date": "约1180",
+    "periods": [
+      "五代",
+      "十国"
+    ],
+    "cover_start": 937,
+    "cover_end": 975,
+    "genre": "纪传体专史",
+    "structure": "18卷",
+    "reliability": "B",
+    "summary": "南宋陆游所撰南唐史，文字简练，考订较精，与马令书互补。",
+    "game_use": "南唐政治、人物、文学、亡国叙事。",
+    "caveats": "南宋立场与正统观；与马令书、正史对读。",
+    "links": {
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=南唐書"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "南唐",
+      "十国",
+      "专史",
+      "亡国"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "NANTANGSHU_MA",
+    "type": "primary",
+    "priority": "core",
+    "title": "南唐书（马令）",
+    "title_trad": "南唐書（馬令）",
+    "title_en": "Book of Southern Tang (Ma Ling)",
+    "aliases": [
+      "马令南唐书",
+      "Ma Ling Nantang Shu"
+    ],
+    "authors": [
+      {
+        "name": "马令",
+        "dates": "北宋",
+        "role": "撰"
+      }
+    ],
+    "date": "约1105",
+    "periods": [
+      "五代",
+      "十国"
+    ],
+    "cover_start": 937,
+    "cover_end": 975,
+    "genre": "纪传体专史",
+    "structure": "30卷",
+    "reliability": "B",
+    "summary": "北宋马令所撰南唐史，记南唐三代、制度、人物、文学。",
+    "game_use": "南唐政治、君臣、文学、江淮地理。",
+    "caveats": "成书较早，保存史料多，但有褒贬；与陆游《南唐书》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/南唐書",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=南唐書"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "南唐",
+      "十国",
+      "专史",
+      "文学"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "SONGSHI",
+    "type": "primary",
+    "priority": "core",
+    "title": "宋史",
+    "title_trad": "宋史",
+    "title_en": "History of Song",
+    "aliases": [
+      "脱脱宋史"
+    ],
+    "authors": [
+      {
+        "name": "脱脱等",
+        "dates": "1314–1356",
+        "role": "修"
+      }
+    ],
+    "date": "1345",
+    "periods": [
+      "宋初",
+      "宋"
+    ],
+    "cover_start": 960,
+    "cover_end": 1279,
+    "genre": "纪传体正史",
+    "structure": "496卷",
+    "reliability": "A",
+    "summary": "元修宋史，卷帙浩繁，含本纪、志、表、列传，是宋初统一战争与五代末政治的基础史料。",
+    "game_use": "宋初统一、陈桥兵变、杯酒释兵权、十国归附与宋辽关系。",
+    "caveats": "元人仓促成书，记事偶有重复、矛盾；宋初部分多沿袭宋朝国史，需与《续资治通鉴长编》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/宋史",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=宋史"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "宋初",
+      "北宋",
+      "正史",
+      "统一战争"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "WENXUAN",
+    "type": "primary",
+    "priority": "extended",
+    "title": "文选",
+    "title_trad": "文選",
+    "title_en": "Selections of Refined Literature",
+    "aliases": [
+      "昭明文选",
+      "萧统文选",
+      "Wenxuan"
+    ],
+    "authors": [
+      {
+        "name": "萧统",
+        "dates": "501–531",
+        "role": "编"
+      }
+    ],
+    "date": "约526–531",
+    "periods": [
+      "先秦",
+      "两汉",
+      "三国",
+      "两晋",
+      "南朝"
+    ],
+    "cover_start": -300,
+    "cover_end": 531,
+    "genre": "诗文总集",
+    "structure": "30卷（李善注本60卷）",
+    "reliability": "C",
+    "summary": "中国现存最早诗文总集，收赋、诗、诏、表、书、序、碑等，是六朝文学与士人文化的基础。",
+    "game_use": "设计语言风格、礼仪文书、士人交往、文学事件。",
+    "caveats": "文学选本，非史料汇编；可作语言、礼仪、社交、审美参考。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/文選",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=文選"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "总集",
+      "六朝",
+      "文学",
+      "礼仪"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "QUANSHANGGU",
+    "type": "primary",
+    "priority": "extended",
+    "title": "全上古三代秦汉三国六朝文",
+    "title_trad": "全上古三代秦漢三國六朝文",
+    "title_en": "Complete Prose of Antiquity through the Six Dynasties",
+    "aliases": [
+      "全上古三代文",
+      "严可均全上古",
+      "Quan Shanggu"
+    ],
+    "authors": [
+      {
+        "name": "严可均",
+        "dates": "1762–1843",
+        "role": "编"
+      }
+    ],
+    "date": "1836",
+    "periods": [
+      "东汉末",
+      "三国",
+      "两晋",
+      "南朝",
+      "北朝"
+    ],
+    "cover_start": -221,
+    "cover_end": 589,
+    "genre": "文章总集",
+    "structure": "746卷",
+    "reliability": "C",
+    "summary": "清代先秦至隋文章总集，辑录大量散佚文章、诏令、碑志、书信，是六朝史料辑佚的重要来源。",
+    "game_use": "查找六朝人物佚文、诏令、碑志、书信、地方记载。",
+    "caveats": "辑佚与归属有误；需查原始出处与现代补编。",
+    "links": {
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=全上古三代秦漢三國六朝文"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "总集",
+      "六朝",
+      "辑佚",
+      "碑志"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "CEFUYUANGUI",
+    "type": "primary",
+    "priority": "extended",
+    "title": "册府元龟",
+    "title_trad": "冊府元龜",
+    "title_en": "Prime Tortoise of the Record Bureau",
+    "aliases": [
+      "册府元龟",
+      "Cefu Yuangui"
+    ],
+    "authors": [
+      {
+        "name": "王钦若等",
+        "dates": "北宋",
+        "role": "编"
+      }
+    ],
+    "date": "1013",
+    "periods": [
+      "跨期",
+      "唐",
+      "五代"
+    ],
+    "cover_start": -221,
+    "cover_end": 960,
+    "genre": "类书",
+    "structure": "1000卷，31部，1104门",
+    "reliability": "C",
+    "summary": "北宋大型类书，分类辑录历代君臣事迹、制度、政令，保存大量佚书与唐五代史料。",
+    "game_use": "检索唐五代人物、政事、制度、边疆的轶文；适合补细节。",
+    "caveats": "类书转引，文字有删改；需查原始出处。",
+    "links": {
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=冊府元龜"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "类书",
+      "唐",
+      "五代",
+      "辑佚"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "TAIPINGYULAN",
+    "type": "primary",
+    "priority": "extended",
+    "title": "太平御览",
+    "title_trad": "太平御覽",
+    "title_en": "Imperial Reader of the Taiping Era",
+    "aliases": [
+      "太平御览",
+      "Taiping Yulan"
+    ],
+    "authors": [
+      {
+        "name": "李昉等",
+        "dates": "北宋",
+        "role": "编"
+      }
+    ],
+    "date": "984",
+    "periods": [
+      "跨期",
+      "唐",
+      "五代"
+    ],
+    "cover_start": -221,
+    "cover_end": 960,
+    "genre": "类书",
+    "structure": "1000卷，55部",
+    "reliability": "C",
+    "summary": "北宋类书，分类辑录经史子集，保存大量佚书，是唐五代史料辑佚的重要来源。",
+    "game_use": "检索制度、风俗、器物、地理、异闻的早期记载。",
+    "caveats": "转引删改，需核对原文；不能直接当作原始史料。",
+    "links": {
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=太平御覽"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "类书",
+      "辑佚",
+      "风俗",
+      "地理"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "YUEFUSHIJI",
+    "type": "primary",
+    "priority": "extended",
+    "title": "乐府诗集",
+    "title_trad": "樂府詩集",
+    "title_en": "Collection of Yuefu Poetry",
+    "aliases": [
+      "乐府诗集",
+      "Yuefu Shiji"
+    ],
+    "authors": [
+      {
+        "name": "郭茂倩",
+        "dates": "北宋",
+        "role": "编"
+      }
+    ],
+    "date": "约1080",
+    "periods": [
+      "东汉末",
+      "三国",
+      "两晋",
+      "南朝",
+      "北朝",
+      "唐",
+      "五代"
+    ],
+    "cover_start": 25,
+    "cover_end": 960,
+    "genre": "诗歌总集",
+    "structure": "100卷，12类",
+    "reliability": "C",
+    "summary": "汉至唐乐府诗总集，保存大量民歌、军乐、宫廷乐章，反映社会与军事生活。",
+    "game_use": "设计军乐、民歌、宫廷仪式、战争氛围、语言风格。",
+    "caveats": "文学总集，不作史实直接依据；可作氛围、语言、仪式参考。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/樂府詩集",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=樂府詩集"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "总集",
+      "乐府",
+      "文学",
+      "军乐"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "CHUSANZANGJIJI",
+    "type": "primary",
+    "priority": "extended",
+    "title": "出三藏记集",
+    "title_trad": "出三藏記集",
+    "title_en": "Collection of Records on the Translation of the Tripitaka",
+    "aliases": [
+      "僧祐出三藏记集",
+      "Chu Sanzang Jiji"
+    ],
+    "authors": [
+      {
+        "name": "僧祐",
+        "dates": "445–518",
+        "role": "撰"
+      }
+    ],
+    "date": "约515",
+    "periods": [
+      "东汉末",
+      "两晋",
+      "南朝"
+    ],
+    "cover_start": 67,
+    "cover_end": 518,
+    "genre": "佛经目录、译经史",
+    "structure": "15卷",
+    "reliability": "A/B",
+    "summary": "早期佛经目录与译经史，记译者、译场、经目、序跋，是佛教文献学与中外交流史的核心。",
+    "game_use": "设计译经、外来僧侣、佛经传播、中外交流。",
+    "caveats": "目录学著作，需注意经目真伪与归属。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/出三藏記集",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=出三藏記集"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "佛教",
+      "目录",
+      "译经",
+      "中外交流"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "HONGMINGJI",
+    "type": "primary",
+    "priority": "extended",
+    "title": "弘明集",
+    "title_trad": "弘明集",
+    "title_en": "Collection for the Propagation and Clarification of Buddhism",
+    "aliases": [
+      "僧祐弘明集",
+      "Hongming Ji"
+    ],
+    "authors": [
+      {
+        "name": "僧祐",
+        "dates": "445–518",
+        "role": "编"
+      }
+    ],
+    "date": "约510",
+    "periods": [
+      "东汉末",
+      "两晋",
+      "南朝"
+    ],
+    "cover_start": 67,
+    "cover_end": 518,
+    "genre": "佛教论辩文献",
+    "structure": "14卷",
+    "reliability": "A/B",
+    "summary": "六朝佛教论辩文献汇编，收牟子《理惑论》、范缜《神灭论》等，反映佛教与中国思想的冲突融合。",
+    "game_use": "设计宗教论辩、士人信仰、佛道冲突、思想事件。",
+    "caveats": "护法立场，论辩对手言论多经转引；需注意文本形成过程。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/弘明集",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=弘明集"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "佛教",
+      "论辩",
+      "六朝",
+      "思想"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "GAOSENGZHUAN",
+    "type": "primary",
+    "priority": "extended",
+    "title": "高僧传",
+    "title_trad": "高僧傳",
+    "title_en": "Biographies of Eminent Monks",
+    "aliases": [
+      "慧皎高僧传",
+      "Gaoseng Zhuan"
+    ],
+    "authors": [
+      {
+        "name": "慧皎",
+        "dates": "497–554",
+        "role": "撰"
+      }
+    ],
+    "date": "519",
+    "periods": [
+      "东汉末",
+      "三国",
+      "两晋",
+      "南朝"
+    ],
+    "cover_start": 67,
+    "cover_end": 519,
+    "genre": "佛教传记",
+    "structure": "14卷，10科",
+    "reliability": "B",
+    "summary": "梁代高僧传记，分译经、义解、神异、习禅、明律、亡身、诵经、兴福、经师、唱导十科，保存佛教史。",
+    "game_use": "设计寺院、僧侣、译经、宗教网络、神异事件。",
+    "caveats": "宗教传记，神异成分多；历史信息需与正史、碑刻对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/高僧傳",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=高僧傳"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "佛教",
+      "传记",
+      "六朝",
+      "寺院",
+      "译经"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "SOUSHENJI",
+    "type": "primary",
+    "priority": "extended",
+    "title": "搜神记",
+    "title_trad": "搜神記",
+    "title_en": "In Search of the Supernatural",
+    "aliases": [
+      "干宝搜神记",
+      "Soushen Ji"
+    ],
+    "authors": [
+      {
+        "name": "干宝",
+        "dates": "东晋",
+        "role": "撰"
+      }
+    ],
+    "date": "约4世纪",
+    "periods": [
+      "东汉末",
+      "三国",
+      "西晋",
+      "东晋"
+    ],
+    "cover_start": 184,
+    "cover_end": 350,
+    "genre": "志怪小说",
+    "structure": "20卷，今本辑本",
+    "reliability": "B/F",
+    "summary": "志怪小说集，保存汉魏六朝鬼神、灾异、民俗、地方传说，是宗教与民间文化史料。",
+    "game_use": "设计志怪事件、民间信仰、灾异、传奇任务。",
+    "caveats": "志怪，非史实；可作文化氛围与叙事母题，不可作事实依据。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/搜神記",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=搜神記"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "志怪",
+      "民间信仰",
+      "六朝",
+      "叙事"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "JIANKANGSHILU",
+    "type": "primary",
+    "priority": "extended",
+    "title": "建康实录",
+    "title_trad": "建康實錄",
+    "title_en": "Veritable Records of Jiankang",
+    "aliases": [
+      "许嵩建康实录",
+      "Jiankang Shilu"
+    ],
+    "authors": [
+      {
+        "name": "许嵩",
+        "dates": "唐",
+        "role": "撰"
+      }
+    ],
+    "date": "约756–779",
+    "periods": [
+      "三国",
+      "东晋",
+      "南朝"
+    ],
+    "cover_start": 229,
+    "cover_end": 589,
+    "genre": "编年体地方史",
+    "structure": "20卷",
+    "reliability": "B",
+    "summary": "六朝建康编年史，记吴、东晋、宋、齐、梁、陈都城建康的政权更替、宫室、人物。",
+    "game_use": "设计建康城、六朝宫廷、都城空间、政权更替。",
+    "caveats": "成书于唐，采摭杂史，需与正史对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/建康實錄",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=建康實錄"
+    },
+    "fulltext": {
+      "status": "partial",
+      "path": "texts/jiankangshilu",
+      "volumes_available": 13,
+      "chars": 259604,
+      "note": "已抓 13/20 卷，缺后 7 卷。"
+    },
+    "tags": [
+      "编年",
+      "建康",
+      "六朝",
+      "都城"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "SHILIUQUOCHUNQIU",
+    "type": "primary",
+    "priority": "extended",
+    "title": "十六国春秋",
+    "title_trad": "十六國春秋",
+    "title_en": "Spring and Autumn of the Sixteen Kingdoms",
+    "aliases": [
+      "崔鸿十六国春秋",
+      "Shiliu Guo Chunqiu"
+    ],
+    "authors": [
+      {
+        "name": "崔鸿",
+        "dates": "北魏",
+        "role": "撰"
+      }
+    ],
+    "date": "约500–525",
+    "periods": [
+      "十六国",
+      "东晋"
+    ],
+    "cover_start": 304,
+    "cover_end": 439,
+    "genre": "纪传体别史",
+    "structure": "原100卷，今有辑本",
+    "reliability": "B/C",
+    "summary": "北魏崔鸿所撰十六国史，原书散佚，今有辑本；是十六国政权的基本史料来源。",
+    "game_use": "十六国政权、君主、战争、民族迁徙的框架。",
+    "caveats": "辑本非原貌；《晋书·载记》《资治通鉴》保存其部分内容。",
+    "links": {
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=十六國春秋"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "别史",
+      "十六国",
+      "辑佚",
+      "民族"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "BAOPUZI",
+    "type": "primary",
+    "priority": "extended",
+    "title": "抱朴子",
+    "title_trad": "抱朴子",
+    "title_en": "Master Who Embraces Simplicity",
+    "aliases": [
+      "葛洪抱朴子",
+      "Baopuzi"
+    ],
+    "authors": [
+      {
+        "name": "葛洪",
+        "dates": "283–343",
+        "role": "撰"
+      }
+    ],
+    "date": "约4世纪",
+    "periods": [
+      "东晋"
+    ],
+    "cover_start": 317,
+    "cover_end": 343,
+    "genre": "道教、思想论著",
+    "structure": "内篇20卷、外篇50卷",
+    "reliability": "B",
+    "summary": "东晋葛洪所撰，内篇论神仙、炼丹、符箓，外篇论政治、社会、文学，是道教史与思想史核心。",
+    "game_use": "设计道教、炼丹、方术、隐士、山居、社会批评。",
+    "caveats": "宗教与方术内容多，非科学记载；外篇有社会史料。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/抱朴子",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=抱朴子"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "道教",
+      "炼丹",
+      "东晋",
+      "思想",
+      "方术"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "GUANGHONGMINGJI",
+    "type": "primary",
+    "priority": "extended",
+    "title": "广弘明集",
+    "title_trad": "廣弘明集",
+    "title_en": "Expanded Collection for the Propagation of Buddhism",
+    "aliases": [
+      "道宣广弘明集",
+      "Guang Hongming Ji"
+    ],
+    "authors": [
+      {
+        "name": "道宣",
+        "dates": "596–667",
+        "role": "编"
+      }
+    ],
+    "date": "664",
+    "periods": [
+      "南朝",
+      "北朝",
+      "隋",
+      "初唐"
+    ],
+    "cover_start": 420,
+    "cover_end": 664,
+    "genre": "佛教文献汇编",
+    "structure": "30卷",
+    "reliability": "A/B",
+    "summary": "续《弘明集》，收南北朝至唐佛教诏令、论辩、碑记、感应故事，保存政教关系史料。",
+    "game_use": "设计北朝灭佛、南朝佞佛、政教冲突、寺院经济。",
+    "caveats": "护法编纂，选材有立场；需与正史、诏令集对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/廣弘明集",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=廣弘明集"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "佛教",
+      "政教",
+      "南北朝",
+      "唐初",
+      "诏令"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "WENYUANYINGHUA",
+    "type": "primary",
+    "priority": "extended",
+    "title": "文苑英华",
+    "title_trad": "文苑英華",
+    "title_en": "Finest Blossoms in the Garden of Literature",
+    "aliases": [
+      "文苑英华",
+      "Wenyuan Yinghua"
+    ],
+    "authors": [
+      {
+        "name": "李昉等",
+        "dates": "北宋",
+        "role": "编"
+      }
+    ],
+    "date": "987",
+    "periods": [
+      "南朝",
+      "唐",
+      "五代"
+    ],
+    "cover_start": 420,
+    "cover_end": 960,
+    "genre": "诗文总集",
+    "structure": "1000卷",
+    "reliability": "C",
+    "summary": "北宋诗文总集，保存大量唐代诏诰、碑志、表奏、诗文，可补正史与文集之缺。",
+    "game_use": "查找碑志、表奏、诏诰、人物生平、文学语言。",
+    "caveats": "选本，非全集；文字有校改。",
+    "links": {
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=文苑英華"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "总集",
+      "唐",
+      "碑志",
+      "表奏"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "FAYUANZHULIN",
+    "type": "primary",
+    "priority": "extended",
+    "title": "法苑珠林",
+    "title_trad": "法苑珠林",
+    "title_en": "Forest of Pearls in the Dharma Garden",
+    "aliases": [
+      "道世法苑珠林",
+      "Fayuan Zhulin"
+    ],
+    "authors": [
+      {
+        "name": "道世",
+        "dates": "？–683",
+        "role": "撰"
+      }
+    ],
+    "date": "668",
+    "periods": [
+      "唐",
+      "南北朝"
+    ],
+    "cover_start": 420,
+    "cover_end": 668,
+    "genre": "佛教类书",
+    "structure": "100卷",
+    "reliability": "B/C",
+    "summary": "唐代佛教类书，分类辑录经律论、感应、因果、社会风俗，保存大量唐前佚书与民间信仰。",
+    "game_use": "设计因果报应、民间信仰、寺院生活、志怪事件。",
+    "caveats": "类书转引，宗教目的强；需查原始出处。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/法苑珠林",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=法苑珠林"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "佛教",
+      "类书",
+      "民间信仰",
+      "唐"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "YUTAIXINYONG",
+    "type": "primary",
+    "priority": "extended",
+    "title": "玉台新咏",
+    "title_trad": "玉臺新詠",
+    "title_en": "New Songs from the Jade Terrace",
+    "aliases": [
+      "徐陵玉台新咏",
+      "Yutai Xinyong"
+    ],
+    "authors": [
+      {
+        "name": "徐陵",
+        "dates": "507–583",
+        "role": "编"
+      }
+    ],
+    "date": "约6世纪中叶",
+    "periods": [
+      "南朝"
+    ],
+    "cover_start": 420,
+    "cover_end": 583,
+    "genre": "诗歌总集",
+    "structure": "10卷",
+    "reliability": "C",
+    "summary": "南朝艳情诗总集，保存梁陈宫体诗与女性题材，反映宫廷文化与性别观念。",
+    "game_use": "设计宫廷生活、女性人物、宴饮、情感表达、南朝审美。",
+    "caveats": "文学选本，题材狭窄；不可作社会史直接依据。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/玉臺新詠",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=玉臺新詠"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "总集",
+      "南朝",
+      "宫体诗",
+      "女性"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "XUGAOSENGZHUAN",
+    "type": "primary",
+    "priority": "extended",
+    "title": "续高僧传",
+    "title_trad": "續高僧傳",
+    "title_en": "Continued Biographies of Eminent Monks",
+    "aliases": [
+      "道宣续高僧传",
+      "Xu Gaoseng Zhuan"
+    ],
+    "authors": [
+      {
+        "name": "道宣",
+        "dates": "596–667",
+        "role": "撰"
+      }
+    ],
+    "date": "645",
+    "periods": [
+      "南朝",
+      "北朝",
+      "隋",
+      "初唐"
+    ],
+    "cover_start": 502,
+    "cover_end": 645,
+    "genre": "佛教传记",
+    "structure": "30卷",
+    "reliability": "B",
+    "summary": "续《高僧传》，记南北朝至唐初高僧，保存佛教宗派、寺院、译经、政教关系史料。",
+    "game_use": "设计南北朝至唐初佛教网络、寺院经济、政教关系。",
+    "caveats": "道宣为律宗高僧，立场鲜明；神异与感应故事需谨慎。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/續高僧傳",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=續高僧傳"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "佛教",
+      "传记",
+      "唐初",
+      "寺院",
+      "政教"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "JINLOUZI",
+    "type": "primary",
+    "priority": "extended",
+    "title": "金楼子",
+    "title_trad": "金樓子",
+    "title_en": "Master of the Golden Tower",
+    "aliases": [
+      "萧绎金楼子",
+      "Jinlouzi"
+    ],
+    "authors": [
+      {
+        "name": "萧绎",
+        "dates": "508–555",
+        "role": "撰"
+      }
+    ],
+    "date": "约6世纪中叶",
+    "periods": [
+      "南朝"
+    ],
+    "cover_start": 502,
+    "cover_end": 555,
+    "genre": "杂说、史论",
+    "structure": "14卷",
+    "reliability": "B",
+    "summary": "梁元帝萧绎所撰杂说、史论、家训、佛道论，反映南朝宗室文化、政治与思想。",
+    "game_use": "设计南朝宗室、文人皇帝、藏书、清谈、政治自辩。",
+    "caveats": "个人著作，带有政治自辩；部分内容散佚。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/金樓子",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=金樓子"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "杂说",
+      "南朝",
+      "宗室",
+      "文化"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "QUANTANGWEN",
+    "type": "primary",
+    "priority": "extended",
+    "title": "全唐文",
+    "title_trad": "全唐文",
+    "title_en": "Complete Prose of Tang",
+    "aliases": [
+      "全唐文",
+      "Quan Tang Wen"
+    ],
+    "authors": [
+      {
+        "name": "董诰等",
+        "dates": "清",
+        "role": "编"
+      }
+    ],
+    "date": "1814",
+    "periods": [
+      "唐",
+      "五代"
+    ],
+    "cover_start": 618,
+    "cover_end": 960,
+    "genre": "文章总集",
+    "structure": "1000卷，收唐五代文章",
+    "reliability": "C",
+    "summary": "清代唐五代文章总集，收诏令、奏议、碑志、书信、赋序等，是唐五代人物与制度研究的大型资料库。",
+    "game_use": "查找人物墓志、书信、奏议、诏令、地方记载。",
+    "caveats": "清人编纂，辑佚有遗漏与误收；需查《全唐文补遗》等。",
+    "links": {
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=全唐文"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "总集",
+      "唐",
+      "五代",
+      "碑志",
+      "诏令"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "QUANTANGSHI",
+    "type": "primary",
+    "priority": "extended",
+    "title": "全唐诗",
+    "title_trad": "全唐詩",
+    "title_en": "Complete Poetry of Tang",
+    "aliases": [
+      "全唐诗",
+      "Quan Tang Shi"
+    ],
+    "authors": [
+      {
+        "name": "彭定求等",
+        "dates": "清",
+        "role": "编"
+      }
+    ],
+    "date": "1705",
+    "periods": [
+      "唐",
+      "五代"
+    ],
+    "cover_start": 618,
+    "cover_end": 960,
+    "genre": "诗歌总集",
+    "structure": "900卷，收唐五代诗约四万九千首",
+    "reliability": "C",
+    "summary": "清代唐诗总集，收唐五代诗近五万首，附作者小传，是文学与人物研究的基础。",
+    "game_use": "设计诗词、宴饮、送别、边塞、都市、情感表达；查找诗人生平线索。",
+    "caveats": "选诗、小传有误；需与《全唐诗补编》及别集对读。",
+    "links": {
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=全唐詩"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "总集",
+      "唐诗",
+      "文学",
+      "人物"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "TANGYULIN",
+    "type": "primary",
+    "priority": "extended",
+    "title": "唐语林",
+    "title_trad": "唐語林",
+    "title_en": "Forest of Tang Anecdotes",
+    "aliases": [
+      "王谠唐语林",
+      "Tang Yulin"
+    ],
+    "authors": [
+      {
+        "name": "王谠",
+        "dates": "北宋",
+        "role": "撰"
+      }
+    ],
+    "date": "约1100",
+    "periods": [
+      "唐",
+      "五代"
+    ],
+    "cover_start": 618,
+    "cover_end": 960,
+    "genre": "笔记汇编",
+    "structure": "8卷",
+    "reliability": "B/C",
+    "summary": "北宋王谠辑唐代笔记，分类记德行、言语、政事、文学等，保存大量唐五代轶事。",
+    "game_use": "查找唐五代人物轶事、官场故事、文学掌故。",
+    "caveats": "汇编转引，需查原始出处；文学化成分高。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/唐語林",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=唐語林"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/tangyulin",
+      "volumes_available": 8,
+      "chars": 178537
+    },
+    "tags": [
+      "笔记",
+      "唐",
+      "五代",
+      "汇编"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "SONGGAOSENGZHUAN",
+    "type": "primary",
+    "priority": "extended",
+    "title": "宋高僧传",
+    "title_trad": "宋高僧傳",
+    "title_en": "Biographies of Eminent Monks of the Song",
+    "aliases": [
+      "赞宁宋高僧传",
+      "Song Gaoseng Zhuan"
+    ],
+    "authors": [
+      {
+        "name": "赞宁",
+        "dates": "919–1001",
+        "role": "撰"
+      }
+    ],
+    "date": "988",
+    "periods": [
+      "唐",
+      "五代",
+      "十国"
+    ],
+    "cover_start": 618,
+    "cover_end": 988,
+    "genre": "佛教传记",
+    "structure": "30卷",
+    "reliability": "B",
+    "summary": "北宋赞宁所撰高僧传，记唐五代宋初佛教人物、宗派、寺院、译经，是晚唐五代佛教史核心。",
+    "game_use": "设计晚唐五代寺院、僧侣、宗派、政教关系。",
+    "caveats": "成书于宋初，带有统一政权视角；与《祖堂集》《景德传灯录》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/宋高僧傳",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=宋高僧傳"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "佛教",
+      "唐",
+      "五代",
+      "传记",
+      "寺院"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "ZUTANGJI",
+    "type": "primary",
+    "priority": "extended",
+    "title": "祖堂集",
+    "title_trad": "祖堂集",
+    "title_en": "Collection from the Hall of the Patriarchs",
+    "aliases": [
+      "祖堂集",
+      "Zutang Ji"
+    ],
+    "authors": [
+      {
+        "name": "静、筠",
+        "dates": "五代",
+        "role": "编"
+      }
+    ],
+    "date": "952",
+    "periods": [
+      "唐",
+      "五代",
+      "十国"
+    ],
+    "cover_start": 618,
+    "cover_end": 952,
+    "genre": "禅宗灯史",
+    "structure": "20卷",
+    "reliability": "B",
+    "summary": "五代禅宗灯史，记禅宗谱系、语录、公案，保存早期禅宗史料。",
+    "game_use": "设计禅宗、僧侣、语录、寺院网络、宗教事件。",
+    "caveats": "宗教谱系，有建构成分；与《景德传灯录》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/祖堂集",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=祖堂集"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "禅宗",
+      "五代",
+      "灯史",
+      "宗教"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "DATANGXIYIJI",
+    "type": "primary",
+    "priority": "extended",
+    "title": "大唐西域记",
+    "title_trad": "大唐西域記",
+    "title_en": "Great Tang Records on the Western Regions",
+    "aliases": [
+      "玄奘大唐西域记",
+      "Da Tang Xiyu Ji"
+    ],
+    "authors": [
+      {
+        "name": "玄奘",
+        "dates": "602–664",
+        "role": "述"
+      },
+      {
+        "name": "辩机",
+        "dates": "619–649",
+        "role": "编"
+      }
+    ],
+    "date": "646",
+    "periods": [
+      "初唐"
+    ],
+    "cover_start": 627,
+    "cover_end": 645,
+    "genre": "行记、地理志",
+    "structure": "12卷",
+    "reliability": "A/B",
+    "summary": "玄奘西行见闻，记中亚、南亚地理、物产、宗教、政治，是中外交流史核心。",
+    "game_use": "设计西域地图、商路、佛教圣地、异国政权。",
+    "caveats": "宗教与传闻成分；与考古、其他行记对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/大唐西域記",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=大唐西域記"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "行记",
+      "西域",
+      "初唐",
+      "佛教",
+      "地理"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "KAIYUANTIANBAOYISHI",
+    "type": "primary",
+    "priority": "extended",
+    "title": "开元天宝遗事",
+    "title_trad": "開元天寶遺事",
+    "title_en": "Remnants of the Kaiyuan and Tianbao Eras",
+    "aliases": [
+      "王仁裕开元天宝遗事",
+      "Kaiyuan Tianbao Yishi"
+    ],
+    "authors": [
+      {
+        "name": "王仁裕",
+        "dates": "880–956",
+        "role": "撰"
+      }
+    ],
+    "date": "五代",
+    "periods": [
+      "盛唐"
+    ],
+    "cover_start": 712,
+    "cover_end": 756,
+    "genre": "笔记",
+    "structure": "4卷",
+    "reliability": "B/C",
+    "summary": "五代人追记开元天宝遗事，多宫廷生活、风俗、器物、节令，是盛唐想象的重要来源。",
+    "game_use": "设计盛唐风俗、器物、节令、宫廷生活、传奇氛围。",
+    "caveats": "成书晚，文学化强；与《明皇杂录》《旧唐书》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/開元天寶遺事",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=開元天寶遺事"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/kaiyuantianbaoyishi",
+      "volumes_available": 4,
+      "chars": 13550
+    },
+    "tags": [
+      "笔记",
+      "盛唐",
+      "风俗",
+      "宫廷"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "MINGHUANGZALU",
+    "type": "primary",
+    "priority": "extended",
+    "title": "明皇杂录",
+    "title_trad": "明皇雜錄",
+    "title_en": "Miscellaneous Records of Emperor Ming",
+    "aliases": [
+      "郑处诲明皇杂录",
+      "Minghuang Zalu"
+    ],
+    "authors": [
+      {
+        "name": "郑处诲",
+        "dates": "唐",
+        "role": "撰"
+      }
+    ],
+    "date": "约855",
+    "periods": [
+      "盛唐"
+    ],
+    "cover_start": 712,
+    "cover_end": 756,
+    "genre": "笔记",
+    "structure": "2卷",
+    "reliability": "B",
+    "summary": "唐玄宗朝宫廷轶闻，涉及玄宗、杨贵妃、高力士、安禄山、梨园、节庆。",
+    "game_use": "设计盛唐宫廷、梨园、节庆、人物轶事。",
+    "caveats": "笔记小说，传闻多；可作氛围与人物轶事，不作制度依据。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/明皇雜錄",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=明皇雜錄"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "笔记",
+      "盛唐",
+      "宫廷",
+      "玄宗"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "TANGGUOSHIPU",
+    "type": "primary",
+    "priority": "extended",
+    "title": "唐国史补",
+    "title_trad": "唐國史補",
+    "title_en": "Supplement to the State History of Tang",
+    "aliases": [
+      "李肇唐国史补",
+      "Tang Guoshi Bu"
+    ],
+    "authors": [
+      {
+        "name": "李肇",
+        "dates": "唐",
+        "role": "撰"
+      }
+    ],
+    "date": "约829",
+    "periods": [
+      "盛唐",
+      "中唐"
+    ],
+    "cover_start": 713,
+    "cover_end": 829,
+    "genre": "笔记",
+    "structure": "3卷",
+    "reliability": "B",
+    "summary": "中唐笔记，记开元至长庆间官场、文学、风俗、人物，保存大量社会史细节。",
+    "game_use": "设计中唐官场、文人交往、社会风俗、轶事。",
+    "caveats": "轶事笔记，传闻与判断并存；可作社会氛围参考。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/唐國史補",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=唐國史補"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "笔记",
+      "中唐",
+      "官场",
+      "文学"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "YINHUALU",
+    "type": "primary",
+    "priority": "extended",
+    "title": "因话录",
+    "title_trad": "因話錄",
+    "title_en": "Records of Conversations",
+    "aliases": [
+      "赵璘因话录",
+      "Yinhua Lu"
+    ],
+    "authors": [
+      {
+        "name": "赵璘",
+        "dates": "唐",
+        "role": "撰"
+      }
+    ],
+    "date": "约9世纪",
+    "periods": [
+      "中唐",
+      "晚唐"
+    ],
+    "cover_start": 756,
+    "cover_end": 907,
+    "genre": "笔记",
+    "structure": "6卷，分宫商角徵羽五部",
+    "reliability": "B",
+    "summary": "中晚唐笔记，分宫、商、角、徵、羽五部，记宫闱、官场、士族、科举、风俗。",
+    "game_use": "设计中晚唐士族、官场、宫闱、科举、社会交往。",
+    "caveats": "作者出身士族，立场鲜明；与正史对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/因話錄",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=因話錄"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/yinhuallu",
+      "volumes_available": 6,
+      "chars": 28590
+    },
+    "tags": [
+      "笔记",
+      "中唐",
+      "晚唐",
+      "士族"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "YOUYANGZAZU",
+    "type": "primary",
+    "priority": "extended",
+    "title": "酉阳杂俎",
+    "title_trad": "酉陽雜俎",
+    "title_en": "Miscellaneous Morsels from Youyang",
+    "aliases": [
+      "段成式酉阳杂俎",
+      "Youyang Zazu"
+    ],
+    "authors": [
+      {
+        "name": "段成式",
+        "dates": "803–863",
+        "role": "撰"
+      }
+    ],
+    "date": "约9世纪中叶",
+    "periods": [
+      "晚唐"
+    ],
+    "cover_start": 803,
+    "cover_end": 863,
+    "genre": "博物、志怪笔记",
+    "structure": "30卷",
+    "reliability": "B",
+    "summary": "晚唐博物志怪笔记，记天文、地理、动植物、器物、宗教、异闻，保存大量社会文化资料。",
+    "game_use": "设计博物、异闻、器物、边疆、宗教、志怪事件。",
+    "caveats": "志怪与博物混杂，非严格史实；可作文化素材。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/酉陽雜俎",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=酉陽雜俎"
+    },
+    "fulltext": {
+      "status": "partial",
+      "path": "texts/youyangzazu",
+      "volumes_available": 20,
+      "chars": 92661,
+      "note": "已抓 20/30 卷，缺后 10 卷。"
+    },
+    "tags": [
+      "笔记",
+      "晚唐",
+      "博物",
+      "志怪"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "HUAJIANJI",
+    "type": "primary",
+    "priority": "extended",
+    "title": "花间集",
+    "title_trad": "花間集",
+    "title_en": "Collection among the Flowers",
+    "aliases": [
+      "赵崇祚花间集",
+      "Huajian Ji"
+    ],
+    "authors": [
+      {
+        "name": "赵崇祚",
+        "dates": "后蜀",
+        "role": "编"
+      }
+    ],
+    "date": "940",
+    "periods": [
+      "晚唐",
+      "五代",
+      "十国"
+    ],
+    "cover_start": 850,
+    "cover_end": 940,
+    "genre": "词总集",
+    "structure": "10卷",
+    "reliability": "C",
+    "summary": "现存最早文人词总集，收温庭筠、韦庄、冯延巳等，反映晚唐五代词风与都市文化。",
+    "game_use": "设计词作、宴饮、歌伎、都市文化、情感表达。",
+    "caveats": "文学选本，非史料；可作语言与氛围参考。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/花間集",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=花間集"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "词",
+      "晚唐",
+      "五代",
+      "十国",
+      "文学"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "SHUGUOCHU",
+    "type": "primary",
+    "priority": "extended",
+    "title": "蜀梼杌",
+    "title_trad": "蜀檮杌",
+    "title_en": "Annals of Shu",
+    "aliases": [
+      "张唐英蜀梼杌",
+      "Shu Taowu"
+    ],
+    "authors": [
+      {
+        "name": "张唐英",
+        "dates": "北宋",
+        "role": "撰"
+      }
+    ],
+    "date": "约1060",
+    "periods": [
+      "五代",
+      "十国"
+    ],
+    "cover_start": 891,
+    "cover_end": 965,
+    "genre": "编年体专史",
+    "structure": "2卷",
+    "reliability": "B",
+    "summary": "北宋张唐英所撰前蜀、后蜀史，记王建、王衍、孟知祥、孟昶。",
+    "game_use": "前后蜀、成都、巴蜀割据、十国宫廷。",
+    "caveats": "成书较晚，传闻多；与《旧五代史》《新五代史》《十国春秋》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/蜀檮杌",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=蜀檮杌"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/shuguochu",
+      "volumes_available": 2,
+      "chars": 18027
+    },
+    "tags": [
+      "前蜀",
+      "后蜀",
+      "十国",
+      "成都"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "JIUGUOZHI",
+    "type": "primary",
+    "priority": "extended",
+    "title": "九国志",
+    "title_trad": "九國志",
+    "title_en": "Records of the Nine Kingdoms",
+    "aliases": [
+      "路振九国志",
+      "Jiuguo Zhi"
+    ],
+    "authors": [
+      {
+        "name": "路振",
+        "dates": "北宋",
+        "role": "撰"
+      }
+    ],
+    "date": "约1010",
+    "periods": [
+      "五代",
+      "十国"
+    ],
+    "cover_start": 902,
+    "cover_end": 979,
+    "genre": "纪传体专史",
+    "structure": "12卷，今有辑本",
+    "reliability": "B/C",
+    "summary": "北宋路振所撰十国史，原书散佚，今有辑本；保存十国人物与制度。",
+    "game_use": "十国人物、政权、制度；与《十国春秋》互补。",
+    "caveats": "辑本残缺；与《十国春秋》对读。",
+    "links": {
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=九國志"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "十国",
+      "五代",
+      "辑佚",
+      "人物"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "SANCHUXINLU",
+    "type": "primary",
+    "priority": "extended",
+    "title": "三楚新录",
+    "title_trad": "三楚新錄",
+    "title_en": "New Records of the Three Chu",
+    "aliases": [
+      "周羽翀三楚新录",
+      "Sanchu Xinlu"
+    ],
+    "authors": [
+      {
+        "name": "周羽翀",
+        "dates": "北宋",
+        "role": "撰"
+      }
+    ],
+    "date": "约11世纪",
+    "periods": [
+      "五代",
+      "十国"
+    ],
+    "cover_start": 907,
+    "cover_end": 963,
+    "genre": "别史",
+    "structure": "3卷",
+    "reliability": "B",
+    "summary": "北宋周羽翀所撰楚、南平、南汉等三楚地区史，记马殷、高季兴等。",
+    "game_use": "楚、南平、南汉、湖南湖北割据。",
+    "caveats": "成书晚，传闻多；与《十国春秋》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/三楚新錄",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=三楚新錄"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/sanchuxinlu",
+      "volumes_available": 3,
+      "chars": 8230
+    },
+    "tags": [
+      "楚",
+      "南平",
+      "南汉",
+      "十国"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "WUDAISHIBU",
+    "type": "primary",
+    "priority": "extended",
+    "title": "五代史补",
+    "title_trad": "五代史補",
+    "title_en": "Supplement to the History of the Five Dynasties",
+    "aliases": [
+      "陶岳五代史补",
+      "Wudai Shibu"
+    ],
+    "authors": [
+      {
+        "name": "陶岳",
+        "dates": "北宋",
+        "role": "撰"
+      }
+    ],
+    "date": "约11世纪",
+    "periods": [
+      "五代",
+      "十国"
+    ],
+    "cover_start": 907,
+    "cover_end": 960,
+    "genre": "史补",
+    "structure": "5卷",
+    "reliability": "B",
+    "summary": "北宋陶岳补《五代史》之缺，记五代十国人物、政事、轶闻。",
+    "game_use": "补五代人物与事件细节。",
+    "caveats": "笔记体，传闻多；与正史对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/五代史補",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=五代史補"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/wudaishibu",
+      "volumes_available": 5,
+      "chars": 29623
+    },
+    "tags": [
+      "五代",
+      "十国",
+      "史补",
+      "人物"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "WUGUOGUSHI",
+    "type": "primary",
+    "priority": "extended",
+    "title": "五国故事",
+    "title_trad": "五國故事",
+    "title_en": "Stories of the Five Kingdoms",
+    "aliases": [
+      "五国故事",
+      "Wuguo Gushi"
+    ],
+    "authors": [
+      {
+        "name": "佚名",
+        "dates": "北宋",
+        "role": "撰"
+      }
+    ],
+    "date": "约11世纪",
+    "periods": [
+      "五代",
+      "十国"
+    ],
+    "cover_start": 907,
+    "cover_end": 975,
+    "genre": "别史",
+    "structure": "2卷",
+    "reliability": "B",
+    "summary": "北宋佚名所撰吴、南唐、前蜀、后蜀、闽等五国故事，记十国君主与宫廷。",
+    "game_use": "十国宫廷、君主轶事、割据政权。",
+    "caveats": "传闻多，需与《十国春秋》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/五國故事",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=五國故事"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/wuguogushi",
+      "volumes_available": 2,
+      "chars": 12510
+    },
+    "tags": [
+      "十国",
+      "五代",
+      "宫廷",
+      "轶事"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "NANTANGJINSHI",
+    "type": "primary",
+    "priority": "extended",
+    "title": "南唐近事",
+    "title_trad": "南唐近事",
+    "title_en": "Recent Events of Southern Tang",
+    "aliases": [
+      "郑文宝南唐近事",
+      "Nantang Jinshi"
+    ],
+    "authors": [
+      {
+        "name": "郑文宝",
+        "dates": "953–1013",
+        "role": "撰"
+      }
+    ],
+    "date": "约10世纪末",
+    "periods": [
+      "五代",
+      "十国"
+    ],
+    "cover_start": 937,
+    "cover_end": 975,
+    "genre": "笔记",
+    "structure": "2卷",
+    "reliability": "B",
+    "summary": "北宋郑文宝所撰南唐近事，记南唐君臣轶事、文学、风俗。",
+    "game_use": "南唐宫廷、文人、社会风俗、轶事。",
+    "caveats": "笔记体，传闻多；可作氛围参考。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/南唐近事",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=南唐近事"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/nantangjinshi",
+      "volumes_available": 1,
+      "chars": 11874
+    },
+    "tags": [
+      "南唐",
+      "十国",
+      "笔记",
+      "宫廷"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "JIANGNANBIELU",
+    "type": "primary",
+    "priority": "extended",
+    "title": "江南别录",
+    "title_trad": "江南別錄",
+    "title_en": "Separate Records of Jiangnan",
+    "aliases": [
+      "陈彭年江南别录",
+      "Jiangnan Bielu"
+    ],
+    "authors": [
+      {
+        "name": "陈彭年",
+        "dates": "961–1017",
+        "role": "撰"
+      }
+    ],
+    "date": "约11世纪初",
+    "periods": [
+      "五代",
+      "十国"
+    ],
+    "cover_start": 937,
+    "cover_end": 975,
+    "genre": "别史",
+    "structure": "4卷",
+    "reliability": "B",
+    "summary": "北宋陈彭年所撰南唐别史，记南唐政治、人物、制度。",
+    "game_use": "南唐政治、人物、制度细节。",
+    "caveats": "篇幅短，传闻多；与《南唐书》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/江南別錄",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=江南別錄"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/jiangnanbielu",
+      "volumes_available": 1,
+      "chars": 7698
+    },
+    "tags": [
+      "南唐",
+      "十国",
+      "别史"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "JIANGNANYESHI",
+    "type": "primary",
+    "priority": "extended",
+    "title": "江南野史",
+    "title_trad": "江南野史",
+    "title_en": "Unofficial History of Jiangnan",
+    "aliases": [
+      "龙衮江南野史",
+      "Jiangnan Yeshi"
+    ],
+    "authors": [
+      {
+        "name": "龙衮",
+        "dates": "北宋",
+        "role": "撰"
+      }
+    ],
+    "date": "约11世纪",
+    "periods": [
+      "五代",
+      "十国"
+    ],
+    "cover_start": 937,
+    "cover_end": 975,
+    "genre": "野史",
+    "structure": "10卷",
+    "reliability": "B",
+    "summary": "北宋龙衮所撰南唐野史，记南唐君臣、制度、文学、风俗。",
+    "game_use": "南唐社会、人物轶事、文学、风俗。",
+    "caveats": "野史，传闻多；与马令、陆游《南唐书》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/江南野史",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=江南野史"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/jiangnanyeshi",
+      "volumes_available": 10,
+      "chars": 37850
+    },
+    "tags": [
+      "南唐",
+      "十国",
+      "野史",
+      "社会"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "JIANGBIAOZHI",
+    "type": "primary",
+    "priority": "extended",
+    "title": "江表志",
+    "title_trad": "江表志",
+    "title_en": "Treatise on the Region South of the Yangtze",
+    "aliases": [
+      "郑文宝江表志",
+      "Jiangbiao Zhi"
+    ],
+    "authors": [
+      {
+        "name": "郑文宝",
+        "dates": "953–1013",
+        "role": "撰"
+      }
+    ],
+    "date": "约10世纪末",
+    "periods": [
+      "五代",
+      "十国"
+    ],
+    "cover_start": 937,
+    "cover_end": 975,
+    "genre": "史志",
+    "structure": "3卷",
+    "reliability": "B",
+    "summary": "北宋郑文宝所撰南唐史志，记南唐地理、政治、人物。",
+    "game_use": "南唐地理、政治、人物。",
+    "caveats": "与《南唐近事》互补；需与正史对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/江表志",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=江表志"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/jiangbiaozhi",
+      "volumes_available": 3,
+      "chars": 9578
+    },
+    "tags": [
+      "南唐",
+      "十国",
+      "地理",
+      "史志"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "DIAOJILITAN",
+    "type": "primary",
+    "priority": "extended",
+    "title": "钓矶立谈",
+    "title_trad": "釣磯立談",
+    "title_en": "Standing Talk at the Fishing Rock",
+    "aliases": [
+      "史虚白钓矶立谈",
+      "Diaoji Litan"
+    ],
+    "authors": [
+      {
+        "name": "史虚白",
+        "dates": "五代–宋初",
+        "role": "撰"
+      }
+    ],
+    "date": "约10世纪末",
+    "periods": [
+      "五代",
+      "十国"
+    ],
+    "cover_start": 937,
+    "cover_end": 975,
+    "genre": "笔记、兴亡论",
+    "structure": "1卷",
+    "reliability": "B",
+    "summary": "南唐遗民所撰南唐兴亡论，记南唐政治、军事、人物，带有强烈遗民情感。",
+    "game_use": "南唐亡国叙事、遗民视角、政治评论。",
+    "caveats": "政治立场鲜明，叙事有选择性；与《南唐书》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/釣磯立談",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=釣磯立談"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/diaojilitan",
+      "volumes_available": 1,
+      "chars": 26491
+    },
+    "tags": [
+      "南唐",
+      "十国",
+      "遗民",
+      "兴亡"
+    ],
+    "copyright": ""
+  },
+  {
+    "id": "M_TAN_QIXIANG_DITU",
+    "type": "modern",
+    "priority": "core",
+    "title": "中国历史地图集",
+    "title_trad": "中國歷史地圖集",
+    "title_en": "The Historical Atlas of China",
+    "aliases": [
+      "谭其骧中国历史地图集"
+    ],
+    "authors": [
+      {
+        "name": "谭其骧主编",
+        "dates": "1911–1992",
+        "role": "主编"
+      }
+    ],
+    "date": "1982–1988",
+    "publisher": "中国地图出版社",
+    "periods": [
+      "跨期"
+    ],
+    "cover_start": -221,
+    "cover_end": 1911,
+    "genre": "历史地图集",
+    "reliability": "M",
+    "summary": "中国历史地理研究的基准地图集，提供各时期政区、疆域、地名、交通路线。",
+    "game_use": "校准游戏地图的政区、城池、河流、边疆、行军路线。",
+    "caveats": "纸图版权；不可直接扫描入库。地名与疆域有学术更新，需结合考古与地方志。",
+    "copyright": "in-copyright; metadata only",
+    "links": {
+      "worldcat": "https://search.worldcat.org/search?q=中国历史地图集"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "现代研究",
+      "地图",
+      "历史地理",
+      "政区"
+    ],
+    "structure": ""
+  },
+  {
+    "id": "M_WANG_ZHONG_LUO_WEIJIN",
+    "type": "modern",
+    "priority": "core",
+    "title": "魏晋南北朝史",
+    "title_trad": "魏晉南北朝史",
+    "title_en": "History of Wei, Jin, and the Northern and Southern Dynasties",
+    "aliases": [
+      "王仲荦魏晋南北朝史"
+    ],
+    "authors": [
+      {
+        "name": "王仲荦",
+        "dates": "1913–1986",
+        "role": "著"
+      }
+    ],
+    "date": "1979–1980",
+    "publisher": "上海人民出版社",
+    "periods": [
+      "三国",
+      "西晋",
+      "东晋",
+      "十六国",
+      "南朝",
+      "北朝"
+    ],
+    "cover_start": 220,
+    "cover_end": 589,
+    "genre": "现代通史",
+    "reliability": "M",
+    "summary": "体系完整的魏晋南北朝通史，兼顾政治、经济、制度、民族、文化，适合建立整体框架。",
+    "game_use": "快速搭建三国两晋南北朝的政权、制度、社会、民族总框架。",
+    "caveats": "成书较早，部分考古与研究成果未及吸收；需与专题研究互补。",
+    "copyright": "in-copyright; metadata only",
+    "links": {
+      "worldcat": "https://search.worldcat.org/search?q=魏晋南北朝史"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "现代研究",
+      "通史",
+      "制度",
+      "民族",
+      "经济"
+    ],
+    "structure": ""
+  },
+  {
+    "id": "M_TANG_CHANGRU_LUNCONG",
+    "type": "modern",
+    "priority": "core",
+    "title": "魏晋南北朝史论丛",
+    "title_trad": "魏晉南北朝史論叢",
+    "title_en": "Essays on the History of Wei, Jin, and the Northern and Southern Dynasties",
+    "aliases": [
+      "唐长孺魏晋南北朝史论丛"
+    ],
+    "authors": [
+      {
+        "name": "唐长孺",
+        "dates": "1911–1994",
+        "role": "著"
+      }
+    ],
+    "date": "1955",
+    "publisher": "生活·读书·新知三联书店",
+    "periods": [
+      "三国",
+      "西晋",
+      "东晋",
+      "南朝",
+      "北朝"
+    ],
+    "cover_start": 220,
+    "cover_end": 589,
+    "genre": "现代史学论文集",
+    "reliability": "M",
+    "summary": "研究中古土地制度、赋役、阶级、民族、门阀、兵制等核心问题的经典论文集，重视出土文书与制度演变。",
+    "game_use": "设计土地、赋税、户籍、军户、部曲、民族融合、地方社会。",
+    "caveats": "马克思主义史学框架明显；具体结论需结合后续研究。",
+    "copyright": "in-copyright; metadata only",
+    "links": {
+      "worldcat": "https://search.worldcat.org/search?q=魏晋南北朝史论丛"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "现代研究",
+      "制度",
+      "社会",
+      "民族",
+      "经济"
+    ],
+    "structure": ""
+  },
+  {
+    "id": "M_TIAN_YUQING_DONGJIN",
+    "type": "modern",
+    "priority": "core",
+    "title": "东晋门阀政治",
+    "title_trad": "東晉門閥政治",
+    "title_en": "Aristocratic Politics in the Eastern Jin",
+    "aliases": [
+      "田余庆东晋门阀政治"
+    ],
+    "authors": [
+      {
+        "name": "田余庆",
+        "dates": "1924–2014",
+        "role": "著"
+      }
+    ],
+    "date": "1989",
+    "publisher": "北京大学出版社",
+    "periods": [
+      "东晋"
+    ],
+    "cover_start": 317,
+    "cover_end": 420,
+    "genre": "现代史学专著",
+    "reliability": "M",
+    "summary": "以琅琊王氏、颍川庾氏、谯国桓氏、陈郡谢氏等门阀与皇权的关系为主线，解释东晋“王与马共天下”的政治结构。",
+    "game_use": "设计门阀声望、皇权与士族共治、家族网络、地方武装、北伐政治。",
+    "caveats": "经典研究，但有鲜明的问题意识与时代烙印；需结合新出墓志、政治史个案。",
+    "copyright": "in-copyright; metadata only",
+    "links": {
+      "worldcat": "https://search.worldcat.org/search?q=东晋门阀政治"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "现代研究",
+      "东晋",
+      "门阀",
+      "政治"
+    ],
+    "structure": ""
+  },
+  {
+    "id": "M_HUANG_YONGNIAN_LIUZHIJIU",
+    "type": "modern",
+    "priority": "core",
+    "title": "六至九世纪中国政治史",
+    "title_trad": "六至九世紀中國政治史",
+    "title_en": "Chinese Political History from the Sixth to Ninth Centuries",
+    "aliases": [
+      "黄永年六至九世纪中国政治史"
+    ],
+    "authors": [
+      {
+        "name": "黄永年",
+        "dates": "1925–2007",
+        "role": "著"
+      }
+    ],
+    "date": "2004",
+    "publisher": "上海书店出版社",
+    "periods": [
+      "北朝",
+      "隋",
+      "初唐",
+      "盛唐",
+      "中唐",
+      "晚唐"
+    ],
+    "cover_start": 500,
+    "cover_end": 900,
+    "genre": "现代史学专著",
+    "reliability": "M",
+    "summary": "以政治斗争、权力结构、制度变迁为主线，对北朝至唐末的若干关键问题提出独立见解。",
+    "game_use": "设计北朝隋唐的权力斗争、宫廷政变、制度转折。",
+    "caveats": "个人风格鲜明，部分论断争议较大；需与其他研究对读。",
+    "copyright": "in-copyright; metadata only",
+    "links": {
+      "worldcat": "https://search.worldcat.org/search?q=六至九世纪中国政治史"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "现代研究",
+      "北朝",
+      "隋唐",
+      "政治"
+    ],
+    "structure": ""
+  },
+  {
+    "id": "M_CHEN_YINKE_SUITANG_ZHIDU",
+    "type": "modern",
+    "priority": "core",
+    "title": "隋唐制度渊源略论稿",
+    "title_trad": "隋唐制度淵源略論稿",
+    "title_en": "A Brief Study of the Origins of Sui-Tang Institutions",
+    "aliases": [
+      "陈寅恪隋唐制度渊源略论稿"
+    ],
+    "authors": [
+      {
+        "name": "陈寅恪",
+        "dates": "1890–1969",
+        "role": "著"
+      }
+    ],
+    "date": "1940年代",
+    "publisher": "出版信息待核",
+    "periods": [
+      "隋",
+      "初唐",
+      "盛唐"
+    ],
+    "cover_start": 581,
+    "cover_end": 755,
+    "genre": "现代史学专著",
+    "reliability": "M",
+    "summary": "论证隋唐制度融合北魏北齐、梁陈、西魏北周三大源流，是理解中古制度形成的关键著作。",
+    "game_use": "设计隋唐官制、礼制、法律、音乐、财政的“多源融合”背景。",
+    "caveats": "宏观框架影响深远，但具体论断有争议；需结合制度史新研究。",
+    "copyright": "in-copyright; metadata only",
+    "links": {
+      "worldcat": "https://search.worldcat.org/search?q=隋唐制度渊源略论稿"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "现代研究",
+      "隋唐",
+      "制度",
+      "源流"
+    ],
+    "structure": ""
+  },
+  {
+    "id": "M_CHEN_YINKE_TANGDAI_ZHENGZHI",
+    "type": "modern",
+    "priority": "core",
+    "title": "唐代政治史述论稿",
+    "title_trad": "唐代政治史述論稿",
+    "title_en": "Studies on Tang Political History",
+    "aliases": [
+      "陈寅恪唐代政治史述论稿"
+    ],
+    "authors": [
+      {
+        "name": "陈寅恪",
+        "dates": "1890–1969",
+        "role": "著"
+      }
+    ],
+    "date": "1943",
+    "publisher": "出版信息待核",
+    "periods": [
+      "初唐",
+      "盛唐",
+      "中唐",
+      "晚唐"
+    ],
+    "cover_start": 618,
+    "cover_end": 907,
+    "genre": "现代史学专著",
+    "reliability": "M",
+    "summary": "以关陇集团、山东集团、科举官僚、宦官、藩镇为线索，解释唐代政治格局的演变。",
+    "game_use": "设计唐前期关陇军事贵族、后期科举官僚与宦官藩镇的权力结构。",
+    "caveats": "“关陇集团”等概念有后续争议；需与具体政治史研究对读。",
+    "copyright": "in-copyright; metadata only",
+    "links": {
+      "worldcat": "https://search.worldcat.org/search?q=唐代政治史述论稿"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "现代研究",
+      "唐",
+      "政治",
+      "关陇集团",
+      "藩镇"
+    ],
+    "structure": ""
+  },
+  {
+    "id": "M_LI_BIYAN_WEIJI",
+    "type": "modern",
+    "priority": "core",
+    "title": "危机与重构：唐帝国及其地方诸侯",
+    "title_trad": "危機與重構：唐帝國及其地方諸侯",
+    "title_en": "Crisis and Reconstruction: The Tang Empire and Its Local Warlords",
+    "aliases": [
+      "李碧妍危机与重构"
+    ],
+    "authors": [
+      {
+        "name": "李碧妍",
+        "dates": "1980–",
+        "role": "著"
+      }
+    ],
+    "date": "2015",
+    "publisher": "北京师范大学出版社",
+    "periods": [
+      "中唐",
+      "晚唐"
+    ],
+    "cover_start": 755,
+    "cover_end": 907,
+    "genre": "现代史学专著",
+    "reliability": "M",
+    "summary": "从安史之乱后唐帝国的军事、政治、地理重构出发，分析藩镇与中央的复杂关系，强调“危机中的重构”。",
+    "game_use": "设计中晚唐藩镇网络、中央权威重建、地方军阀、战争地理。",
+    "caveats": "新锐研究，具体个案结论需核对史料；适合与张国刚对读。",
+    "copyright": "in-copyright; metadata only",
+    "links": {
+      "worldcat": "https://search.worldcat.org/search?q=危机与重构 唐帝国及其地方诸侯"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "现代研究",
+      "中唐",
+      "晚唐",
+      "藩镇",
+      "地理"
+    ],
+    "structure": ""
+  },
+  {
+    "id": "M_ZHANG_GUGANG_FANZHEN",
+    "type": "modern",
+    "priority": "core",
+    "title": "唐代藩镇研究",
+    "title_trad": "唐代藩鎮研究",
+    "title_en": "Studies on Tang Fanzhen",
+    "aliases": [
+      "张国刚唐代藩镇研究"
+    ],
+    "authors": [
+      {
+        "name": "张国刚",
+        "dates": "1956–",
+        "role": "著"
+      }
+    ],
+    "date": "1987",
+    "publisher": "湖南教育出版社；后有增订版",
+    "periods": [
+      "中唐",
+      "晚唐",
+      "五代"
+    ],
+    "cover_start": 755,
+    "cover_end": 960,
+    "genre": "现代史学专著",
+    "reliability": "M",
+    "summary": "系统研究唐代藩镇的类型、形成、财政、军事、政治关系，是理解河朔三镇与中原藩镇的基础。",
+    "game_use": "设计藩镇忠诚、牙兵、财政、中央地方关系、河朔三镇。",
+    "caveats": "分类框架有后续讨论；需结合具体藩镇个案与新研究。",
+    "copyright": "in-copyright; metadata only",
+    "links": {
+      "worldcat": "https://search.worldcat.org/search?q=唐代藩镇研究"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "现代研究",
+      "藩镇",
+      "中唐",
+      "晚唐",
+      "军事"
+    ],
+    "structure": ""
+  },
+  {
+    "id": "M_QIU_LUMING_CHANGAN",
+    "type": "modern",
+    "priority": "core",
+    "title": "长安与河北之间：中晚唐的政治与文化",
+    "title_trad": "長安與河北之間：中晚唐的政治與文化",
+    "title_en": "Between Chang'an and Hebei: Politics and Culture in the Mid-Late Tang",
+    "aliases": [
+      "仇鹿鸣长安与河北之间"
+    ],
+    "authors": [
+      {
+        "name": "仇鹿鸣",
+        "dates": "1981–",
+        "role": "著"
+      }
+    ],
+    "date": "2018",
+    "publisher": "北京师范大学出版社",
+    "periods": [
+      "中唐",
+      "晚唐"
+    ],
+    "cover_start": 755,
+    "cover_end": 907,
+    "genre": "现代史学专著",
+    "reliability": "M",
+    "summary": "利用墓志、碑刻与传世文献，讨论安史之乱后长安朝廷与河北藩镇之间的政治文化互动。",
+    "game_use": "设计中央与河北藩镇的双向互动、士人流动、墓志网络、政治文化。",
+    "caveats": "以个案与墓志为主，宏观框架需结合其他研究。",
+    "copyright": "in-copyright; metadata only",
+    "links": {
+      "worldcat": "https://search.worldcat.org/search?q=长安与河北之间"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "现代研究",
+      "中唐",
+      "晚唐",
+      "河北",
+      "墓志"
+    ],
+    "structure": ""
+  },
+  {
+    "id": "M_DU_WENYU_WUDAI",
+    "type": "modern",
+    "priority": "core",
+    "title": "五代十国制度研究",
+    "title_trad": "五代十國制度研究",
+    "title_en": "Studies on the Institutions of the Five Dynasties and Ten Kingdoms",
+    "aliases": [
+      "杜文玉五代十国制度研究"
+    ],
+    "authors": [
+      {
+        "name": "杜文玉",
+        "dates": "1951–",
+        "role": "著"
+      }
+    ],
+    "date": "2006",
+    "publisher": "人民出版社",
+    "periods": [
+      "五代",
+      "十国"
+    ],
+    "cover_start": 907,
+    "cover_end": 979,
+    "genre": "现代史学专著",
+    "reliability": "M",
+    "summary": "系统研究五代十国的中央官制、地方行政、军事、财政、科举、礼制等制度。",
+    "game_use": "设计五代十国官制、地方行政、财政、军事、科举。",
+    "caveats": "制度史专著，叙事性弱；需与政治史对读。",
+    "copyright": "in-copyright; metadata only",
+    "links": {
+      "worldcat": "https://search.worldcat.org/search?q=五代十国制度研究"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "现代研究",
+      "五代",
+      "十国",
+      "制度"
+    ],
+    "structure": ""
+  },
+  {
+    "id": "M_WANG_GENGWU_FIVE",
+    "type": "modern",
+    "priority": "core",
+    "title": "五代时期北方中国的权力结构",
+    "title_trad": "五代時期北方中國的權力結構",
+    "title_en": "The Structure of Power in North China during the Five Dynasties",
+    "aliases": [
+      "王赓武五代时期北方中国的权力结构"
+    ],
+    "authors": [
+      {
+        "name": "王赓武",
+        "dates": "1930–",
+        "role": "著"
+      }
+    ],
+    "date": "1963 (English); 中译本 later",
+    "publisher": "英文原版；中译本出版信息待核",
+    "periods": [
+      "五代",
+      "十国"
+    ],
+    "cover_start": 907,
+    "cover_end": 960,
+    "genre": "现代史学专著",
+    "reliability": "M",
+    "summary": "分析五代北方政权的军事集团、文官、地方势力与皇权结构，是五代政治史经典。",
+    "game_use": "设计五代军政集团、义儿军、牙兵、文官、政权更替。",
+    "caveats": "以北方为中心，十国涉及较少；需结合十国研究。",
+    "copyright": "in-copyright; metadata only",
+    "links": {
+      "worldcat": "https://search.worldcat.org/search?q=The Structure of Power in North China during the Five Dynasties"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "现代研究",
+      "五代",
+      "权力结构",
+      "军事"
+    ],
+    "structure": ""
+  },
+  {
+    "id": "M_LV_SIWEN_SANGUO",
+    "type": "modern",
+    "priority": "extended",
+    "title": "三国史话",
+    "title_trad": "三國史話",
+    "title_en": "Talks on Three Kingdoms History",
+    "aliases": [
+      "吕思勉三国史话"
+    ],
+    "authors": [
+      {
+        "name": "吕思勉",
+        "dates": "1884–1957",
+        "role": "著"
+      }
+    ],
+    "date": "1940年代",
+    "publisher": "出版信息待核",
+    "periods": [
+      "东汉末",
+      "三国"
+    ],
+    "cover_start": 184,
+    "cover_end": 280,
+    "genre": "现代史学普及",
+    "reliability": "M",
+    "summary": "以通俗笔法辨析三国史事与《三国演义》的差异，适合游戏设计者建立“史实 vs 演义”的边界感。",
+    "game_use": "纠正常见演义误解，建立历史向三国的叙事基调。",
+    "caveats": "普及著作，部分观点较旧；需与专业研究对读。",
+    "copyright": "in-copyright in some jurisdictions; metadata only",
+    "links": {
+      "worldcat": "https://search.worldcat.org/search?q=三国史话"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "现代研究",
+      "三国",
+      "普及",
+      "演义辨析"
+    ],
+    "structure": ""
+  },
+  {
+    "id": "M_MAO_HANGUANG_ZHONGGU",
+    "type": "modern",
+    "priority": "extended",
+    "title": "中国中古政治史论",
+    "title_trad": "中國中古政治史論",
+    "title_en": "Essays on Medieval Chinese Political History",
+    "aliases": [
+      "毛汉光中国中古政治史论"
+    ],
+    "authors": [
+      {
+        "name": "毛汉光",
+        "dates": "1937–",
+        "role": "著"
+      }
+    ],
+    "date": "2002",
+    "publisher": "上海书店出版社",
+    "periods": [
+      "三国",
+      "两晋",
+      "南朝",
+      "北朝",
+      "隋",
+      "唐"
+    ],
+    "cover_start": 220,
+    "cover_end": 907,
+    "genre": "现代史学论文集",
+    "reliability": "M",
+    "summary": "以社会学与量化方法研究中古士族、地域集团、政治核心区、官僚流动。",
+    "game_use": "设计士族地域分布、政治核心区、官僚升迁、地域集团。",
+    "caveats": "量化方法与结论有争议；需结合质性研究。",
+    "copyright": "in-copyright; metadata only",
+    "links": {
+      "worldcat": "https://search.worldcat.org/search?q=中国中古政治史论"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "现代研究",
+      "中古",
+      "士族",
+      "地域",
+      "量化"
+    ],
+    "structure": ""
+  },
+  {
+    "id": "M_ZHOU_YILIANG_ZHAJI",
+    "type": "modern",
+    "priority": "extended",
+    "title": "魏晋南北朝史札记",
+    "title_trad": "魏晉南北朝史札記",
+    "title_en": "Reading Notes on Wei-Jin-Nanbeichao History",
+    "aliases": [
+      "周一良魏晋南北朝史札记"
+    ],
+    "authors": [
+      {
+        "name": "周一良",
+        "dates": "1913–2001",
+        "role": "著"
+      }
+    ],
+    "date": "1985",
+    "publisher": "中华书局",
+    "periods": [
+      "三国",
+      "西晋",
+      "东晋",
+      "南朝",
+      "北朝"
+    ],
+    "cover_start": 220,
+    "cover_end": 589,
+    "genre": "现代史学札记",
+    "reliability": "M",
+    "summary": "对正史、制度、名物、语言、人物的考订札记，适合查疑难词、制度细节与史料矛盾。",
+    "game_use": "校准官职、名物、制度、称谓、史料细节。",
+    "caveats": "札记体，非系统通史；需按条目检索。",
+    "copyright": "in-copyright; metadata only",
+    "links": {
+      "worldcat": "https://search.worldcat.org/search?q=魏晋南北朝史札记"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "现代研究",
+      "考据",
+      "制度",
+      "名物"
+    ],
+    "structure": ""
+  },
+  {
+    "id": "M_CEN_ZHONGMIN_SUITANGSHI",
+    "type": "modern",
+    "priority": "extended",
+    "title": "隋唐史",
+    "title_trad": "隋唐史",
+    "title_en": "History of Sui and Tang",
+    "aliases": [
+      "岑仲勉隋唐史"
+    ],
+    "authors": [
+      {
+        "name": "岑仲勉",
+        "dates": "1886–1961",
+        "role": "著"
+      }
+    ],
+    "date": "1950年代",
+    "publisher": "出版信息待核",
+    "periods": [
+      "隋",
+      "初唐",
+      "盛唐",
+      "中唐",
+      "晚唐"
+    ],
+    "cover_start": 581,
+    "cover_end": 907,
+    "genre": "现代通史",
+    "reliability": "M",
+    "summary": "以扎实考据见长的隋唐通史，对制度、民族、边疆、人物多有独立判断，可与陈寅恪体系互补。",
+    "game_use": "核对隋唐制度、边疆、民族、人物细节。",
+    "caveats": "成书较早，部分材料与观点需更新；适合作为对照阅读。",
+    "copyright": "in-copyright; metadata only",
+    "links": {
+      "worldcat": "https://search.worldcat.org/search?q=隋唐史"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "现代研究",
+      "隋唐",
+      "通史",
+      "考据"
+    ],
+    "structure": ""
+  },
+  {
+    "id": "M_YU_XIANHAO_CISHI",
+    "type": "modern",
+    "priority": "extended",
+    "title": "唐刺史考全编",
+    "title_trad": "唐刺史考全編",
+    "title_en": "A Comprehensive Study of Tang Prefects",
+    "aliases": [
+      "郁贤皓唐刺史考全编"
+    ],
+    "authors": [
+      {
+        "name": "郁贤皓",
+        "dates": "1933–",
+        "role": "著"
+      }
+    ],
+    "date": "2000",
+    "publisher": "安徽大学出版社",
+    "periods": [
+      "唐",
+      "五代"
+    ],
+    "cover_start": 618,
+    "cover_end": 907,
+    "genre": "现代工具书",
+    "reliability": "M",
+    "summary": "考订唐代各州刺史上任时间、人物、出处，是唐代地方官与政治地理研究的重要工具书。",
+    "game_use": "查唐代地方官、州郡人事、藩镇支郡、人物履历。",
+    "caveats": "工具书，需核对原始史料；部分任职时间有争议。",
+    "copyright": "in-copyright; metadata only",
+    "links": {
+      "worldcat": "https://search.worldcat.org/search?q=唐刺史考全编"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "现代研究",
+      "工具书",
+      "唐",
+      "地方官",
+      "地理"
+    ],
+    "structure": ""
+  },
+  {
+    "id": "M_WU_TINGXIE_FANGZHEN",
+    "type": "modern",
+    "priority": "extended",
+    "title": "唐方镇年表",
+    "title_trad": "唐方鎮年表",
+    "title_en": "Chronological Tables of Tang Fanzhen",
+    "aliases": [
+      "吴廷燮唐方镇年表"
+    ],
+    "authors": [
+      {
+        "name": "吴廷燮",
+        "dates": "1865–1947",
+        "role": "著"
+      }
+    ],
+    "date": "1930年代；中华书局1980年整理本",
+    "publisher": "中华书局",
+    "periods": [
+      "唐",
+      "五代"
+    ],
+    "cover_start": 755,
+    "cover_end": 907,
+    "genre": "现代工具书",
+    "reliability": "M",
+    "summary": "按方镇排列唐代节度使、观察使等任职年表，是藩镇研究的基础工具书。",
+    "game_use": "查藩镇长官、任期、辖区、人事更替。",
+    "caveats": "成书较早，部分材料需补充；与《唐刺史考全编》对读。",
+    "copyright": "in-copyright; metadata only",
+    "links": {
+      "worldcat": "https://search.worldcat.org/search?q=唐方镇年表"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "现代研究",
+      "工具书",
+      "藩镇",
+      "唐",
+      "年表"
+    ],
+    "structure": ""
+  },
+  {
+    "id": "M_LU_YANG_QINGLIU",
+    "type": "modern",
+    "priority": "extended",
+    "title": "清流文化与唐帝国",
+    "title_trad": "清流文化與唐帝國",
+    "title_en": "Qingliu Culture and the Tang Empire",
+    "aliases": [
+      "陆扬清流文化与唐帝国"
+    ],
+    "authors": [
+      {
+        "name": "陆扬",
+        "dates": "1965–",
+        "role": "著"
+      }
+    ],
+    "date": "2016",
+    "publisher": "北京大学出版社",
+    "periods": [
+      "中唐",
+      "晚唐"
+    ],
+    "cover_start": 755,
+    "cover_end": 907,
+    "genre": "现代史学专著",
+    "reliability": "M",
+    "summary": "从“清流”士大夫的文化与政治实践出发，讨论中晚唐国家精英的构成、意识形态与政治文化。",
+    "game_use": "设计士大夫声望、清流/浊流、文化资本、官僚网络。",
+    "caveats": "概念性较强，需结合具体政治事件。",
+    "copyright": "in-copyright; metadata only",
+    "links": {
+      "worldcat": "https://search.worldcat.org/search?q=清流文化与唐帝国"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "现代研究",
+      "中唐",
+      "晚唐",
+      "士大夫",
+      "文化"
+    ],
+    "structure": ""
+  },
+  {
+    "id": "M_RONG_XINJIANG_GUIYIJUN",
+    "type": "modern",
+    "priority": "extended",
+    "title": "归义军史研究",
+    "title_trad": "歸義軍史研究",
+    "title_en": "Studies on the History of the Guiyi Army",
+    "aliases": [
+      "荣新江归义军史研究"
+    ],
+    "authors": [
+      {
+        "name": "荣新江",
+        "dates": "1960–",
+        "role": "著"
+      }
+    ],
+    "date": "1996",
+    "publisher": "上海古籍出版社",
+    "periods": [
+      "晚唐",
+      "五代",
+      "十国"
+    ],
+    "cover_start": 848,
+    "cover_end": 1036,
+    "genre": "现代史学专著",
+    "reliability": "M",
+    "summary": "利用敦煌文书研究张议潮归义军、敦煌地方政权、唐五代宋初西北政治与民族关系。",
+    "game_use": "设计敦煌、归义军、河西走廊、丝绸之路、地方政权。",
+    "caveats": "以敦煌文书为核心，需注意文书断代与解读。",
+    "copyright": "in-copyright; metadata only",
+    "links": {
+      "worldcat": "https://search.worldcat.org/search?q=归义军史研究"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "现代研究",
+      "敦煌",
+      "归义军",
+      "晚唐",
+      "五代"
+    ],
+    "structure": ""
+  },
+  {
+    "id": "M_ZOU_JINFENG_NANTANG",
+    "type": "modern",
+    "priority": "extended",
+    "title": "南唐国史",
+    "title_trad": "南唐國史",
+    "title_en": "History of the Southern Tang State",
+    "aliases": [
+      "邹劲风南唐国史"
+    ],
+    "authors": [
+      {
+        "name": "邹劲风",
+        "dates": "1964–",
+        "role": "著"
+      }
+    ],
+    "date": "2000",
+    "publisher": "南京大学出版社",
+    "periods": [
+      "十国",
+      "五代"
+    ],
+    "cover_start": 937,
+    "cover_end": 975,
+    "genre": "现代史学专著",
+    "reliability": "M",
+    "summary": "南唐政治、经济、文化、制度的综合研究，适合快速建立南唐框架。",
+    "game_use": "设计南唐政权、江淮经济、文人宫廷、亡国叙事。",
+    "caveats": "需与马令、陆游《南唐书》及新研究对读。",
+    "copyright": "in-copyright; metadata only",
+    "links": {
+      "worldcat": "https://search.worldcat.org/search?q=南唐国史"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "现代研究",
+      "南唐",
+      "十国",
+      "文化"
+    ],
+    "structure": ""
+  },
+  {
+    "id": "SANGUOZHIPINGHUA",
+    "type": "fiction",
+    "priority": "reference",
+    "title": "三国志平话",
+    "title_trad": "三國志平話",
+    "title_en": "Plain Tale of the Three Kingdoms",
+    "aliases": [
+      "全相三国志平话",
+      "Sanguozhi Pinghua"
+    ],
+    "authors": [
+      {
+        "name": "佚名",
+        "dates": "元",
+        "role": "撰"
+      }
+    ],
+    "date": "元代",
+    "periods": [
+      "东汉末",
+      "三国"
+    ],
+    "cover_start": 184,
+    "cover_end": 280,
+    "genre": "讲史话本",
+    "structure": "3卷",
+    "reliability": "F",
+    "summary": "元代三国讲史话本，是《三国演义》的重要前身，保存民间三国叙事的早期形态。",
+    "game_use": "民间传说、奇术、夸张战斗、草根叙事；可作“说书人”视角。",
+    "caveats": "民间讲史，史实错误极多；仅作叙事传统参考。",
+    "copyright": "public domain",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/三國志平話"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "话本",
+      "三国",
+      "民间叙事",
+      "元"
+    ]
+  },
+  {
+    "id": "SANGUOYANYI",
+    "type": "fiction",
+    "priority": "reference",
+    "title": "三国演义",
+    "title_trad": "三國演義",
+    "title_en": "Romance of the Three Kingdoms",
+    "aliases": [
+      "三国志通俗演义",
+      "Sanguo Yanyi"
+    ],
+    "authors": [
+      {
+        "name": "罗贯中",
+        "dates": "元末明初",
+        "role": "著"
+      }
+    ],
+    "date": "14世纪末",
+    "periods": [
+      "东汉末",
+      "三国"
+    ],
+    "cover_start": 184,
+    "cover_end": 280,
+    "genre": "历史小说",
+    "structure": "120回",
+    "reliability": "F",
+    "summary": "以三国历史为骨架的章回小说，塑造了曹操、刘备、诸葛亮、关羽等经典形象，是游戏叙事与人物设定的巨大母题库。",
+    "game_use": "人物弧光、阵营对立、战役桥段、名场面、台词风格；不可当作史实依据。",
+    "caveats": "大量虚构、移花接木、人物脸谱化；与《三国志》及裴注冲突处，以史书为准。",
+    "copyright": "public domain",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/三國演義"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "小说",
+      "三国",
+      "叙事",
+      "人物",
+      "名场面"
+    ]
+  },
+  {
+    "id": "SHUOTANG",
+    "type": "fiction",
+    "priority": "reference",
+    "title": "说唐",
+    "title_trad": "說唐",
+    "title_en": "Tales of Tang",
+    "aliases": [
+      "说唐全传",
+      "Shuo Tang"
+    ],
+    "authors": [
+      {
+        "name": "佚名",
+        "dates": "清",
+        "role": "著"
+      }
+    ],
+    "date": "清代",
+    "periods": [
+      "隋",
+      "初唐"
+    ],
+    "cover_start": 581,
+    "cover_end": 649,
+    "genre": "历史演义",
+    "structure": "68回",
+    "reliability": "F",
+    "summary": "以隋末群雄、瓦岗寨、李世民征战为主线的通俗演义，塑造秦琼、程咬金、尉迟恭等形象。",
+    "game_use": "隋末群雄、猛将、兄弟结义、战场传奇。",
+    "caveats": "民间演义，人物与战绩多虚构；仅作叙事参考。",
+    "copyright": "public domain",
+    "links": {
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=說唐"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "小说",
+      "隋唐",
+      "瓦岗",
+      "猛将"
+    ]
+  },
+  {
+    "id": "SUITANGYANYI",
+    "type": "fiction",
+    "priority": "reference",
+    "title": "隋唐演义",
+    "title_trad": "隋唐演義",
+    "title_en": "Romance of Sui and Tang",
+    "aliases": [
+      "褚人获隋唐演义",
+      "Sui Tang Yanyi"
+    ],
+    "authors": [
+      {
+        "name": "褚人获",
+        "dates": "1675–1682",
+        "role": "著"
+      }
+    ],
+    "date": "清初",
+    "periods": [
+      "隋",
+      "初唐",
+      "盛唐"
+    ],
+    "cover_start": 581,
+    "cover_end": 756,
+    "genre": "历史小说",
+    "structure": "100回",
+    "reliability": "F",
+    "summary": "融合隋末群雄、唐初宫廷、玄宗杨贵妃故事的历史演义，是隋唐题材游戏的重要叙事来源。",
+    "game_use": "隋末群雄、瓦岗寨、唐初宫廷、盛唐爱情与叛乱。",
+    "caveats": "大量虚构与时代错置；不可作史实依据。",
+    "copyright": "public domain",
+    "links": {
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=隋唐演義"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "小说",
+      "隋唐",
+      "群雄",
+      "宫廷"
+    ]
+  },
+  {
+    "id": "CANTANGWUDAIYANYI",
+    "type": "fiction",
+    "priority": "reference",
+    "title": "残唐五代史演义",
+    "title_trad": "殘唐五代史演義",
+    "title_en": "Romance of the Late Tang and Five Dynasties",
+    "aliases": [
+      "残唐五代史演义传",
+      "Cantang Wudai Shi Yanyi"
+    ],
+    "authors": [
+      {
+        "name": "罗贯中（传）",
+        "dates": "元末明初",
+        "role": "著"
+      }
+    ],
+    "date": "明代",
+    "periods": [
+      "晚唐",
+      "五代",
+      "十国"
+    ],
+    "cover_start": 875,
+    "cover_end": 960,
+    "genre": "历史小说",
+    "structure": "60回",
+    "reliability": "F",
+    "summary": "以黄巢之乱至五代兴替为背景的历史演义，塑造李存孝、王彦章等猛将形象。",
+    "game_use": "晚唐五代猛将、战场传奇、政权更替的戏剧化桥段。",
+    "caveats": "虚构与夸张极多；人物、战绩需回查两《唐书》《旧五代史》《新五代史》。",
+    "copyright": "public domain",
+    "links": {
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=殘唐五代史演義"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "小说",
+      "晚唐",
+      "五代",
+      "猛将"
+    ]
+  },
+  {
+    "id": "FEILONGQUANZHUAN",
+    "type": "fiction",
+    "priority": "reference",
+    "title": "飞龙全传",
+    "title_trad": "飛龍全傳",
+    "title_en": "Biography of the Flying Dragon",
+    "aliases": [
+      "飞龙全传",
+      "Feilong Quanzhuan"
+    ],
+    "authors": [
+      {
+        "name": "吴璿",
+        "dates": "清",
+        "role": "著"
+      }
+    ],
+    "date": "清代",
+    "periods": [
+      "五代",
+      "十国",
+      "宋初"
+    ],
+    "cover_start": 907,
+    "cover_end": 979,
+    "genre": "历史演义",
+    "structure": "60回",
+    "reliability": "F",
+    "summary": "以赵匡胤早年经历与陈桥兵变为核心的通俗演义，反映民间对宋初统一的想象。",
+    "game_use": "五代末宋初、赵匡胤、陈桥兵变、江湖与宫廷。",
+    "caveats": "民间演义，史实错误多；仅作叙事参考。",
+    "copyright": "public domain",
+    "links": {
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=飛龍全傳"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "小说",
+      "五代",
+      "宋初",
+      "赵匡胤"
+    ]
+  },
+  {
+    "id": "DB_CBDB",
+    "type": "database",
+    "priority": "core",
+    "title": "中国历代人物传记资料库（CBDB）",
+    "title_trad": "中國歷代人物傳記資料庫（CBDB）",
+    "title_en": "China Biographical Database",
+    "aliases": [
+      "CBDB",
+      "China Biographical Database"
+    ],
+    "authors": [
+      {
+        "name": "哈佛大学、北京大学等",
+        "dates": "持续更新",
+        "role": "维护"
+      }
+    ],
+    "date": "持续更新",
+    "periods": [
+      "跨期",
+      "唐",
+      "五代",
+      "宋"
+    ],
+    "genre": "人物数据库",
+    "reliability": "D",
+    "summary": "大规模中国历史人物关系数据库，收录人物、官职、社会关系、地址、科举等信息，支持查询与批量下载。",
+    "game_use": "批量生成人物、家族、仕宦、社会关系网络；校验人物年代与官职。",
+    "caveats": "数据覆盖不均，唐五代相对宋明清较少；使用需遵守其许可与引用规范。",
+    "copyright": "open data; see website license",
+    "links": {
+      "database": "https://cbdb.fas.harvard.edu/"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "数据库",
+      "人物",
+      "社会网络",
+      "工具"
+    ],
+    "cover_start": null,
+    "cover_end": null,
+    "structure": ""
+  },
+  {
+    "id": "DB_CTEXT",
+    "type": "database",
+    "priority": "core",
+    "title": "中国哲学书电子化计划（CTEXT）",
+    "title_trad": "中國哲學書電子化計劃（CTEXT）",
+    "title_en": "Chinese Text Project",
+    "aliases": [
+      "CTEXT",
+      "中国哲学书电子化计划"
+    ],
+    "authors": [
+      {
+        "name": "Donald Sturgeon 等",
+        "dates": "持续更新",
+        "role": "维护"
+      }
+    ],
+    "date": "持续更新",
+    "periods": [
+      "跨期"
+    ],
+    "genre": "古籍全文数据库",
+    "reliability": "D",
+    "summary": "大型古籍全文库，收经史子集，支持原文、注释、检索、异文对照，是快速查证引文的首选。",
+    "game_use": "查引文、核对原文、查找人物与制度出处。",
+    "caveats": "文本来源与校勘质量不一；正式引用需核对纸本或权威版本。",
+    "copyright": "mixed; see website terms",
+    "links": {
+      "database": "https://ctext.org/"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "数据库",
+      "古籍",
+      "全文检索",
+      "工具"
+    ],
+    "cover_start": null,
+    "cover_end": null,
+    "structure": ""
+  },
+  {
+    "id": "DB_DILA",
+    "type": "database",
+    "priority": "core",
+    "title": "中央研究院数位人文研究平台（DILA）",
+    "title_trad": "中央研究院數位人文研究平台（DILA）",
+    "title_en": "Academia Sinica Digital Humanities Research Platform",
+    "aliases": [
+      "DILA",
+      "数位人文",
+      "人名权威资料库"
+    ],
+    "authors": [
+      {
+        "name": "中央研究院",
+        "dates": "持续更新",
+        "role": "维护"
+      }
+    ],
+    "date": "持续更新",
+    "periods": [
+      "跨期"
+    ],
+    "genre": "数字人文平台",
+    "reliability": "D",
+    "summary": "整合人名权威、地理、职官、典籍等数据，提供全文检索与关联查询，适合查人物、地名、官职规范。",
+    "game_use": "人物异名、地名沿革、职官对照、史料检索。",
+    "caveats": "各子库许可不同；引用需注明来源。",
+    "copyright": "mixed; see website",
+    "links": {
+      "database": "https://dila.ascdc.sinica.edu.tw/"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "数据库",
+      "人名",
+      "地理",
+      "职官",
+      "工具"
+    ],
+    "cover_start": null,
+    "cover_end": null,
+    "structure": ""
+  },
+  {
+    "id": "DB_KANRIPO",
+    "type": "database",
+    "priority": "core",
+    "title": "汉籍リポジトリ（Kanripo）",
+    "title_trad": "漢籍リポジトリ（Kanripo）",
+    "title_en": "Kanripo Chinese Text Repository",
+    "aliases": [
+      "Kanripo",
+      "汉籍仓库",
+      "漢籍リポジトリ"
+    ],
+    "authors": [
+      {
+        "name": "京都大学等",
+        "dates": "持续更新",
+        "role": "维护"
+      }
+    ],
+    "date": "持续更新",
+    "periods": [
+      "跨期"
+    ],
+    "genre": "古籍全文仓库",
+    "reliability": "D",
+    "summary": "以GitHub仓库形式提供大量汉籍全文，便于批量下载、版本管理与文本分析。",
+    "game_use": "批量获取正史、诸子、集部文本；做NLP、检索、引用。",
+    "caveats": "各仓库许可与文本质量不一；使用前需核对来源与许可。",
+    "copyright": "mixed; see each repository",
+    "links": {
+      "database": "https://www.kanripo.org/"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "数据库",
+      "古籍",
+      "GitHub",
+      "文本"
+    ],
+    "cover_start": null,
+    "cover_end": null,
+    "structure": ""
+  },
+  {
+    "id": "DB_WIKISOURCE",
+    "type": "database",
+    "priority": "core",
+    "title": "维基文库（中文）",
+    "title_trad": "維基文庫（中文）",
+    "title_en": "Chinese Wikisource",
+    "aliases": [
+      "Wikisource",
+      "维基文库"
+    ],
+    "authors": [
+      {
+        "name": "Wikimedia 社区",
+        "dates": "持续更新",
+        "role": "维护"
+      }
+    ],
+    "date": "持续更新",
+    "periods": [
+      "跨期"
+    ],
+    "genre": "公有领域文本库",
+    "reliability": "D",
+    "summary": "公有领域古籍与文献的协作转录平台，提供全文、版本信息、修订历史，适合作为本库的文本来源。",
+    "game_use": "获取公版古籍全文；追溯文本来源与修订。",
+    "caveats": "转录质量与完整性不一；需核对修订历史与原始版本。",
+    "copyright": "CC BY-SA 4.0 (transcriptions); texts public domain",
+    "links": {
+      "database": "https://zh.wikisource.org/"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "数据库",
+      "古籍",
+      "公版",
+      "文本"
+    ],
+    "cover_start": null,
+    "cover_end": null,
+    "structure": ""
+  },
+  {
+    "id": "DB_NLC",
+    "type": "database",
+    "priority": "extended",
+    "title": "中华古籍资源库（中国国家图书馆）",
+    "title_trad": "中華古籍資源庫（中國國家圖書館）",
+    "title_en": "Chinese Ancient Books Resource Library, National Library of China",
+    "aliases": [
+      "中华古籍资源库",
+      "国图古籍"
+    ],
+    "authors": [
+      {
+        "name": "中国国家图书馆",
+        "dates": "持续更新",
+        "role": "维护"
+      }
+    ],
+    "date": "持续更新",
+    "periods": [
+      "跨期"
+    ],
+    "genre": "古籍影像数据库",
+    "reliability": "D",
+    "summary": "中国国家图书馆古籍影像库，提供宋元明清刻本、抄本、稿本的高清影像，适合核对版本与版式。",
+    "game_use": "核对古籍版本、字体、版式、插图、印章；做视觉参考。",
+    "caveats": "以影像为主，检索与下载受限；使用需遵守馆方规定。",
+    "copyright": "see website terms",
+    "links": {
+      "database": "https://www.nlc.cn/"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "数据库",
+      "古籍影像",
+      "版本",
+      "视觉"
+    ],
+    "cover_start": null,
+    "cover_end": null,
+    "structure": ""
+  },
+  {
+    "id": "DB_CCTS",
+    "type": "database",
+    "priority": "extended",
+    "title": "中华文明之时空基础架构（CCTS）",
+    "title_trad": "中華文明之時空基礎架構（CCTS）",
+    "title_en": "Chinese Civilization in Time and Space",
+    "aliases": [
+      "CCTS",
+      "中华文明时空基础架构"
+    ],
+    "authors": [
+      {
+        "name": "中央研究院",
+        "dates": "持续更新",
+        "role": "维护"
+      }
+    ],
+    "date": "持续更新",
+    "periods": [
+      "跨期"
+    ],
+    "genre": "历史地理信息系统",
+    "reliability": "D",
+    "summary": "以历史地图与GIS为基础，整合政区、地名、聚落、交通、环境等数据，适合做历史地图与空间分析。",
+    "game_use": "历史地图、政区边界、城池位置、行军路线、地理分析。",
+    "caveats": "地图精度与年代覆盖不均；使用需遵守许可。",
+    "copyright": "mixed; see website",
+    "links": {
+      "database": "https://ccts.sinica.edu.tw/"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "数据库",
+      "GIS",
+      "地图",
+      "地理",
+      "工具"
+    ],
+    "cover_start": null,
+    "cover_end": null,
+    "structure": ""
+  },
+  {
+    "id": "DB_IDP",
+    "type": "database",
+    "priority": "extended",
+    "title": "国际敦煌项目（IDP）",
+    "title_trad": "國際敦煌項目（IDP）",
+    "title_en": "International Dunhuang Project",
+    "aliases": [
+      "IDP",
+      "国际敦煌项目"
+    ],
+    "authors": [
+      {
+        "name": "大英图书馆等",
+        "dates": "持续更新",
+        "role": "维护"
+      }
+    ],
+    "date": "持续更新",
+    "periods": [
+      "唐",
+      "五代",
+      "十国",
+      "宋初"
+    ],
+    "genre": "敦煌文献数据库",
+    "reliability": "D",
+    "summary": "整合敦煌、吐鲁番等地出土文献的目录与高清影像，是晚唐五代西北史、社会史、宗教史的核心资源。",
+    "game_use": "敦煌文书、归义军、丝路、地方社会、宗教文本、视觉素材。",
+    "caveats": "文献分散、语言多样、断代复杂；需专业解读。",
+    "copyright": "mixed; see website",
+    "links": {
+      "database": "https://idp.bl.uk/"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "数据库",
+      "敦煌",
+      "文书",
+      "晚唐",
+      "五代"
+    ],
+    "cover_start": null,
+    "cover_end": null,
+    "structure": ""
+  }
+]
