@@ -7,6 +7,7 @@
 - 目录：122 条（正史、别史、笔记、类书、制度文献、现代研究、小说、数据库）
 - 游戏数据：96 个政权、159 位人物、155 个事件、87 处地点、90 个术语、22 组同名辨析
 - 检索：本地 SQLite FTS5 三元组索引，支持繁简通检、按书/时代/可信度过滤
+- 在线站点：<https://zhuhuang907-lang.github.io/cn-history-220-979/>（目录与游戏数据浏览；全文检索请用本地 CLI）
 
 > 本库**不收录现代版权书籍正文**。现代研究仅提供书目元数据与外链；小说/演义标记为 `F`，只能用于叙事与氛围，不得当作史实。
 
@@ -234,6 +235,9 @@ python scripts/build_site.py
 # 全库校验
 python scripts/validate.py
 python -m unittest discover -s tests
+
+# 发布静态站点（GitHub Pages 从 gh-pages 分支读取）
+git subtree push --prefix site origin gh-pages
 ```
 
 ## License
