@@ -566,6 +566,54 @@
     return card;
   }
 
+  function crossTabMatches() {
+    if (!state.query) return [];
+    const tokens = state.query.toLowerCase().split(/\s+/).filter(Boolean);
+    const groups = [];
+    for (const tab of TABS) {
+      if (tab === state.tab) continue;
+      const hits = getItems(tab).filter((item) => {
+        const haystack = searchText(item);
+        return tokens.every((token) => haystack.includes(token));
+      });
+      if (hits.length) groups.push({ tab, hits });
+    }
+    return groups;
+  }
+
+  function renderCrossTab(hasLocalResults) {
+    const box = $("#cross-tab");
+    if (!box) return;
+    box.replaceChildren();
+    if (hasLocalResults || !state.query) {
+      box.hidden = true;
+      return;
+    }
+    const groups = crossTabMatches();
+    if (!groups.length) {
+      box.hidden = true;
+      return;
+    }
+    box.hidden = false;
+    box.append(el("p", { class: "cross-title", text: "当前分类没有结果，其他分类中找到：" }));
+    groups.forEach(({ tab, hits }) => {
+      const row = el("div", { class: "cross-group" });
+      row.append(el("span", { class: "cross-kind", text: KIND_LABELS[tab] || tab }));
+      hits.slice(0, 6).forEach((item) => {
+        row.append(el("button", {
+          class: "badge cross-link",
+          type: "button",
+          text: itemName(item, tab),
+          onclick: () => selectItem(tab, item.id),
+        }));
+      });
+      if (hits.length > 6) {
+        row.append(el("span", { class: "cross-more", text: "另有 " + fmtInt(hits.length - 6) + " 条" }));
+      }
+      box.append(row);
+    });
+  }
+
   function renderResults() {
     const items = filteredItems();
     const results = $("#results");
@@ -573,6 +621,7 @@
     items.forEach((item) => results.append(renderCard(item)));
     $("#result-count").textContent = "共 " + fmtInt(items.length) + " 条 · " + (KIND_LABELS[state.tab] || "数据");
     $("#empty").hidden = items.length !== 0;
+    renderCrossTab(items.length !== 0);
 
     if (state.selected) {
       const cards = $$(".card", results);

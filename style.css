@@ -471,6 +471,52 @@ button {
   border-radius: var(--radius);
 }
 
+.cross-tab {
+  margin-top: 1rem;
+  padding: 1rem 1.1rem;
+  border: 1px dashed var(--line-strong);
+  border-radius: var(--radius);
+  background: var(--panel);
+}
+
+.cross-title {
+  margin: 0 0 0.6rem;
+  color: var(--ink-soft);
+  font-size: 0.86rem;
+}
+
+.cross-group {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem;
+  margin-top: 0.4rem;
+}
+
+.cross-kind {
+  min-width: 4.5em;
+  color: var(--ink-faint);
+  font-family: var(--sans);
+  font-size: 0.72rem;
+}
+
+.cross-link {
+  cursor: pointer;
+  font-family: var(--sans);
+}
+
+.cross-link:hover,
+.cross-link:focus-visible {
+  color: var(--accent);
+  border-color: var(--accent);
+  outline: none;
+}
+
+.cross-more {
+  color: var(--ink-faint);
+  font-size: 0.72rem;
+}
+
 .detail {
   position: sticky;
   top: 1rem;
