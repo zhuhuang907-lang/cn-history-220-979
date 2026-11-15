@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="cn-history">
+  <rect width="64" height="64" rx="12" fill="#9b2c1f"/>
+  <rect x="5" y="5" width="54" height="54" rx="9" fill="none" stroke="#fff8f2" stroke-opacity=".55" stroke-width="2"/>
+  <text x="32" y="45" text-anchor="middle" font-family="Songti SC, Noto Serif CJK SC, SimSun, serif" font-size="36" fill="#fff8f2">史</text>
+</svg>

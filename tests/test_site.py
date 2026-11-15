@@ -29,7 +29,7 @@ class SiteDataTests(unittest.TestCase):
         cls.manifest = load(SITE_DATA / "manifest.json")
 
     def test_required_assets_exist(self):
-        for name in ("index.html", "app.js", "style.css", "data/manifest.json"):
+        for name in ("index.html", "app.js", "style.css", "favicon.svg", "data/manifest.json"):
             with self.subTest(file=name):
                 self.assertTrue((SITE / name).exists())
 
