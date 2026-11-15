@@ -237,6 +237,7 @@ python scripts/validate.py
 python -m unittest discover -s tests
 
 # 发布静态站点（GitHub Pages 从 gh-pages 分支读取）
+# 修改 app.js/style.css 后，先同步更新 site/index.html 中的 ?v= 版本号
 git subtree push --prefix site origin gh-pages
 ```
 

@@ -171,7 +171,7 @@
   python scripts/build_catalog.py
   ```
 
-- CI 用 `python scripts/build_catalog.py --check` 检查生成物是否过期。
+- `python scripts/build_catalog.py --check` 用于检查生成物是否过期（本地或 CI）。
 
 ### 5.2 字段约定
 
@@ -319,7 +319,7 @@ python -m unittest discover -s tests
 - 站点数据副本是否与源数据一致；
 - 必要文件是否存在。
 
-测试覆盖目录、游戏数据、文本索引、检索工具与站点构建。CI 不构建 300 MB 全文索引；涉及全文检索的测试在索引缺失时跳过。
+测试覆盖目录、游戏数据、文本索引、检索工具与站点构建。自动化测试不构建 300 MB 全文索引；涉及全文检索的测试在索引缺失时跳过。
 
 ---
 
