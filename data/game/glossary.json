@@ -1,0 +1,2030 @@
+[
+  {
+    "id": "nine-rank",
+    "term": "九品中正制",
+    "term_en": "Nine-Rank System",
+    "aliases": [
+      "九品官人法",
+      "中正制"
+    ],
+    "category": "institution",
+    "periods": [
+      "三国",
+      "西晋",
+      "东晋",
+      "南朝",
+      "北朝"
+    ],
+    "definition": "曹魏陈群创立的选官制度，由中正官按家世、德行、才能评定人才为九等，作为授官依据。",
+    "game_use": "士族门阀崛起的制度引擎；可设计家世、乡论、中正关系影响仕途。",
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "TONGDIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "zhongzheng",
+    "term": "中正",
+    "term_en": "Impartial Judge",
+    "aliases": [
+      "大中正",
+      "州中正"
+    ],
+    "category": "institution",
+    "periods": [
+      "三国",
+      "西晋",
+      "东晋",
+      "南朝",
+      "北朝"
+    ],
+    "definition": "九品中正制中负责品评本地人才的官员，多由本地大族担任。",
+    "game_use": "地方门阀控制选官的关键职位；可设计为家族声望与中央任命的博弈。",
+    "sources": [
+      "JINSHU",
+      "TONGDIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "three-departments",
+    "term": "三省六部制",
+    "term_en": "Three Departments and Six Ministries",
+    "aliases": [
+      "三省六部",
+      "中书门下尚书"
+    ],
+    "category": "institution",
+    "periods": [
+      "隋",
+      "初唐",
+      "盛唐",
+      "中唐",
+      "晚唐",
+      "五代"
+    ],
+    "definition": "隋唐中央官制，中书草拟、门下审议、尚书执行，尚书省下辖吏户礼兵刑工六部。",
+    "game_use": "中央行政框架；可设计诏令流程、部门协同与皇权集中。",
+    "sources": [
+      "SUISHU",
+      "TANGLIUDIAN",
+      "TONGDIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "six-ministries",
+    "term": "六部",
+    "term_en": "Six Ministries",
+    "aliases": [
+      "吏户礼兵刑工"
+    ],
+    "category": "institution",
+    "periods": [
+      "隋",
+      "唐",
+      "五代",
+      "宋"
+    ],
+    "definition": "尚书省下属吏、户、礼、兵、刑、工六个行政部门，分管人事、财政、礼仪、军事、司法与工程。",
+    "game_use": "内政面板的基础分类；可对应人事、财政、外交、军事、司法、建设六条线。",
+    "sources": [
+      "TANGLIUDIAN",
+      "TONGDIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "keju",
+    "term": "科举",
+    "term_en": "Imperial Examination",
+    "aliases": [
+      "科举制",
+      "贡举"
+    ],
+    "category": "institution",
+    "periods": [
+      "隋",
+      "唐",
+      "五代",
+      "宋"
+    ],
+    "definition": "通过分科考试选拔官员的制度，隋唐发展，宋代成为文官主要来源。",
+    "game_use": "寒门上升通道；可设计考试、座主门生、朋党与区域人才分布。",
+    "sources": [
+      "SUISHU",
+      "TONGDIAN",
+      "TANGHUIYAO"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "jinshi",
+    "term": "进士科",
+    "term_en": "Presented Scholar Examination",
+    "aliases": [
+      "进士",
+      "词科"
+    ],
+    "category": "institution",
+    "periods": [
+      "隋",
+      "唐",
+      "五代",
+      "宋"
+    ],
+    "definition": "科举中最受重视的科目，唐重诗赋，宋重经义策论，录取者仕途较好。",
+    "game_use": "文官精英与文学声望的来源；可设计诗赋、策论、座主网络。",
+    "sources": [
+      "TANGHUIYAO",
+      "TONGDIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "mingjing",
+    "term": "明经科",
+    "term_en": "Classics Examination",
+    "aliases": [
+      "明经"
+    ],
+    "category": "institution",
+    "periods": [
+      "隋",
+      "唐",
+      "五代",
+      "宋"
+    ],
+    "definition": "科举科目之一，考试儒家经典记诵与经义，录取较进士为易。",
+    "game_use": "经学型官僚的来源；可设计记诵、经义与家学优势。",
+    "sources": [
+      "TANGHUIYAO",
+      "TONGDIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "juntian",
+    "term": "均田制",
+    "term_en": "Equal-Field System",
+    "aliases": [
+      "均田",
+      "口分世业"
+    ],
+    "category": "institution",
+    "periods": [
+      "北朝",
+      "隋",
+      "初唐",
+      "盛唐"
+    ],
+    "definition": "北魏至唐前期的土地制度，国家按丁口授田，分口分田与永业田，以保障赋税与兵源。",
+    "game_use": "农业与兵源基础；可设计授田、兼并、人口增长导致的制度崩解。",
+    "sources": [
+      "WEISHU",
+      "SUISHU",
+      "TONGDIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "zuyongdiao",
+    "term": "租庸调",
+    "term_en": "Zu-Yong-Diao Tax System",
+    "aliases": [
+      "租庸调制",
+      "租庸调法"
+    ],
+    "category": "institution",
+    "periods": [
+      "隋",
+      "初唐",
+      "盛唐"
+    ],
+    "definition": "唐前期以均田制为基础的赋役制度，按丁征收租（粮）、调（布帛）、庸（代役）。",
+    "game_use": "财政与徭役系统；可设计与均田制绑定、人口流动导致的失效。",
+    "sources": [
+      "SUISHU",
+      "JIUTANGSHU",
+      "TONGDIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "liangshuifa",
+    "term": "两税法",
+    "term_en": "Two-Tax System",
+    "aliases": [
+      "两税",
+      "杨炎两税法"
+    ],
+    "category": "institution",
+    "periods": [
+      "中唐",
+      "晚唐",
+      "五代",
+      "宋"
+    ],
+    "definition": "780 年杨炎推行的税制，按资产与田亩分夏秋两次征税，取代以人丁为本的租庸调。",
+    "game_use": "财政近代化的一步；可设计资产评估、夏秋征收、藩镇截留。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "TANGHUIYAO"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "fubing",
+    "term": "府兵制",
+    "term_en": "Fubing System",
+    "aliases": [
+      "府兵",
+      "军府"
+    ],
+    "category": "military",
+    "periods": [
+      "西魏",
+      "北周",
+      "隋",
+      "初唐",
+      "盛唐"
+    ],
+    "definition": "兵农合一的军制，府兵另立军籍，平时耕作、轮番宿卫，战时出征，自备部分装备。",
+    "game_use": "中央可控的兵源体系；可设计与均田制、军府分布、远征损耗联动。",
+    "sources": [
+      "ZHOUSHU",
+      "SUISHU",
+      "TONGDIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "mubing",
+    "term": "募兵制",
+    "term_en": "Mercenary/Recruitment System",
+    "aliases": [
+      "募兵",
+      "长征健儿"
+    ],
+    "category": "military",
+    "periods": [
+      "盛唐",
+      "中唐",
+      "晚唐",
+      "五代",
+      "宋"
+    ],
+    "definition": "国家以钱粮招募职业士兵的制度，唐玄宗时边镇广泛采用，取代府兵成为主力。",
+    "game_use": "职业军队与财政压力；可设计兵源质量、军费、将领私兵化。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "TONGDIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "jiedushi",
+    "term": "节度使",
+    "term_en": "Jiedushi (Military Governor)",
+    "aliases": [
+      "节度",
+      "藩镇节度使"
+    ],
+    "category": "military",
+    "periods": [
+      "盛唐",
+      "中唐",
+      "晚唐",
+      "五代"
+    ],
+    "definition": "唐边防军区最高军政长官，掌军队、财政与监察，安史之乱后成为地方割据核心。",
+    "game_use": "地方军政一体化；可设计中央-藩镇授权、世袭、牙兵拥立。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "TONGDIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "fanzhen",
+    "term": "藩镇",
+    "term_en": "Fanzhen (Buffer Commands)",
+    "aliases": [
+      "方镇",
+      "藩镇割据"
+    ],
+    "category": "military",
+    "periods": [
+      "中唐",
+      "晚唐",
+      "五代"
+    ],
+    "definition": "唐后期以节度使、观察使为核心的军区型地方政权，河朔三镇最为独立。",
+    "game_use": "中央与地方的核心矛盾；可设计半独立、世袭、联合抗命与互相攻伐。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "guanchashi",
+    "term": "观察使",
+    "term_en": "Observatory Commissioner",
+    "aliases": [
+      "观察处置使",
+      "廉访使"
+    ],
+    "category": "institution",
+    "periods": [
+      "中唐",
+      "晚唐",
+      "五代"
+    ],
+    "definition": "唐后期地方行政监察长官，多由节度使或刺史兼任，掌考察吏治与民政。",
+    "game_use": "地方监察与民政；可设计与节度使军权分离或合流。",
+    "sources": [
+      "JIUTANGSHU",
+      "TONGDIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "zhuanyunshi",
+    "term": "转运使",
+    "term_en": "Transport Commissioner",
+    "aliases": [
+      "水陆转运使",
+      "转运"
+    ],
+    "category": "institution",
+    "periods": [
+      "唐",
+      "五代",
+      "宋"
+    ],
+    "definition": "负责漕运与财赋转输的官员，唐设转运使，宋代演为路级财政长官。",
+    "game_use": "漕运与财政线；可设计运河、粮仓、地方截留。",
+    "sources": [
+      "JIUTANGSHU",
+      "SONGSHI",
+      "TONGDIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "sanzhang",
+    "term": "三长制",
+    "term_en": "Three-Chief System",
+    "aliases": [
+      "三长",
+      "邻长里长党长"
+    ],
+    "category": "institution",
+    "periods": [
+      "北朝"
+    ],
+    "definition": "北魏冯太后时期推行的基层编制，设邻长、里长、党长，取代宗主督护，强化户籍与赋税。",
+    "game_use": "基层控制；可设计从豪强荫庇到国家编户的转型。",
+    "sources": [
+      "WEISHU",
+      "BEISHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "zongzhu-duhu",
+    "term": "宗主督护制",
+    "term_en": "Patriarchal Supervision System",
+    "aliases": [
+      "宗主督护",
+      "坞堡"
+    ],
+    "category": "institution",
+    "periods": [
+      "十六国",
+      "北朝"
+    ],
+    "definition": "北魏前期承认豪强宗主对依附人口的管辖，以换取地方秩序，后为三长制取代。",
+    "game_use": "豪强自治与国家集权的张力；可设计坞堡、荫户、基层税基。",
+    "sources": [
+      "WEISHU",
+      "BEISHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "bazhuguo",
+    "term": "八柱国",
+    "term_en": "Eight Pillar States",
+    "aliases": [
+      "八柱国大将军",
+      "柱国"
+    ],
+    "category": "military",
+    "periods": [
+      "西魏",
+      "北周"
+    ],
+    "definition": "西魏宇文泰所设八位柱国大将军，统领府兵，形成关陇军事贵族核心。",
+    "game_use": "军事贵族网络；可设计八大家族、联姻、府兵动员。",
+    "sources": [
+      "ZHOUSHU",
+      "BEISHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "guanlong",
+    "term": "关陇集团",
+    "term_en": "Guanlong Group",
+    "aliases": [
+      "关陇贵族",
+      "关陇军事集团"
+    ],
+    "category": "institution",
+    "periods": [
+      "西魏",
+      "北周",
+      "隋",
+      "初唐"
+    ],
+    "definition": "以关中、陇右为根基，由宇文泰整合的鲜卑-汉军事贵族集团，西魏、北周、隋、唐皇室皆出于此。",
+    "game_use": "跨朝代精英网络；可设计家族联姻、军政资源与皇权猜忌。",
+    "sources": [
+      "ZHOUSHU",
+      "BEISHI",
+      "SUISHU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "zhongshu-menxia",
+    "term": "中书门下",
+    "term_en": "Zhongshu-Menxia",
+    "aliases": [
+      "中书门下平章事",
+      "政事堂"
+    ],
+    "category": "institution",
+    "periods": [
+      "唐",
+      "五代",
+      "宋"
+    ],
+    "definition": "唐中期后中书省与门下省合署办公的宰相机构，政事堂为议政核心。",
+    "game_use": "宰相权力与决策流程；可设计集体议政、皇帝否决、党争。",
+    "sources": [
+      "TANGLIUDIAN",
+      "TANGHUIYAO"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "hanlin",
+    "term": "翰林学士",
+    "term_en": "Hanlin Academician",
+    "aliases": [
+      "翰林",
+      "内制"
+    ],
+    "category": "institution",
+    "periods": [
+      "唐",
+      "五代",
+      "宋"
+    ],
+    "definition": "唐玄宗后设翰林学士，起草内制诏书，接近皇帝，常侵夺中书省草诏权。",
+    "game_use": "皇帝私人秘书与内廷政治；可设计近臣影响诏令与宰相冲突。",
+    "sources": [
+      "TANGLIUDIAN",
+      "TANGHUIYAO"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "shumishi",
+    "term": "枢密使",
+    "term_en": "Military Affairs Commissioner",
+    "aliases": [
+      "枢密",
+      "知枢密院事"
+    ],
+    "category": "institution",
+    "periods": [
+      "唐",
+      "五代",
+      "宋"
+    ],
+    "definition": "唐后期以宦官掌枢密，传达帝命；五代改由士人充任，掌军事机要，宋代为枢密院长官。",
+    "game_use": "军权与皇权的中枢；可设计宦官/文臣/武将不同路径。",
+    "sources": [
+      "JIUTANGSHU",
+      "JIUWUDAISHI",
+      "SONGSHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "sansishi",
+    "term": "三司使",
+    "term_en": "Three Bureaus Commissioner",
+    "aliases": [
+      "三司",
+      "盐铁度支户部"
+    ],
+    "category": "institution",
+    "periods": [
+      "五代",
+      "宋"
+    ],
+    "definition": "五代至宋初掌盐铁、度支、户部三司的财政长官，总揽国家财政。",
+    "game_use": "财政集中管理；可设计军费、漕运、专卖收入。",
+    "sources": [
+      "JIUWUDAISHI",
+      "SONGSHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "dianqiansi",
+    "term": "殿前司",
+    "term_en": "Palace Front Command",
+    "aliases": [
+      "殿前都指挥使司",
+      "殿前军"
+    ],
+    "category": "military",
+    "periods": [
+      "五代",
+      "宋"
+    ],
+    "definition": "后周形成的禁军统帅机构，与侍卫亲军司分掌禁军，宋代为三衙之一。",
+    "game_use": "禁军核心；可设计殿前都点检、黄袍加身、兵权分割。",
+    "sources": [
+      "JIUWUDAISHI",
+      "SONGSHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "shiwei-qinjun",
+    "term": "侍卫亲军",
+    "term_en": "Imperial Guard",
+    "aliases": [
+      "侍卫亲军司",
+      "侍卫马步军"
+    ],
+    "category": "military",
+    "periods": [
+      "唐",
+      "五代",
+      "宋"
+    ],
+    "definition": "唐末五代中央禁军主力，后周分为殿前司与侍卫亲军司，宋代为三衙之一。",
+    "game_use": "首都兵权；可设计禁军将领拥立、分权与更戍。",
+    "sources": [
+      "JIUWUDAISHI",
+      "SONGSHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "gengshu",
+    "term": "更戍法",
+    "term_en": "Rotation System",
+    "aliases": [
+      "更戍",
+      "轮戍"
+    ],
+    "category": "military",
+    "periods": [
+      "宋"
+    ],
+    "definition": "宋代禁军定期轮换驻地，使兵不识将、将不识兵，防止将领专兵。",
+    "game_use": "中央集权与战斗力之间的取舍；可设计指挥效率下降、边防脆弱。",
+    "sources": [
+      "SONGSHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "yan-yun",
+    "term": "燕云十六州",
+    "term_en": "Sixteen Prefectures",
+    "aliases": [
+      "幽云十六州",
+      "燕云"
+    ],
+    "category": "geography",
+    "periods": [
+      "五代",
+      "宋"
+    ],
+    "definition": "936 年石敬瑭割让给契丹的幽、蓟、瀛、莫、涿、檀、顺、新、妫、儒、武、云、应、寰、朔、蔚十六州。",
+    "game_use": "中原北方屏障；可设计失去长城防线后的战略被动。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "LIAOSHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "jimi",
+    "term": "羁縻府州",
+    "term_en": "Loose-Rein Prefectures",
+    "aliases": [
+      "羁縻州",
+      "羁縻"
+    ],
+    "category": "institution",
+    "periods": [
+      "唐",
+      "宋"
+    ],
+    "definition": "唐在边疆民族地区设置的府州，以当地首领为都督、刺史，世袭但名义归附中央。",
+    "game_use": "低成本边疆治理；可设计朝贡、世袭、叛附与军事征召。",
+    "sources": [
+      "JIUTANGSHU",
+      "TONGDIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "duhufu",
+    "term": "都护府",
+    "term_en": "Protectorate",
+    "aliases": [
+      "安西都护府",
+      "北庭都护府",
+      "安东都护府"
+    ],
+    "category": "institution",
+    "periods": [
+      "唐"
+    ],
+    "definition": "唐在边疆设置的军政管理机构，如安西、北庭、安东都护府，统辖羁縻府州与驻军。",
+    "game_use": "西域与东北经营；可设计远征补给、当地盟友、孤立据点。",
+    "sources": [
+      "JIUTANGSHU",
+      "TONGDIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "shiboshi",
+    "term": "市舶使",
+    "term_en": "Maritime Trade Commissioner",
+    "aliases": [
+      "市舶",
+      "舶使"
+    ],
+    "category": "institution",
+    "periods": [
+      "唐",
+      "五代",
+      "宋"
+    ],
+    "definition": "唐在广州等港口管理海外贸易的官员，负责抽税、登记舶货。",
+    "game_use": "海上贸易线；可设计港口、关税、蕃商与海寇。",
+    "sources": [
+      "JIUTANGSHU",
+      "TONGDIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "salt-monopoly",
+    "term": "盐铁专卖",
+    "term_en": "Salt and Iron Monopoly",
+    "aliases": [
+      "榷盐",
+      "盐铁使"
+    ],
+    "category": "economy",
+    "periods": [
+      "唐",
+      "五代",
+      "宋"
+    ],
+    "definition": "国家垄断盐铁生产与销售以获取财政收入的制度，唐安史之乱后成为重要税源。",
+    "game_use": "财政支柱与民生矛盾；可设计专卖收入、私盐贩、盐枭叛乱。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "TONGDIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "tea-monopoly",
+    "term": "榷茶",
+    "term_en": "Tea Monopoly",
+    "aliases": [
+      "茶税",
+      "茶专卖"
+    ],
+    "category": "economy",
+    "periods": [
+      "唐",
+      "五代",
+      "宋"
+    ],
+    "definition": "国家对茶叶生产、运输、销售征税或专卖的制度，唐后期茶税渐重。",
+    "game_use": "商业税与茶马贸易；可设计茶园、商路、走私。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "TANGHUIYAO"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "feiqian",
+    "term": "飞钱",
+    "term_en": "Flying Money",
+    "aliases": [
+      "便换",
+      "汇票"
+    ],
+    "category": "economy",
+    "periods": [
+      "唐",
+      "宋"
+    ],
+    "definition": "唐后期商人将钱交给京師机构或地方进奏院，换取凭证到异地兑付，类似汇票。",
+    "game_use": "远程贸易与金融创新；可设计汇兑、信用、政府管制。",
+    "sources": [
+      "XINTANGSHU",
+      "TANGHUIYAO"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "yicang",
+    "term": "义仓",
+    "term_en": "Charity Granary",
+    "aliases": [
+      "社仓",
+      "义仓粮"
+    ],
+    "category": "economy",
+    "periods": [
+      "隋",
+      "唐",
+      "宋"
+    ],
+    "definition": "地方为备荒而设的粮仓，按户等征粮储存，灾年赈济。",
+    "game_use": "灾荒应对；可设计丰年积粮、灾年放粮、地方挪用。",
+    "sources": [
+      "SUISHU",
+      "JIUTANGSHU",
+      "TONGDIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "changping",
+    "term": "常平仓",
+    "term_en": "Ever-Normal Granary",
+    "aliases": [
+      "常平",
+      "平粜"
+    ],
+    "category": "economy",
+    "periods": [
+      "汉",
+      "隋",
+      "唐",
+      "宋"
+    ],
+    "definition": "国家在丰年高价收粮、荒年低价售粮以平抑粮价的仓储制度。",
+    "game_use": "粮价与民心；可设计丰歉、投机、仓储腐败。",
+    "sources": [
+      "SUISHU",
+      "JIUTANGSHU",
+      "TONGDIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "maoyue",
+    "term": "貌阅",
+    "term_en": "Physical Inspection",
+    "aliases": [
+      "大索貌阅",
+      "团貌"
+    ],
+    "category": "institution",
+    "periods": [
+      "隋",
+      "唐"
+    ],
+    "definition": "隋唐核查户籍时当面查验人口年龄与体貌，防止隐匿丁口、逃避赋役。",
+    "game_use": "户籍与赋税稽查；可设计隐户、豪强包庇、基层吏治。",
+    "sources": [
+      "SUISHU",
+      "JIUTANGSHU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "shuji-dingyang",
+    "term": "输籍定样",
+    "term_en": "Tax Registration Standard",
+    "aliases": [
+      "输籍法",
+      "定样"
+    ],
+    "category": "institution",
+    "periods": [
+      "隋"
+    ],
+    "definition": "隋文帝时按户等定税标准，颁布样本，使地方无法随意加征，并吸引隐户登记。",
+    "game_use": "税制标准化；可设计中央统一税率与地方执行偏差。",
+    "sources": [
+      "SUISHU",
+      "TONGDIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "beifu",
+    "term": "北府兵",
+    "term_en": "Beifu Army",
+    "aliases": [
+      "北府",
+      "北府军"
+    ],
+    "category": "military",
+    "periods": [
+      "东晋",
+      "南朝"
+    ],
+    "definition": "东晋谢玄在广陵、京口招募北方流民组成的精锐军队，淝水之战主力，后成为刘裕起家资本。",
+    "game_use": "流民精锐；可设计募兵、训练、将领私属化与北伐。",
+    "sources": [
+      "JINSHU",
+      "SONGSHU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "shibing",
+    "term": "世兵制",
+    "term_en": "Hereditary Soldier System",
+    "aliases": [
+      "世兵",
+      "军户制"
+    ],
+    "category": "military",
+    "periods": [
+      "三国",
+      "西晋",
+      "东晋",
+      "南朝"
+    ],
+    "definition": "士兵及其家庭另立军籍、世代为兵的制度，曹魏、孙吴与南朝均曾实行。",
+    "game_use": "稳定兵源与社会固化；可设计军户低贱化、逃亡、战斗力下降。",
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "junhu",
+    "term": "军户",
+    "term_en": "Military Household",
+    "aliases": [
+      "兵户",
+      "营户"
+    ],
+    "category": "military",
+    "periods": [
+      "三国",
+      "两晋",
+      "南朝",
+      "北朝"
+    ],
+    "definition": "世代承担兵役、另立户籍的家庭，地位低于普通民户，不得随意脱籍。",
+    "game_use": "兵源与社会阶层；可设计军户负担、逃亡、赦免与募兵替代。",
+    "sources": [
+      "JINSHU",
+      "SONGSHU",
+      "WEISHU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "buqu",
+    "term": "部曲",
+    "term_en": "Private Retainers",
+    "aliases": [
+      "家兵",
+      "私兵"
+    ],
+    "category": "military",
+    "periods": [
+      "东汉末",
+      "三国",
+      "两晋",
+      "南朝"
+    ],
+    "definition": "豪强大族控制的私人武装与依附人口，战时为兵，平时耕作。",
+    "game_use": "豪强武装；可设计私兵、庄园、忠诚与中央征调冲突。",
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "SONGSHU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "yabing",
+    "term": "牙兵",
+    "term_en": "Guard Troops",
+    "aliases": [
+      "牙军",
+      "衙兵"
+    ],
+    "category": "military",
+    "periods": [
+      "唐",
+      "五代"
+    ],
+    "definition": "唐末五代藩镇节度使的亲兵精锐，常驻牙城，势力强大，可废立主帅。",
+    "game_use": "藩镇政治核心；可设计骄兵拥立、赏赐、哗变与世袭。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "shence",
+    "term": "神策军",
+    "term_en": "Shence Army",
+    "aliases": [
+      "神策",
+      "神策禁军"
+    ],
+    "category": "military",
+    "periods": [
+      "唐"
+    ],
+    "definition": "唐后期由宦官掌控的中央禁军，驻守长安与关中，是宦官专权的军事基础。",
+    "game_use": "宦官权力支柱；可设计禁军、宦官、皇权三角斗争。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "jinjun",
+    "term": "禁军",
+    "term_en": "Imperial Army",
+    "aliases": [
+      "禁兵",
+      "中央军"
+    ],
+    "category": "military",
+    "periods": [
+      "唐",
+      "五代",
+      "宋"
+    ],
+    "definition": "直属中央、护卫首都与皇帝的军队，唐为神策军等，五代宋为殿前司、侍卫亲军。",
+    "game_use": "皇权与政变；可设计禁军将领、兵变、分权与更戍。",
+    "sources": [
+      "JIUTANGSHU",
+      "JIUWUDAISHI",
+      "SONGSHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "xiangjun",
+    "term": "厢军",
+    "term_en": "Xiang Army",
+    "aliases": [
+      "厢兵",
+      "州兵"
+    ],
+    "category": "military",
+    "periods": [
+      "宋"
+    ],
+    "definition": "宋代地方军队，多承担劳役、运输与治安，战斗力低于禁军。",
+    "game_use": "地方治安与劳役；可设计低战力、工程、财政负担。",
+    "sources": [
+      "SONGSHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "fanbing",
+    "term": "蕃兵",
+    "term_en": "Tribal Auxiliaries",
+    "aliases": [
+      "蕃军",
+      "熟户"
+    ],
+    "category": "military",
+    "periods": [
+      "宋"
+    ],
+    "definition": "宋代在西北招募的少数民族部队，以部落为单位，守边与侦察。",
+    "game_use": "边疆盟军；可设计部落忠诚、语言、地形优势。",
+    "sources": [
+      "SONGSHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "que-yue-zhen",
+    "term": "却月阵",
+    "term_en": "Crescent Formation",
+    "aliases": [
+      "却月",
+      "偃月阵"
+    ],
+    "category": "military",
+    "periods": [
+      "东晋",
+      "南朝"
+    ],
+    "definition": "刘裕北伐时以战车、步兵、水军协同布置的半月形防御阵，用以抗击北魏骑兵。",
+    "game_use": "步骑对抗战术；可设计车阵、背水、弓弩与协同。",
+    "sources": [
+      "SONGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wubao",
+    "term": "坞堡",
+    "term_en": "Fortified Manor",
+    "aliases": [
+      "坞壁",
+      "壁垒",
+      "庄园"
+    ],
+    "category": "military",
+    "periods": [
+      "东汉末",
+      "三国",
+      "两晋",
+      "十六国",
+      "北朝"
+    ],
+    "definition": "战乱中豪强修筑的防御性聚落，集居住、仓储、武装与依附人口于一体。",
+    "game_use": "乱世基层秩序；可设计自守、招抚、攻堡与人口争夺。",
+    "sources": [
+      "JINSHU",
+      "WEISHU",
+      "SHUIJINGZHU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "six-garrisons",
+    "term": "六镇",
+    "term_en": "Six Garrisons",
+    "aliases": [
+      "北方六镇",
+      "六镇军民"
+    ],
+    "category": "military",
+    "periods": [
+      "北魏",
+      "北朝"
+    ],
+    "definition": "北魏在北方边境设置的沃野、怀朔、武川、抚冥、柔玄、怀荒等军镇，孝文帝迁都后地位下降。",
+    "game_use": "边镇不满与军阀崛起；可设计军镇、族群、待遇下降与起义。",
+    "sources": [
+      "WEISHU",
+      "BEISHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "five-hu",
+    "term": "五胡",
+    "term_en": "Five Barbarians",
+    "aliases": [
+      "五胡十六国",
+      "胡族"
+    ],
+    "category": "ethnicity",
+    "periods": [
+      "西晋",
+      "东晋",
+      "十六国",
+      "北朝"
+    ],
+    "definition": "传统上指匈奴、鲜卑、羯、氐、羌五个内迁民族，实际十六国参与者更多。",
+    "game_use": "族群政治框架；可设计内迁、歧视、起兵与胡汉融合。",
+    "sources": [
+      "JINSHU",
+      "WEISHU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "xiongnu-five",
+    "term": "匈奴五部",
+    "term_en": "Five Divisions of Xiongnu",
+    "aliases": [
+      "五部匈奴",
+      "并州匈奴"
+    ],
+    "category": "ethnicity",
+    "periods": [
+      "西晋",
+      "十六国"
+    ],
+    "definition": "东汉末内迁并州的匈奴分为左、右、南、北、中五部，刘渊即出自左部。",
+    "game_use": "内迁民族动员；可设计部族首领、汉化精英、起兵。",
+    "sources": [
+      "JINSHU",
+      "WEISHU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "xianbei",
+    "term": "鲜卑",
+    "term_en": "Xianbei",
+    "aliases": [
+      "鲜卑族",
+      "慕容鲜卑",
+      "拓跋鲜卑"
+    ],
+    "category": "ethnicity",
+    "periods": [
+      "东汉末",
+      "西晋",
+      "东晋",
+      "十六国",
+      "北朝",
+      "隋",
+      "唐"
+    ],
+    "definition": "东胡后裔的北方民族，分慕容、拓跋、宇文、段部等，建立前燕、北魏、北周等政权。",
+    "game_use": "北方民族主线；可设计部落联盟、汉化、骑兵与政权建设。",
+    "sources": [
+      "JINSHU",
+      "WEISHU",
+      "BEISHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "jie",
+    "term": "羯",
+    "term_en": "Jie",
+    "aliases": [
+      "羯胡",
+      "羯族"
+    ],
+    "category": "ethnicity",
+    "periods": [
+      "西晋",
+      "十六国"
+    ],
+    "definition": "内迁山西的北方民族，石勒建立后赵，冉闵杀胡后基本消失于史册。",
+    "game_use": "少数族群政权；可设计身份歧视、军事崛起、族群清洗。",
+    "sources": [
+      "JINSHU",
+      "WEISHU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "di",
+    "term": "氐",
+    "term_en": "Di",
+    "aliases": [
+      "氐族",
+      "巴氐"
+    ],
+    "category": "ethnicity",
+    "periods": [
+      "三国",
+      "西晋",
+      "十六国",
+      "北朝"
+    ],
+    "definition": "分布于陇右、巴蜀的西部民族，苻氏建立前秦，李氏建立成汉。",
+    "game_use": "西部民族政权；可设计山地农业、汉化、关中争夺。",
+    "sources": [
+      "JINSHU",
+      "WEISHU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "qiang",
+    "term": "羌",
+    "term_en": "Qiang",
+    "aliases": [
+      "羌族",
+      "党项羌",
+      "烧当羌"
+    ],
+    "category": "ethnicity",
+    "periods": [
+      "东汉",
+      "三国",
+      "两晋",
+      "十六国",
+      "唐",
+      "宋"
+    ],
+    "definition": "西部高原与陇右的古老民族，分支众多，后秦姚氏即羌人。",
+    "game_use": "高原与陇右势力；可设计部落分散、贸易、唐蕃夹缝。",
+    "sources": [
+      "HOUHANSHU",
+      "JINSHU",
+      "JIUTANGSHU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "rouran",
+    "term": "柔然",
+    "term_en": "Rouran",
+    "aliases": [
+      "蠕蠕",
+      "茹茹"
+    ],
+    "category": "ethnicity",
+    "periods": [
+      "北朝"
+    ],
+    "definition": "北魏北方草原帝国，与北魏长期战争，后为突厥所灭。",
+    "game_use": "草原对手；可设计骑兵、和亲、夹击与草原霸权更替。",
+    "sources": [
+      "WEISHU",
+      "BEISHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "turk",
+    "term": "突厥",
+    "term_en": "Turk",
+    "aliases": [
+      "东突厥",
+      "西突厥",
+      "后突厥"
+    ],
+    "category": "ethnicity",
+    "periods": [
+      "北朝",
+      "隋",
+      "初唐",
+      "盛唐"
+    ],
+    "definition": "6 世纪兴起的草原帝国，分东西两部，控制蒙古高原与中亚，唐太宗灭东突厥，玄宗时后突厥亡。",
+    "game_use": "草原霸权主线；可设计可汗、部落联盟、唐突和战。",
+    "sources": [
+      "ZHOUSHU",
+      "SUISHU",
+      "JIUTANGSHU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "uyghur",
+    "term": "回鹘",
+    "term_en": "Uyghur",
+    "aliases": [
+      "回纥",
+      "回鹘汗国"
+    ],
+    "category": "ethnicity",
+    "periods": [
+      "唐",
+      "五代"
+    ],
+    "definition": "铁勒诸部之一，8 世纪建立回鹘汗国，助唐平安史之乱，后为黠戛斯所破。",
+    "game_use": "唐的草原盟友；可设计援军、贸易、勒索与汗国内乱。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "tibet",
+    "term": "吐蕃",
+    "term_en": "Tibetan Empire",
+    "aliases": [
+      "吐蕃王朝",
+      "西蕃"
+    ],
+    "category": "ethnicity",
+    "periods": [
+      "唐",
+      "五代",
+      "宋"
+    ],
+    "definition": "7 世纪松赞干布统一青藏高原建立的帝国，与唐长期和战，安史之乱后攻陷长安。",
+    "game_use": "高原帝国；可设计高原地形、唐蕃会盟、河西争夺。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "TONGDIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "nanzhao",
+    "term": "南诏",
+    "term_en": "Nanzhao",
+    "aliases": [
+      "南诏国",
+      "蒙舍诏"
+    ],
+    "category": "ethnicity",
+    "periods": [
+      "唐",
+      "五代"
+    ],
+    "definition": "唐在云南扶持的彝族-白族政权，统一六诏，后与唐发生天宝战争。",
+    "game_use": "西南边疆势力；可设计山地战、唐蕃夹缝、贸易。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "TONGDIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "khitan",
+    "term": "契丹",
+    "term_en": "Khitan",
+    "aliases": [
+      "辽",
+      "契丹国"
+    ],
+    "category": "ethnicity",
+    "periods": [
+      "唐",
+      "五代",
+      "宋"
+    ],
+    "definition": "东胡后裔，耶律阿保机 916 年建国，后改国号辽，控制燕云与草原。",
+    "game_use": "东北亚帝国；可设计骑兵、南北面官、燕云争夺。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "LIAOSHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "shatuo",
+    "term": "沙陀",
+    "term_en": "Shatuo",
+    "aliases": [
+      "沙陀突厥",
+      "沙陀部"
+    ],
+    "category": "ethnicity",
+    "periods": [
+      "唐",
+      "五代"
+    ],
+    "definition": "西突厥别部，内迁代北，李克用、李存勖父子以沙陀骑兵建立后唐，后晋、后汉亦出沙陀集团。",
+    "game_use": "五代军事精英；可设计精锐骑兵、雇佣、河东根据地。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "gaogouli",
+    "term": "高句丽",
+    "term_en": "Goguryeo",
+    "aliases": [
+      "高丽",
+      "句丽"
+    ],
+    "category": "ethnicity",
+    "periods": [
+      "三国",
+      "北朝",
+      "隋",
+      "唐"
+    ],
+    "definition": "中国东北与朝鲜半岛北部的古代政权，都平壤，隋唐三征后于 668 年被唐灭。",
+    "game_use": "东北强敌；可设计山城、辽东攻防、远征后勤。",
+    "sources": [
+      "SANGUOZHI",
+      "SUISHU",
+      "JIUTANGSHU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "tuyuhun",
+    "term": "吐谷浑",
+    "term_en": "Tuyuhun",
+    "aliases": [
+      "河南国",
+      "吐谷浑国"
+    ],
+    "category": "ethnicity",
+    "periods": [
+      "北朝",
+      "隋",
+      "唐"
+    ],
+    "definition": "慕容鲜卑西迁青海建立的政权，控制丝路南道，663 年为吐蕃所灭。",
+    "game_use": "青海道势力；可设计高原贸易、唐蕃夹缝。",
+    "sources": [
+      "WEISHU",
+      "SUISHU",
+      "JIUTANGSHU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wuhuan",
+    "term": "乌桓",
+    "term_en": "Wuhuan",
+    "aliases": [
+      "乌丸",
+      "三郡乌桓"
+    ],
+    "category": "ethnicity",
+    "periods": [
+      "东汉末",
+      "三国"
+    ],
+    "definition": "东胡后裔，东汉末居辽西、辽东、右北平，207 年被曹操击破。",
+    "game_use": "北方骑兵势力；可设计部落联盟、袁氏残余、白狼山。",
+    "sources": [
+      "SANGUOZHI",
+      "HOUHANSHU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "xuanxue",
+    "term": "玄学",
+    "term_en": "Xuanxue (Neo-Daoism)",
+    "aliases": [
+      "魏晋玄学",
+      "清谈"
+    ],
+    "category": "culture",
+    "periods": [
+      "三国",
+      "西晋",
+      "东晋",
+      "南朝"
+    ],
+    "definition": "魏晋时期以《老子》《庄子》《周易》为核心的哲学思潮，讨论本末、有无、名教与自然。",
+    "game_use": "士族文化资本；可设计清谈、名士声望、政治疏离。",
+    "sources": [
+      "JINSHU",
+      "SHISHUOXINYU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "qingtan",
+    "term": "清谈",
+    "term_en": "Pure Conversation",
+    "aliases": [
+      "清言",
+      "玄谈"
+    ],
+    "category": "culture",
+    "periods": [
+      "三国",
+      "西晋",
+      "东晋",
+      "南朝"
+    ],
+    "definition": "魏晋士族以玄学命题为中心的辩论与谈玄活动，重言辞机锋与风度。",
+    "game_use": "社交与声望机制；可设计辩论、名士评价、政治风险。",
+    "sources": [
+      "JINSHU",
+      "SHISHUOXINYU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wudoumidao",
+    "term": "五斗米道",
+    "term_en": "Way of the Five Pecks of Rice",
+    "aliases": [
+      "天师道",
+      "米道",
+      "正一道"
+    ],
+    "category": "religion",
+    "periods": [
+      "东汉末",
+      "三国",
+      "两晋",
+      "南朝"
+    ],
+    "definition": "张道陵创立的道教派别，入道者纳米五斗，张鲁据汉中政教合一，后传入江南。",
+    "game_use": "宗教组织与地方政权；可设计信众、义舍、叛乱与治疗。",
+    "sources": [
+      "SANGUOZHI",
+      "HOUHANSHU",
+      "JINSHU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "taipingdao",
+    "term": "太平道",
+    "term_en": "Way of Great Peace",
+    "aliases": [
+      "太平道",
+      "黄巾"
+    ],
+    "category": "religion",
+    "periods": [
+      "东汉末"
+    ],
+    "definition": "张角创立的道教派别，以符水治病、传播末世预言，组织黄巾起义。",
+    "game_use": "宗教动员型叛乱；可设计符水、信众网络、八州起兵。",
+    "sources": [
+      "HOUHANSHU",
+      "SANGUOZHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "miefo",
+    "term": "灭佛",
+    "term_en": "Persecution of Buddhism",
+    "aliases": [
+      "毁佛",
+      "法难"
+    ],
+    "category": "religion",
+    "periods": [
+      "北魏",
+      "北周",
+      "唐",
+      "五代"
+    ],
+    "definition": "国家因财政、兵源或意识形态原因没收寺院财产、强迫僧尼还俗的政策。",
+    "game_use": "宗教与财政冲突；可设计寺院经济、僧尼免役、舆论反弹。",
+    "sources": [
+      "WEISHU",
+      "ZHOUSHU",
+      "JIUTANGSHU",
+      "JIUWUDAISHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "sanwu-yizong",
+    "term": "三武一宗",
+    "term_en": "Three Wus and One Zong",
+    "aliases": [
+      "三武一宗灭佛",
+      "四次法难"
+    ],
+    "category": "religion",
+    "periods": [
+      "北魏",
+      "北周",
+      "唐",
+      "五代"
+    ],
+    "definition": "指北魏太武帝、北周武帝、唐武宗、后周世宗四次大规模灭佛。",
+    "game_use": "宗教政策时间线；可设计四次法难的不同动机与后果。",
+    "sources": [
+      "WEISHU",
+      "ZHOUSHU",
+      "JIUTANGSHU",
+      "JIUWUDAISHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "guwen",
+    "term": "古文运动",
+    "term_en": "Classical Prose Movement",
+    "aliases": [
+      "古文",
+      "韩柳古文"
+    ],
+    "category": "culture",
+    "periods": [
+      "中唐",
+      "晚唐",
+      "宋"
+    ],
+    "definition": "韩愈、柳宗元倡导的散文革新，反对骈文，主张恢复先秦两汉质朴文风与儒家道统。",
+    "game_use": "文化声望与思想运动；可设计文坛领袖、学派争论。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "QUANTANGWEN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "xinyuefu",
+    "term": "新乐府",
+    "term_en": "New Yuefu",
+    "aliases": [
+      "新乐府运动",
+      "讽喻诗"
+    ],
+    "category": "culture",
+    "periods": [
+      "中唐"
+    ],
+    "definition": "白居易、元稹倡导的诗歌运动，用乐府旧题写时事，强调讽喻与社会批判。",
+    "game_use": "文学与社会批判；可设计诗人声望、民间疾苦、政治风险。",
+    "sources": [
+      "JIUTANGSHU",
+      "QUANTANGSHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "chuanqi",
+    "term": "传奇",
+    "term_en": "Tang Chuanqi Tales",
+    "aliases": [
+      "唐传奇",
+      "传奇小说"
+    ],
+    "category": "culture",
+    "periods": [
+      "唐",
+      "五代"
+    ],
+    "definition": "唐代兴起的文言短篇小说，题材含爱情、侠义、志怪、历史，标志中国小说文体的成熟。",
+    "game_use": "叙事素材与氛围；可设计侠客、爱情、志怪支线。",
+    "sources": [
+      "TAIPINGYULAN",
+      "TANGYULIN",
+      "QUANTANGWEN"
+    ],
+    "reliability": "B"
+  },
+  {
+    "id": "bianwen",
+    "term": "变文",
+    "term_en": "Bianwen",
+    "aliases": [
+      "敦煌变文",
+      "俗讲"
+    ],
+    "category": "culture",
+    "periods": [
+      "唐",
+      "五代"
+    ],
+    "definition": "敦煌发现的通俗讲唱文学，以散文韵文交替演述佛经故事与历史传说。",
+    "game_use": "民间叙事与说书；可设计俗讲、听众、宗教传播。",
+    "sources": [
+      "TAIPINGYULAN",
+      "QUANTANGWEN"
+    ],
+    "reliability": "B"
+  },
+  {
+    "id": "printing",
+    "term": "雕版印刷",
+    "term_en": "Woodblock Printing",
+    "aliases": [
+      "雕版",
+      "刻书"
+    ],
+    "category": "culture",
+    "periods": [
+      "唐",
+      "五代",
+      "宋"
+    ],
+    "definition": "将文字反刻于木板、刷墨覆纸印刷的技术，唐已用于佛经历书，五代官刻九经。",
+    "game_use": "知识传播与技术扩散；可设计书籍、印刷工坊、文教政策。",
+    "sources": [
+      "JIUWUDAISHI",
+      "WUDAIHUIYAO"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "lanting",
+    "term": "兰亭雅集",
+    "term_en": "Orchid Pavilion Gathering",
+    "aliases": [
+      "兰亭",
+      "兰亭集序"
+    ],
+    "category": "culture",
+    "periods": [
+      "东晋"
+    ],
+    "definition": "353 年王羲之与谢安等在会稽山阴兰亭修禊赋诗，王羲之作《兰亭集序》。",
+    "game_use": "士族文化事件；可设计雅集、书法、声望与文人网络。",
+    "sources": [
+      "JINSHU",
+      "SHISHUOXINYU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "shishuoxinyu",
+    "term": "《世说新语》",
+    "term_en": "A New Account of Tales of the World",
+    "aliases": [
+      "世说",
+      "世说新语"
+    ],
+    "category": "culture",
+    "periods": [
+      "南朝"
+    ],
+    "definition": "刘义庆编撰的志人小说，记录汉末至东晋名士言行，是魏晋风度的重要文本。",
+    "game_use": "人物性格与对话素材；可设计名士轶事、清谈、品评。",
+    "sources": [
+      "SHISHUOXINYU",
+      "JINSHU"
+    ],
+    "reliability": "B"
+  },
+  {
+    "id": "jianan",
+    "term": "建安风骨",
+    "term_en": "Jian'an Style",
+    "aliases": [
+      "建安文学",
+      "三曹七子"
+    ],
+    "category": "culture",
+    "periods": [
+      "东汉末",
+      "三国"
+    ],
+    "definition": "建安时期以三曹、七子为代表的文学风格，慷慨悲凉、反映乱世与抱负。",
+    "game_use": "文学声望与乱世氛围；可设计文人集团、宴饮、诗赋。",
+    "sources": [
+      "SANGUOZHI",
+      "WENXUAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "gongti",
+    "term": "宫体诗",
+    "term_en": "Palace Style Poetry",
+    "aliases": [
+      "宫体",
+      "徐庾体"
+    ],
+    "category": "culture",
+    "periods": [
+      "南朝"
+    ],
+    "definition": "梁陈时期以宫廷生活、女性容貌、声色为题材的绮丽诗风，代表南朝贵族文学。",
+    "game_use": "宫廷文化；可设计宴乐、文学侍从、亡国之音。",
+    "sources": [
+      "LIANGSHU",
+      "CHENSHU",
+      "YUTAIXINYONG"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "huajian",
+    "term": "花间词",
+    "term_en": "Huajian Ci",
+    "aliases": [
+      "花间派",
+      "花间集"
+    ],
+    "category": "culture",
+    "periods": [
+      "五代",
+      "十国",
+      "宋"
+    ],
+    "definition": "后蜀赵崇祚编《花间集》，收录温庭筠、韦庄等词作，形成婉约绮丽的词派。",
+    "game_use": "五代文人文化；可设计词人、宴乐、西蜀与南唐词坛。",
+    "sources": [
+      "HUAJIANJI",
+      "JIUWUDAISHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "menfa",
+    "term": "门阀",
+    "term_en": "Aristocratic Clans",
+    "aliases": [
+      "门阀士族",
+      "世家大族"
+    ],
+    "category": "society",
+    "periods": [
+      "东汉末",
+      "两晋",
+      "南朝",
+      "北朝",
+      "唐"
+    ],
+    "definition": "以累世官宦、家学、婚姻与乡里基础形成的特权家族，魏晋南北朝达到鼎盛。",
+    "game_use": "社会结构核心；可设计家世、婚姻网络、选官垄断与皇权冲突。",
+    "sources": [
+      "JINSHU",
+      "SHISHUOXINYU",
+      "TONGDIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "shizu",
+    "term": "士族",
+    "term_en": "Scholar-Oligarch Families",
+    "aliases": [
+      "世族",
+      "高门"
+    ],
+    "category": "society",
+    "periods": [
+      "东汉末",
+      "两晋",
+      "南朝",
+      "北朝",
+      "唐"
+    ],
+    "definition": "拥有文化、官职与土地优势的家族阶层，与庶族相对。",
+    "game_use": "精英阶层；可设计文化资本、政治特权、寒门对立。",
+    "sources": [
+      "JINSHU",
+      "TONGDIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "shuzu",
+    "term": "庶族",
+    "term_en": "Commoner Gentry",
+    "aliases": [
+      "寒门",
+      "寒族"
+    ],
+    "category": "society",
+    "periods": [
+      "两晋",
+      "南朝",
+      "北朝",
+      "唐",
+      "五代"
+    ],
+    "definition": "非门阀高门的地主与官僚家庭，多通过军功、科举或吏职上升。",
+    "game_use": "上升通道与社会流动；可设计科举、军功、门阀歧视。",
+    "sources": [
+      "JINSHU",
+      "TANGHUIYAO"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "hanren",
+    "term": "寒人",
+    "term_en": "Low-Born Retainers",
+    "aliases": [
+      "寒人",
+      "典签"
+    ],
+    "category": "society",
+    "periods": [
+      "南朝"
+    ],
+    "definition": "出身低微、依附皇权或宗王的人群，南朝多任典签、中书通事舍人，掌握实权。",
+    "game_use": "皇权对抗门阀的工具；可设计近臣、监察、地方控制。",
+    "sources": [
+      "SONGSHU",
+      "NANQISHU",
+      "NANSHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "qiaojun",
+    "term": "侨郡侨县",
+    "term_en": "Migrant Commanderies",
+    "aliases": [
+      "侨置",
+      "侨州郡"
+    ],
+    "category": "society",
+    "periods": [
+      "东晋",
+      "南朝"
+    ],
+    "definition": "东晋南朝为安置北方南渡人口，在南方按原籍设置的同名州郡县，初期免赋役。",
+    "game_use": "人口南迁与户籍混乱；可设计侨旧矛盾、土断、赋税整合。",
+    "sources": [
+      "JINSHU",
+      "SONGSHU",
+      "NANSHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "tuduan",
+    "term": "土断",
+    "term_en": "Local Registration",
+    "aliases": [
+      "土断",
+      "庚戌土断"
+    ],
+    "category": "institution",
+    "periods": [
+      "东晋",
+      "南朝"
+    ],
+    "definition": "东晋南朝将侨置人口就地编入当地户籍、承担赋役的政策，以增加国家控制。",
+    "game_use": "户籍与财政改革；可设计侨姓抵制、皇权强化。",
+    "sources": [
+      "JINSHU",
+      "SONGSHU",
+      "NANSHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "zhuangtian",
+    "term": "庄田",
+    "term_en": "Manorial Estate",
+    "aliases": [
+      "庄园",
+      "田庄"
+    ],
+    "category": "economy",
+    "periods": [
+      "东汉末",
+      "两晋",
+      "南朝",
+      "唐"
+    ],
+    "definition": "豪强或寺院占有的大片土地，附有佃客、部曲与水利设施，形成自给自足的经济单位。",
+    "game_use": "土地兼并；可设计庄园、佃客、隐匿人口、国家税基流失。",
+    "sources": [
+      "JINSHU",
+      "SONGSHU",
+      "TONGDIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "siyuan-jingji",
+    "term": "寺院经济",
+    "term_en": "Monastic Economy",
+    "aliases": [
+      "寺产",
+      "僧祇户",
+      "常住田"
+    ],
+    "category": "economy",
+    "periods": [
+      "北朝",
+      "隋",
+      "唐",
+      "五代"
+    ],
+    "definition": "佛教寺院通过赐田、布施、借贷、碾硙等经营形成的经济体系，占有大量土地与人口。",
+    "game_use": "宗教与财政冲突；可设计寺产、免役、灭佛、借贷。",
+    "sources": [
+      "WEISHU",
+      "JIUTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  }
+]

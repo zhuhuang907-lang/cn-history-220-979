@@ -1,0 +1,62 @@
+{
+  "source_id": "WUYUEBEISHI",
+  "title": "吳越備史",
+  "title_simplified": "吴越备史",
+  "slug": "wuyuebeishi",
+  "page_title": "吳越備史",
+  "source_url": "https://zh.wikisource.org/wiki/%E5%90%B3%E8%B6%8A%E5%82%99%E5%8F%B2",
+  "license": "CC BY-SA 4.0 (Wikisource transcription); classical text is public domain",
+  "fetched_at": "2026-11-14T03:01:15+00:00",
+  "volume_count": 4,
+  "chars": 56651,
+  "volumes": [
+    {
+      "file": "卷001.txt",
+      "page_title": "吳越備史/卷1",
+      "volume": 1,
+      "part": "",
+      "volume_label": "001",
+      "section": "",
+      "revid": 2629948,
+      "url": "https://zh.wikisource.org/wiki/%E5%90%B3%E8%B6%8A%E5%82%99%E5%8F%B2/%E5%8D%B71",
+      "chars": 19127,
+      "sha256": "29fecdca0019fabd720279ed581e1bccc3979c6e58c7653093e7b1e68a090ec4"
+    },
+    {
+      "file": "卷002.txt",
+      "page_title": "吳越備史/卷2",
+      "volume": 2,
+      "part": "",
+      "volume_label": "002",
+      "section": "",
+      "revid": 1813556,
+      "url": "https://zh.wikisource.org/wiki/%E5%90%B3%E8%B6%8A%E5%82%99%E5%8F%B2/%E5%8D%B72",
+      "chars": 12704,
+      "sha256": "6a72973ae1842728b9ac21823f8a5d200dcb4b9233be6a23794f4503705fb36b"
+    },
+    {
+      "file": "卷003.txt",
+      "page_title": "吳越備史/卷3",
+      "volume": 3,
+      "part": "",
+      "volume_label": "003",
+      "section": "",
+      "revid": 2609350,
+      "url": "https://zh.wikisource.org/wiki/%E5%90%B3%E8%B6%8A%E5%82%99%E5%8F%B2/%E5%8D%B73",
+      "chars": 13714,
+      "sha256": "77dd69f1e40682252d4b9f82f4a432601689ad98b18d34404a5da30343aa3d1d"
+    },
+    {
+      "file": "卷004.txt",
+      "page_title": "吳越備史/卷4",
+      "volume": 4,
+      "part": "",
+      "volume_label": "004",
+      "section": "",
+      "revid": 1472408,
+      "url": "https://zh.wikisource.org/wiki/%E5%90%B3%E8%B6%8A%E5%82%99%E5%8F%B2/%E5%8D%B74",
+      "chars": 11106,
+      "sha256": "66e805b88f0fd8cdbcbc63bafa76eb377b62bf61c44147947b32029b939941b5"
+    }
+  ]
+}

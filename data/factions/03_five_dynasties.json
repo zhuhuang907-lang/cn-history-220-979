@@ -1,0 +1,930 @@
+[
+  {
+    "id": "later-liang",
+    "name": "后梁",
+    "name_en": "Later Liang",
+    "aliases": [
+      "梁",
+      "后梁",
+      "朱梁"
+    ],
+    "type": "dynasty",
+    "period": "五代",
+    "start": 907,
+    "end": 923,
+    "capital": "开封（后洛阳）",
+    "territory": "中原、河北部分、关中部分、山东",
+    "founders": [
+      "朱温"
+    ],
+    "key_rulers": [
+      "朱温",
+      "朱友贞"
+    ],
+    "allies": [
+      "wuyue",
+      "jingnan"
+    ],
+    "enemies": [
+      "later-tang",
+      "later-tang",
+      "feng-xiang"
+    ],
+    "vassals": [
+      "min",
+      "chu"
+    ],
+    "ideology": "宣武军功集团与唐室禅让",
+    "military": "宣武牙兵、禁军、河南藩镇",
+    "economy": "汴梁漕运、河南农业、盐铁",
+    "strengths": [
+      "中原经济",
+      "漕运枢纽",
+      "开国军力"
+    ],
+    "weaknesses": [
+      "河北失守",
+      "继承内乱",
+      "晋军压力",
+      "藩镇离心"
+    ],
+    "game_hooks": [
+      "朱温篡唐",
+      "汴梁建都",
+      "柏乡之战",
+      "后唐灭梁"
+    ],
+    "summary": "后梁由朱温宣武集团建立，控制中原与漕运，却始终无法压服河东李克用父子。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "later-tang",
+    "name": "后唐",
+    "name_en": "Later Tang",
+    "aliases": [
+      "唐",
+      "后唐",
+      "李唐",
+      "沙陀唐"
+    ],
+    "type": "dynasty",
+    "period": "五代",
+    "start": 923,
+    "end": 936,
+    "capital": "洛阳",
+    "territory": "中原、河北、关中、河东、巴蜀一度",
+    "founders": [
+      "李存勖"
+    ],
+    "key_rulers": [
+      "庄宗",
+      "明宗",
+      "闵帝",
+      "末帝"
+    ],
+    "allies": [
+      "wuyue",
+      "jingnan"
+    ],
+    "enemies": [
+      "later-liang",
+      "former-shu",
+      "khitan"
+    ],
+    "vassals": [
+      "chu",
+      "min"
+    ],
+    "ideology": "沙陀军事集团与唐室继承",
+    "military": "河东骑兵、禁军、义儿军",
+    "economy": "中原漕运、河南农业、巴蜀财富",
+    "strengths": [
+      "骑兵",
+      "灭梁威望",
+      "疆域广阔"
+    ],
+    "weaknesses": [
+      "庄宗失政",
+      "禁军拥立",
+      "财政困难",
+      "契丹压力"
+    ],
+    "game_hooks": [
+      "灭后梁",
+      "庄宗伶人",
+      "明宗之治",
+      "石敬瑭割燕云"
+    ],
+    "summary": "后唐由沙陀李氏建立，灭后梁并一度统一北方，但禁军政治与继承危机导致速亡。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "later-jin",
+    "name": "后晋",
+    "name_en": "Later Jin",
+    "aliases": [
+      "晋",
+      "后晋",
+      "石晋"
+    ],
+    "type": "dynasty",
+    "period": "五代",
+    "start": 936,
+    "end": 947,
+    "capital": "开封",
+    "territory": "中原、河北部分、河东部分",
+    "founders": [
+      "石敬瑭"
+    ],
+    "key_rulers": [
+      "石敬瑭",
+      "石重贵"
+    ],
+    "allies": [
+      "khitan"
+    ],
+    "enemies": [
+      "later-tang",
+      "khitan"
+    ],
+    "vassals": [
+      "min",
+      "chu",
+      "wuyue"
+    ],
+    "ideology": "契丹册封下的中原王朝",
+    "military": "河东兵、禁军、契丹援军",
+    "economy": "中原漕运、河北农业、岁币负担",
+    "strengths": [
+      "契丹支持",
+      "中原基础"
+    ],
+    "weaknesses": [
+      "燕云十六州",
+      "儿皇帝合法性",
+      "契丹南侵",
+      "财政屈辱"
+    ],
+    "game_hooks": [
+      "割燕云十六州",
+      "儿皇帝",
+      "契丹南侵",
+      "后晋灭亡"
+    ],
+    "summary": "后晋以割让燕云十六州换取契丹支持，成为五代中最具争议的政权。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "later-han",
+    "name": "后汉",
+    "name_en": "Later Han",
+    "aliases": [
+      "汉",
+      "后汉",
+      "刘汉"
+    ],
+    "type": "dynasty",
+    "period": "五代",
+    "start": 947,
+    "end": 951,
+    "capital": "开封",
+    "territory": "中原、河北部分、河东部分",
+    "founders": [
+      "刘知远"
+    ],
+    "key_rulers": [
+      "刘知远",
+      "刘承祐"
+    ],
+    "allies": [
+      "northern-han"
+    ],
+    "enemies": [
+      "later-zhou",
+      "khitan"
+    ],
+    "vassals": [
+      "wuyue",
+      "chu"
+    ],
+    "ideology": "沙陀军事集团与中原正统",
+    "military": "河东兵、禁军、藩镇",
+    "economy": "中原残破、漕运恢复有限",
+    "strengths": [
+      "河东根据地",
+      "契丹北撤机会"
+    ],
+    "weaknesses": [
+      "统治残暴",
+      "内部猜忌",
+      "郭威兵变",
+      "国祚极短"
+    ],
+    "game_hooks": [
+      "契丹北撤",
+      "郭威兵变",
+      "后汉速亡",
+      "北汉延续"
+    ],
+    "summary": "后汉是五代最短命的王朝，因猜忌功臣引发郭威兵变，直接催生后周。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "later-zhou",
+    "name": "后周",
+    "name_en": "Later Zhou",
+    "aliases": [
+      "周",
+      "后周",
+      "郭周",
+      "柴周"
+    ],
+    "type": "dynasty",
+    "period": "五代",
+    "start": 951,
+    "end": 960,
+    "capital": "开封",
+    "territory": "中原、河北、关中、淮南、江北",
+    "founders": [
+      "郭威"
+    ],
+    "key_rulers": [
+      "郭威",
+      "柴荣",
+      "柴宗训"
+    ],
+    "allies": [
+      "wuyue",
+      "jingnan"
+    ],
+    "enemies": [
+      "northern-han",
+      "southern-tang",
+      "later-shu",
+      "khitan"
+    ],
+    "vassals": [
+      "chu"
+    ],
+    "ideology": "改革图强与中原统一",
+    "military": "殿前军、侍卫亲军、禁军改革",
+    "economy": "均田税、漕运、盐铁、开封都市",
+    "strengths": [
+      "世宗改革",
+      "禁军精锐",
+      "财政整备",
+      "统一势头"
+    ],
+    "weaknesses": [
+      "世宗早逝",
+      "幼主即位",
+      "陈桥兵变",
+      "契丹压力"
+    ],
+    "game_hooks": [
+      "郭威改革",
+      "世宗北伐",
+      "高平之战",
+      "陈桥兵变"
+    ],
+    "summary": "后周虽短，却通过禁军改革、财政整备与南征北伐，为北宋统一奠定基础。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wu-yang",
+    "name": "杨吴",
+    "name_en": "Yang Wu",
+    "aliases": [
+      "吴",
+      "杨吴",
+      "淮南吴"
+    ],
+    "type": "kingdom",
+    "period": "十国",
+    "start": 902,
+    "end": 937,
+    "capital": "扬州",
+    "territory": "淮南、江东部分、江西部分",
+    "founders": [
+      "杨行密"
+    ],
+    "key_rulers": [
+      "杨行密",
+      "杨渥",
+      "杨隆演",
+      "杨溥"
+    ],
+    "allies": [
+      "wuyue"
+    ],
+    "enemies": [
+      "later-liang",
+      "chu",
+      "southern-tang"
+    ],
+    "vassals": [],
+    "ideology": "淮南藩镇与吴王正统",
+    "military": "淮南牙兵、水军、黑云都",
+    "economy": "江淮盐业、漕运、扬州商业",
+    "strengths": [
+      "江淮财富",
+      "水军",
+      "盐利"
+    ],
+    "weaknesses": [
+      "权臣徐氏",
+      "继承不稳",
+      "南唐取代"
+    ],
+    "game_hooks": [
+      "杨行密割据",
+      "江淮盐利",
+      "徐知诰篡吴",
+      "南唐建立"
+    ],
+    "summary": "杨吴控制江淮盐利与漕运，是十国中最富庶的政权之一，最终被徐氏南唐取代。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "southern-tang",
+    "name": "南唐",
+    "name_en": "Southern Tang",
+    "aliases": [
+      "唐",
+      "南唐",
+      "江南唐",
+      "李唐"
+    ],
+    "type": "kingdom",
+    "period": "十国",
+    "start": 937,
+    "end": 975,
+    "capital": "金陵",
+    "territory": "江淮、江西、福建部分、湖南部分",
+    "founders": [
+      "李昪"
+    ],
+    "key_rulers": [
+      "李昪",
+      "李璟",
+      "李煜"
+    ],
+    "allies": [
+      "wuyue",
+      "later-zhou"
+    ],
+    "enemies": [
+      "later-zhou",
+      "song",
+      "wu-yang"
+    ],
+    "vassals": [],
+    "ideology": "唐室继承与江南文治",
+    "military": "江淮水军、牙兵、后期宋军压力",
+    "economy": "江淮盐业、农业、金陵商业、文化",
+    "strengths": [
+      "经济文化",
+      "水军",
+      "唐室旗号"
+    ],
+    "weaknesses": [
+      "军事弱",
+      "后周淮南之战",
+      "李煜词政",
+      "北宋统一"
+    ],
+    "game_hooks": [
+      "李昪建国",
+      "淮南之战",
+      "李煜词",
+      "金陵陷落"
+    ],
+    "summary": "南唐是十国文化高峰，经济富庶但军事被动，最终被北宋所灭。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "NANTANGSHU_MA",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wuyue",
+    "name": "吴越",
+    "name_en": "Wuyue",
+    "aliases": [
+      "吴越国",
+      "钱氏吴越"
+    ],
+    "type": "kingdom",
+    "period": "十国",
+    "start": 907,
+    "end": 978,
+    "capital": "杭州",
+    "territory": "浙江、苏南、福建部分",
+    "founders": [
+      "钱镠"
+    ],
+    "key_rulers": [
+      "钱镠",
+      "钱元瓘",
+      "钱弘俶"
+    ],
+    "allies": [
+      "later-liang",
+      "later-tang",
+      "southern-tang"
+    ],
+    "enemies": [
+      "wu-yang",
+      "min"
+    ],
+    "vassals": [],
+    "ideology": "保境安民与中原称臣",
+    "military": "杭州牙兵、水军、钱塘江防线",
+    "economy": "太湖水利、丝织、海贸、杭州都市",
+    "strengths": [
+      "水利",
+      "海贸",
+      "保境政策",
+      "经济繁荣"
+    ],
+    "weaknesses": [
+      "军事保守",
+      "中原依附",
+      "纳土归宋"
+    ],
+    "game_hooks": [
+      "钱镠治水",
+      "杭州海贸",
+      "保境安民",
+      "纳土归宋"
+    ],
+    "summary": "吴越以保境安民、兴修水利与海贸著称，是十国中最稳定的经济体。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "WUYUEBEISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "former-shu",
+    "name": "前蜀",
+    "name_en": "Former Shu",
+    "aliases": [
+      "蜀",
+      "前蜀",
+      "王蜀"
+    ],
+    "type": "kingdom",
+    "period": "十国",
+    "start": 907,
+    "end": 925,
+    "capital": "成都",
+    "territory": "四川、重庆、汉中部分",
+    "founders": [
+      "王建"
+    ],
+    "key_rulers": [
+      "王建",
+      "王衍"
+    ],
+    "allies": [
+      "feng-xiang"
+    ],
+    "enemies": [
+      "later-tang"
+    ],
+    "vassals": [
+      "nanman"
+    ],
+    "ideology": "巴蜀割据与唐室旧臣",
+    "military": "成都牙兵、巴蜀地方军",
+    "economy": "成都平原、蜀锦、盐铁、商业",
+    "strengths": [
+      "地形险固",
+      "巴蜀财富",
+      "唐臣班底"
+    ],
+    "weaknesses": [
+      "王衍荒政",
+      "后唐远征",
+      "内部腐败"
+    ],
+    "game_hooks": [
+      "王建称帝",
+      "蜀锦贸易",
+      "后唐灭蜀",
+      "王衍降唐"
+    ],
+    "summary": "前蜀据巴蜀，经济文化繁荣，但后期荒政导致被后唐迅速攻灭。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "later-shu",
+    "name": "后蜀",
+    "name_en": "Later Shu",
+    "aliases": [
+      "蜀",
+      "后蜀",
+      "孟蜀"
+    ],
+    "type": "kingdom",
+    "period": "十国",
+    "start": 934,
+    "end": 965,
+    "capital": "成都",
+    "territory": "四川、重庆、汉中部分",
+    "founders": [
+      "孟知祥"
+    ],
+    "key_rulers": [
+      "孟知祥",
+      "孟昶"
+    ],
+    "allies": [
+      "southern-tang"
+    ],
+    "enemies": [
+      "later-tang",
+      "song"
+    ],
+    "vassals": [
+      "nanman"
+    ],
+    "ideology": "巴蜀保境与文治",
+    "military": "成都牙兵、巴蜀地方军",
+    "economy": "成都平原、蜀锦、印刷、商业",
+    "strengths": [
+      "地形",
+      "经济",
+      "文化",
+      "孟昶治世"
+    ],
+    "weaknesses": [
+      "军事弱",
+      "北宋统一",
+      "花蕊夫人"
+    ],
+    "game_hooks": [
+      "孟知祥建国",
+      "花蕊夫人",
+      "宋灭后蜀",
+      "蜀刻印刷"
+    ],
+    "summary": "后蜀是十国中巴蜀文化的代表，经济繁荣、刻书兴盛，最终被北宋所灭。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "min",
+    "name": "闽",
+    "name_en": "Min",
+    "aliases": [
+      "闽国",
+      "王氏闽"
+    ],
+    "type": "kingdom",
+    "period": "十国",
+    "start": 909,
+    "end": 945,
+    "capital": "福州（后建州）",
+    "territory": "福建、浙南部分",
+    "founders": [
+      "王审知"
+    ],
+    "key_rulers": [
+      "王审知",
+      "王延翰",
+      "王延钧",
+      "王延政"
+    ],
+    "allies": [
+      "later-liang",
+      "wuyue"
+    ],
+    "enemies": [
+      "wu-yang",
+      "southern-tang"
+    ],
+    "vassals": [],
+    "ideology": "闽地保境与海贸",
+    "military": "福建牙兵、水军",
+    "economy": "海贸、茶叶、盐业、福州商业",
+    "strengths": [
+      "海贸",
+      "福建地理",
+      "王审知治闽"
+    ],
+    "weaknesses": [
+      "宗室内战",
+      "南唐入侵",
+      "国力弱小"
+    ],
+    "game_hooks": [
+      "王审知治闽",
+      "福州海贸",
+      "闽国内战",
+      "南唐灭闽"
+    ],
+    "summary": "闽据福建，依靠海贸与保境政策发展，但宗室内战导致被南唐吞并。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "chu",
+    "name": "楚",
+    "name_en": "Chu",
+    "aliases": [
+      "楚国",
+      "马楚",
+      "湖南楚"
+    ],
+    "type": "kingdom",
+    "period": "十国",
+    "start": 907,
+    "end": 951,
+    "capital": "长沙",
+    "territory": "湖南、广西部分、贵州部分",
+    "founders": [
+      "马殷"
+    ],
+    "key_rulers": [
+      "马殷",
+      "马希范",
+      "马希广",
+      "马希萼"
+    ],
+    "allies": [
+      "later-liang",
+      "later-tang"
+    ],
+    "enemies": [
+      "wu-yang",
+      "southern-tang",
+      "southern-han"
+    ],
+    "vassals": [],
+    "ideology": "湖南保境与茶马贸易",
+    "military": "湖南牙兵、溪洞兵",
+    "economy": "茶叶、马匹贸易、潭州商业",
+    "strengths": [
+      "茶马贸易",
+      "湖南地理",
+      "马殷治楚"
+    ],
+    "weaknesses": [
+      "宗室内战",
+      "南唐入侵",
+      "南汉压力"
+    ],
+    "game_hooks": [
+      "马殷治楚",
+      "茶马古道",
+      "楚国内战",
+      "南唐灭楚"
+    ],
+    "summary": "楚据湖南，以茶叶与马匹贸易致富，但宗室内战导致被南唐所灭。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "southern-han",
+    "name": "南汉",
+    "name_en": "Southern Han",
+    "aliases": [
+      "汉",
+      "南汉",
+      "刘汉"
+    ],
+    "type": "kingdom",
+    "period": "十国",
+    "start": 917,
+    "end": 971,
+    "capital": "广州（后兴王府）",
+    "territory": "广东、广西、海南、越南北部一度",
+    "founders": [
+      "刘龑"
+    ],
+    "key_rulers": [
+      "刘龑",
+      "刘晟",
+      "刘鋹"
+    ],
+    "allies": [
+      "min",
+      "chu"
+    ],
+    "enemies": [
+      "song",
+      "southern-tang"
+    ],
+    "vassals": [],
+    "ideology": "岭南割据与海贸",
+    "military": "岭南牙兵、水军、象兵",
+    "economy": "海贸、香药、盐业、广州商业",
+    "strengths": [
+      "海贸",
+      "岭南地理",
+      "香药财富"
+    ],
+    "weaknesses": [
+      "暴政",
+      "宦官政治",
+      "宋军南下",
+      "象兵落后"
+    ],
+    "game_hooks": [
+      "广州海贸",
+      "香药贸易",
+      "刘龑称帝",
+      "宋灭南汉"
+    ],
+    "summary": "南汉据岭南，依靠海贸与香药致富，但暴政与宦官政治削弱国力，最终被北宋所灭。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "jingnan",
+    "name": "荆南（南平）",
+    "name_en": "Jingnan / Nanping",
+    "aliases": [
+      "荆南",
+      "南平",
+      "高氏荆南"
+    ],
+    "type": "kingdom",
+    "period": "十国",
+    "start": 924,
+    "end": 963,
+    "capital": "江陵",
+    "territory": "江陵、荆州、峡州一带",
+    "founders": [
+      "高季兴"
+    ],
+    "key_rulers": [
+      "高季兴",
+      "高从诲",
+      "高保融"
+    ],
+    "allies": [
+      "later-liang",
+      "later-tang",
+      "wuyue"
+    ],
+    "enemies": [
+      "chu",
+      "southern-tang",
+      "song"
+    ],
+    "vassals": [],
+    "ideology": "夹缝求生与商税",
+    "military": "江陵牙兵、水军",
+    "economy": "长江中游商税、过境贸易、江陵市场",
+    "strengths": [
+      "交通枢纽",
+      "外交灵活",
+      "商税"
+    ],
+    "weaknesses": [
+      "版图最小",
+      "四面强邻",
+      "军事弱"
+    ],
+    "game_hooks": [
+      "高季兴割据",
+      "江陵商税",
+      "夹缝外交",
+      "宋灭荆南"
+    ],
+    "summary": "荆南是十国中最小的政权，依靠江陵交通枢纽与灵活外交在夹缝中生存。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "northern-han",
+    "name": "北汉",
+    "name_en": "Northern Han",
+    "aliases": [
+      "汉",
+      "北汉",
+      "刘汉",
+      "河东汉"
+    ],
+    "type": "kingdom",
+    "period": "十国",
+    "start": 951,
+    "end": 979,
+    "capital": "太原",
+    "territory": "山西中北部",
+    "founders": [
+      "刘崇"
+    ],
+    "key_rulers": [
+      "刘崇",
+      "刘承钧",
+      "刘继元"
+    ],
+    "allies": [
+      "khitan"
+    ],
+    "enemies": [
+      "later-zhou",
+      "song"
+    ],
+    "vassals": [],
+    "ideology": "后汉延续与契丹依附",
+    "military": "河东骑兵、太原城防、契丹援军",
+    "economy": "河东农业、盐池、太原商业",
+    "strengths": [
+      "太原坚城",
+      "契丹支持",
+      "河东骑兵"
+    ],
+    "weaknesses": [
+      "国力弱小",
+      "契丹依赖",
+      "宋军围攻"
+    ],
+    "game_hooks": [
+      "刘崇建北汉",
+      "契丹援军",
+      "太原围城",
+      "宋灭北汉"
+    ],
+    "summary": "北汉是十国中唯一在北方的政权，依附契丹与太原坚城对抗后周和北宋。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/zhuhuang907-lang/cn-history-220-979/schemas/period.schema.json",
+  "title": "Historical period",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["id", "name", "start", "end", "summary", "themes", "game_hooks", "key_events", "sources"],
+    "properties": {
+      "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+      "name": { "type": "string" },
+      "start": { "type": "integer" },
+      "end": { "type": "integer" },
+      "parent": { "type": ["string", "null"] },
+      "summary": { "type": "string" },
+      "themes": { "type": "array", "items": { "type": "string" } },
+      "game_hooks": { "type": "array", "items": { "type": "string" } },
+      "key_events": { "type": "array", "items": { "type": "string" } },
+      "sources": { "type": "array", "items": { "type": "string" } }
+    }
+  }
+}

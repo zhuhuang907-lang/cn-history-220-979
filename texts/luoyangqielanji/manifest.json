@@ -1,0 +1,74 @@
+{
+  "source_id": "LUOYANGQIELANJI",
+  "title": "洛陽伽藍記",
+  "title_simplified": "洛阳伽蓝记",
+  "slug": "luoyangqielanji",
+  "page_title": "洛陽伽藍記",
+  "source_url": "https://zh.wikisource.org/wiki/%E6%B4%9B%E9%99%BD%E4%BC%BD%E8%97%8D%E8%A8%98",
+  "license": "CC BY-SA 4.0 (Wikisource transcription); classical text is public domain",
+  "fetched_at": "2026-11-14T02:52:55+00:00",
+  "volume_count": 5,
+  "chars": 36792,
+  "volumes": [
+    {
+      "file": "卷001.txt",
+      "page_title": "洛陽伽藍記/卷一",
+      "volume": 1,
+      "part": "",
+      "volume_label": "001",
+      "section": "",
+      "revid": null,
+      "url": "https://zh.wikisource.org/wiki/%E6%B4%9B%E9%99%BD%E4%BC%BD%E8%97%8D%E8%A8%98/%E5%8D%B7%E4%B8%80",
+      "chars": 8226,
+      "skipped": true
+    },
+    {
+      "file": "卷002.txt",
+      "page_title": "洛陽伽藍記/卷二",
+      "volume": 2,
+      "part": "",
+      "volume_label": "002",
+      "section": "",
+      "revid": null,
+      "url": "https://zh.wikisource.org/wiki/%E6%B4%9B%E9%99%BD%E4%BC%BD%E8%97%8D%E8%A8%98/%E5%8D%B7%E4%BA%8C",
+      "chars": 8599,
+      "skipped": true
+    },
+    {
+      "file": "卷003.txt",
+      "page_title": "洛陽伽藍記/卷三",
+      "volume": 3,
+      "part": "",
+      "volume_label": "003",
+      "section": "",
+      "revid": null,
+      "url": "https://zh.wikisource.org/wiki/%E6%B4%9B%E9%99%BD%E4%BC%BD%E8%97%8D%E8%A8%98/%E5%8D%B7%E4%B8%89",
+      "chars": 5824,
+      "skipped": true
+    },
+    {
+      "file": "卷004.txt",
+      "page_title": "洛陽伽藍記/卷四",
+      "volume": 4,
+      "part": "",
+      "volume_label": "004",
+      "section": "",
+      "revid": null,
+      "url": "https://zh.wikisource.org/wiki/%E6%B4%9B%E9%99%BD%E4%BC%BD%E8%97%8D%E8%A8%98/%E5%8D%B7%E5%9B%9B",
+      "chars": 7340,
+      "skipped": true
+    },
+    {
+      "file": "卷005.txt",
+      "page_title": "洛陽伽藍記/卷五",
+      "volume": 5,
+      "part": "",
+      "volume_label": "005",
+      "section": "",
+      "revid": null,
+      "url": "https://zh.wikisource.org/wiki/%E6%B4%9B%E9%99%BD%E4%BC%BD%E8%97%8D%E8%A8%98/%E5%8D%B7%E4%BA%94",
+      "chars": 6803,
+      "skipped": true
+    }
+  ]
+}

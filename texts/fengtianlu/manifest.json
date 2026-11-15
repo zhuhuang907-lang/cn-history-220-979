@@ -1,0 +1,62 @@
+{
+  "source_id": "FENGTIANLU",
+  "title": "奉天錄",
+  "title_simplified": "奉天录",
+  "slug": "fengtianlu",
+  "page_title": "奉天錄",
+  "source_url": "https://zh.wikisource.org/wiki/%E5%A5%89%E5%A4%A9%E9%8C%84",
+  "license": "CC BY-SA 4.0 (Wikisource transcription); classical text is public domain",
+  "fetched_at": "2026-11-14T02:59:07+00:00",
+  "volume_count": 4,
+  "chars": 25314,
+  "volumes": [
+    {
+      "file": "卷001.txt",
+      "page_title": "奉天錄/卷1",
+      "volume": 1,
+      "part": "",
+      "volume_label": "001",
+      "section": "",
+      "revid": 2014098,
+      "url": "https://zh.wikisource.org/wiki/%E5%A5%89%E5%A4%A9%E9%8C%84/%E5%8D%B71",
+      "chars": 7996,
+      "sha256": "ea0a81e0e522b109419fd6b22cc76d4afdcad32faf519be367fe3da4fa931f09"
+    },
+    {
+      "file": "卷002.txt",
+      "page_title": "奉天錄/卷2",
+      "volume": 2,
+      "part": "",
+      "volume_label": "002",
+      "section": "",
+      "revid": 2014105,
+      "url": "https://zh.wikisource.org/wiki/%E5%A5%89%E5%A4%A9%E9%8C%84/%E5%8D%B72",
+      "chars": 5592,
+      "sha256": "43efe51fd9853c1e46000b7feef5f7b8dee3638a4c5895cbe4b961af9c79c2d6"
+    },
+    {
+      "file": "卷003.txt",
+      "page_title": "奉天錄/卷3",
+      "volume": 3,
+      "part": "",
+      "volume_label": "003",
+      "section": "",
+      "revid": 2014111,
+      "url": "https://zh.wikisource.org/wiki/%E5%A5%89%E5%A4%A9%E9%8C%84/%E5%8D%B73",
+      "chars": 5710,
+      "sha256": "4bb01379a167cd5862789b8313ce9d93edecdedcb475b720fb7fc0c570b22a58"
+    },
+    {
+      "file": "卷004.txt",
+      "page_title": "奉天錄/卷4",
+      "volume": 4,
+      "part": "",
+      "volume_label": "004",
+      "section": "",
+      "revid": 2014112,
+      "url": "https://zh.wikisource.org/wiki/%E5%A5%89%E5%A4%A9%E9%8C%84/%E5%8D%B74",
+      "chars": 6016,
+      "sha256": "051e328b7194e87edc75e7aea49eb170d3ec3b2d8dfc88c764f4cee7ee41fed4"
+    }
+  ]
+}

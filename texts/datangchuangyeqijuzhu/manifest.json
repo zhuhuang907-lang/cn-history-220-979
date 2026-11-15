@@ -1,0 +1,50 @@
+{
+  "source_id": "DATANGCHUANGYEQIJUZHU",
+  "title": "大唐創業起居注",
+  "title_simplified": "大唐创业起居注",
+  "slug": "datangchuangyeqijuzhu",
+  "page_title": "大唐創業起居注",
+  "source_url": "https://zh.wikisource.org/wiki/%E5%A4%A7%E5%94%90%E5%89%B5%E6%A5%AD%E8%B5%B7%E5%B1%85%E6%B3%A8",
+  "license": "CC BY-SA 4.0 (Wikisource transcription); classical text is public domain",
+  "fetched_at": "2026-11-14T03:01:55+00:00",
+  "volume_count": 3,
+  "chars": 26771,
+  "volumes": [
+    {
+      "file": "卷001.txt",
+      "page_title": "大唐創業起居注/卷一",
+      "volume": 1,
+      "part": "",
+      "volume_label": "001",
+      "section": "卷一",
+      "revid": 460477,
+      "url": "https://zh.wikisource.org/wiki/%E5%A4%A7%E5%94%90%E5%89%B5%E6%A5%AD%E8%B5%B7%E5%B1%85%E6%B3%A8/%E5%8D%B7%E4%B8%80",
+      "chars": 7743,
+      "sha256": "4e8febb4310501850b95b53d59d414d81fbf2cffd21521ccd5ac4a2a547087ca"
+    },
+    {
+      "file": "卷002.txt",
+      "page_title": "大唐創業起居注/卷二",
+      "volume": 2,
+      "part": "",
+      "volume_label": "002",
+      "section": "卷二",
+      "revid": 460478,
+      "url": "https://zh.wikisource.org/wiki/%E5%A4%A7%E5%94%90%E5%89%B5%E6%A5%AD%E8%B5%B7%E5%B1%85%E6%B3%A8/%E5%8D%B7%E4%BA%8C",
+      "chars": 11153,
+      "sha256": "2843c8c758f495e07ce67b350e9d52f58ef753311e27f10104dedda31e6a5341"
+    },
+    {
+      "file": "卷003.txt",
+      "page_title": "大唐創業起居注/卷三",
+      "volume": 3,
+      "part": "",
+      "volume_label": "003",
+      "section": "卷三",
+      "revid": 2311000,
+      "url": "https://zh.wikisource.org/wiki/%E5%A4%A7%E5%94%90%E5%89%B5%E6%A5%AD%E8%B5%B7%E5%B1%85%E6%B3%A8/%E5%8D%B7%E4%B8%89",
+      "chars": 7875,
+      "sha256": "ac8424af4c57a88af83754e0a2681386f6db5fa3881d661148d55e937cfee807"
+    }
+  ]
+}

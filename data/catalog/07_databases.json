@@ -1,0 +1,349 @@
+[
+  {
+    "id": "DB_CBDB",
+    "type": "database",
+    "priority": "core",
+    "title": "中国历代人物传记资料库（CBDB）",
+    "title_trad": "中國歷代人物傳記資料庫（CBDB）",
+    "title_en": "China Biographical Database",
+    "aliases": [
+      "CBDB",
+      "China Biographical Database"
+    ],
+    "authors": [
+      {
+        "name": "哈佛大学、北京大学等",
+        "dates": "持续更新",
+        "role": "维护"
+      }
+    ],
+    "date": "持续更新",
+    "periods": [
+      "跨期",
+      "唐",
+      "五代",
+      "宋"
+    ],
+    "genre": "人物数据库",
+    "reliability": "D",
+    "summary": "大规模中国历史人物关系数据库，收录人物、官职、社会关系、地址、科举等信息，支持查询与批量下载。",
+    "game_use": "批量生成人物、家族、仕宦、社会关系网络；校验人物年代与官职。",
+    "caveats": "数据覆盖不均，唐五代相对宋明清较少；使用需遵守其许可与引用规范。",
+    "copyright": "open data; see website license",
+    "links": {
+      "database": "https://cbdb.fas.harvard.edu/"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "数据库",
+      "人物",
+      "社会网络",
+      "工具"
+    ]
+  },
+  {
+    "id": "DB_DILA",
+    "type": "database",
+    "priority": "core",
+    "title": "中央研究院数位人文研究平台（DILA）",
+    "title_trad": "中央研究院數位人文研究平台（DILA）",
+    "title_en": "Academia Sinica Digital Humanities Research Platform",
+    "aliases": [
+      "DILA",
+      "数位人文",
+      "人名权威资料库"
+    ],
+    "authors": [
+      {
+        "name": "中央研究院",
+        "dates": "持续更新",
+        "role": "维护"
+      }
+    ],
+    "date": "持续更新",
+    "periods": [
+      "跨期"
+    ],
+    "genre": "数字人文平台",
+    "reliability": "D",
+    "summary": "整合人名权威、地理、职官、典籍等数据，提供全文检索与关联查询，适合查人物、地名、官职规范。",
+    "game_use": "人物异名、地名沿革、职官对照、史料检索。",
+    "caveats": "各子库许可不同；引用需注明来源。",
+    "copyright": "mixed; see website",
+    "links": {
+      "database": "https://dila.ascdc.sinica.edu.tw/"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "数据库",
+      "人名",
+      "地理",
+      "职官",
+      "工具"
+    ]
+  },
+  {
+    "id": "DB_CCTS",
+    "type": "database",
+    "priority": "extended",
+    "title": "中华文明之时空基础架构（CCTS）",
+    "title_trad": "中華文明之時空基礎架構（CCTS）",
+    "title_en": "Chinese Civilization in Time and Space",
+    "aliases": [
+      "CCTS",
+      "中华文明时空基础架构"
+    ],
+    "authors": [
+      {
+        "name": "中央研究院",
+        "dates": "持续更新",
+        "role": "维护"
+      }
+    ],
+    "date": "持续更新",
+    "periods": [
+      "跨期"
+    ],
+    "genre": "历史地理信息系统",
+    "reliability": "D",
+    "summary": "以历史地图与GIS为基础，整合政区、地名、聚落、交通、环境等数据，适合做历史地图与空间分析。",
+    "game_use": "历史地图、政区边界、城池位置、行军路线、地理分析。",
+    "caveats": "地图精度与年代覆盖不均；使用需遵守许可。",
+    "copyright": "mixed; see website",
+    "links": {
+      "database": "https://ccts.sinica.edu.tw/"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "数据库",
+      "GIS",
+      "地图",
+      "地理",
+      "工具"
+    ]
+  },
+  {
+    "id": "DB_CTEXT",
+    "type": "database",
+    "priority": "core",
+    "title": "中国哲学书电子化计划（CTEXT）",
+    "title_trad": "中國哲學書電子化計劃（CTEXT）",
+    "title_en": "Chinese Text Project",
+    "aliases": [
+      "CTEXT",
+      "中国哲学书电子化计划"
+    ],
+    "authors": [
+      {
+        "name": "Donald Sturgeon 等",
+        "dates": "持续更新",
+        "role": "维护"
+      }
+    ],
+    "date": "持续更新",
+    "periods": [
+      "跨期"
+    ],
+    "genre": "古籍全文数据库",
+    "reliability": "D",
+    "summary": "大型古籍全文库，收经史子集，支持原文、注释、检索、异文对照，是快速查证引文的首选。",
+    "game_use": "查引文、核对原文、查找人物与制度出处。",
+    "caveats": "文本来源与校勘质量不一；正式引用需核对纸本或权威版本。",
+    "copyright": "mixed; see website terms",
+    "links": {
+      "database": "https://ctext.org/"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "数据库",
+      "古籍",
+      "全文检索",
+      "工具"
+    ]
+  },
+  {
+    "id": "DB_KANRIPO",
+    "type": "database",
+    "priority": "core",
+    "title": "汉籍リポジトリ（Kanripo）",
+    "title_trad": "漢籍リポジトリ（Kanripo）",
+    "title_en": "Kanripo Chinese Text Repository",
+    "aliases": [
+      "Kanripo",
+      "汉籍仓库",
+      "漢籍リポジトリ"
+    ],
+    "authors": [
+      {
+        "name": "京都大学等",
+        "dates": "持续更新",
+        "role": "维护"
+      }
+    ],
+    "date": "持续更新",
+    "periods": [
+      "跨期"
+    ],
+    "genre": "古籍全文仓库",
+    "reliability": "D",
+    "summary": "以GitHub仓库形式提供大量汉籍全文，便于批量下载、版本管理与文本分析。",
+    "game_use": "批量获取正史、诸子、集部文本；做NLP、检索、引用。",
+    "caveats": "各仓库许可与文本质量不一；使用前需核对来源与许可。",
+    "copyright": "mixed; see each repository",
+    "links": {
+      "database": "https://www.kanripo.org/"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "数据库",
+      "古籍",
+      "GitHub",
+      "文本"
+    ]
+  },
+  {
+    "id": "DB_WIKISOURCE",
+    "type": "database",
+    "priority": "core",
+    "title": "维基文库（中文）",
+    "title_trad": "維基文庫（中文）",
+    "title_en": "Chinese Wikisource",
+    "aliases": [
+      "Wikisource",
+      "维基文库"
+    ],
+    "authors": [
+      {
+        "name": "Wikimedia 社区",
+        "dates": "持续更新",
+        "role": "维护"
+      }
+    ],
+    "date": "持续更新",
+    "periods": [
+      "跨期"
+    ],
+    "genre": "公有领域文本库",
+    "reliability": "D",
+    "summary": "公有领域古籍与文献的协作转录平台，提供全文、版本信息、修订历史，适合作为本库的文本来源。",
+    "game_use": "获取公版古籍全文；追溯文本来源与修订。",
+    "caveats": "转录质量与完整性不一；需核对修订历史与原始版本。",
+    "copyright": "CC BY-SA 4.0 (transcriptions); texts public domain",
+    "links": {
+      "database": "https://zh.wikisource.org/"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "数据库",
+      "古籍",
+      "公版",
+      "文本"
+    ]
+  },
+  {
+    "id": "DB_NLC",
+    "type": "database",
+    "priority": "extended",
+    "title": "中华古籍资源库（中国国家图书馆）",
+    "title_trad": "中華古籍資源庫（中國國家圖書館）",
+    "title_en": "Chinese Ancient Books Resource Library, National Library of China",
+    "aliases": [
+      "中华古籍资源库",
+      "国图古籍"
+    ],
+    "authors": [
+      {
+        "name": "中国国家图书馆",
+        "dates": "持续更新",
+        "role": "维护"
+      }
+    ],
+    "date": "持续更新",
+    "periods": [
+      "跨期"
+    ],
+    "genre": "古籍影像数据库",
+    "reliability": "D",
+    "summary": "中国国家图书馆古籍影像库，提供宋元明清刻本、抄本、稿本的高清影像，适合核对版本与版式。",
+    "game_use": "核对古籍版本、字体、版式、插图、印章；做视觉参考。",
+    "caveats": "以影像为主，检索与下载受限；使用需遵守馆方规定。",
+    "copyright": "see website terms",
+    "links": {
+      "database": "https://www.nlc.cn/"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "数据库",
+      "古籍影像",
+      "版本",
+      "视觉"
+    ]
+  },
+  {
+    "id": "DB_IDP",
+    "type": "database",
+    "priority": "extended",
+    "title": "国际敦煌项目（IDP）",
+    "title_trad": "國際敦煌項目（IDP）",
+    "title_en": "International Dunhuang Project",
+    "aliases": [
+      "IDP",
+      "国际敦煌项目"
+    ],
+    "authors": [
+      {
+        "name": "大英图书馆等",
+        "dates": "持续更新",
+        "role": "维护"
+      }
+    ],
+    "date": "持续更新",
+    "periods": [
+      "唐",
+      "五代",
+      "十国",
+      "宋初"
+    ],
+    "genre": "敦煌文献数据库",
+    "reliability": "D",
+    "summary": "整合敦煌、吐鲁番等地出土文献的目录与高清影像，是晚唐五代西北史、社会史、宗教史的核心资源。",
+    "game_use": "敦煌文书、归义军、丝路、地方社会、宗教文本、视觉素材。",
+    "caveats": "文献分散、语言多样、断代复杂；需专业解读。",
+    "copyright": "mixed; see website",
+    "links": {
+      "database": "https://idp.bl.uk/"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "数据库",
+      "敦煌",
+      "文书",
+      "晚唐",
+      "五代"
+    ]
+  }
+]

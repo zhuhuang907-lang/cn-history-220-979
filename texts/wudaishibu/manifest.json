@@ -1,0 +1,74 @@
+{
+  "source_id": "WUDAISHIBU",
+  "title": "五代史補",
+  "title_simplified": "五代史补",
+  "slug": "wudaishibu",
+  "page_title": "五代史補",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%BA%94%E4%BB%A3%E5%8F%B2%E8%A3%9C",
+  "license": "CC BY-SA 4.0 (Wikisource transcription); classical text is public domain",
+  "fetched_at": "2026-11-14T03:03:45+00:00",
+  "volume_count": 5,
+  "chars": 29623,
+  "volumes": [
+    {
+      "file": "卷001.txt",
+      "page_title": "五代史補/卷1",
+      "volume": 1,
+      "part": "",
+      "volume_label": "001",
+      "section": "卷一",
+      "revid": 340610,
+      "url": "https://zh.wikisource.org/wiki/%E4%BA%94%E4%BB%A3%E5%8F%B2%E8%A3%9C/%E5%8D%B71",
+      "chars": 5133,
+      "sha256": "91c9db0e3b7e634616812f413794dd5bcdd9cea5983b2906be931a79f432f493"
+    },
+    {
+      "file": "卷002.txt",
+      "page_title": "五代史補/卷2",
+      "volume": 2,
+      "part": "",
+      "volume_label": "002",
+      "section": "卷二",
+      "revid": 1554414,
+      "url": "https://zh.wikisource.org/wiki/%E4%BA%94%E4%BB%A3%E5%8F%B2%E8%A3%9C/%E5%8D%B72",
+      "chars": 5941,
+      "sha256": "37fa6b59a29eaea0df131f92cc3211ad9c439cc724056d5406b53f6add6776ab"
+    },
+    {
+      "file": "卷003.txt",
+      "page_title": "五代史補/卷3",
+      "volume": 3,
+      "part": "",
+      "volume_label": "003",
+      "section": "卷三",
+      "revid": 1462630,
+      "url": "https://zh.wikisource.org/wiki/%E4%BA%94%E4%BB%A3%E5%8F%B2%E8%A3%9C/%E5%8D%B73",
+      "chars": 6189,
+      "sha256": "f94466b62d00eb3b6270d11b62e78365a68fb99a30b44b1dae35522be2979892"
+    },
+    {
+      "file": "卷004.txt",
+      "page_title": "五代史補/卷4",
+      "volume": 4,
+      "part": "",
+      "volume_label": "004",
+      "section": "卷四",
+      "revid": 1153202,
+      "url": "https://zh.wikisource.org/wiki/%E4%BA%94%E4%BB%A3%E5%8F%B2%E8%A3%9C/%E5%8D%B74",
+      "chars": 6001,
+      "sha256": "da0dd20172d05497e9b150ee7bed11a967f0e2ccf5f4ce11fe97425a7589fb1e"
+    },
+    {
+      "file": "卷005.txt",
+      "page_title": "五代史補/卷5",
+      "volume": 5,
+      "part": "",
+      "volume_label": "005",
+      "section": "卷五",
+      "revid": 1754500,
+      "url": "https://zh.wikisource.org/wiki/%E4%BA%94%E4%BB%A3%E5%8F%B2%E8%A3%9C/%E5%8D%B75",
+      "chars": 6359,
+      "sha256": "05b8335396fc8e38a1ec4ac0c663d44d67e3593a2697714a92178754980c19a7"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "source_id": "TANGYULIN",
+  "title": "唐語林",
+  "title_simplified": "唐语林",
+  "slug": "tangyulin",
+  "page_title": "唐語林",
+  "source_url": "https://zh.wikisource.org/wiki/%E5%94%90%E8%AA%9E%E6%9E%97",
+  "license": "CC BY-SA 4.0 (Wikisource transcription); classical text is public domain",
+  "fetched_at": "2026-11-14T03:02:36+00:00",
+  "volume_count": 8,
+  "chars": 178537,
+  "volumes": [
+    {
+      "file": "卷001.txt",
+      "page_title": "唐語林/卷一",
+      "volume": 1,
+      "part": "",
+      "volume_label": "001",
+      "section": "",
+      "revid": 2626679,
+      "url": "https://zh.wikisource.org/wiki/%E5%94%90%E8%AA%9E%E6%9E%97/%E5%8D%B7%E4%B8%80",
+      "chars": 18099,
+      "sha256": "4e3e48f9d2d73731c05242e50196a1f7ccf2b799bef67f1dd04ce56ce0bf4111"
+    },
+    {
+      "file": "卷002.txt",
+      "page_title": "唐語林/卷二",
+      "volume": 2,
+      "part": "",
+      "volume_label": "002",
+      "section": "",
+      "revid": 1153703,
+      "url": "https://zh.wikisource.org/wiki/%E5%94%90%E8%AA%9E%E6%9E%97/%E5%8D%B7%E4%BA%8C",
+      "chars": 19598,
+      "sha256": "37ada3bd9a373980b80a53eea7eda1190c7561559119eb7cf8db0186071ffa9c"
+    },
+    {
+      "file": "卷003.txt",
+      "page_title": "唐語林/卷三",
+      "volume": 3,
+      "part": "",
+      "volume_label": "003",
+      "section": "",
+      "revid": 840284,
+      "url": "https://zh.wikisource.org/wiki/%E5%94%90%E8%AA%9E%E6%9E%97/%E5%8D%B7%E4%B8%89",
+      "chars": 26443,
+      "sha256": "8eb5a9f4e42b0be35164fccb992492dae2380f238083ea100c224c8b514ecaaf"
+    },
+    {
+      "file": "卷004.txt",
+      "page_title": "唐語林/卷四",
+      "volume": 4,
+      "part": "",
+      "volume_label": "004",
+      "section": "",
+      "revid": 2605095,
+      "url": "https://zh.wikisource.org/wiki/%E5%94%90%E8%AA%9E%E6%9E%97/%E5%8D%B7%E5%9B%9B",
+      "chars": 18960,
+      "sha256": "b67704dec9d90727c2b571fa1bf58068fee706c89a207bb3f7a942f9e38f984e"
+    },
+    {
+      "file": "卷005.txt",
+      "page_title": "唐語林/卷五",
+      "volume": 5,
+      "part": "",
+      "volume_label": "005",
+      "section": "",
+      "revid": 2401979,
+      "url": "https://zh.wikisource.org/wiki/%E5%94%90%E8%AA%9E%E6%9E%97/%E5%8D%B7%E4%BA%94",
+      "chars": 42675,
+      "sha256": "d46e78efd1f149d393b5968955b7f47501486563d77f2d4ba583c24420bff606"
+    },
+    {
+      "file": "卷006.txt",
+      "page_title": "唐語林/卷六",
+      "volume": 6,
+      "part": "",
+      "volume_label": "006",
+      "section": "",
+      "revid": 2626386,
+      "url": "https://zh.wikisource.org/wiki/%E5%94%90%E8%AA%9E%E6%9E%97/%E5%8D%B7%E5%85%AD",
+      "chars": 20066,
+      "sha256": "f2d2465032bf21394d4ed4dc90864eac5f747bae6863d03a5259e287fe9923c2"
+    },
+    {
+      "file": "卷007.txt",
+      "page_title": "唐語林/卷七",
+      "volume": 7,
+      "part": "",
+      "volume_label": "007",
+      "section": "",
+      "revid": 2575147,
+      "url": "https://zh.wikisource.org/wiki/%E5%94%90%E8%AA%9E%E6%9E%97/%E5%8D%B7%E4%B8%83",
+      "chars": 16750,
+      "sha256": "aa987ffac08ee8ad672ac11b1b9901e8aabb3d619055d55ee4928de15eb427ed"
+    },
+    {
+      "file": "卷008.txt",
+      "page_title": "唐語林/卷八",
+      "volume": 8,
+      "part": "",
+      "volume_label": "008",
+      "section": "",
+      "revid": 2603793,
+      "url": "https://zh.wikisource.org/wiki/%E5%94%90%E8%AA%9E%E6%9E%97/%E5%8D%B7%E5%85%AB",
+      "chars": 15946,
+      "sha256": "b7b1ac3f66e40a9c8e0881e4b30a0a410ca61d96a39c79aff52acfe48040d473"
+    }
+  ]
+}

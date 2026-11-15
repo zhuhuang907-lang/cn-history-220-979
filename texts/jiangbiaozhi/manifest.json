@@ -1,0 +1,50 @@
+{
+  "source_id": "JIANGBIAOZHI",
+  "title": "江表志",
+  "title_simplified": "江表志",
+  "slug": "jiangbiaozhi",
+  "page_title": "江表志",
+  "source_url": "https://zh.wikisource.org/wiki/%E6%B1%9F%E8%A1%A8%E5%BF%97",
+  "license": "CC BY-SA 4.0 (Wikisource transcription); classical text is public domain",
+  "fetched_at": "2026-11-14T03:04:09+00:00",
+  "volume_count": 3,
+  "chars": 9578,
+  "volumes": [
+    {
+      "file": "卷001.txt",
+      "page_title": "江表志/卷上",
+      "volume": 1,
+      "part": "",
+      "volume_label": "001",
+      "section": "",
+      "revid": 2518449,
+      "url": "https://zh.wikisource.org/wiki/%E6%B1%9F%E8%A1%A8%E5%BF%97/%E5%8D%B7%E4%B8%8A",
+      "chars": 1578,
+      "sha256": "fd5c3b43f1405ac94fe7363d4cb47624ddf887f41d81d9f370f3e3bc68a4dfae"
+    },
+    {
+      "file": "卷002.txt",
+      "page_title": "江表志/卷中",
+      "volume": 2,
+      "part": "",
+      "volume_label": "002",
+      "section": "",
+      "revid": 2518458,
+      "url": "https://zh.wikisource.org/wiki/%E6%B1%9F%E8%A1%A8%E5%BF%97/%E5%8D%B7%E4%B8%AD",
+      "chars": 4542,
+      "sha256": "86e127b302696bd97f3a62a0303f4239028b1b9f0b65e48040a57aed624c968a"
+    },
+    {
+      "file": "卷003.txt",
+      "page_title": "江表志/卷下",
+      "volume": 3,
+      "part": "",
+      "volume_label": "003",
+      "section": "",
+      "revid": 2518457,
+      "url": "https://zh.wikisource.org/wiki/%E6%B1%9F%E8%A1%A8%E5%BF%97/%E5%8D%B7%E4%B8%8B",
+      "chars": 3458,
+      "sha256": "d941940cba7a5202ad712591d260baddb4879ad64ce42527c0db45bf5ec341f1"
+    }
+  ]
+}

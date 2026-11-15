@@ -1,0 +1,138 @@
+{
+  "counts": {
+    "factions": 96,
+    "characters": 159,
+    "events": 155,
+    "locations": 87,
+    "glossary": 90,
+    "disambiguation": 22,
+    "periods": 15
+  },
+  "periods": [
+    {
+      "id": "late-han",
+      "name": "东汉末",
+      "start": 184,
+      "end": 220
+    },
+    {
+      "id": "three-kingdoms",
+      "name": "三国",
+      "start": 220,
+      "end": 280
+    },
+    {
+      "id": "western-jin",
+      "name": "西晋",
+      "start": 266,
+      "end": 316
+    },
+    {
+      "id": "eastern-jin",
+      "name": "东晋",
+      "start": 317,
+      "end": 420
+    },
+    {
+      "id": "sixteen-kingdoms",
+      "name": "十六国",
+      "start": 304,
+      "end": 439
+    },
+    {
+      "id": "southern-dynasties",
+      "name": "南朝",
+      "start": 420,
+      "end": 589
+    },
+    {
+      "id": "northern-dynasties",
+      "name": "北朝",
+      "start": 386,
+      "end": 581
+    },
+    {
+      "id": "sui",
+      "name": "隋",
+      "start": 581,
+      "end": 618
+    },
+    {
+      "id": "early-tang",
+      "name": "初唐",
+      "start": 618,
+      "end": 712
+    },
+    {
+      "id": "high-tang",
+      "name": "盛唐",
+      "start": 712,
+      "end": 755
+    },
+    {
+      "id": "mid-tang",
+      "name": "中唐",
+      "start": 755,
+      "end": 835
+    },
+    {
+      "id": "late-tang",
+      "name": "晚唐",
+      "start": 835,
+      "end": 907
+    },
+    {
+      "id": "five-dynasties",
+      "name": "五代",
+      "start": 907,
+      "end": 960
+    },
+    {
+      "id": "ten-kingdoms",
+      "name": "十国",
+      "start": 902,
+      "end": 979
+    },
+    {
+      "id": "song-unification",
+      "name": "宋初统一",
+      "start": 960,
+      "end": 979
+    }
+  ],
+  "event_types": [
+    "administrative",
+    "battle",
+    "coup",
+    "cultural",
+    "diplomatic",
+    "rebellion",
+    "reform",
+    "religious",
+    "succession",
+    "treaty",
+    "war"
+  ],
+  "faction_types": [
+    "dynasty",
+    "empire",
+    "garrison",
+    "kingdom",
+    "rebel",
+    "regional-regime",
+    "tribal-confederation",
+    "warlord"
+  ],
+  "reliability_levels": [
+    "A"
+  ],
+  "files": {
+    "factions": "data/game/factions.json",
+    "characters": "data/game/characters.json",
+    "events": "data/game/events.json",
+    "locations": "data/game/locations.json",
+    "glossary": "data/game/glossary.json",
+    "disambiguation": "data/game/disambiguation.json",
+    "periods": "data/game/periods.json"
+  }
+}

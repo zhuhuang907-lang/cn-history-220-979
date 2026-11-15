@@ -1,0 +1,62 @@
+{
+  "source_id": "KAIYUANTIANBAOYISHI",
+  "title": "開元天寶遺事",
+  "title_simplified": "开元天宝遗事",
+  "slug": "kaiyuantianbaoyishi",
+  "page_title": "開元天寶遺事",
+  "source_url": "https://zh.wikisource.org/wiki/%E9%96%8B%E5%85%83%E5%A4%A9%E5%AF%B6%E9%81%BA%E4%BA%8B",
+  "license": "CC BY-SA 4.0 (Wikisource transcription); classical text is public domain",
+  "fetched_at": "2026-11-14T03:03:18+00:00",
+  "volume_count": 4,
+  "chars": 13550,
+  "volumes": [
+    {
+      "file": "卷001.txt",
+      "page_title": "開元天寶遺事/卷一",
+      "volume": 1,
+      "part": "",
+      "volume_label": "001",
+      "section": "",
+      "revid": 2567491,
+      "url": "https://zh.wikisource.org/wiki/%E9%96%8B%E5%85%83%E5%A4%A9%E5%AF%B6%E9%81%BA%E4%BA%8B/%E5%8D%B7%E4%B8%80",
+      "chars": 3531,
+      "sha256": "58bfd0bc82e2386d2c17d4947241c3eab77b910d449a48d6886a8182ef6ffad6"
+    },
+    {
+      "file": "卷002.txt",
+      "page_title": "開元天寶遺事/卷二",
+      "volume": 2,
+      "part": "",
+      "volume_label": "002",
+      "section": "",
+      "revid": 2567494,
+      "url": "https://zh.wikisource.org/wiki/%E9%96%8B%E5%85%83%E5%A4%A9%E5%AF%B6%E9%81%BA%E4%BA%8B/%E5%8D%B7%E4%BA%8C",
+      "chars": 3450,
+      "sha256": "5ce2761525e0b59563f9d3dd9c28fac11d7697df88af45a8ca56bf2fddc4583f"
+    },
+    {
+      "file": "卷003.txt",
+      "page_title": "開元天寶遺事/卷三",
+      "volume": 3,
+      "part": "",
+      "volume_label": "003",
+      "section": "",
+      "revid": 2567492,
+      "url": "https://zh.wikisource.org/wiki/%E9%96%8B%E5%85%83%E5%A4%A9%E5%AF%B6%E9%81%BA%E4%BA%8B/%E5%8D%B7%E4%B8%89",
+      "chars": 3585,
+      "sha256": "2de9a6dee5634ac1e8775747ffb55bb58d6a78f31e109062bee45dac342e99bd"
+    },
+    {
+      "file": "卷004.txt",
+      "page_title": "開元天寶遺事/卷四",
+      "volume": 4,
+      "part": "",
+      "volume_label": "004",
+      "section": "",
+      "revid": 2567495,
+      "url": "https://zh.wikisource.org/wiki/%E9%96%8B%E5%85%83%E5%A4%A9%E5%AF%B6%E9%81%BA%E4%BA%8B/%E5%8D%B7%E5%9B%9B",
+      "chars": 2984,
+      "sha256": "88c366bea35cad9fa59c192cd020dfd6c5b49df9f3a74eb5593621d377fdbe36"
+    }
+  ]
+}

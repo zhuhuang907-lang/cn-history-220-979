@@ -1,0 +1,26 @@
+{
+  "source_id": "DIAOJILITAN",
+  "title": "釣磯立談",
+  "title_simplified": "钓矶立谈",
+  "slug": "diaojilitan",
+  "page_title": "釣磯立談",
+  "source_url": "https://zh.wikisource.org/wiki/%E9%87%A3%E7%A3%AF%E7%AB%8B%E8%AB%87",
+  "license": "CC BY-SA 4.0 (Wikisource transcription); classical text is public domain",
+  "fetched_at": "2026-11-14T03:04:11+00:00",
+  "volume_count": 1,
+  "chars": 26491,
+  "volumes": [
+    {
+      "file": "卷001.txt",
+      "page_title": "釣磯立談",
+      "volume": 1,
+      "part": "",
+      "volume_label": "001",
+      "section": "",
+      "revid": 2638079,
+      "url": "https://zh.wikisource.org/wiki/%E9%87%A3%E7%A3%AF%E7%AB%8B%E8%AB%87",
+      "chars": 26491,
+      "sha256": "e4165f780887b66902d63252ffb4462fb541a45c1cefc67f7142998b2a4656e5"
+    }
+  ]
+}

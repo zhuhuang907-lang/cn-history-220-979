@@ -1,0 +1,56 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/zhuhuang907-lang/cn-history-220-979/schemas/catalog.schema.json",
+  "title": "Catalog entry",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["id", "type", "priority", "title", "periods", "genre", "reliability", "summary", "game_use", "links", "fulltext", "tags"],
+    "properties": {
+      "id": { "type": "string", "pattern": "^[A-Za-z0-9_]+$" },
+      "type": { "type": "string", "enum": ["primary", "modern", "fiction", "database"] },
+      "priority": { "type": "string", "enum": ["core", "extended", "reference"] },
+      "title": { "type": "string" },
+      "title_trad": { "type": "string" },
+      "title_en": { "type": "string" },
+      "aliases": { "type": "array", "items": { "type": "string" } },
+      "authors": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["name"],
+          "properties": {
+            "name": { "type": "string" },
+            "dates": { "type": "string" },
+            "role": { "type": "string" }
+          }
+        }
+      },
+      "date": { "type": "string" },
+      "periods": { "type": "array", "items": { "type": "string" } },
+      "cover_start": { "type": ["integer", "null"] },
+      "cover_end": { "type": ["integer", "null"] },
+      "genre": { "type": "string" },
+      "structure": { "type": "string" },
+      "reliability": { "type": "string", "enum": ["A", "A/B", "B", "B/C", "C", "M", "F", "D"] },
+      "summary": { "type": "string" },
+      "game_use": { "type": "string" },
+      "caveats": { "type": "string" },
+      "links": { "type": "object", "additionalProperties": { "type": "string" } },
+      "fulltext": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["status"],
+        "properties": {
+          "status": { "type": "string", "enum": ["included", "external", "partial", "planned"] },
+          "path": { "type": ["string", "null"] },
+          "note": { "type": "string" }
+        }
+      },
+      "tags": { "type": "array", "items": { "type": "string" } },
+      "copyright": { "type": "string" }
+    }
+  }
+}

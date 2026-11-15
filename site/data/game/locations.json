@@ -1,0 +1,2395 @@
+[
+  {
+    "id": "luoyang",
+    "name": "洛阳",
+    "name_en": "Luoyang",
+    "aliases": [
+      "洛邑",
+      "东京",
+      "东都",
+      "神都"
+    ],
+    "type": "capital",
+    "modern_name": "河南省洛阳市",
+    "province": "河南",
+    "lat": 34.62,
+    "lon": 112.45,
+    "periods": [
+      "东汉",
+      "曹魏",
+      "西晋",
+      "北魏",
+      "隋",
+      "唐",
+      "五代"
+    ],
+    "sources": [
+      "HOUHANSHU",
+      "JINSHU",
+      "WEISHU",
+      "LUOYANGQIELANJI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "东汉、曹魏、西晋、北魏、隋唐东都，五代后唐都城；多次毁于战乱又重建。",
+    "strategic_value": ""
+  },
+  {
+    "id": "changan",
+    "name": "长安",
+    "name_en": "Chang'an",
+    "aliases": [
+      "京兆",
+      "西京",
+      "大兴城"
+    ],
+    "type": "capital",
+    "modern_name": "陕西省西安市",
+    "province": "陕西",
+    "lat": 34.27,
+    "lon": 108.95,
+    "periods": [
+      "西汉",
+      "前秦",
+      "后秦",
+      "西魏",
+      "北周",
+      "隋",
+      "唐"
+    ],
+    "sources": [
+      "HOUHANSHU",
+      "JINSHU",
+      "ZHOUSHU",
+      "SUISHU",
+      "JIUTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "关中核心都城，隋建大兴城，唐改称长安；安史之乱、黄巢之乱中多次陷落。",
+    "strategic_value": ""
+  },
+  {
+    "id": "xuchang",
+    "name": "许昌",
+    "name_en": "Xuchang",
+    "aliases": [
+      "许都",
+      "许县",
+      "颍川"
+    ],
+    "type": "city",
+    "modern_name": "河南省许昌市",
+    "province": "河南",
+    "lat": 34.03,
+    "lon": 113.85,
+    "periods": [
+      "东汉末",
+      "三国"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "HOUHANSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "曹操迎献帝都许，成为建安年间政治中心。",
+    "strategic_value": ""
+  },
+  {
+    "id": "ye",
+    "name": "邺城",
+    "name_en": "Ye",
+    "aliases": [
+      "邺都",
+      "临漳",
+      "魏郡"
+    ],
+    "type": "capital",
+    "modern_name": "河北省邯郸市临漳县",
+    "province": "河北",
+    "lat": 36.28,
+    "lon": 114.63,
+    "periods": [
+      "东汉末",
+      "曹魏",
+      "后赵",
+      "冉魏",
+      "前燕",
+      "东魏",
+      "北齐"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "WEISHU",
+      "BEIQISHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "曹操经营的政治中心，后赵、冉魏、前燕、东魏、北齐都城；北周灭齐后衰落。",
+    "strategic_value": ""
+  },
+  {
+    "id": "jiankang",
+    "name": "建康",
+    "name_en": "Jiankang",
+    "aliases": [
+      "建业",
+      "金陵",
+      "秣陵",
+      "江宁"
+    ],
+    "type": "capital",
+    "modern_name": "江苏省南京市",
+    "province": "江苏",
+    "lat": 32.06,
+    "lon": 118.8,
+    "periods": [
+      "东吴",
+      "东晋",
+      "南朝",
+      "南唐",
+      "明初"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "SONGSHU",
+      "NANSHI",
+      "CHENSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "六朝都城，东晋南朝政治文化中心；侯景之乱、隋灭陈均在此发生。",
+    "strategic_value": ""
+  },
+  {
+    "id": "jinling",
+    "name": "金陵",
+    "name_en": "Jinling",
+    "aliases": [
+      "江宁府",
+      "升州",
+      "建康"
+    ],
+    "type": "capital",
+    "modern_name": "江苏省南京市",
+    "province": "江苏",
+    "lat": 32.06,
+    "lon": 118.8,
+    "periods": [
+      "五代",
+      "十国",
+      "宋初统一"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "NANTANGSHU_LU",
+      "SONGSHI"
+    ],
+    "reliability": "A",
+    "summary": "南唐都城，975 年被北宋攻破，李煜出降。",
+    "strategic_value": ""
+  },
+  {
+    "id": "chengdu",
+    "name": "成都",
+    "name_en": "Chengdu",
+    "aliases": [
+      "益州",
+      "锦官城",
+      "西川"
+    ],
+    "type": "capital",
+    "modern_name": "四川省成都市",
+    "province": "四川",
+    "lat": 30.66,
+    "lon": 104.06,
+    "periods": [
+      "蜀汉",
+      "成汉",
+      "前蜀",
+      "后蜀"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "HUAYANGGUOZHI",
+      "JINSHU",
+      "SHIGUOCHUNQIU"
+    ],
+    "reliability": "A",
+    "summary": "巴蜀政治经济中心，蜀汉、成汉、前蜀、后蜀都城。",
+    "strategic_value": ""
+  },
+  {
+    "id": "jiangling",
+    "name": "江陵",
+    "name_en": "Jiangling",
+    "aliases": [
+      "南郡",
+      "荆州城",
+      "荆南"
+    ],
+    "type": "city",
+    "modern_name": "湖北省荆州市荆州区",
+    "province": "湖北",
+    "lat": 30.35,
+    "lon": 112.19,
+    "periods": [
+      "东汉末",
+      "三国",
+      "东晋",
+      "南朝",
+      "五代"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "JIUWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "长江中游战略枢纽，荆州治所；赤壁后孙刘争夺，五代荆南都城。",
+    "strategic_value": ""
+  },
+  {
+    "id": "xiangyang",
+    "name": "襄阳",
+    "name_en": "Xiangyang",
+    "aliases": [
+      "襄樊",
+      "樊城",
+      "襄州"
+    ],
+    "type": "fortress",
+    "modern_name": "湖北省襄阳市",
+    "province": "湖北",
+    "lat": 32.04,
+    "lon": 112.14,
+    "periods": [
+      "东汉末",
+      "三国",
+      "东晋",
+      "南朝",
+      "宋"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "SONGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "汉水与南阳盆地门户，南北对峙的关键要塞。",
+    "strategic_value": ""
+  },
+  {
+    "id": "hanzhong",
+    "name": "汉中",
+    "name_en": "Hanzhong",
+    "aliases": [
+      "南郑",
+      "兴元",
+      "梁州"
+    ],
+    "type": "region",
+    "modern_name": "陕西省汉中市",
+    "province": "陕西",
+    "lat": 33.07,
+    "lon": 107.03,
+    "periods": [
+      "东汉末",
+      "三国",
+      "东晋",
+      "南朝",
+      "唐",
+      "五代"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "HOUHANSHU",
+      "JINSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "秦岭与巴山之间的战略盆地，蜀汉北伐基地，张鲁政教合一中心。",
+    "strategic_value": ""
+  },
+  {
+    "id": "guandu",
+    "name": "官渡",
+    "name_en": "Guandu",
+    "aliases": [
+      "官渡口",
+      "中牟"
+    ],
+    "type": "battlefield",
+    "modern_name": "河南省郑州市中牟县东北",
+    "province": "河南",
+    "lat": 34.72,
+    "lon": 114.28,
+    "periods": [
+      "东汉末"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "HOUHANSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "200 年曹操与袁绍决战地，曹操焚乌巢粮草取胜。",
+    "strategic_value": ""
+  },
+  {
+    "id": "chibi",
+    "name": "赤壁",
+    "name_en": "Chibi",
+    "aliases": [
+      "赤壁矶",
+      "蒲圻",
+      "乌林"
+    ],
+    "type": "battlefield",
+    "modern_name": "湖北省赤壁市西北长江南岸",
+    "province": "湖北",
+    "lat": 29.72,
+    "lon": 113.93,
+    "periods": [
+      "东汉末",
+      "三国"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "HOUHANSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "208 年孙刘联军火攻曹操水军之地，奠定三分格局。",
+    "strategic_value": ""
+  },
+  {
+    "id": "yiling",
+    "name": "夷陵",
+    "name_en": "Yiling",
+    "aliases": [
+      "猇亭",
+      "西陵",
+      "宜昌"
+    ],
+    "type": "battlefield",
+    "modern_name": "湖北省宜昌市",
+    "province": "湖北",
+    "lat": 30.7,
+    "lon": 111.28,
+    "periods": [
+      "三国",
+      "东晋",
+      "南朝"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "222 年陆逊火攻刘备连营之地，三峡东口战略要地。",
+    "strategic_value": ""
+  },
+  {
+    "id": "tongguan",
+    "name": "潼关",
+    "name_en": "Tong Pass",
+    "aliases": [
+      "潼关",
+      "关中东门"
+    ],
+    "type": "pass",
+    "modern_name": "陕西省渭南市潼关县",
+    "province": "陕西",
+    "lat": 34.54,
+    "lon": 110.24,
+    "periods": [
+      "东汉末",
+      "三国",
+      "西魏",
+      "北周",
+      "隋",
+      "唐"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "JIUTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "关中东部咽喉，安史之乱中哥舒翰兵败导致长安陷落。",
+    "strategic_value": ""
+  },
+  {
+    "id": "hulao",
+    "name": "虎牢关",
+    "name_en": "Hulao Pass",
+    "aliases": [
+      "虎牢",
+      "汜水关",
+      "成皋"
+    ],
+    "type": "pass",
+    "modern_name": "河南省郑州市荥阳市汜水镇",
+    "province": "河南",
+    "lat": 34.83,
+    "lon": 113.2,
+    "periods": [
+      "东汉末",
+      "三国",
+      "隋",
+      "唐"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "HOUHANSHU",
+      "JIUTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "洛阳东部门户，关东联军与董卓军对峙地，李世民曾在此破窦建德。",
+    "strategic_value": ""
+  },
+  {
+    "id": "jieting",
+    "name": "街亭",
+    "name_en": "Jieting",
+    "aliases": [
+      "街泉亭",
+      "陇城"
+    ],
+    "type": "battlefield",
+    "modern_name": "甘肃省天水市秦安县东北",
+    "province": "甘肃",
+    "lat": 34.98,
+    "lon": 106.2,
+    "periods": [
+      "三国"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "228 年马谡失守，诸葛亮第一次北伐失败。",
+    "strategic_value": ""
+  },
+  {
+    "id": "qishan",
+    "name": "祁山",
+    "name_en": "Qishan",
+    "aliases": [
+      "祁山堡",
+      "西县"
+    ],
+    "type": "region",
+    "modern_name": "甘肃省陇南市礼县东",
+    "province": "甘肃",
+    "lat": 34.44,
+    "lon": 107.62,
+    "periods": [
+      "三国"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "诸葛亮北伐主要出击方向，陇右通往关中的要道。",
+    "strategic_value": ""
+  },
+  {
+    "id": "wuzhangyuan",
+    "name": "五丈原",
+    "name_en": "Wuzhang Plains",
+    "aliases": [
+      "五丈原",
+      "斜谷"
+    ],
+    "type": "battlefield",
+    "modern_name": "陕西省宝鸡市岐山县南",
+    "province": "陕西",
+    "lat": 34.06,
+    "lon": 107.62,
+    "periods": [
+      "三国"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "234 年诸葛亮最后一次北伐屯兵地，诸葛亮病逝于此。",
+    "strategic_value": ""
+  },
+  {
+    "id": "changban",
+    "name": "长坂坡",
+    "name_en": "Changban",
+    "aliases": [
+      "长坂",
+      "当阳"
+    ],
+    "type": "battlefield",
+    "modern_name": "湖北省宜昌市当阳市",
+    "province": "湖北",
+    "lat": 30.85,
+    "lon": 111.78,
+    "periods": [
+      "东汉末",
+      "三国"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "208 年曹操追击刘备，赵云救阿斗、张飞断桥的故事发生地。",
+    "strategic_value": ""
+  },
+  {
+    "id": "nanan",
+    "name": "南安",
+    "name_en": "Nan'an",
+    "aliases": [
+      "南安郡",
+      "陇西"
+    ],
+    "type": "region",
+    "modern_name": "甘肃省定西市陇西县东南",
+    "province": "甘肃",
+    "lat": 35.0,
+    "lon": 104.63,
+    "periods": [
+      "东汉末",
+      "三国",
+      "十六国"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "陇右郡名，马超、姜维活动区域。",
+    "strategic_value": ""
+  },
+  {
+    "id": "jizhou",
+    "name": "蓟州",
+    "name_en": "Jizhou",
+    "aliases": [
+      "蓟县",
+      "渔阳",
+      "幽州东"
+    ],
+    "type": "city",
+    "modern_name": "天津市蓟州区",
+    "province": "天津",
+    "lat": 40.04,
+    "lon": 117.4,
+    "periods": [
+      "东汉末",
+      "三国",
+      "唐",
+      "五代"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "JIUTANGSHU",
+      "JIUWUDAISHI"
+    ],
+    "reliability": "A",
+    "summary": "燕山南麓军事重镇，安禄山起兵基地之一，燕云十六州之一。",
+    "strategic_value": ""
+  },
+  {
+    "id": "hefei",
+    "name": "合肥",
+    "name_en": "Hefei",
+    "aliases": [
+      "合肥新城",
+      "庐州"
+    ],
+    "type": "fortress",
+    "modern_name": "安徽省合肥市",
+    "province": "安徽",
+    "lat": 31.82,
+    "lon": 117.23,
+    "periods": [
+      "三国",
+      "东晋",
+      "南朝",
+      "五代"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "曹魏淮南防线核心，孙权多次围攻不下；逍遥津之战发生地。",
+    "strategic_value": ""
+  },
+  {
+    "id": "shouchun",
+    "name": "寿春",
+    "name_en": "Shouchun",
+    "aliases": [
+      "寿阳",
+      "寿州",
+      "淮南"
+    ],
+    "type": "city",
+    "modern_name": "安徽省淮南市寿县",
+    "province": "安徽",
+    "lat": 32.58,
+    "lon": 116.78,
+    "periods": [
+      "东汉末",
+      "三国",
+      "东晋",
+      "南朝",
+      "五代"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "JIUWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "淮河重镇，淮南政治军事中心，淝水之战相关地区。",
+    "strategic_value": ""
+  },
+  {
+    "id": "xiapi",
+    "name": "下邳",
+    "name_en": "Xiapi",
+    "aliases": [
+      "邳州",
+      "下邳国",
+      "白门楼"
+    ],
+    "type": "city",
+    "modern_name": "江苏省徐州市睢宁县古邳镇",
+    "province": "江苏",
+    "lat": 34.3,
+    "lon": 118.1,
+    "periods": [
+      "东汉末",
+      "三国",
+      "东晋",
+      "南朝"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "HOUHANSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "吕布败亡地，刘备、曹操、吕布反复争夺的徐州重镇。",
+    "strategic_value": ""
+  },
+  {
+    "id": "pingcheng",
+    "name": "平城",
+    "name_en": "Pingcheng",
+    "aliases": [
+      "代京",
+      "大同"
+    ],
+    "type": "capital",
+    "modern_name": "山西省大同市",
+    "province": "山西",
+    "lat": 40.08,
+    "lon": 113.3,
+    "periods": [
+      "北魏",
+      "北朝"
+    ],
+    "sources": [
+      "WEISHU",
+      "BEISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "北魏前期都城，孝文帝迁都洛阳后仍为北方军事重镇。",
+    "strategic_value": ""
+  },
+  {
+    "id": "taiyuan",
+    "name": "太原",
+    "name_en": "Taiyuan",
+    "aliases": [
+      "晋阳",
+      "并州",
+      "龙城"
+    ],
+    "type": "city",
+    "modern_name": "山西省太原市",
+    "province": "山西",
+    "lat": 37.87,
+    "lon": 112.55,
+    "periods": [
+      "东汉末",
+      "西晋",
+      "十六国",
+      "北朝",
+      "隋",
+      "唐",
+      "五代",
+      "北汉"
+    ],
+    "sources": [
+      "JINSHU",
+      "BEISHI",
+      "JIUTANGSHU",
+      "JIUWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "并州治所，李渊起兵地，后唐、后晋、后汉、北汉的发祥地。",
+    "strategic_value": ""
+  },
+  {
+    "id": "guzang",
+    "name": "姑臧",
+    "name_en": "Guzang",
+    "aliases": [
+      "凉州",
+      "武威"
+    ],
+    "type": "city",
+    "modern_name": "甘肃省武威市",
+    "province": "甘肃",
+    "lat": 37.93,
+    "lon": 102.63,
+    "periods": [
+      "东汉末",
+      "三国",
+      "十六国",
+      "北朝",
+      "唐"
+    ],
+    "sources": [
+      "JINSHU",
+      "WEISHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "河西走廊核心城市，前凉、后凉、南凉、北凉都城。",
+    "strategic_value": ""
+  },
+  {
+    "id": "liangzhou",
+    "name": "凉州",
+    "name_en": "Liangzhou",
+    "aliases": [
+      "武威郡",
+      "姑臧"
+    ],
+    "type": "region",
+    "modern_name": "甘肃省武威市一带",
+    "province": "甘肃",
+    "lat": 37.93,
+    "lon": 102.63,
+    "periods": [
+      "东汉",
+      "三国",
+      "十六国",
+      "唐"
+    ],
+    "sources": [
+      "HOUHANSHU",
+      "JINSHU",
+      "JIUTANGSHU"
+    ],
+    "reliability": "A",
+    "summary": "河西走廊东部，丝路贸易与畜牧重地。",
+    "strategic_value": ""
+  },
+  {
+    "id": "dunhuang",
+    "name": "敦煌",
+    "name_en": "Dunhuang",
+    "aliases": [
+      "沙州",
+      "瓜州"
+    ],
+    "type": "city",
+    "modern_name": "甘肃省酒泉市敦煌市",
+    "province": "甘肃",
+    "lat": 40.14,
+    "lon": 94.66,
+    "periods": [
+      "东汉",
+      "三国",
+      "十六国",
+      "北朝",
+      "唐"
+    ],
+    "sources": [
+      "JINSHU",
+      "WEISHU",
+      "JIUTANGSHU"
+    ],
+    "reliability": "A",
+    "summary": "河西走廊西端，丝路咽喉与佛教艺术中心。",
+    "strategic_value": ""
+  },
+  {
+    "id": "longcheng",
+    "name": "龙城",
+    "name_en": "Longcheng",
+    "aliases": [
+      "和龙",
+      "黄龙",
+      "朝阳"
+    ],
+    "type": "city",
+    "modern_name": "辽宁省朝阳市",
+    "province": "辽宁",
+    "lat": 41.57,
+    "lon": 120.45,
+    "periods": [
+      "十六国",
+      "北朝",
+      "唐"
+    ],
+    "sources": [
+      "JINSHU",
+      "WEISHU",
+      "BEISHI"
+    ],
+    "reliability": "A",
+    "summary": "前燕、后燕、北燕的龙兴之地与都城，辽西政治中心。",
+    "strategic_value": ""
+  },
+  {
+    "id": "guanggu",
+    "name": "广固",
+    "name_en": "Guanggu",
+    "aliases": [
+      "青州",
+      "广固城"
+    ],
+    "type": "fortress",
+    "modern_name": "山东省青州市西北",
+    "province": "山东",
+    "lat": 36.7,
+    "lon": 118.48,
+    "periods": [
+      "十六国",
+      "东晋",
+      "南朝"
+    ],
+    "sources": [
+      "JINSHU",
+      "SONGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "南燕都城，刘裕北伐灭南燕时攻破。",
+    "strategic_value": ""
+  },
+  {
+    "id": "tongwan",
+    "name": "统万城",
+    "name_en": "Tongwan",
+    "aliases": [
+      "统万",
+      "大夏都城",
+      "白城子"
+    ],
+    "type": "capital",
+    "modern_name": "陕西省榆林市靖边县红墩界",
+    "province": "陕西",
+    "lat": 38.0,
+    "lon": 109.0,
+    "periods": [
+      "十六国",
+      "北朝"
+    ],
+    "sources": [
+      "JINSHU",
+      "WEISHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "赫连勃勃所建大夏都城，北魏攻破后设镇。",
+    "strategic_value": ""
+  },
+  {
+    "id": "shayuan",
+    "name": "沙苑",
+    "name_en": "Shayuan",
+    "aliases": [
+      "沙苑",
+      "同州"
+    ],
+    "type": "battlefield",
+    "modern_name": "陕西省渭南市大荔县南",
+    "province": "陕西",
+    "lat": 34.8,
+    "lon": 109.8,
+    "periods": [
+      "西魏",
+      "北周"
+    ],
+    "sources": [
+      "ZHOUSHU",
+      "BEISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "537 年宇文泰伏击高欢东魏军之地。",
+    "strategic_value": ""
+  },
+  {
+    "id": "heyang",
+    "name": "河阳",
+    "name_en": "Heyang",
+    "aliases": [
+      "河阳三城",
+      "孟州"
+    ],
+    "type": "fortress",
+    "modern_name": "河南省焦作市孟州市",
+    "province": "河南",
+    "lat": 34.83,
+    "lon": 112.6,
+    "periods": [
+      "北魏",
+      "东魏",
+      "西魏",
+      "隋",
+      "唐"
+    ],
+    "sources": [
+      "WEISHU",
+      "JIUTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "黄河渡口与三城防御体系，安史之乱中李光弼坚守。",
+    "strategic_value": ""
+  },
+  {
+    "id": "jinyang",
+    "name": "晋阳",
+    "name_en": "Jinyang",
+    "aliases": [
+      "太原",
+      "并州"
+    ],
+    "type": "city",
+    "modern_name": "山西省太原市晋源区",
+    "province": "山西",
+    "lat": 37.75,
+    "lon": 112.52,
+    "periods": [
+      "春秋",
+      "北朝",
+      "隋",
+      "唐",
+      "五代"
+    ],
+    "sources": [
+      "BEIQISHU",
+      "SUISHU",
+      "JIUTANGSHU"
+    ],
+    "reliability": "A",
+    "summary": "高欢霸府、北齐别都，李渊起兵地。",
+    "strategic_value": ""
+  },
+  {
+    "id": "daxing",
+    "name": "大兴城",
+    "name_en": "Daxing",
+    "aliases": [
+      "长安",
+      "隋都"
+    ],
+    "type": "capital",
+    "modern_name": "陕西省西安市",
+    "province": "陕西",
+    "lat": 34.27,
+    "lon": 108.95,
+    "periods": [
+      "隋",
+      "唐"
+    ],
+    "sources": [
+      "SUISHU",
+      "JIUTANGSHU"
+    ],
+    "reliability": "A",
+    "summary": "隋文帝所建新都，唐改称长安。",
+    "strategic_value": ""
+  },
+  {
+    "id": "jiangdu",
+    "name": "江都",
+    "name_en": "Jiangdu",
+    "aliases": [
+      "扬州",
+      "广陵"
+    ],
+    "type": "city",
+    "modern_name": "江苏省扬州市",
+    "province": "江苏",
+    "lat": 32.39,
+    "lon": 119.42,
+    "periods": [
+      "隋",
+      "唐",
+      "五代"
+    ],
+    "sources": [
+      "SUISHU",
+      "JIUTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "大运河枢纽，隋炀帝滞留与被弑之地。",
+    "strategic_value": ""
+  },
+  {
+    "id": "youzhou",
+    "name": "幽州",
+    "name_en": "Youzhou",
+    "aliases": [
+      "范阳",
+      "蓟城",
+      "燕京"
+    ],
+    "type": "city",
+    "modern_name": "北京市",
+    "province": "北京",
+    "lat": 39.9,
+    "lon": 116.4,
+    "periods": [
+      "东汉",
+      "三国",
+      "西晋",
+      "唐",
+      "五代"
+    ],
+    "sources": [
+      "HOUHANSHU",
+      "JINSHU",
+      "JIUTANGSHU",
+      "JIUWUDAISHI"
+    ],
+    "reliability": "A",
+    "summary": "北方军事重镇，安禄山范阳节度使驻地，燕云十六州核心。",
+    "strategic_value": ""
+  },
+  {
+    "id": "weizhou",
+    "name": "魏州",
+    "name_en": "Weizhou",
+    "aliases": [
+      "大名府",
+      "邺都",
+      "天雄军"
+    ],
+    "type": "city",
+    "modern_name": "河北省邯郸市大名县",
+    "province": "河北",
+    "lat": 36.28,
+    "lon": 115.15,
+    "periods": [
+      "唐",
+      "五代"
+    ],
+    "sources": [
+      "JIUTANGSHU",
+      "JIUWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "河北南部藩镇中心，后唐庄宗称帝地，后唐、后晋、后汉的邺都。",
+    "strategic_value": ""
+  },
+  {
+    "id": "caizhou",
+    "name": "蔡州",
+    "name_en": "Caizhou",
+    "aliases": [
+      "汝南",
+      "豫州",
+      "淮西"
+    ],
+    "type": "city",
+    "modern_name": "河南省驻马店市汝南县",
+    "province": "河南",
+    "lat": 32.98,
+    "lon": 114.72,
+    "periods": [
+      "唐",
+      "五代"
+    ],
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "淮西镇治所，817 年李愬雪夜袭蔡州擒吴元济。",
+    "strategic_value": ""
+  },
+  {
+    "id": "qingzhou",
+    "name": "青州",
+    "name_en": "Qingzhou",
+    "aliases": [
+      "北海",
+      "益都"
+    ],
+    "type": "city",
+    "modern_name": "山东省青州市",
+    "province": "山东",
+    "lat": 36.7,
+    "lon": 118.48,
+    "periods": [
+      "东汉",
+      "三国",
+      "西晋",
+      "十六国",
+      "唐",
+      "五代"
+    ],
+    "sources": [
+      "HOUHANSHU",
+      "JINSHU",
+      "JIUTANGSHU"
+    ],
+    "reliability": "A",
+    "summary": "山东半岛政治经济中心，南燕都城广固在其附近。",
+    "strategic_value": ""
+  },
+  {
+    "id": "fengxiang",
+    "name": "凤翔",
+    "name_en": "Fengxiang",
+    "aliases": [
+      "岐州",
+      "雍州",
+      "西京"
+    ],
+    "type": "city",
+    "modern_name": "陕西省宝鸡市凤翔区",
+    "province": "陕西",
+    "lat": 34.52,
+    "lon": 107.39,
+    "periods": [
+      "唐",
+      "五代"
+    ],
+    "sources": [
+      "JIUTANGSHU",
+      "JIUWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "关中西部重镇，唐末李茂贞据凤翔，五代岐国中心。",
+    "strategic_value": ""
+  },
+  {
+    "id": "lingzhou",
+    "name": "灵州",
+    "name_en": "Lingzhou",
+    "aliases": [
+      "灵武",
+      "朔方"
+    ],
+    "type": "city",
+    "modern_name": "宁夏回族自治区吴忠市",
+    "province": "宁夏",
+    "lat": 38.1,
+    "lon": 106.33,
+    "periods": [
+      "唐",
+      "五代",
+      "宋"
+    ],
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "朔方节度使治所，安史之乱中唐肃宗在此即位。",
+    "strategic_value": ""
+  },
+  {
+    "id": "jianmen",
+    "name": "剑门关",
+    "name_en": "Jianmen Pass",
+    "aliases": [
+      "剑阁",
+      "剑门"
+    ],
+    "type": "pass",
+    "modern_name": "四川省广元市剑阁县",
+    "province": "四川",
+    "lat": 32.2,
+    "lon": 105.57,
+    "periods": [
+      "三国",
+      "十六国",
+      "唐",
+      "五代"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "JIUTANGSHU"
+    ],
+    "reliability": "A",
+    "summary": "蜀道天险，入蜀门户，历代攻蜀必争。",
+    "strategic_value": ""
+  },
+  {
+    "id": "anxi",
+    "name": "安西",
+    "name_en": "Anxi",
+    "aliases": [
+      "安西都护府",
+      "龟兹",
+      "库车"
+    ],
+    "type": "region",
+    "modern_name": "新疆维吾尔自治区阿克苏地区库车市",
+    "province": "新疆",
+    "lat": 41.72,
+    "lon": 82.96,
+    "periods": [
+      "唐"
+    ],
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "TONGDIAN"
+    ],
+    "reliability": "A",
+    "summary": "唐安西都护府治所，管辖塔里木盆地与中亚，安史之乱后孤立。",
+    "strategic_value": ""
+  },
+  {
+    "id": "beiting",
+    "name": "北庭",
+    "name_en": "Beiting",
+    "aliases": [
+      "北庭都护府",
+      "庭州",
+      "吉木萨尔"
+    ],
+    "type": "region",
+    "modern_name": "新疆维吾尔自治区昌吉州吉木萨尔县",
+    "province": "新疆",
+    "lat": 44.0,
+    "lon": 89.2,
+    "periods": [
+      "唐"
+    ],
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "TONGDIAN"
+    ],
+    "reliability": "A",
+    "summary": "唐北庭都护府治所，控制天山北路与草原丝路。",
+    "strategic_value": ""
+  },
+  {
+    "id": "lhasa",
+    "name": "逻些",
+    "name_en": "Lhasa",
+    "aliases": [
+      "逻娑",
+      "拉萨"
+    ],
+    "type": "capital",
+    "modern_name": "西藏自治区拉萨市",
+    "province": "西藏",
+    "lat": 29.65,
+    "lon": 91.13,
+    "periods": [
+      "吐蕃"
+    ],
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "TONGDIAN"
+    ],
+    "reliability": "A",
+    "summary": "吐蕃赞普都城，唐蕃会盟与战争的政治中心。",
+    "strategic_value": ""
+  },
+  {
+    "id": "dali",
+    "name": "大理",
+    "name_en": "Dali",
+    "aliases": [
+      "太和城",
+      "羊苴咩城"
+    ],
+    "type": "capital",
+    "modern_name": "云南省大理白族自治州大理市",
+    "province": "云南",
+    "lat": 25.6,
+    "lon": 100.27,
+    "periods": [
+      "南诏",
+      "大理国"
+    ],
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "TONGDIAN"
+    ],
+    "reliability": "A",
+    "summary": "南诏后期都城，西南边疆政权中心。",
+    "strategic_value": ""
+  },
+  {
+    "id": "pyongyang",
+    "name": "平壤",
+    "name_en": "Pyongyang",
+    "aliases": [
+      "王险城",
+      "长安城",
+      "西京"
+    ],
+    "type": "capital",
+    "modern_name": "朝鲜民主主义人民共和国平壤市",
+    "province": "境外",
+    "lat": 39.03,
+    "lon": 125.75,
+    "periods": [
+      "高句丽",
+      "唐"
+    ],
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "高句丽后期都城，668 年唐灭高句丽后设安东都护府。",
+    "strategic_value": ""
+  },
+  {
+    "id": "guangzhou",
+    "name": "广州",
+    "name_en": "Guangzhou",
+    "aliases": [
+      "番禺",
+      "兴王府",
+      "南海"
+    ],
+    "type": "port",
+    "modern_name": "广东省广州市",
+    "province": "广东",
+    "lat": 23.13,
+    "lon": 113.26,
+    "periods": [
+      "东汉",
+      "三国",
+      "唐",
+      "五代",
+      "南汉"
+    ],
+    "sources": [
+      "JINSHU",
+      "JIUTANGSHU",
+      "JIUWUDAISHI"
+    ],
+    "reliability": "A",
+    "summary": "南海贸易中心，南汉都城兴王府，唐设市舶使。",
+    "strategic_value": ""
+  },
+  {
+    "id": "hangzhou",
+    "name": "杭州",
+    "name_en": "Hangzhou",
+    "aliases": [
+      "钱塘",
+      "临安",
+      "西府"
+    ],
+    "type": "city",
+    "modern_name": "浙江省杭州市",
+    "province": "浙江",
+    "lat": 30.25,
+    "lon": 120.17,
+    "periods": [
+      "隋",
+      "唐",
+      "五代",
+      "吴越"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "WUYUEBEISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "吴越国都城，钱镠筑海塘、疏西湖，奠定区域中心。",
+    "strategic_value": ""
+  },
+  {
+    "id": "fuzhou",
+    "name": "福州",
+    "name_en": "Fuzhou",
+    "aliases": [
+      "长乐",
+      "泉州",
+      "闽都"
+    ],
+    "type": "city",
+    "modern_name": "福建省福州市",
+    "province": "福建",
+    "lat": 26.08,
+    "lon": 119.3,
+    "periods": [
+      "唐",
+      "五代",
+      "闽"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "闽国都城，福建政治中心与海贸港口。",
+    "strategic_value": ""
+  },
+  {
+    "id": "changsha",
+    "name": "长沙",
+    "name_en": "Changsha",
+    "aliases": [
+      "潭州",
+      "湘州"
+    ],
+    "type": "city",
+    "modern_name": "湖南省长沙市",
+    "province": "湖南",
+    "lat": 28.23,
+    "lon": 112.94,
+    "periods": [
+      "东汉",
+      "三国",
+      "南朝",
+      "唐",
+      "五代",
+      "楚"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "JIUWUDAISHI",
+      "SHIGUOCHUNQIU"
+    ],
+    "reliability": "A",
+    "summary": "楚国都城，湖南政治经济中心。",
+    "strategic_value": ""
+  },
+  {
+    "id": "kaifeng",
+    "name": "开封",
+    "name_en": "Kaifeng",
+    "aliases": [
+      "汴京",
+      "东京",
+      "大梁"
+    ],
+    "type": "capital",
+    "modern_name": "河南省开封市",
+    "province": "河南",
+    "lat": 34.8,
+    "lon": 114.31,
+    "periods": [
+      "五代",
+      "北宋"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SONGSHI"
+    ],
+    "reliability": "A",
+    "summary": "后梁、后晋、后汉、后周与北宋都城，五代中原政治中心。",
+    "strategic_value": ""
+  },
+  {
+    "id": "bianzhou",
+    "name": "汴州",
+    "name_en": "Bianzhou",
+    "aliases": [
+      "汴梁",
+      "开封",
+      "东都"
+    ],
+    "type": "capital",
+    "modern_name": "河南省开封市",
+    "province": "河南",
+    "lat": 34.8,
+    "lon": 114.31,
+    "periods": [
+      "唐",
+      "五代"
+    ],
+    "sources": [
+      "JIUTANGSHU",
+      "JIUWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "宣武军治所，朱温根据地，后梁东都；与开封同城异名。",
+    "strategic_value": ""
+  },
+  {
+    "id": "chanzhou",
+    "name": "澶州",
+    "name_en": "Chanzhou",
+    "aliases": [
+      "澶渊",
+      "濮阳"
+    ],
+    "type": "city",
+    "modern_name": "河南省濮阳市",
+    "province": "河南",
+    "lat": 35.76,
+    "lon": 115.03,
+    "periods": [
+      "唐",
+      "五代",
+      "宋"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SONGSHI"
+    ],
+    "reliability": "A",
+    "summary": "黄河渡口重镇，951 年郭威在此被拥立，宋辽澶渊之盟发生地。",
+    "strategic_value": ""
+  },
+  {
+    "id": "zhenzhou",
+    "name": "真定",
+    "name_en": "Zhending",
+    "aliases": [
+      "恒州",
+      "镇州",
+      "正定"
+    ],
+    "type": "city",
+    "modern_name": "河北省石家庄市正定县",
+    "province": "河北",
+    "lat": 38.15,
+    "lon": 114.57,
+    "periods": [
+      "唐",
+      "五代"
+    ],
+    "sources": [
+      "JIUTANGSHU",
+      "JIUWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "成德军治所，河朔三镇之一，安史之乱后长期半独立。",
+    "strategic_value": ""
+  },
+  {
+    "id": "yunzhou",
+    "name": "云州",
+    "name_en": "Yunzhou",
+    "aliases": [
+      "大同",
+      "云中"
+    ],
+    "type": "city",
+    "modern_name": "山西省大同市",
+    "province": "山西",
+    "lat": 40.08,
+    "lon": 113.3,
+    "periods": [
+      "唐",
+      "五代"
+    ],
+    "sources": [
+      "JIUTANGSHU",
+      "JIUWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "河东北部重镇，燕云十六州之一，沙陀集团发祥地。",
+    "strategic_value": ""
+  },
+  {
+    "id": "feishui",
+    "name": "淝水",
+    "name_en": "Feishui",
+    "aliases": [
+      "淝水",
+      "八公山"
+    ],
+    "type": "battlefield",
+    "modern_name": "安徽省淮南市寿县附近",
+    "province": "安徽",
+    "lat": 32.65,
+    "lon": 116.8,
+    "periods": [
+      "东晋",
+      "十六国"
+    ],
+    "sources": [
+      "JINSHU",
+      "SHISHUOXINYU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "383 年东晋北府兵大破前秦之地。",
+    "strategic_value": ""
+  },
+  {
+    "id": "canhebei",
+    "name": "参合陂",
+    "name_en": "Canhebei",
+    "aliases": [
+      "参合陉",
+      "凉城"
+    ],
+    "type": "battlefield",
+    "modern_name": "内蒙古自治区乌兰察布市凉城县一带",
+    "province": "内蒙古",
+    "lat": 40.35,
+    "lon": 112.9,
+    "periods": [
+      "十六国",
+      "北魏"
+    ],
+    "sources": [
+      "WEISHU",
+      "JINSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "395 年北魏拓跋珪大破后燕军，坑杀降卒。",
+    "strategic_value": ""
+  },
+  {
+    "id": "huanghe",
+    "name": "黄河",
+    "name_en": "Yellow River",
+    "aliases": [
+      "大河",
+      "河水"
+    ],
+    "type": "river",
+    "modern_name": "黄河流域",
+    "province": "多省",
+    "lat": 34.9,
+    "lon": 113.6,
+    "periods": [
+      "历代"
+    ],
+    "sources": [
+      "SHUIJINGZHU",
+      "JINSHU",
+      "JIUTANGSHU"
+    ],
+    "reliability": "A",
+    "summary": "中国北方母亲河，中古时期多次改道，是军事防线与漕运命脉。",
+    "strategic_value": ""
+  },
+  {
+    "id": "shanyin",
+    "name": "山阴",
+    "name_en": "Shanyin",
+    "aliases": [
+      "会稽",
+      "绍兴"
+    ],
+    "type": "city",
+    "modern_name": "浙江省绍兴市",
+    "province": "浙江",
+    "lat": 30.0,
+    "lon": 120.58,
+    "periods": [
+      "东晋",
+      "南朝"
+    ],
+    "sources": [
+      "JINSHU",
+      "SHISHUOXINYU"
+    ],
+    "reliability": "A",
+    "summary": "会稽郡治，兰亭雅集所在地，东晋士族文化中心。",
+    "strategic_value": ""
+  },
+  {
+    "id": "kuaiji",
+    "name": "会稽",
+    "name_en": "Kuaiji",
+    "aliases": [
+      "山阴",
+      "越州"
+    ],
+    "type": "region",
+    "modern_name": "浙江省绍兴市一带",
+    "province": "浙江",
+    "lat": 30.0,
+    "lon": 120.58,
+    "periods": [
+      "东汉",
+      "三国",
+      "东晋",
+      "南朝"
+    ],
+    "sources": [
+      "JINSHU",
+      "SONGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "三吴核心郡，孙恩之乱中遭受重创。",
+    "strategic_value": ""
+  },
+  {
+    "id": "mawei",
+    "name": "马嵬驿",
+    "name_en": "Mawei Station",
+    "aliases": [
+      "马嵬坡",
+      "兴平"
+    ],
+    "type": "battlefield",
+    "modern_name": "陕西省咸阳市兴平市西",
+    "province": "陕西",
+    "lat": 34.32,
+    "lon": 108.45,
+    "periods": [
+      "唐"
+    ],
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "756 年禁军哗变，杨国忠被杀、杨贵妃被缢死之地。",
+    "strategic_value": ""
+  },
+  {
+    "id": "fengtian",
+    "name": "奉天",
+    "name_en": "Fengtian",
+    "aliases": [
+      "乾县",
+      "奉天县"
+    ],
+    "type": "city",
+    "modern_name": "陕西省咸阳市乾县",
+    "province": "陕西",
+    "lat": 34.53,
+    "lon": 108.48,
+    "periods": [
+      "唐"
+    ],
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "泾原兵变后唐德宗出逃奉天，在此坚守。",
+    "strategic_value": ""
+  },
+  {
+    "id": "jingyuan",
+    "name": "泾原",
+    "name_en": "Jingyuan",
+    "aliases": [
+      "泾州",
+      "泾川"
+    ],
+    "type": "region",
+    "modern_name": "甘肃省平凉市泾川县",
+    "province": "甘肃",
+    "lat": 35.33,
+    "lon": 107.37,
+    "periods": [
+      "唐"
+    ],
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "泾原节度使辖区，783 年泾原兵变由此爆发。",
+    "strategic_value": ""
+  },
+  {
+    "id": "gaoping",
+    "name": "高平",
+    "name_en": "Gaoping",
+    "aliases": [
+      "高平",
+      "巴公原"
+    ],
+    "type": "battlefield",
+    "modern_name": "山西省晋城市高平市",
+    "province": "山西",
+    "lat": 35.8,
+    "lon": 112.93,
+    "periods": [
+      "五代",
+      "北汉",
+      "后周"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "954 年后周世宗大破北汉与契丹联军之地。",
+    "strategic_value": ""
+  },
+  {
+    "id": "caozhou",
+    "name": "曹州",
+    "name_en": "Caozhou",
+    "aliases": [
+      "菏泽",
+      "济阴"
+    ],
+    "type": "city",
+    "modern_name": "山东省菏泽市",
+    "province": "山东",
+    "lat": 35.25,
+    "lon": 115.48,
+    "periods": [
+      "唐",
+      "五代"
+    ],
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "黄巢起义发源地之一，唐末民变核心区。",
+    "strategic_value": ""
+  },
+  {
+    "id": "qingkou",
+    "name": "清口",
+    "name_en": "Qingkou",
+    "aliases": [
+      "清口",
+      "泗水入淮"
+    ],
+    "type": "battlefield",
+    "modern_name": "江苏省淮安市淮阴区",
+    "province": "江苏",
+    "lat": 33.55,
+    "lon": 118.98,
+    "periods": [
+      "唐",
+      "五代"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "897 年杨行密水攻大破朱温南征军之地。",
+    "strategic_value": ""
+  },
+  {
+    "id": "yangzhou",
+    "name": "扬州",
+    "name_en": "Yangzhou",
+    "aliases": [
+      "广陵",
+      "江都",
+      "淮南"
+    ],
+    "type": "city",
+    "modern_name": "江苏省扬州市",
+    "province": "江苏",
+    "lat": 32.39,
+    "lon": 119.42,
+    "periods": [
+      "唐",
+      "五代",
+      "杨吴"
+    ],
+    "sources": [
+      "JIUTANGSHU",
+      "JIUWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "江淮盐利与漕运中心，杨吴都城。",
+    "strategic_value": ""
+  },
+  {
+    "id": "gaochang",
+    "name": "高昌",
+    "name_en": "Gaochang",
+    "aliases": [
+      "西州",
+      "吐鲁番",
+      "高昌国"
+    ],
+    "type": "city",
+    "modern_name": "新疆维吾尔自治区吐鲁番市",
+    "province": "新疆",
+    "lat": 42.85,
+    "lon": 89.53,
+    "periods": [
+      "十六国",
+      "北朝",
+      "唐"
+    ],
+    "sources": [
+      "WEISHU",
+      "JIUTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "西域门户，640 年唐灭高昌设西州。",
+    "strategic_value": ""
+  },
+  {
+    "id": "yinshan",
+    "name": "阴山",
+    "name_en": "Yinshan",
+    "aliases": [
+      "阴山山脉",
+      "大青山"
+    ],
+    "type": "region",
+    "modern_name": "内蒙古自治区中部阴山山脉",
+    "province": "内蒙古",
+    "lat": 41.2,
+    "lon": 111.5,
+    "periods": [
+      "历代"
+    ],
+    "sources": [
+      "JINSHU",
+      "JIUTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "草原与农耕分界线，突厥、回鹘与中原争夺的战略屏障。",
+    "strategic_value": ""
+  },
+  {
+    "id": "liaodong",
+    "name": "辽东",
+    "name_en": "Liaodong",
+    "aliases": [
+      "辽东郡",
+      "辽阳",
+      "襄平"
+    ],
+    "type": "region",
+    "modern_name": "辽宁省辽阳市一带",
+    "province": "辽宁",
+    "lat": 41.5,
+    "lon": 123.2,
+    "periods": [
+      "东汉",
+      "三国",
+      "隋",
+      "唐"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "SUISHU",
+      "JIUTANGSHU"
+    ],
+    "reliability": "A",
+    "summary": "东北战略要地，隋唐征高句丽的后勤基地与战场。",
+    "strategic_value": ""
+  },
+  {
+    "id": "baixiang",
+    "name": "柏乡",
+    "name_en": "Baixiang",
+    "aliases": [
+      "柏乡县",
+      "高邑"
+    ],
+    "type": "battlefield",
+    "modern_name": "河北省邢台市柏乡县",
+    "province": "河北",
+    "lat": 37.5,
+    "lon": 114.7,
+    "periods": [
+      "五代"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "910 年晋王李存勖大破后梁军之地。",
+    "strategic_value": ""
+  },
+  {
+    "id": "shangjing",
+    "name": "上京",
+    "name_en": "Shangjing",
+    "aliases": [
+      "临潢府",
+      "契丹皇都"
+    ],
+    "type": "capital",
+    "modern_name": "内蒙古自治区赤峰市巴林左旗",
+    "province": "内蒙古",
+    "lat": 43.9,
+    "lon": 119.4,
+    "periods": [
+      "契丹",
+      "五代"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI"
+    ],
+    "reliability": "A",
+    "summary": "辽朝首都，耶律阿保机建国后营建。",
+    "strategic_value": ""
+  },
+  {
+    "id": "chenqiao",
+    "name": "陈桥驿",
+    "name_en": "Chenqiao Station",
+    "aliases": [
+      "陈桥",
+      "陈桥镇"
+    ],
+    "type": "battlefield",
+    "modern_name": "河南省新乡市封丘县陈桥镇",
+    "province": "河南",
+    "lat": 34.95,
+    "lon": 114.45,
+    "periods": [
+      "五代",
+      "宋初统一"
+    ],
+    "sources": [
+      "SONGSHI",
+      "XUWUDAISHI"
+    ],
+    "reliability": "A",
+    "summary": "960 年赵匡胤黄袍加身之地。",
+    "strategic_value": ""
+  },
+  {
+    "id": "luzhou",
+    "name": "潞州",
+    "name_en": "Luzhou",
+    "aliases": [
+      "上党",
+      "昭义",
+      "长治"
+    ],
+    "type": "city",
+    "modern_name": "山西省长治市",
+    "province": "山西",
+    "lat": 36.2,
+    "lon": 113.1,
+    "periods": [
+      "唐",
+      "五代",
+      "宋初统一"
+    ],
+    "sources": [
+      "JIUTANGSHU",
+      "JIUWUDAISHI",
+      "SONGSHI"
+    ],
+    "reliability": "A",
+    "summary": "昭义节度使治所，太行山战略要地，李筠反宋基地。",
+    "strategic_value": ""
+  },
+  {
+    "id": "xiangguo",
+    "name": "襄国",
+    "name_en": "Xiangguo",
+    "aliases": [
+      "邢州",
+      "邢台"
+    ],
+    "type": "city",
+    "modern_name": "河北省邢台市",
+    "province": "河北",
+    "lat": 37.07,
+    "lon": 114.5,
+    "periods": [
+      "十六国",
+      "后赵"
+    ],
+    "sources": [
+      "JINSHU",
+      "WEISHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "石勒后赵前期都城。",
+    "strategic_value": ""
+  },
+  {
+    "id": "shiting",
+    "name": "石亭",
+    "name_en": "Shiting",
+    "aliases": [
+      "石亭",
+      "皖城"
+    ],
+    "type": "battlefield",
+    "modern_name": "安徽省安庆市桐城市一带",
+    "province": "安徽",
+    "lat": 31.3,
+    "lon": 116.95,
+    "periods": [
+      "三国"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "228 年陆逊大破曹休之地。",
+    "strategic_value": ""
+  },
+  {
+    "id": "duangu",
+    "name": "段谷",
+    "name_en": "Duangu",
+    "aliases": [
+      "段谷",
+      "上邽"
+    ],
+    "type": "battlefield",
+    "modern_name": "甘肃省天水市东南",
+    "province": "甘肃",
+    "lat": 34.55,
+    "lon": 105.75,
+    "periods": [
+      "三国"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "256 年邓艾大破姜维之地。",
+    "strategic_value": ""
+  },
+  {
+    "id": "bailangshan",
+    "name": "白狼山",
+    "name_en": "White Wolf Mountain",
+    "aliases": [
+      "白狼山",
+      "柳城"
+    ],
+    "type": "battlefield",
+    "modern_name": "辽宁省朝阳市建昌县一带",
+    "province": "辽宁",
+    "lat": 41.2,
+    "lon": 119.8,
+    "periods": [
+      "东汉末",
+      "三国"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "HOUHANSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A",
+    "summary": "207 年曹操大破乌桓之地。",
+    "strategic_value": ""
+  },
+  {
+    "id": "waqiaoguan",
+    "name": "瓦桥关",
+    "name_en": "Waqiao Pass",
+    "aliases": [
+      "瓦桥关",
+      "雄州",
+      "三关"
+    ],
+    "type": "pass",
+    "modern_name": "河北省雄安新区雄县",
+    "province": "河北",
+    "lat": 39.0,
+    "lon": 116.1,
+    "periods": [
+      "五代",
+      "宋"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SONGSHI"
+    ],
+    "reliability": "A",
+    "summary": "燕云十六州南缘三关之一，959 年周世宗收复。",
+    "strategic_value": ""
+  },
+  {
+    "id": "shuozhou",
+    "name": "朔州",
+    "name_en": "Shuozhou",
+    "aliases": [
+      "马邑",
+      "朔县"
+    ],
+    "type": "city",
+    "modern_name": "山西省朔州市",
+    "province": "山西",
+    "lat": 39.33,
+    "lon": 112.43,
+    "periods": [
+      "唐",
+      "五代"
+    ],
+    "sources": [
+      "JIUTANGSHU",
+      "JIUWUDAISHI"
+    ],
+    "reliability": "A",
+    "summary": "雁门关外重镇，燕云十六州之一。",
+    "strategic_value": ""
+  },
+  {
+    "id": "yingzhou",
+    "name": "瀛州",
+    "name_en": "Yingzhou",
+    "aliases": [
+      "河间",
+      "瀛海"
+    ],
+    "type": "city",
+    "modern_name": "河北省沧州市河间市",
+    "province": "河北",
+    "lat": 38.44,
+    "lon": 116.1,
+    "periods": [
+      "唐",
+      "五代"
+    ],
+    "sources": [
+      "JIUTANGSHU",
+      "JIUWUDAISHI"
+    ],
+    "reliability": "A",
+    "summary": "燕云十六州之一，959 年被后周收复。",
+    "strategic_value": ""
+  },
+  {
+    "id": "mozhou",
+    "name": "莫州",
+    "name_en": "Mozhou",
+    "aliases": [
+      "鄚州",
+      "任丘"
+    ],
+    "type": "city",
+    "modern_name": "河北省沧州市任丘市",
+    "province": "河北",
+    "lat": 38.7,
+    "lon": 115.9,
+    "periods": [
+      "唐",
+      "五代"
+    ],
+    "sources": [
+      "JIUTANGSHU",
+      "JIUWUDAISHI"
+    ],
+    "reliability": "A",
+    "summary": "燕云十六州之一，959 年被后周收复。",
+    "strategic_value": ""
+  },
+  {
+    "id": "zhuozhou",
+    "name": "涿州",
+    "name_en": "Zhuozhou",
+    "aliases": [
+      "涿郡",
+      "范阳"
+    ],
+    "type": "city",
+    "modern_name": "河北省保定市涿州市",
+    "province": "河北",
+    "lat": 39.48,
+    "lon": 115.97,
+    "periods": [
+      "唐",
+      "五代"
+    ],
+    "sources": [
+      "JIUTANGSHU",
+      "JIUWUDAISHI"
+    ],
+    "reliability": "A",
+    "summary": "燕云十六州之一，幽州南部门户。",
+    "strategic_value": ""
+  },
+  {
+    "id": "yizhou",
+    "name": "易州",
+    "name_en": "Yizhou",
+    "aliases": [
+      "易县",
+      "上谷"
+    ],
+    "type": "city",
+    "modern_name": "河北省保定市易县",
+    "province": "河北",
+    "lat": 39.35,
+    "lon": 115.5,
+    "periods": [
+      "唐",
+      "五代"
+    ],
+    "sources": [
+      "JIUTANGSHU",
+      "JIUWUDAISHI"
+    ],
+    "reliability": "A",
+    "summary": "燕云十六州之一，959 年被后周收复。",
+    "strategic_value": ""
+  }
+]

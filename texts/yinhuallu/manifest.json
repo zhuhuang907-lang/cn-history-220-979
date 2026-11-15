@@ -1,0 +1,86 @@
+{
+  "source_id": "YINHUALU",
+  "title": "因話錄",
+  "title_simplified": "因话录",
+  "slug": "yinhuallu",
+  "page_title": "因話錄",
+  "source_url": "https://zh.wikisource.org/wiki/%E5%9B%A0%E8%A9%B1%E9%8C%84",
+  "license": "CC BY-SA 4.0 (Wikisource transcription); classical text is public domain",
+  "fetched_at": "2026-11-14T03:02:45+00:00",
+  "volume_count": 6,
+  "chars": 28590,
+  "volumes": [
+    {
+      "file": "卷001.txt",
+      "page_title": "因話錄/卷一",
+      "volume": 1,
+      "part": "",
+      "volume_label": "001",
+      "section": "",
+      "revid": 1307972,
+      "url": "https://zh.wikisource.org/wiki/%E5%9B%A0%E8%A9%B1%E9%8C%84/%E5%8D%B7%E4%B8%80",
+      "chars": 3764,
+      "sha256": "59d1ef061138f6b8fa14b8a8e951eef042b207f3e3d4a4fc71d471ffd089f8a7"
+    },
+    {
+      "file": "卷002.txt",
+      "page_title": "因話錄/卷二",
+      "volume": 2,
+      "part": "",
+      "volume_label": "002",
+      "section": "",
+      "revid": 1307973,
+      "url": "https://zh.wikisource.org/wiki/%E5%9B%A0%E8%A9%B1%E9%8C%84/%E5%8D%B7%E4%BA%8C",
+      "chars": 3872,
+      "sha256": "e9c0dd3f36ad3f3b046fcb86e582cb4040ff0eabeaca39e85ac9016fe80b3188"
+    },
+    {
+      "file": "卷003.txt",
+      "page_title": "因話錄/卷三",
+      "volume": 3,
+      "part": "",
+      "volume_label": "003",
+      "section": "",
+      "revid": 1307974,
+      "url": "https://zh.wikisource.org/wiki/%E5%9B%A0%E8%A9%B1%E9%8C%84/%E5%8D%B7%E4%B8%89",
+      "chars": 5314,
+      "sha256": "1678e69a98f83a16b3edfde1ac68f5d0f8f2e34d1d0c817f834c976f6f2ea590"
+    },
+    {
+      "file": "卷004.txt",
+      "page_title": "因話錄/卷四",
+      "volume": 4,
+      "part": "",
+      "volume_label": "004",
+      "section": "",
+      "revid": 1427450,
+      "url": "https://zh.wikisource.org/wiki/%E5%9B%A0%E8%A9%B1%E9%8C%84/%E5%8D%B7%E5%9B%9B",
+      "chars": 4547,
+      "sha256": "bc07163e2b206fb705c4756275a4b714da8957224be7004d9942a709be9b9df0"
+    },
+    {
+      "file": "卷005.txt",
+      "page_title": "因話錄/卷五",
+      "volume": 5,
+      "part": "",
+      "volume_label": "005",
+      "section": "",
+      "revid": 1307976,
+      "url": "https://zh.wikisource.org/wiki/%E5%9B%A0%E8%A9%B1%E9%8C%84/%E5%8D%B7%E4%BA%94",
+      "chars": 5541,
+      "sha256": "6f82b28d8858a2a8c04e06c4777f71b4cd09d1f20bf590885210d87239df6e15"
+    },
+    {
+      "file": "卷006.txt",
+      "page_title": "因話錄/卷六",
+      "volume": 6,
+      "part": "",
+      "volume_label": "006",
+      "section": "",
+      "revid": 1307977,
+      "url": "https://zh.wikisource.org/wiki/%E5%9B%A0%E8%A9%B1%E9%8C%84/%E5%8D%B7%E5%85%AD",
+      "chars": 5552,
+      "sha256": "6cf4dbc0bdf9c9b49c3439e577fb4951ef273185b05dc6b9cf3666aff017e29c"
+    }
+  ]
+}

@@ -1,0 +1,942 @@
+[
+  {
+    "id": "wei-bo",
+    "name": "魏博镇",
+    "name_en": "Weibo Garrison",
+    "aliases": [
+      "魏博",
+      "天雄军",
+      "魏州镇"
+    ],
+    "type": "garrison",
+    "period": "中唐",
+    "start": 763,
+    "end": 912,
+    "capital": "魏州",
+    "territory": "魏州、博州、相州、卫州、贝州、澶州",
+    "founders": [
+      "田承嗣"
+    ],
+    "key_rulers": [
+      "田承嗣",
+      "田悦",
+      "田弘正",
+      "罗绍威"
+    ],
+    "allies": [
+      "cheng-de",
+      "lu-long"
+    ],
+    "enemies": [
+      "tang",
+      "xuan-wu"
+    ],
+    "vassals": [],
+    "ideology": "河朔割据与牙兵共治",
+    "military": "牙兵数万，世袭父子兵，废立节度使",
+    "economy": "河北农业、魏州商业、藩镇财政",
+    "strengths": [
+      "牙兵精锐",
+      "河北腹地",
+      "河朔联盟"
+    ],
+    "weaknesses": [
+      "牙兵骄横",
+      "内部兵变",
+      "朱温吞并"
+    ],
+    "game_hooks": [
+      "牙兵废立",
+      "河朔三镇",
+      "田弘正归唐",
+      "罗绍威屠牙兵"
+    ],
+    "summary": "魏博是河朔三镇之首，牙兵可废立节度使，是晚唐藩镇政治的典型。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "cheng-de",
+    "name": "成德镇",
+    "name_en": "Chengde Garrison",
+    "aliases": [
+      "成德",
+      "恒冀",
+      "镇州镇"
+    ],
+    "type": "garrison",
+    "period": "中唐",
+    "start": 762,
+    "end": 922,
+    "capital": "恒州（镇州）",
+    "territory": "恒州、冀州、深州、赵州",
+    "founders": [
+      "李宝臣"
+    ],
+    "key_rulers": [
+      "李宝臣",
+      "王武俊",
+      "王庭凑",
+      "王镕"
+    ],
+    "allies": [
+      "wei-bo",
+      "lu-long"
+    ],
+    "enemies": [
+      "tang",
+      "he-dong"
+    ],
+    "vassals": [],
+    "ideology": "河朔割据与本土豪强",
+    "military": "牙兵、团练、河北骑兵",
+    "economy": "河北农业、恒州商业",
+    "strengths": [
+      "河北腹地",
+      "河朔联盟",
+      "地形"
+    ],
+    "weaknesses": [
+      "牙兵政治",
+      "晋梁夹击",
+      "王镕败亡"
+    ],
+    "game_hooks": [
+      "河朔三镇",
+      "王武俊称王",
+      "王镕附梁",
+      "晋军灭成德"
+    ],
+    "summary": "成德镇据恒冀，与魏博、卢龙构成河朔三镇，长期半独立于唐廷。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "lu-long",
+    "name": "卢龙镇",
+    "name_en": "Lulong Garrison",
+    "aliases": [
+      "卢龙",
+      "幽州镇",
+      "范阳"
+    ],
+    "type": "garrison",
+    "period": "中唐",
+    "start": 763,
+    "end": 913,
+    "capital": "幽州",
+    "territory": "幽州、蓟州、妫州、檀州、平州",
+    "founders": [
+      "李怀仙"
+    ],
+    "key_rulers": [
+      "李怀仙",
+      "朱滔",
+      "刘济",
+      "刘仁恭",
+      "刘守光"
+    ],
+    "allies": [
+      "wei-bo",
+      "cheng-de",
+      "khitan"
+    ],
+    "enemies": [
+      "tang",
+      "he-dong",
+      "later-liang"
+    ],
+    "vassals": [],
+    "ideology": "河朔割据与边镇军事",
+    "military": "幽州骑兵、牙兵、契丹雇佣兵",
+    "economy": "幽州边贸、农业、盐业",
+    "strengths": [
+      "骑兵",
+      "边镇地理",
+      "契丹联系"
+    ],
+    "weaknesses": [
+      "内部兵变",
+      "刘守光暴政",
+      "晋梁夹击"
+    ],
+    "game_hooks": [
+      "安史旧部",
+      "幽州骑兵",
+      "刘仁恭割据",
+      "刘守光称帝"
+    ],
+    "summary": "卢龙镇据幽州，是河朔三镇中最靠北的军事强镇，也是安史旧部的延续。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "zi-qing",
+    "name": "淄青镇",
+    "name_en": "Ziqing Garrison",
+    "aliases": [
+      "淄青",
+      "平卢",
+      "青州镇"
+    ],
+    "type": "garrison",
+    "period": "中唐",
+    "start": 765,
+    "end": 819,
+    "capital": "青州",
+    "territory": "青州、淄州、齐州、登州、莱州、沂州、密州",
+    "founders": [
+      "李正己"
+    ],
+    "key_rulers": [
+      "李正己",
+      "李纳",
+      "李师古",
+      "李师道"
+    ],
+    "allies": [
+      "wei-bo",
+      "huai-xi"
+    ],
+    "enemies": [
+      "tang"
+    ],
+    "vassals": [],
+    "ideology": "山东割据与海贸",
+    "military": "牙兵、水军、山东团练",
+    "economy": "山东农业、盐业、登州海贸",
+    "strengths": [
+      "海贸",
+      "盐利",
+      "山东纵深"
+    ],
+    "weaknesses": [
+      "唐廷削藩",
+      "淮西失败",
+      "李师道败亡"
+    ],
+    "game_hooks": [
+      "李正己割据",
+      "淄青十二州",
+      "唐宪宗削藩",
+      "李师道败亡"
+    ],
+    "summary": "淄青镇控制山东半岛与海贸，是唐宪宗削藩战争中的重要对手。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "huai-xi",
+    "name": "淮西镇",
+    "name_en": "Huaixi Garrison",
+    "aliases": [
+      "淮西",
+      "彰义军",
+      "蔡州镇"
+    ],
+    "type": "garrison",
+    "period": "中唐",
+    "start": 763,
+    "end": 817,
+    "capital": "蔡州",
+    "territory": "蔡州、申州、光州",
+    "founders": [
+      "李忠臣"
+    ],
+    "key_rulers": [
+      "李希烈",
+      "吴少诚",
+      "吴少阳",
+      "吴元济"
+    ],
+    "allies": [
+      "zi-qing",
+      "cheng-de"
+    ],
+    "enemies": [
+      "tang"
+    ],
+    "vassals": [],
+    "ideology": "淮西割据与牙兵政治",
+    "military": "蔡州牙兵、骡军、地方团练",
+    "economy": "淮西农业、掠夺、盐利",
+    "strengths": [
+      "牙兵",
+      "淮西地形",
+      "唐廷腹心威胁"
+    ],
+    "weaknesses": [
+      "四面被围",
+      "补给困难",
+      "李愬雪夜袭蔡州"
+    ],
+    "game_hooks": [
+      "李希烈称帝",
+      "吴元济割据",
+      "李愬雪夜入蔡州",
+      "淮西平定"
+    ],
+    "summary": "淮西镇紧邻唐廷腹地，是宪宗削藩的核心目标，最终被李愬奇袭平定。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "shuo-fang",
+    "name": "朔方镇",
+    "name_en": "Shuofang Garrison",
+    "aliases": [
+      "朔方",
+      "灵武",
+      "朔方节度使"
+    ],
+    "type": "garrison",
+    "period": "盛唐",
+    "start": 713,
+    "end": 907,
+    "capital": "灵州（灵武）",
+    "territory": "灵州、夏州、盐州、丰州、河西部分",
+    "founders": [
+      "唐玄宗"
+    ],
+    "key_rulers": [
+      "郭子仪",
+      "李光弼",
+      "仆固怀恩",
+      "李怀光"
+    ],
+    "allies": [
+      "tang",
+      "uyghur"
+    ],
+    "enemies": [
+      "tibet",
+      "yan-lushan"
+    ],
+    "vassals": [
+      "tuyuhun"
+    ],
+    "ideology": "唐廷边军与朔方军功集团",
+    "military": "朔方骑兵、边军、蕃兵",
+    "economy": "河套农业、盐池、马政",
+    "strengths": [
+      "骑兵",
+      "灵武根据地",
+      "平叛主力"
+    ],
+    "weaknesses": [
+      "仆固怀恩之叛",
+      "吐蕃压力",
+      "财政依赖"
+    ],
+    "game_hooks": [
+      "灵武称帝",
+      "郭子仪平叛",
+      "仆固怀恩",
+      "朔方军"
+    ],
+    "summary": "朔方镇是安史之乱中唐廷平叛的主力，也是灵武称帝与西北防线的核心。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "he-dong",
+    "name": "河东镇",
+    "name_en": "Hedong Garrison",
+    "aliases": [
+      "河东",
+      "太原",
+      "河东节度使"
+    ],
+    "type": "garrison",
+    "period": "盛唐",
+    "start": 713,
+    "end": 923,
+    "capital": "太原",
+    "territory": "太原府、代州、忻州、岚州、石州",
+    "founders": [
+      "唐玄宗"
+    ],
+    "key_rulers": [
+      "李光弼",
+      "马燧",
+      "李克用",
+      "李存勖"
+    ],
+    "allies": [
+      "turk",
+      "khitan"
+    ],
+    "enemies": [
+      "later-liang",
+      "lu-long"
+    ],
+    "vassals": [],
+    "ideology": "河东军功集团与沙陀复兴",
+    "military": "河东骑兵、沙陀军、太原城防",
+    "economy": "太原农业、盐池、马政、边贸",
+    "strengths": [
+      "骑兵",
+      "太原坚城",
+      "沙陀军事传统"
+    ],
+    "weaknesses": [
+      "河北压力",
+      "梁军封锁",
+      "内部军变"
+    ],
+    "game_hooks": [
+      "李克用割据",
+      "太原保卫战",
+      "沙陀骑兵",
+      "后唐灭梁"
+    ],
+    "summary": "河东镇是唐末五代最重要的军事强镇之一，李克用父子以此为基地建立后唐。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "JIUWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "feng-xiang",
+    "name": "凤翔镇",
+    "name_en": "Fengxiang Garrison",
+    "aliases": [
+      "凤翔",
+      "岐",
+      "凤翔节度使"
+    ],
+    "type": "garrison",
+    "period": "中唐",
+    "start": 757,
+    "end": 924,
+    "capital": "凤翔",
+    "territory": "凤翔府、陇州、岐州一带",
+    "founders": [
+      "唐肃宗"
+    ],
+    "key_rulers": [
+      "李茂贞",
+      "李从曮"
+    ],
+    "allies": [
+      "later-liang"
+    ],
+    "enemies": [
+      "tang",
+      "later-tang"
+    ],
+    "vassals": [],
+    "ideology": "关中西部割据与挟天子",
+    "military": "凤翔牙兵、关中骑兵",
+    "economy": "关中西部农业、商税",
+    "strengths": [
+      "关中地理",
+      "挟天子机会",
+      "城防"
+    ],
+    "weaknesses": [
+      "国力有限",
+      "晋梁夹击",
+      "李茂贞败退"
+    ],
+    "game_hooks": [
+      "李茂贞挟天子",
+      "凤翔围城",
+      "岐国",
+      "后唐吞并"
+    ],
+    "summary": "凤翔镇据关中西部，唐末曾挟持昭宗，是朱温与李克用争夺的关键势力。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "JIUWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "xuan-wu",
+    "name": "宣武镇",
+    "name_en": "Xuanwu Garrison",
+    "aliases": [
+      "宣武",
+      "汴州",
+      "朱温"
+    ],
+    "type": "garrison",
+    "period": "晚唐",
+    "start": 781,
+    "end": 907,
+    "capital": "汴州",
+    "territory": "汴州、宋州、亳州、颍州",
+    "founders": [
+      "唐德宗"
+    ],
+    "key_rulers": [
+      "朱温"
+    ],
+    "allies": [
+      "wuyue",
+      "jingnan"
+    ],
+    "enemies": [
+      "he-dong",
+      "lu-long",
+      "huang-chao"
+    ],
+    "vassals": [],
+    "ideology": "中原藩镇与篡唐野心",
+    "military": "宣武牙兵、河南军、降军",
+    "economy": "汴梁漕运、河南农业、商业",
+    "strengths": [
+      "漕运枢纽",
+      "中原经济",
+      "朱温军政才能"
+    ],
+    "weaknesses": [
+      "四战之地",
+      "河北强敌",
+      "内部兵变"
+    ],
+    "game_hooks": [
+      "朱温据汴",
+      "吞并中原",
+      "篡唐建梁",
+      "汴梁都市"
+    ],
+    "summary": "宣武镇以汴州为基地，控制漕运与中原，朱温由此篡唐建立后梁。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "JIUWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "yellow-turban",
+    "name": "黄巾军",
+    "name_en": "Yellow Turban Rebellion",
+    "aliases": [
+      "黄巾",
+      "太平道",
+      "蛾贼"
+    ],
+    "type": "rebel",
+    "period": "东汉末",
+    "start": 184,
+    "end": 205,
+    "capital": null,
+    "territory": "冀州、豫州、兖州、青州、荆州、益州等流动作战",
+    "founders": [
+      "张角"
+    ],
+    "key_rulers": [
+      "张角",
+      "张宝",
+      "张梁"
+    ],
+    "allies": [],
+    "enemies": [
+      "late-han",
+      "cao-wei"
+    ],
+    "vassals": [],
+    "ideology": "太平道末世救赎与黄天当立",
+    "military": "流民武装、宗教组织、地方渠帅",
+    "economy": "流民动员、劫掠与屯聚",
+    "strengths": [
+      "群众动员",
+      "宗教组织",
+      "流动性"
+    ],
+    "weaknesses": [
+      "装备差",
+      "缺乏统一指挥",
+      "被官军各个击破"
+    ],
+    "game_hooks": [
+      "太平道",
+      "黄天当立",
+      "州郡响应",
+      "黄巾余部"
+    ],
+    "summary": "黄巾军是东汉末年最大规模的宗教性民变，虽被镇压，却加速了州牧割据。",
+    "sources": [
+      "HOUHANSHU",
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "dong-zhuo",
+    "name": "董卓集团",
+    "name_en": "Dong Zhuo Regime",
+    "aliases": [
+      "董卓",
+      "西凉军"
+    ],
+    "type": "warlord",
+    "period": "东汉末",
+    "start": 189,
+    "end": 192,
+    "capital": "洛阳（后长安）",
+    "territory": "关中、洛阳、凉州部分",
+    "founders": [
+      "董卓"
+    ],
+    "key_rulers": [
+      "董卓",
+      "李傕",
+      "郭汜"
+    ],
+    "allies": [
+      "qiang"
+    ],
+    "enemies": [
+      "yuan-shao",
+      "cao-wei"
+    ],
+    "vassals": [
+      "lv-bu"
+    ],
+    "ideology": "凉州军事集团与暴力威慑",
+    "military": "西凉骑兵、羌胡兵、并州兵",
+    "economy": "关中掠夺、洛阳财富",
+    "strengths": [
+      "骑兵",
+      "关中地理",
+      "中央控制"
+    ],
+    "weaknesses": [
+      "残暴失人心",
+      "内部不和",
+      "关东联军"
+    ],
+    "game_hooks": [
+      "废立皇帝",
+      "迁都长安",
+      "吕布刺杀",
+      "李傕郭汜"
+    ],
+    "summary": "董卓以凉州军入洛，废立皇帝、迁都长安，开启汉末军阀混战。",
+    "sources": [
+      "HOUHANSHU",
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "yuan-shao",
+    "name": "袁绍集团",
+    "name_en": "Yuan Shao",
+    "aliases": [
+      "袁绍",
+      "河北袁氏"
+    ],
+    "type": "warlord",
+    "period": "东汉末",
+    "start": 190,
+    "end": 202,
+    "capital": "邺",
+    "territory": "冀州、青州、幽州、并州",
+    "founders": [
+      "袁绍"
+    ],
+    "key_rulers": [
+      "袁绍",
+      "袁谭",
+      "袁尚"
+    ],
+    "allies": [
+      "yuan-shu"
+    ],
+    "enemies": [
+      "cao-wei",
+      "gongsun-zan"
+    ],
+    "vassals": [
+      "xianbei"
+    ],
+    "ideology": "汝南袁氏门生故吏网络",
+    "military": "河北步兵、骑兵、乌桓突骑",
+    "economy": "河北农业、邺城都市",
+    "strengths": [
+      "河北资源",
+      "士族网络",
+      "兵力优势"
+    ],
+    "weaknesses": [
+      "决策犹豫",
+      "内部党争",
+      "继承分裂"
+    ],
+    "game_hooks": [
+      "关东联军",
+      "界桥之战",
+      "官渡之战",
+      "袁氏分裂"
+    ],
+    "summary": "袁绍据河北，是官渡之战前最强的军阀，却因决策与继承问题败给曹操。",
+    "sources": [
+      "HOUHANSHU",
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "huang-chao",
+    "name": "黄巢军",
+    "name_en": "Huang Chao Rebellion",
+    "aliases": [
+      "黄巢",
+      "冲天大将军",
+      "大齐"
+    ],
+    "type": "rebel",
+    "period": "晚唐",
+    "start": 875,
+    "end": 884,
+    "capital": "长安（大齐）",
+    "territory": "流动作战：山东、河南、江淮、岭南、关中",
+    "founders": [
+      "黄巢"
+    ],
+    "key_rulers": [
+      "黄巢",
+      "尚让",
+      "朱温"
+    ],
+    "allies": [
+      "wang-xianzhi"
+    ],
+    "enemies": [
+      "tang",
+      "li-keyong"
+    ],
+    "vassals": [],
+    "ideology": "均平口号与流民反抗",
+    "military": "流民军、骑兵、降军",
+    "economy": "流动作战、劫掠、漕运截断",
+    "strengths": [
+      "流动作战",
+      "民众动员",
+      "唐军腐败"
+    ],
+    "weaknesses": [
+      "无稳固根据地",
+      "补给困难",
+      "内部叛降"
+    ],
+    "game_hooks": [
+      "冲天香阵透长安",
+      "流民军",
+      "朱温降唐",
+      "黄巢败亡"
+    ],
+    "summary": "黄巢军转战大半个唐帝国，攻入长安建立大齐，最终因缺乏根据地与内部叛降失败。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "BEIMENGSUOYAN",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wang-xianzhi",
+    "name": "王仙芝军",
+    "name_en": "Wang Xianzhi Rebellion",
+    "aliases": [
+      "王仙芝",
+      "草军"
+    ],
+    "type": "rebel",
+    "period": "晚唐",
+    "start": 875,
+    "end": 878,
+    "capital": null,
+    "territory": "山东、河南、江淮流动作战",
+    "founders": [
+      "王仙芝"
+    ],
+    "key_rulers": [
+      "王仙芝"
+    ],
+    "allies": [
+      "huang-chao"
+    ],
+    "enemies": [
+      "tang"
+    ],
+    "vassals": [],
+    "ideology": "贩私盐集团与流民反抗",
+    "military": "流民武装、私盐贩武装",
+    "economy": "私盐贸易、劫掠",
+    "strengths": [
+      "流动作战",
+      "私盐网络"
+    ],
+    "weaknesses": [
+      "组织松散",
+      "招安分歧",
+      "被唐军击破"
+    ],
+    "game_hooks": [
+      "私盐贩起兵",
+      "招安谈判",
+      "王黄分军",
+      "黄巢继起"
+    ],
+    "summary": "王仙芝是唐末民变的先声，其部众后来多归黄巢，揭开唐末大乱的序幕。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "li-keyong",
+    "name": "李克用集团",
+    "name_en": "Li Keyong",
+    "aliases": [
+      "李克用",
+      "河东李克用",
+      "沙陀李氏",
+      "晋"
+    ],
+    "type": "warlord",
+    "period": "晚唐",
+    "start": 883,
+    "end": 908,
+    "capital": "太原",
+    "territory": "河东、代北、部分河北",
+    "founders": [
+      "李克用"
+    ],
+    "key_rulers": [
+      "李克用",
+      "李存勖"
+    ],
+    "allies": [
+      "khitan",
+      "turk"
+    ],
+    "enemies": [
+      "later-liang",
+      "lu-long"
+    ],
+    "vassals": [],
+    "ideology": "沙陀军功集团与唐室忠臣叙事",
+    "military": "沙陀骑兵、鸦军、河东牙兵",
+    "economy": "河东农业、马政、盐池",
+    "strengths": [
+      "骑兵",
+      "太原根据地",
+      "沙陀军事传统"
+    ],
+    "weaknesses": [
+      "后勤有限",
+      "河北盟友不稳",
+      "与梁长期消耗"
+    ],
+    "game_hooks": [
+      "沙陀骑兵",
+      "鸦军",
+      "太原保卫战",
+      "晋梁争霸"
+    ],
+    "summary": "李克用据河东，以沙陀骑兵与朱温争霸，其子李存勖最终灭梁建立后唐。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "qin-zongquan",
+    "name": "秦宗权集团",
+    "name_en": "Qin Zongquan",
+    "aliases": [
+      "秦宗权",
+      "蔡州军"
+    ],
+    "type": "warlord",
+    "period": "晚唐",
+    "start": 884,
+    "end": 889,
+    "capital": "蔡州",
+    "territory": "蔡州、河南部分",
+    "founders": [
+      "秦宗权"
+    ],
+    "key_rulers": [
+      "秦宗权"
+    ],
+    "allies": [
+      "huang-chao"
+    ],
+    "enemies": [
+      "later-liang",
+      "tang"
+    ],
+    "vassals": [],
+    "ideology": "蔡州牙兵与恐怖统治",
+    "military": "蔡州牙兵、流民军",
+    "economy": "掠夺、人相食的极端破坏",
+    "strengths": [
+      "牙兵",
+      "河南混乱"
+    ],
+    "weaknesses": [
+      "残暴失人心",
+      "后勤崩溃",
+      "朱温夹击"
+    ],
+    "game_hooks": [
+      "蔡州军",
+      "食人军粮",
+      "朱温吞并蔡州",
+      "唐末乱世"
+    ],
+    "summary": "秦宗权是黄巢余部中最残暴的军阀之一，其蔡州军以掠夺为生，最终被朱温消灭。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  }
+]

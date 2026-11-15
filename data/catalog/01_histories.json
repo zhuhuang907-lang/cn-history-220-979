@@ -1,0 +1,958 @@
+[
+  {
+    "id": "SANGUOZHI",
+    "type": "primary",
+    "priority": "core",
+    "title": "三国志",
+    "title_trad": "三國志",
+    "title_en": "Records of the Three Kingdoms",
+    "aliases": [
+      "陈寿三国志",
+      "Sanguozhi",
+      "San Guo Zhi"
+    ],
+    "authors": [
+      {
+        "name": "陈寿",
+        "dates": "233–297",
+        "role": "撰"
+      }
+    ],
+    "date": "约280–297",
+    "periods": [
+      "东汉末",
+      "三国"
+    ],
+    "cover_start": 184,
+    "cover_end": 280,
+    "genre": "纪传体正史",
+    "structure": "65卷：魏书30卷、蜀书15卷、吴书20卷",
+    "reliability": "A",
+    "summary": "西晋陈寿所撰纪传体三国史，以魏为正统，分魏、蜀、吴三书。叙事简洁，是三国史最核心的框架性史料。",
+    "game_use": "建立人物、势力、官职、战役的基础年表；细节需用裴注、《后汉书》《资治通鉴》补足。",
+    "caveats": "陈寿为晋臣，对魏晋禅代、司马氏多所回护；蜀汉、东吴记载相对简略；无志、表。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/三國志",
+      "kanripo": "https://github.com/kanripo/KR2a0012",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=三國志"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/sanguozhi",
+      "volumes_available": 65,
+      "chars": 881434
+    },
+    "tags": [
+      "正史",
+      "三国",
+      "人物",
+      "战争",
+      "政治"
+    ]
+  },
+  {
+    "id": "PEIZHU",
+    "type": "primary",
+    "priority": "core",
+    "title": "三国志注",
+    "title_trad": "三國志注",
+    "title_en": "Annotations to the Records of the Three Kingdoms",
+    "aliases": [
+      "裴松之注",
+      "裴注",
+      "Pei Songzhi zhu"
+    ],
+    "authors": [
+      {
+        "name": "裴松之",
+        "dates": "372–451",
+        "role": "注"
+      }
+    ],
+    "date": "429",
+    "periods": [
+      "东汉末",
+      "三国"
+    ],
+    "cover_start": 184,
+    "cover_end": 280,
+    "genre": "史注",
+    "structure": "随《三国志》65卷正文附注",
+    "reliability": "A/B",
+    "summary": "裴松之奉宋文帝命为《三国志》作注，广引汉魏六朝文献，补阙、备异、惩妄、论辩，保存大量佚书。",
+    "game_use": "三国人物、事件细节的第一扩展层；许多演义素材源于裴注所引杂史。",
+    "caveats": "引书多佚，需注意转引与传闻；裴注并非全为史实，含志怪、传闻。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/三國志",
+      "kanripo": "https://github.com/kanripo/KR2a0012"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "注疏",
+      "三国",
+      "佚书",
+      "人物"
+    ]
+  },
+  {
+    "id": "HOUHANSHU",
+    "type": "primary",
+    "priority": "core",
+    "title": "后汉书",
+    "title_trad": "後漢書",
+    "title_en": "Book of the Later Han",
+    "aliases": [
+      "范晔后汉书",
+      "Hou Hanshu"
+    ],
+    "authors": [
+      {
+        "name": "范晔",
+        "dates": "398–445",
+        "role": "撰"
+      },
+      {
+        "name": "司马彪",
+        "dates": "？–306",
+        "role": "续志"
+      }
+    ],
+    "date": "约445；志为晋人补",
+    "periods": [
+      "东汉末",
+      "三国"
+    ],
+    "cover_start": 25,
+    "cover_end": 220,
+    "genre": "纪传体正史",
+    "structure": "120卷：纪10、志30、列传80",
+    "reliability": "A",
+    "summary": "纪传体东汉史，含纪、志、列传。东汉末三国前夜的政治、人物、边疆、党锢、黄巾等背景史料。",
+    "game_use": "设计汉末乱世、党锢、州郡、边疆、士人网络、黄巾之乱。",
+    "caveats": "范晔未完成志，今本志为司马彪《续汉志》补入；部分列传晚出。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/後漢書",
+      "kanripo": "https://github.com/kanripo/KR2a0009"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/houhanshu",
+      "volumes_available": 131,
+      "chars": 1451474
+    },
+    "tags": [
+      "正史",
+      "东汉",
+      "三国前夜",
+      "人物",
+      "制度"
+    ]
+  },
+  {
+    "id": "JINSHU",
+    "type": "primary",
+    "priority": "core",
+    "title": "晋书",
+    "title_trad": "晉書",
+    "title_en": "Book of Jin",
+    "aliases": [
+      "房玄龄晋书",
+      "Jin Shu"
+    ],
+    "authors": [
+      {
+        "name": "房玄龄等",
+        "dates": "唐初",
+        "role": "撰"
+      }
+    ],
+    "date": "648",
+    "periods": [
+      "西晋",
+      "东晋",
+      "十六国"
+    ],
+    "cover_start": 265,
+    "cover_end": 420,
+    "genre": "纪传体正史",
+    "structure": "130卷：纪10、志20、列传70、载记30",
+    "reliability": "A",
+    "summary": "唐初官修晋史，含西晋、东晋及十六国载记。列传、载记保存大量十六国政权史料。",
+    "game_use": "两晋门阀、八王之乱、永嘉之乱、十六国政权的基础史料。",
+    "caveats": "成书较晚，采摭小说杂说，叙事有荒诞处；十六国部分需与《十六国春秋》辑本、《魏书》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/晉書",
+      "kanripo": "https://github.com/kanripo/KR2a0015"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/jinshu",
+      "volumes_available": 130,
+      "chars": 1503553
+    },
+    "tags": [
+      "正史",
+      "两晋",
+      "十六国",
+      "门阀",
+      "战争"
+    ]
+  },
+  {
+    "id": "SONGSHU",
+    "type": "primary",
+    "priority": "core",
+    "title": "宋书",
+    "title_trad": "宋書",
+    "title_en": "Book of Song",
+    "aliases": [
+      "沈约宋书",
+      "Song Shu"
+    ],
+    "authors": [
+      {
+        "name": "沈约",
+        "dates": "441–513",
+        "role": "撰"
+      }
+    ],
+    "date": "488",
+    "periods": [
+      "南朝"
+    ],
+    "cover_start": 420,
+    "cover_end": 479,
+    "genre": "纪传体正史",
+    "structure": "100卷：纪10、志30、列传60",
+    "reliability": "A",
+    "summary": "南朝宋纪传体正史，八志上溯魏晋，保存律历、礼乐、州郡、百官等制度史料。",
+    "game_use": "南朝宋政治、制度、门阀、战争；八志可补三国两晋制度。",
+    "caveats": "沈约为宋臣、齐臣，叙事有回护；部分志书超越刘宋范围。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/宋書",
+      "kanripo": "https://github.com/kanripo/KR2a0016"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/songshu",
+      "volumes_available": 99,
+      "chars": 1172875
+    },
+    "tags": [
+      "正史",
+      "南朝",
+      "刘宋",
+      "制度",
+      "门阀"
+    ]
+  },
+  {
+    "id": "NANQISHU",
+    "type": "primary",
+    "priority": "core",
+    "title": "南齐书",
+    "title_trad": "南齊書",
+    "title_en": "Book of Southern Qi",
+    "aliases": [
+      "萧子显南齐书",
+      "Nan Qi Shu"
+    ],
+    "authors": [
+      {
+        "name": "萧子显",
+        "dates": "489–537",
+        "role": "撰"
+      }
+    ],
+    "date": "约537",
+    "periods": [
+      "南朝"
+    ],
+    "cover_start": 479,
+    "cover_end": 502,
+    "genre": "纪传体正史",
+    "structure": "59卷：纪8、志11、列传40",
+    "reliability": "A",
+    "summary": "南朝齐纪传体正史，萧子显以宗室身份修史，文笔简洁，保存齐代政治与文学史料。",
+    "game_use": "南朝齐宫廷政变、宗室斗争、文学群体。",
+    "caveats": "篇幅较短，制度记载不如《宋书》系统；需与《南史》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/南齊書",
+      "kanripo": "https://github.com/kanripo/KR2a0017"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/nanqishu",
+      "volumes_available": 59,
+      "chars": 416849
+    },
+    "tags": [
+      "正史",
+      "南朝",
+      "南齐",
+      "宗室",
+      "文学"
+    ]
+  },
+  {
+    "id": "LIANGSHU",
+    "type": "primary",
+    "priority": "core",
+    "title": "梁书",
+    "title_trad": "梁書",
+    "title_en": "Book of Liang",
+    "aliases": [
+      "姚思廉梁书",
+      "Liang Shu"
+    ],
+    "authors": [
+      {
+        "name": "姚思廉",
+        "dates": "557–637",
+        "role": "撰"
+      }
+    ],
+    "date": "636",
+    "periods": [
+      "南朝"
+    ],
+    "cover_start": 502,
+    "cover_end": 557,
+    "genre": "纪传体正史",
+    "structure": "56卷：纪6、列传50",
+    "reliability": "A",
+    "summary": "南朝梁纪传体正史，保存梁武帝时期政治、文化、佛教、对外交流史料。",
+    "game_use": "梁武帝时代、侯景之乱、南朝佛教、南北交流。",
+    "caveats": "姚氏父子历陈、隋、唐，叙事对梁宗室多有回护；侯景之乱需与《南史》《资治通鉴》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/梁書",
+      "kanripo": "https://github.com/kanripo/KR2a0018"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/liangshu",
+      "volumes_available": 56,
+      "chars": 381986
+    },
+    "tags": [
+      "正史",
+      "南朝",
+      "梁",
+      "佛教",
+      "侯景之乱"
+    ]
+  },
+  {
+    "id": "CHENSHU",
+    "type": "primary",
+    "priority": "core",
+    "title": "陈书",
+    "title_trad": "陳書",
+    "title_en": "Book of Chen",
+    "aliases": [
+      "姚思廉陈书",
+      "Chen Shu"
+    ],
+    "authors": [
+      {
+        "name": "姚思廉",
+        "dates": "557–637",
+        "role": "撰"
+      }
+    ],
+    "date": "636",
+    "periods": [
+      "南朝"
+    ],
+    "cover_start": 557,
+    "cover_end": 589,
+    "genre": "纪传体正史",
+    "structure": "36卷：纪6、列传30",
+    "reliability": "A",
+    "summary": "南朝陈纪传体正史，篇幅最短，保存陈朝政治、军事与南方社会史料。",
+    "game_use": "南朝末期、陈隋对峙、江南地方势力。",
+    "caveats": "陈朝史料本少，列传多简；需与《南史》《隋书》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/陳書",
+      "kanripo": "https://github.com/kanripo/KR2a0019"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/chenshu",
+      "volumes_available": 36,
+      "chars": 237436
+    },
+    "tags": [
+      "正史",
+      "南朝",
+      "陈",
+      "江南"
+    ]
+  },
+  {
+    "id": "WEISHU",
+    "type": "primary",
+    "priority": "core",
+    "title": "魏书",
+    "title_trad": "魏書",
+    "title_en": "Book of Wei",
+    "aliases": [
+      "魏收魏书",
+      "Wei Shu",
+      "北魏书"
+    ],
+    "authors": [
+      {
+        "name": "魏收",
+        "dates": "507–572",
+        "role": "撰"
+      }
+    ],
+    "date": "554",
+    "periods": [
+      "北朝",
+      "十六国"
+    ],
+    "cover_start": 386,
+    "cover_end": 550,
+    "genre": "纪传体正史",
+    "structure": "114卷：纪12、志20、列传82",
+    "reliability": "A",
+    "summary": "北齐魏收所撰北魏纪传体正史，含帝纪、列传、志，是北魏、东魏制度与社会的基础史料。",
+    "game_use": "北魏建国、孝文帝改革、六镇、洛阳、北朝制度。",
+    "caveats": "魏收“秽史”之争，叙事褒贬受北齐政治影响；北魏早期史事需与《北史》《宋书》《资治通鉴》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/魏書",
+      "kanripo": "https://github.com/kanripo/KR2a0020"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/weishu",
+      "volumes_available": 124,
+      "chars": 1357515
+    },
+    "tags": [
+      "正史",
+      "北朝",
+      "北魏",
+      "制度",
+      "民族"
+    ]
+  },
+  {
+    "id": "BEIQISHU",
+    "type": "primary",
+    "priority": "core",
+    "title": "北齐书",
+    "title_trad": "北齊書",
+    "title_en": "Book of Northern Qi",
+    "aliases": [
+      "李百药北齐书",
+      "Bei Qi Shu"
+    ],
+    "authors": [
+      {
+        "name": "李百药",
+        "dates": "565–648",
+        "role": "撰"
+      }
+    ],
+    "date": "636",
+    "periods": [
+      "北朝"
+    ],
+    "cover_start": 534,
+    "cover_end": 577,
+    "genre": "纪传体正史",
+    "structure": "50卷：纪8、列传42",
+    "reliability": "A",
+    "summary": "唐初李百药所撰北齐纪传体正史，保存东魏、北齐政治、军事、民族与制度史料。",
+    "game_use": "东魏北齐宫廷、六镇余绪、胡汉冲突、并州军事集团。",
+    "caveats": "北齐史料多经唐初整理，对高氏政权有道德化批评；需与《北史》《隋书》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/北齊書",
+      "kanripo": "https://github.com/kanripo/KR2a0021"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/beiqishu",
+      "volumes_available": 50,
+      "chars": 280614
+    },
+    "tags": [
+      "正史",
+      "北朝",
+      "北齐",
+      "东魏",
+      "胡汉"
+    ]
+  },
+  {
+    "id": "ZHOUSHU",
+    "type": "primary",
+    "priority": "core",
+    "title": "周书",
+    "title_trad": "周書",
+    "title_en": "Book of Zhou",
+    "aliases": [
+      "令狐德棻周书",
+      "Zhou Shu",
+      "北周书"
+    ],
+    "authors": [
+      {
+        "name": "令狐德棻等",
+        "dates": "唐初",
+        "role": "撰"
+      }
+    ],
+    "date": "636",
+    "periods": [
+      "北朝"
+    ],
+    "cover_start": 535,
+    "cover_end": 581,
+    "genre": "纪传体正史",
+    "structure": "50卷：纪8、列传42",
+    "reliability": "A",
+    "summary": "唐初官修西魏、北周纪传体正史，保存宇文泰集团、府兵制、关陇集团形成的重要史料。",
+    "game_use": "西魏北周改革、府兵制、关陇集团、北周灭齐。",
+    "caveats": "西魏部分较简；北周政治多经唐初史臣剪裁，需与《北史》《隋书》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/周書",
+      "kanripo": "https://github.com/kanripo/KR2a0022"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/zhoushu",
+      "volumes_available": 50,
+      "chars": 455915
+    },
+    "tags": [
+      "正史",
+      "北朝",
+      "西魏",
+      "北周",
+      "府兵制"
+    ]
+  },
+  {
+    "id": "SUISHU",
+    "type": "primary",
+    "priority": "core",
+    "title": "隋书",
+    "title_trad": "隋書",
+    "title_en": "Book of Sui",
+    "aliases": [
+      "魏征隋书",
+      "Sui Shu"
+    ],
+    "authors": [
+      {
+        "name": "魏征等",
+        "dates": "唐初",
+        "role": "撰"
+      }
+    ],
+    "date": "636",
+    "periods": [
+      "隋",
+      "南朝",
+      "北朝"
+    ],
+    "cover_start": 581,
+    "cover_end": 618,
+    "genre": "纪传体正史",
+    "structure": "85卷：纪5、志30、列传50",
+    "reliability": "A",
+    "summary": "唐初官修隋史，含帝纪、列传、十志。十志保存梁、陈、北齐、北周、隋五代制度，是研究中古制度的核心。",
+    "game_use": "隋统一、科举、官制、刑法、地理、音乐、对外关系。",
+    "caveats": "编纂目的在鉴戒，叙事有强烈政治训诫；隋末群雄需与两《唐书》《资治通鉴》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/隋書",
+      "kanripo": "https://github.com/kanripo/KR2a0023"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/suishu",
+      "volumes_available": 85,
+      "chars": 918351
+    },
+    "tags": [
+      "正史",
+      "隋",
+      "制度",
+      "统一",
+      "对外关系"
+    ]
+  },
+  {
+    "id": "NANSHI",
+    "type": "primary",
+    "priority": "core",
+    "title": "南史",
+    "title_trad": "南史",
+    "title_en": "History of the Southern Dynasties",
+    "aliases": [
+      "李延寿南史",
+      "Nan Shi"
+    ],
+    "authors": [
+      {
+        "name": "李延寿",
+        "dates": "唐初",
+        "role": "撰"
+      }
+    ],
+    "date": "659",
+    "periods": [
+      "南朝"
+    ],
+    "cover_start": 420,
+    "cover_end": 589,
+    "genre": "纪传体通史",
+    "structure": "80卷：纪10、列传70",
+    "reliability": "A/B",
+    "summary": "唐初李延寿所撰南朝宋齐梁陈通史，删并四书，叙事连贯，便于通读。",
+    "game_use": "快速把握南朝四代人物与政治脉络；细节回查四书。",
+    "caveats": "删减原始史料，细节不如四书；可与《宋书》《南齐书》《梁书》《陈书》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/南史",
+      "kanripo": "https://github.com/kanripo/KR2a0024"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/nanshi",
+      "volumes_available": 80,
+      "chars": 874481
+    },
+    "tags": [
+      "正史",
+      "南朝",
+      "通史",
+      "人物"
+    ]
+  },
+  {
+    "id": "BEISHI",
+    "type": "primary",
+    "priority": "core",
+    "title": "北史",
+    "title_trad": "北史",
+    "title_en": "History of the Northern Dynasties",
+    "aliases": [
+      "李延寿北史",
+      "Bei Shi"
+    ],
+    "authors": [
+      {
+        "name": "李延寿",
+        "dates": "唐初",
+        "role": "撰"
+      }
+    ],
+    "date": "659",
+    "periods": [
+      "北朝",
+      "隋"
+    ],
+    "cover_start": 386,
+    "cover_end": 618,
+    "genre": "纪传体通史",
+    "structure": "100卷：纪12、列传88",
+    "reliability": "A/B",
+    "summary": "唐初李延寿所撰北魏至隋北方通史，删并魏书、北齐书、周书、隋书，叙事连贯。",
+    "game_use": "快速把握北朝至隋的人物与政权脉络；细节回查原书。",
+    "caveats": "删减较多，制度细节需回查原书；与《魏书》《北齐书》《周书》《隋书》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/北史",
+      "kanripo": "https://github.com/kanripo/KR2a0025"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/beishi",
+      "volumes_available": 100,
+      "chars": 1399090
+    },
+    "tags": [
+      "正史",
+      "北朝",
+      "隋",
+      "通史",
+      "人物"
+    ]
+  },
+  {
+    "id": "JIUTANGSHU",
+    "type": "primary",
+    "priority": "core",
+    "title": "旧唐书",
+    "title_trad": "舊唐書",
+    "title_en": "Old Book of Tang",
+    "aliases": [
+      "刘昫旧唐书",
+      "Jiu Tang Shu"
+    ],
+    "authors": [
+      {
+        "name": "刘昫等",
+        "dates": "后晋",
+        "role": "撰"
+      }
+    ],
+    "date": "945",
+    "periods": [
+      "初唐",
+      "盛唐",
+      "中唐",
+      "晚唐",
+      "五代"
+    ],
+    "cover_start": 618,
+    "cover_end": 907,
+    "genre": "纪传体正史",
+    "structure": "200卷：纪20、志30、列传150",
+    "reliability": "A",
+    "summary": "后晋官修唐史，保存唐代原始文献、诏令、奏议较多，是中晚唐五代十国研究的基础史料。",
+    "game_use": "唐代人物、制度、藩镇、宦官、党争、安史之乱、黄巢之乱的主干史料。",
+    "caveats": "成书仓促，纪传之间时有矛盾；与《新唐书》《资治通鉴》《唐会要》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/舊唐書",
+      "kanripo": "https://github.com/kanripo/KR2a0026"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/jiutangshu",
+      "volumes_available": 213,
+      "chars": 2423463
+    },
+    "tags": [
+      "正史",
+      "唐",
+      "中晚唐",
+      "藩镇",
+      "人物"
+    ]
+  },
+  {
+    "id": "XINTANGSHU",
+    "type": "primary",
+    "priority": "core",
+    "title": "新唐书",
+    "title_trad": "新唐書",
+    "title_en": "New Book of Tang",
+    "aliases": [
+      "欧阳修新唐书",
+      "Xin Tang Shu"
+    ],
+    "authors": [
+      {
+        "name": "欧阳修",
+        "dates": "1007–1072",
+        "role": "撰"
+      },
+      {
+        "name": "宋祁",
+        "dates": "998–1061",
+        "role": "撰"
+      }
+    ],
+    "date": "1060",
+    "periods": [
+      "初唐",
+      "盛唐",
+      "中唐",
+      "晚唐",
+      "五代"
+    ],
+    "cover_start": 618,
+    "cover_end": 907,
+    "genre": "纪传体正史",
+    "structure": "225卷：纪10、志50、表15、列传150",
+    "reliability": "A/B",
+    "summary": "北宋重修唐史，志、表系统完整，文字简练，补充不少晚唐五代史料。",
+    "game_use": "制度、地理、宰相世系、方镇表；与《旧唐书》互补。",
+    "caveats": "欧阳修以春秋笔法删改，叙事有道德化倾向；与《旧唐书》对读，不可偏废。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/新唐書",
+      "kanripo": "https://github.com/kanripo/KR2a0027"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/xintangshu",
+      "volumes_available": 248,
+      "chars": 3067129
+    },
+    "tags": [
+      "正史",
+      "唐",
+      "制度",
+      "地理",
+      "世系"
+    ]
+  },
+  {
+    "id": "JIUWUDAISHI",
+    "type": "primary",
+    "priority": "core",
+    "title": "旧五代史",
+    "title_trad": "舊五代史",
+    "title_en": "Old History of the Five Dynasties",
+    "aliases": [
+      "薛居正旧五代史",
+      "Jiu Wu Dai Shi"
+    ],
+    "authors": [
+      {
+        "name": "薛居正等",
+        "dates": "北宋初",
+        "role": "撰"
+      }
+    ],
+    "date": "974",
+    "periods": [
+      "五代",
+      "十国"
+    ],
+    "cover_start": 907,
+    "cover_end": 960,
+    "genre": "纪传体正史",
+    "structure": "150卷：梁唐晋汉周书及世袭、外国、志",
+    "reliability": "A",
+    "summary": "北宋初官修五代史，保存五代十国原始史料较多，列传、志、考系统。",
+    "game_use": "五代政权更替、十国世袭、牙兵、藩镇、契丹关系。",
+    "caveats": "今本为清人辑佚，非完全原貌；与《新五代史》《资治通鉴》《五代会要》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/舊五代史",
+      "kanripo": "https://github.com/kanripo/KR2a0029"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/jiuwudaishi",
+      "volumes_available": 150,
+      "chars": 869908
+    },
+    "tags": [
+      "正史",
+      "五代",
+      "十国",
+      "藩镇",
+      "牙兵"
+    ]
+  },
+  {
+    "id": "XINWUDAISHI",
+    "type": "primary",
+    "priority": "core",
+    "title": "新五代史",
+    "title_trad": "新五代史",
+    "title_en": "New History of the Five Dynasties",
+    "aliases": [
+      "欧阳修新五代史",
+      "Xin Wu Dai Shi"
+    ],
+    "authors": [
+      {
+        "name": "欧阳修",
+        "dates": "1007–1072",
+        "role": "撰"
+      }
+    ],
+    "date": "1053",
+    "periods": [
+      "五代",
+      "十国"
+    ],
+    "cover_start": 907,
+    "cover_end": 960,
+    "genre": "纪传体正史",
+    "structure": "74卷：本纪12、列传45、考3、世家及年谱11、四夷附录3",
+    "reliability": "A/B",
+    "summary": "欧阳修私修五代史，义例严谨，文字简省，附《十国世家》《四夷附录》。",
+    "game_use": "五代十国政治伦理、政权合法性、士人评价；与旧史互补。",
+    "caveats": "删削大量史实，褒贬强烈；与《旧五代史》《资治通鉴》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/新五代史",
+      "kanripo": "https://github.com/kanripo/KR2a0030"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/xinwudaishi",
+      "volumes_available": 74,
+      "chars": 401615
+    },
+    "tags": [
+      "正史",
+      "五代",
+      "十国",
+      "正统",
+      "士人"
+    ]
+  },
+  {
+    "id": "ZIZHITONGJIAN",
+    "type": "primary",
+    "priority": "core",
+    "title": "资治通鉴",
+    "title_trad": "資治通鑑",
+    "title_en": "Comprehensive Mirror for Aid in Government",
+    "aliases": [
+      "司马光资治通鉴",
+      "Zizhi Tongjian",
+      "通鉴"
+    ],
+    "authors": [
+      {
+        "name": "司马光等",
+        "dates": "1019–1086",
+        "role": "撰"
+      }
+    ],
+    "date": "1084",
+    "periods": [
+      "东汉末",
+      "三国",
+      "西晋",
+      "东晋",
+      "十六国",
+      "南朝",
+      "北朝",
+      "隋",
+      "初唐",
+      "盛唐",
+      "中唐",
+      "晚唐",
+      "五代",
+      "十国"
+    ],
+    "cover_start": -403,
+    "cover_end": 959,
+    "genre": "编年体通史",
+    "structure": "294卷；本库收录卷59–294（汉末至五代）",
+    "reliability": "A",
+    "summary": "编年体通史，汉末至五代部分按年月排比，考异保存异说，是交叉核对正史的核心工具。",
+    "game_use": "建立精确年表、战役时序、政权更替、人物活动轨迹。",
+    "caveats": "编纂以政治鉴戒为目的，取舍有立场；不可替代正史原文，需结合《通鉴考异》。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/資治通鑑",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=資治通鑑"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/zizhitongjian",
+      "note": "卷59–294",
+      "volumes_available": 236,
+      "chars": 2688247
+    },
+    "tags": [
+      "编年体",
+      "通史",
+      "年表",
+      "战争",
+      "政治"
+    ]
+  }
+]

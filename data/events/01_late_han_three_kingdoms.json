@@ -1,0 +1,1229 @@
+[
+  {
+    "id": "yellow-turban",
+    "name": "黄巾起义",
+    "name_en": "Yellow Turban Rebellion",
+    "aliases": [
+      "黄巾之乱",
+      "太平道起兵"
+    ],
+    "year": 184,
+    "end_year": 205,
+    "period": "东汉末",
+    "type": "rebellion",
+    "location_id": "jizhou",
+    "factions": [
+      "yellow-turban",
+      "late-han"
+    ],
+    "characters": [
+      "zhang-jiao",
+      "cao-cao",
+      "liu-bei"
+    ],
+    "summary": "张角以太平道组织信众起兵，八州响应，东汉朝廷解除党锢、允许州郡募兵，直接导致地方军阀化。",
+    "causes": "东汉末年宦官外戚争权、土地兼并、灾疫频发，太平道提供末世救赎与组织网络。",
+    "course": "张角兄弟分头起事，黄巾军攻郡县、烧官府；朝廷派皇甫嵩、朱儁、曹操等镇压，刘备亦率乡勇参与。",
+    "outcome": "主力在一年内被击破，余部延续多年；州牧与地方武装趁机坐大。",
+    "significance": "黄巾起义是汉末乱世的起点，打破东汉中央对地方武力的垄断。",
+    "game_hooks": [
+      "太平道组织",
+      "州郡募兵",
+      "黄巾余部",
+      "乱世开局"
+    ],
+    "sources": [
+      "HOUHANSHU",
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "dong-zhuo-entry",
+    "name": "董卓入洛",
+    "name_en": "Dong Zhuo Enters Luoyang",
+    "aliases": [
+      "董卓乱政",
+      "废少帝"
+    ],
+    "year": 189,
+    "end_year": 190,
+    "period": "东汉末",
+    "type": "coup",
+    "location_id": "luoyang",
+    "factions": [
+      "dong-zhuo",
+      "late-han"
+    ],
+    "characters": [
+      "dong-zhuo",
+      "lv-bu",
+      "yuan-shao"
+    ],
+    "summary": "何进诛宦官失败被杀，董卓率凉州军入洛，废少帝、立献帝，专断朝政。",
+    "causes": "汉灵帝死后外戚与宦官火并，何进召外兵入京，给了董卓机会。",
+    "course": "董卓吞并何进、丁原部众，收买吕布杀丁原，废立皇帝，纵兵劫掠洛阳。",
+    "outcome": "关东诸侯起兵讨董，董卓迁都长安，洛阳残破。",
+    "significance": "东汉中央权威彻底崩溃，群雄割据正式开场。",
+    "game_hooks": [
+      "废立皇帝",
+      "凉州军",
+      "迁都长安",
+      "关东联军"
+    ],
+    "sources": [
+      "HOUHANSHU",
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "guandong-coalition",
+    "name": "关东联军讨董",
+    "name_en": "Guandong Coalition Against Dong Zhuo",
+    "aliases": [
+      "讨董联军",
+      "酸枣会盟"
+    ],
+    "year": 190,
+    "end_year": 191,
+    "period": "东汉末",
+    "type": "war",
+    "location_id": "hulao",
+    "factions": [
+      "yuan-shao",
+      "dong-zhuo",
+      "cao-wei"
+    ],
+    "characters": [
+      "yuan-shao",
+      "cao-cao",
+      "dong-zhuo",
+      "sun-jian"
+    ],
+    "summary": "关东州郡以袁绍为盟主起兵讨董，联军虽众却各怀异心，最终散去。",
+    "causes": "董卓废立专权，侵犯关东士族与州郡利益。",
+    "course": "联军屯酸枣、河内，曹操、孙坚等积极进攻；董卓迁都长安，联军内部因粮草与地盘争执。",
+    "outcome": "董卓退守关中，联军瓦解，袁绍、曹操等各自发展。",
+    "significance": "讨董失败暴露联盟政治的局限，也确立了袁绍的关东盟主地位。",
+    "game_hooks": [
+      "联盟政治",
+      "盟主声望",
+      "粮草协调",
+      "各怀异心"
+    ],
+    "sources": [
+      "HOUHANSHU",
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "yingtianzi",
+    "name": "曹操迎献帝都许",
+    "name_en": "Cao Cao Welcomes Emperor Xian",
+    "aliases": [
+      "挟天子以令诸侯",
+      "都许"
+    ],
+    "year": 196,
+    "end_year": null,
+    "period": "东汉末",
+    "type": "administrative",
+    "location_id": "xuchang",
+    "factions": [
+      "cao-wei",
+      "late-han"
+    ],
+    "characters": [
+      "cao-cao",
+      "xun-yu"
+    ],
+    "summary": "曹操采纳荀彧建议，迎汉献帝迁都许县，取得奉天子以令不臣的政治优势。",
+    "causes": "献帝东归，洛阳残破，曹操需要合法性资源。",
+    "course": "曹操派曹洪迎驾，控制献帝与朝廷，随后屯田许下。",
+    "outcome": "曹操获得人事任命与外交主动权，但也要承担汉室象征的政治包袱。",
+    "significance": "“挟天子”是汉末最重要的合法性战略，直接影响官渡与三国格局。",
+    "game_hooks": [
+      "天子资产",
+      "正统声望",
+      "许都朝廷",
+      "禅让路线"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "HOUHANSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "guandu",
+    "name": "官渡之战",
+    "name_en": "Battle of Guandu",
+    "aliases": [
+      "官渡",
+      "袁曹决战"
+    ],
+    "year": 200,
+    "end_year": 201,
+    "period": "东汉末",
+    "type": "battle",
+    "location_id": "guandu",
+    "factions": [
+      "cao-wei",
+      "yuan-shao"
+    ],
+    "characters": [
+      "cao-cao",
+      "yuan-shao",
+      "xun-yu",
+      "guo-jia"
+    ],
+    "summary": "曹操以劣势兵力在官渡击破袁绍，焚乌巢粮草，逆转北方霸权。",
+    "causes": "袁绍统一河北后南下，曹操挟天子、屯田，双方争夺华北主导权。",
+    "course": "袁绍大军压境，曹操坚守官渡；许攸叛降献计，曹操奇袭乌巢，袁军崩溃。",
+    "outcome": "袁绍败退，河北内乱，曹操逐步吞并冀青幽并。",
+    "significance": "官渡之战奠定曹操统一北方的基础，是劣势方以情报与后勤取胜的经典。",
+    "game_hooks": [
+      "乌巢奇袭",
+      "粮草情报",
+      "以少胜多",
+      "河北统一"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "HOUHANSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "jiangdong",
+    "name": "孙策平定江东",
+    "name_en": "Sun Ce Conquers Jiangdong",
+    "aliases": [
+      "孙策渡江",
+      "江东基业"
+    ],
+    "year": 195,
+    "end_year": 200,
+    "period": "东汉末",
+    "type": "war",
+    "location_id": "jiankang",
+    "factions": [
+      "eastern-wu",
+      "yuan-shu"
+    ],
+    "characters": [
+      "sun-ce",
+      "zhou-yu",
+      "sun-quan"
+    ],
+    "summary": "孙策借袁术兵渡江，击败刘繇、王朗、严白虎等，数年间平定江东。",
+    "causes": "孙坚死后孙氏依附袁术，孙策以助袁术平定江东为名借兵。",
+    "course": "孙策以周瑜、程普等为骨干，连破江东割据势力，建立孙氏基业。",
+    "outcome": "孙策遇刺身亡，孙权继位，江东成为三国之一。",
+    "significance": "江东基业是东吴立国的基础，也展示了借兵创业与快速扩张的模式。",
+    "game_hooks": [
+      "借兵创业",
+      "江东士族",
+      "快速扩张",
+      "遇刺风险"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "changban",
+    "name": "长坂坡之战",
+    "name_en": "Battle of Changban",
+    "aliases": [
+      "长坂",
+      "当阳之战"
+    ],
+    "year": 208,
+    "end_year": null,
+    "period": "东汉末",
+    "type": "battle",
+    "location_id": "changban",
+    "factions": [
+      "cao-wei",
+      "shu-han"
+    ],
+    "characters": [
+      "cao-cao",
+      "liu-bei",
+      "zhao-yun",
+      "zhang-fei"
+    ],
+    "summary": "曹操南征荆州，刘备败走长坂，赵云救阿斗，张飞据水断桥。",
+    "causes": "刘表死后刘琮降曹，刘备失去荆州北部，南逃江陵。",
+    "course": "曹军轻骑追击，刘备军溃散；赵云救甘夫人与刘禅，张飞以二十骑拒桥。",
+    "outcome": "刘备退往夏口，与孙权结盟，促成赤壁之战。",
+    "significance": "长坂是刘备集团最危险的时刻，也是赵云、张飞形象的来源。",
+    "game_hooks": [
+      "护送撤退",
+      "断桥阻敌",
+      "民心跟随",
+      "联盟前夜"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "chibi",
+    "name": "赤壁之战",
+    "name_en": "Battle of Red Cliffs",
+    "aliases": [
+      "赤壁",
+      "乌林之战"
+    ],
+    "year": 208,
+    "end_year": 209,
+    "period": "东汉末",
+    "type": "battle",
+    "location_id": "chibi",
+    "factions": [
+      "eastern-wu",
+      "shu-han",
+      "cao-wei"
+    ],
+    "characters": [
+      "zhou-yu",
+      "lu-su",
+      "zhuge-liang",
+      "cao-cao",
+      "sun-quan",
+      "liu-bei"
+    ],
+    "summary": "孙刘联军在赤壁以火攻大破曹操水军，阻止曹军统一南方。",
+    "causes": "曹操南下荆州，威胁江东；孙权、刘备结盟抗曹。",
+    "course": "周瑜、程普率水军迎击，黄盖诈降火攻，曹军战船焚毁，疫病与补给问题加剧。",
+    "outcome": "曹操退守北方，孙刘分割荆州，三国鼎立雏形出现。",
+    "significance": "赤壁是三国格局的奠基战，也是水战、火攻与联盟政治的经典。",
+    "game_hooks": [
+      "水战火攻",
+      "联盟谈判",
+      "疫病补给",
+      "荆州分割"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "tongguan",
+    "name": "潼关之战",
+    "name_en": "Battle of Tong Pass",
+    "aliases": [
+      "潼关",
+      "马超韩遂之乱"
+    ],
+    "year": 211,
+    "end_year": 212,
+    "period": "东汉末",
+    "type": "battle",
+    "location_id": "tongguan",
+    "factions": [
+      "cao-wei",
+      "ma-chao"
+    ],
+    "characters": [
+      "cao-cao",
+      "ma-chao"
+    ],
+    "summary": "曹操西征关中，以离间计破马超、韩遂联军，控制关中。",
+    "causes": "曹操欲经关中攻汉中，马超、韩遂等关西军阀起兵抵抗。",
+    "course": "曹军佯攻潼关，暗渡蒲阪，渭南决战；曹操用贾诩离间马韩。",
+    "outcome": "马超败走凉州，关中纳入曹操控制。",
+    "significance": "潼关之战打开曹操进入汉中与陇右的通道，也埋下马超投蜀的伏笔。",
+    "game_hooks": [
+      "关隘攻防",
+      "离间计",
+      "西凉骑兵",
+      "关中通道"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "jingzhou",
+    "name": "吕蒙袭荆州",
+    "name_en": "Lü Meng Seizes Jingzhou",
+    "aliases": [
+      "白衣渡江",
+      "荆州之变"
+    ],
+    "year": 219,
+    "end_year": 220,
+    "period": "东汉末",
+    "type": "war",
+    "location_id": "jiangling",
+    "factions": [
+      "eastern-wu",
+      "shu-han"
+    ],
+    "characters": [
+      "lu-meng",
+      "lu-xun",
+      "guan-yu",
+      "sun-quan"
+    ],
+    "summary": "孙权趁关羽北伐襄樊，派吕蒙白衣渡江袭取荆州，擒杀关羽。",
+    "causes": "孙刘荆州归属矛盾，关羽北伐后后方空虚。",
+    "course": "吕蒙伪装商船袭取江陵，安抚关羽将士家属，关羽军心涣散，败走麦城。",
+    "outcome": "荆州归吴，关羽被杀，孙刘联盟破裂。",
+    "significance": "荆州之变直接引发夷陵之战，是三国格局的关键转折。",
+    "game_hooks": [
+      "背盟偷袭",
+      "伪装奇袭",
+      "家属心理战",
+      "联盟破裂"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "fan-castle",
+    "name": "襄樊之战",
+    "name_en": "Battle of Fancheng",
+    "aliases": [
+      "关羽北伐",
+      "水淹七军"
+    ],
+    "year": 219,
+    "end_year": null,
+    "period": "东汉末",
+    "type": "battle",
+    "location_id": "xiangyang",
+    "factions": [
+      "shu-han",
+      "cao-wei"
+    ],
+    "characters": [
+      "guan-yu",
+      "cao-cao"
+    ],
+    "summary": "关羽北伐襄樊，水淹七军，威震华夏，但因荆州后方被袭而败亡。",
+    "causes": "刘备取得汉中后，关羽乘势北伐，牵制曹军。",
+    "course": "关羽围樊城，利用汉水暴涨水淹于禁七军，曹操一度考虑迁都。",
+    "outcome": "吕蒙袭荆州，关羽退路断绝，败走麦城被杀。",
+    "significance": "襄樊之战是关羽军事生涯的巅峰与终点，也暴露蜀汉荆州防务的脆弱。",
+    "game_hooks": [
+      "水攻",
+      "北伐巅峰",
+      "后方空虚",
+      "败走麦城"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "hanzhong",
+    "name": "汉中之战",
+    "name_en": "Battle of Hanzhong",
+    "aliases": [
+      "汉中争夺",
+      "定军山"
+    ],
+    "year": 217,
+    "end_year": 219,
+    "period": "东汉末",
+    "type": "war",
+    "location_id": "hanzhong",
+    "factions": [
+      "shu-han",
+      "cao-wei"
+    ],
+    "characters": [
+      "liu-bei",
+      "cao-cao",
+      "huang-zhong",
+      "zhao-yun",
+      "ma-chao"
+    ],
+    "summary": "刘备与曹操争夺汉中，黄忠定军山斩夏侯渊，刘备最终占据汉中。",
+    "causes": "汉中是益州门户，刘备必须控制以保障蜀地安全。",
+    "course": "刘备亲征，黄忠斩夏侯渊，赵云汉水空营退敌，曹操粮道困难撤军。",
+    "outcome": "刘备称汉中王，蜀汉达到疆域极盛。",
+    "significance": "汉中之战是刘备集团巅峰，也奠定蜀汉北伐的地理基础。",
+    "game_hooks": [
+      "山地战",
+      "定军山",
+      "空营计",
+      "益州门户"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wei-foundation",
+    "name": "曹丕代汉",
+    "name_en": "Cao Pi Usurps Han",
+    "aliases": [
+      "曹魏建国",
+      "汉魏禅让"
+    ],
+    "year": 220,
+    "end_year": null,
+    "period": "三国",
+    "type": "succession",
+    "location_id": "luoyang",
+    "factions": [
+      "cao-wei",
+      "late-han"
+    ],
+    "characters": [
+      "cao-pi",
+      "cao-cao"
+    ],
+    "summary": "曹丕接受汉献帝禅让，建立曹魏，东汉灭亡。",
+    "causes": "曹操已掌握汉廷实权，曹丕需要完成政权更替。",
+    "course": "曹丕逼献帝禅让，定都洛阳，推行九品中正制。",
+    "outcome": "三国时代正式开始，刘备、孙权随后称帝。",
+    "significance": "禅让模式成为魏晋南北朝政权更替的标准剧本。",
+    "game_hooks": [
+      "禅让剧本",
+      "九品中正",
+      "正统转移",
+      "三国开局"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "shu-foundation",
+    "name": "刘备称帝",
+    "name_en": "Liu Bei Proclaims Himself Emperor",
+    "aliases": [
+      "蜀汉建国",
+      "章武元年"
+    ],
+    "year": 221,
+    "end_year": null,
+    "period": "三国",
+    "type": "succession",
+    "location_id": "chengdu",
+    "factions": [
+      "shu-han"
+    ],
+    "characters": [
+      "liu-bei",
+      "zhuge-liang"
+    ],
+    "summary": "刘备在成都称帝，国号汉，以继承汉室正统自居。",
+    "causes": "曹丕代汉，刘备以汉室宗亲身份延续汉统。",
+    "course": "刘备即位于成都，以诸葛亮为丞相，准备东征孙权。",
+    "outcome": "蜀汉建立，但随即在夷陵之战中遭受重创。",
+    "significance": "蜀汉的正统叙事是其政治合法性的核心。",
+    "game_hooks": [
+      "汉室正统",
+      "成都称帝",
+      "丞相府",
+      "东征决策"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "HUAYANGGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "yiling",
+    "name": "夷陵之战",
+    "name_en": "Battle of Yiling",
+    "aliases": [
+      "猇亭之战",
+      "刘备伐吴"
+    ],
+    "year": 221,
+    "end_year": 222,
+    "period": "三国",
+    "type": "battle",
+    "location_id": "yiling",
+    "factions": [
+      "shu-han",
+      "eastern-wu"
+    ],
+    "characters": [
+      "liu-bei",
+      "lu-xun",
+      "sun-quan",
+      "zhang-fei"
+    ],
+    "summary": "刘备为夺回荆州东征孙权，陆逊以火攻在夷陵大破蜀军。",
+    "causes": "孙权袭荆州、杀关羽，刘备决心复仇并夺回战略要地。",
+    "course": "刘备连营数百里，陆逊坚守待机，盛夏火攻，蜀军崩溃。",
+    "outcome": "刘备退守白帝城，蜀汉元气大伤，三国格局稳定。",
+    "significance": "夷陵之战是三国三大战役之一，确立吴蜀边界与长期对峙。",
+    "game_hooks": [
+      "连营破绽",
+      "火攻",
+      "复仇决策",
+      "白帝托孤"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "nanman",
+    "name": "诸葛亮南征",
+    "name_en": "Zhuge Liang's Southern Campaign",
+    "aliases": [
+      "南中平定",
+      "七擒孟获"
+    ],
+    "year": 225,
+    "end_year": null,
+    "period": "三国",
+    "type": "war",
+    "location_id": "nanan",
+    "factions": [
+      "shu-han",
+      "nanman"
+    ],
+    "characters": [
+      "zhuge-liang"
+    ],
+    "summary": "诸葛亮南征南中，平定雍闿、孟获等叛乱，稳定蜀汉后方。",
+    "causes": "刘备死后南中大族与夷帅反叛，威胁蜀汉后方与资源。",
+    "course": "诸葛亮分兵三路，采用攻心战术，七擒七纵孟获（传说成分较多）。",
+    "outcome": "南中平定，蜀汉获得兵源与物资，后方稳定。",
+    "significance": "南征为北伐提供后方保障，也塑造了诸葛亮“攻心为上”的形象。",
+    "game_hooks": [
+      "攻心战",
+      "南中资源",
+      "夷汉关系",
+      "后方稳定"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "HUAYANGGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "northern-expedition",
+    "name": "诸葛亮北伐",
+    "name_en": "Zhuge Liang's Northern Expeditions",
+    "aliases": [
+      "六出祁山",
+      "北伐"
+    ],
+    "year": 228,
+    "end_year": 234,
+    "period": "三国",
+    "type": "war",
+    "location_id": "qishan",
+    "factions": [
+      "shu-han",
+      "cao-wei"
+    ],
+    "characters": [
+      "zhuge-liang",
+      "sima-yi",
+      "jiang-wei",
+      "zhao-yun"
+    ],
+    "summary": "诸葛亮五次北伐曹魏，虽取得局部战果，但受制于粮运与国力，未能改变格局。",
+    "causes": "蜀汉以攻为守，试图夺取陇右、关中，动摇曹魏。",
+    "course": "第一次北伐因马谡失街亭而退；后续多次出祁山、陈仓，与司马懿对峙。",
+    "outcome": "诸葛亮病逝五丈原，北伐终止，蜀汉转入守势。",
+    "significance": "北伐是蜀汉的政治合法性工程，也是小国对大国的消耗战。",
+    "game_hooks": [
+      "粮道",
+      "山地行军",
+      "街亭",
+      "五丈原"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "jieting",
+    "name": "街亭之战",
+    "name_en": "Battle of Jieting",
+    "aliases": [
+      "失街亭",
+      "马谡之败"
+    ],
+    "year": 228,
+    "end_year": null,
+    "period": "三国",
+    "type": "battle",
+    "location_id": "jieting",
+    "factions": [
+      "shu-han",
+      "cao-wei"
+    ],
+    "characters": [
+      "zhuge-liang",
+      "zhao-yun"
+    ],
+    "summary": "马谡违背诸葛亮部署，舍水上山，被张郃击败，导致第一次北伐失败。",
+    "causes": "诸葛亮第一次北伐，命马谡守街亭掩护侧翼。",
+    "course": "马谡不听王平劝谏，上山扎营，张郃断其水道，蜀军大败。",
+    "outcome": "诸葛亮退军，挥泪斩马谡。",
+    "significance": "街亭之败暴露蜀汉人才与指挥问题，成为北伐的转折点。",
+    "game_hooks": [
+      "扎营地形",
+      "断水",
+      "军令",
+      "人才断层"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wuzhangyuan",
+    "name": "五丈原之战",
+    "name_en": "Battle of Wuzhang Plains",
+    "aliases": [
+      "五丈原",
+      "诸葛亮病逝"
+    ],
+    "year": 234,
+    "end_year": null,
+    "period": "三国",
+    "type": "battle",
+    "location_id": "wuzhangyuan",
+    "factions": [
+      "shu-han",
+      "cao-wei"
+    ],
+    "characters": [
+      "zhuge-liang",
+      "sima-yi",
+      "jiang-wei"
+    ],
+    "summary": "诸葛亮最后一次北伐，与司马懿在五丈原对峙，因积劳成疾病逝。",
+    "causes": "诸葛亮试图夺取关中，司马懿坚守不出。",
+    "course": "蜀军屯田久驻，司马懿避战；诸葛亮病重，安排退军。",
+    "outcome": "诸葛亮卒，蜀军撤退，北伐结束。",
+    "significance": "五丈原象征蜀汉北伐的极限，也确立司马懿的防守声望。",
+    "game_hooks": [
+      "长期对峙",
+      "屯田",
+      "主帅健康",
+      "撤退掩护"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "gaopingling",
+    "name": "高平陵之变",
+    "name_en": "Incident at Gaoping Tombs",
+    "aliases": [
+      "高平陵",
+      "司马懿夺权"
+    ],
+    "year": 249,
+    "end_year": null,
+    "period": "三国",
+    "type": "coup",
+    "location_id": "luoyang",
+    "factions": [
+      "cao-wei",
+      "western-jin"
+    ],
+    "characters": [
+      "sima-yi",
+      "cao-shuang"
+    ],
+    "summary": "司马懿趁曹爽陪曹芳祭扫高平陵，发动政变，夺取曹魏军政大权。",
+    "causes": "曹爽专权排挤司马懿，司马氏与曹氏宗室矛盾激化。",
+    "course": "司马懿控制洛阳、太后与禁军，诱降曹爽并诛其三族。",
+    "outcome": "司马氏独揽曹魏政权，为晋代魏铺路。",
+    "significance": "高平陵之变是魏晋禅代的起点，也是权臣政变的经典案例。",
+    "game_hooks": [
+      "政变时机",
+      "禁军控制",
+      "诱降",
+      "三族清洗"
+    ],
+    "sources": [
+      "JINSHU",
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "shu-conquest",
+    "name": "魏灭蜀汉",
+    "name_en": "Wei Conquest of Shu Han",
+    "aliases": [
+      "灭蜀",
+      "邓艾偷渡阴平"
+    ],
+    "year": 263,
+    "end_year": null,
+    "period": "三国",
+    "type": "war",
+    "location_id": "chengdu",
+    "factions": [
+      "cao-wei",
+      "shu-han"
+    ],
+    "characters": [
+      "deng-ai",
+      "zhong-hui",
+      "jiang-wei",
+      "liu-shan"
+    ],
+    "summary": "司马昭派钟会、邓艾伐蜀，邓艾偷渡阴平，迫降刘禅，蜀汉灭亡。",
+    "causes": "蜀汉国力衰退，姜维北伐消耗，曹魏掌握战略主动。",
+    "course": "钟会攻汉中，姜维退守剑阁；邓艾绕道阴平，攻绵竹，兵临成都。",
+    "outcome": "刘禅投降，蜀汉灭亡；钟会、姜维密谋失败。",
+    "significance": "灭蜀打破三国均势，为晋统一奠定基础。",
+    "game_hooks": [
+      "阴平小道",
+      "剑阁对峙",
+      "成都投降",
+      "灭国战后"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "jin-foundation",
+    "name": "司马炎代魏",
+    "name_en": "Sima Yan Usurps Wei",
+    "aliases": [
+      "晋朝建立",
+      "魏晋禅让"
+    ],
+    "year": 265,
+    "end_year": null,
+    "period": "西晋",
+    "type": "succession",
+    "location_id": "luoyang",
+    "factions": [
+      "western-jin",
+      "cao-wei"
+    ],
+    "characters": [
+      "sima-yan",
+      "sima-zhao"
+    ],
+    "summary": "司马炎接受曹魏禅让，建立西晋，定都洛阳。",
+    "causes": "司马氏已控制曹魏军政，代魏条件成熟。",
+    "course": "司马炎称帝，追尊司马懿、司马师、司马昭，分封宗室。",
+    "outcome": "西晋建立，随后灭吴统一。",
+    "significance": "西晋是魏晋禅代模式的完成，也埋下宗室分封的隐患。",
+    "game_hooks": [
+      "禅让",
+      "宗室分封",
+      "开国",
+      "统一前夜"
+    ],
+    "sources": [
+      "JINSHU",
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wu-conquest",
+    "name": "西晋灭吴",
+    "name_en": "Jin Conquest of Wu",
+    "aliases": [
+      "灭吴",
+      "王濬楼船"
+    ],
+    "year": 279,
+    "end_year": 280,
+    "period": "西晋",
+    "type": "war",
+    "location_id": "jiankang",
+    "factions": [
+      "western-jin",
+      "eastern-wu"
+    ],
+    "characters": [
+      "sima-yan",
+      "sun-quan"
+    ],
+    "summary": "西晋六路伐吴，王濬楼船顺江而下，攻破建业，吴主孙皓投降。",
+    "causes": "西晋统一北方后国力强盛，东吴政治腐败、防备松弛。",
+    "course": "晋军水陆并进，王濬突破铁锁横江，直抵建业。",
+    "outcome": "东吴灭亡，三国时代结束，中国短暂统一。",
+    "significance": "灭吴结束近百年分裂，但西晋统一仅维持十余年。",
+    "game_hooks": [
+      "楼船水战",
+      "铁锁横江",
+      "六路伐吴",
+      "统一"
+    ],
+    "sources": [
+      "JINSHU",
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "eight-princes",
+    "name": "八王之乱",
+    "name_en": "War of the Eight Princes",
+    "aliases": [
+      "八王",
+      "宗室内战"
+    ],
+    "year": 291,
+    "end_year": 306,
+    "period": "西晋",
+    "type": "war",
+    "location_id": "luoyang",
+    "factions": [
+      "western-jin"
+    ],
+    "characters": [
+      "sima-yan",
+      "sima-zhong",
+      "sima-lun",
+      "sima-ying"
+    ],
+    "summary": "西晋宗室诸王为争夺中央权力长期内战，耗尽国力，引发少数民族起兵。",
+    "causes": "晋武帝大封宗室、重用外戚，惠帝愚弱，贾后干政。",
+    "course": "贾后杀太子，诸王起兵，长沙王、成都王、河间王、东海王等相继混战。",
+    "outcome": "西晋中央崩溃，匈奴刘渊、羯石勒等趁机起兵。",
+    "significance": "八王之乱是西晋速亡与永嘉之乱的直接原因。",
+    "game_hooks": [
+      "宗王出镇",
+      "宫廷政变",
+      "内战消耗",
+      "边族起兵"
+    ],
+    "sources": [
+      "JINSHU",
+      "WEISHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "nine-rank",
+    "name": "九品中正制确立",
+    "name_en": "Nine-Rank System",
+    "aliases": [
+      "九品官人法",
+      "中正制"
+    ],
+    "year": 220,
+    "end_year": null,
+    "period": "三国",
+    "type": "reform",
+    "location_id": "luoyang",
+    "factions": [
+      "cao-wei"
+    ],
+    "characters": [
+      "cao-pi",
+      "chen-qun"
+    ],
+    "summary": "曹丕采纳陈群建议，推行九品中正制，以中正官评定人才，成为魏晋选官主制。",
+    "causes": "汉末察举制崩坏，曹魏需要整合士族与选拔官员。",
+    "course": "各州郡设中正，按家世、德行、才能评定九品，吏部据此授官。",
+    "outcome": "初期兼顾才德，后期逐渐门阀化，形成“上品无寒门”。",
+    "significance": "九品中正制塑造了魏晋南北朝的门阀政治与社会结构。",
+    "game_hooks": [
+      "选官",
+      "门阀",
+      "中正官",
+      "社会流动"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "xiapi",
+    "name": "下邳之战",
+    "name_en": "Battle of Xiapi",
+    "aliases": [
+      "下邳围城",
+      "白门楼"
+    ],
+    "year": 198,
+    "end_year": 199,
+    "period": "东汉末",
+    "type": "battle",
+    "location_id": "xiapi",
+    "factions": [
+      "cao-wei",
+      "lv-bu",
+      "shu-han"
+    ],
+    "characters": [
+      "cao-cao",
+      "liu-bei",
+      "lv-bu"
+    ],
+    "summary": "曹操联合刘备围攻下邳，水淹城池，吕布部将叛降，吕布被擒杀。",
+    "causes": "吕布反复夺取徐州，威胁曹操侧翼；曹操需要稳定东方后再对袁绍。",
+    "course": "曹军掘泗水灌城，吕布困守，侯成、宋宪等绑陈宫投降，吕布被缢杀。",
+    "outcome": "徐州平定，刘备随曹操还许，吕布势力覆灭。",
+    "significance": "下邳之战消除曹操东方隐患，也展示围城与水攻的威力。",
+    "game_hooks": [
+      "水淹孤城",
+      "部将叛降",
+      "白门楼",
+      "围城战"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "HOUHANSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "xuzhou",
+    "name": "徐州之战",
+    "name_en": "Battle of Xuzhou",
+    "aliases": [
+      "刘备据徐州",
+      "衣带诏余波"
+    ],
+    "year": 200,
+    "end_year": null,
+    "period": "东汉末",
+    "type": "battle",
+    "location_id": "xiapi",
+    "factions": [
+      "cao-wei"
+    ],
+    "characters": [
+      "cao-cao",
+      "liu-bei",
+      "guan-yu"
+    ],
+    "summary": "刘备在衣带诏事发后夺取徐州反曹，曹操亲征，刘备败走投袁绍，关羽被擒。",
+    "causes": "衣带诏事件暴露，刘备与曹操决裂；刘备借讨袁术之机据徐州。",
+    "course": "曹操迅速东征，刘备不敌，妻儿与关羽被俘，刘备北投袁绍。",
+    "outcome": "曹操重占徐州，关羽暂降，刘备依附袁绍。",
+    "significance": "徐州之战使刘备失去根据地，也为关羽“降汉不降曹”叙事提供背景。",
+    "game_hooks": [
+      "快速东征",
+      "根据地丧失",
+      "关羽被擒",
+      "衣带诏"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "HOUHANSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "hefei",
+    "name": "合肥之战",
+    "name_en": "Battle of Hefei",
+    "aliases": [
+      "合肥",
+      "孙权攻合肥"
+    ],
+    "year": 208,
+    "end_year": 209,
+    "period": "三国",
+    "type": "battle",
+    "location_id": "hefei",
+    "factions": [
+      "cao-wei",
+      "eastern-wu"
+    ],
+    "characters": [
+      "sun-quan",
+      "cao-cao"
+    ],
+    "summary": "赤壁后孙权率军围攻合肥，久攻不下，曹操援军至，吴军撤退。",
+    "causes": "赤壁胜利后孙权试图北上夺取江淮。",
+    "course": "吴军围合肥百余日，曹操派张喜率援军，孙权闻援至而退。",
+    "outcome": "合肥仍在曹魏手中，江淮对峙格局形成。",
+    "significance": "合肥是曹魏淮南防线的核心，此后成为吴魏反复争夺的焦点。",
+    "game_hooks": [
+      "江淮防线",
+      "围城",
+      "援军",
+      "南北对峙"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "jiangling",
+    "name": "南郡之战",
+    "name_en": "Battle of Nanjun",
+    "aliases": [
+      "江陵之战",
+      "周瑜攻南郡"
+    ],
+    "year": 208,
+    "end_year": 209,
+    "period": "三国",
+    "type": "battle",
+    "location_id": "jiangling",
+    "factions": [
+      "eastern-wu",
+      "cao-wei",
+      "shu-han"
+    ],
+    "characters": [
+      "zhou-yu",
+      "liu-bei",
+      "guan-yu"
+    ],
+    "summary": "赤壁后周瑜率吴军围攻江陵，与曹仁相持一年，最终夺取南郡。",
+    "causes": "赤壁战后孙刘联军争夺荆州核心城池。",
+    "course": "周瑜中箭仍督战，曹仁弃城北撤，吴军占领江陵。",
+    "outcome": "孙权控制南郡，刘备借荆州取得立足之地。",
+    "significance": "南郡之战决定赤壁后的荆州分配，埋下孙刘矛盾。",
+    "game_hooks": [
+      "荆州争夺",
+      "围城相持",
+      "孙刘联盟",
+      "借荆州"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "xiaoyaojin",
+    "name": "逍遥津之战",
+    "name_en": "Battle of Xiaoyao Ford",
+    "aliases": [
+      "逍遥津",
+      "张辽威震逍遥津"
+    ],
+    "year": 215,
+    "end_year": null,
+    "period": "三国",
+    "type": "battle",
+    "location_id": "hefei",
+    "factions": [
+      "cao-wei",
+      "eastern-wu"
+    ],
+    "characters": [
+      "sun-quan"
+    ],
+    "summary": "孙权趁曹操征汉中再攻合肥，张辽以八百精骑突袭吴军，孙权险些被擒。",
+    "causes": "曹操主力西征汉中，淮南空虚，孙权试图夺取合肥。",
+    "course": "张辽夜募敢死士，清晨突袭吴营，吴军大乱；孙权撤退时在逍遥津被追击。",
+    "outcome": "吴军损失惨重，孙权退走，合肥仍属曹魏。",
+    "significance": "逍遥津是张辽的成名战，也是以少胜多的经典突袭。",
+    "game_hooks": [
+      "八百破十万",
+      "突袭",
+      "断桥",
+      "威震敌国"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "bailangshan",
+    "name": "白狼山之战",
+    "name_en": "Battle of White Wolf Mountain",
+    "aliases": [
+      "白狼山",
+      "曹操北征乌桓"
+    ],
+    "year": 207,
+    "end_year": null,
+    "period": "东汉末",
+    "type": "battle",
+    "location_id": "bailangshan",
+    "factions": [
+      "cao-wei",
+      "wuhuan"
+    ],
+    "characters": [
+      "cao-cao",
+      "guo-jia"
+    ],
+    "summary": "曹操采纳郭嘉建议轻兵远征乌桓，在白狼山大破乌桓骑兵，斩蹋顿，统一北方。",
+    "causes": "袁绍残余袁尚、袁熙投奔乌桓，曹操需要彻底消除北方威胁。",
+    "course": "曹军走卢龙道突袭柳城，张辽率先锋冲阵，乌桓军溃败。",
+    "outcome": "乌桓主力被破，袁氏残余逃亡辽东，曹操基本统一北方。",
+    "significance": "白狼山是曹操统一北方的最后一战，也是轻兵远袭的经典。",
+    "game_hooks": [
+      "轻兵远征",
+      "骑兵冲阵",
+      "北方统一",
+      "郭嘉遗计"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "HOUHANSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  }
+]

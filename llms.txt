@@ -1,0 +1,49 @@
+# llms.txt — cn-history-220-979
+
+> 220–979 年中国中古史资料库：三国、两晋、南北朝、隋、唐、五代十国、宋初。
+> 古籍全文 + 目录元数据 + 结构化游戏数据。中文为主，英文元数据辅助。
+
+## 入口
+
+- README: https://github.com/zhuhuang907-lang/cn-history-220-979/blob/main/README.md
+- Claude 使用手册: https://github.com/zhuhuang907-lang/cn-history-220-979/blob/main/CLAUDE.md
+- 方法说明: https://github.com/zhuhuang907-lang/cn-history-220-979/blob/main/docs/methodology.md
+- 目录（Markdown）: https://github.com/zhuhuang907-lang/cn-history-220-979/blob/main/docs/catalog.md
+- 静态检索页: https://zhuhuang907-lang.github.io/cn-history-220-979/
+
+## 机器可读数据
+
+- 目录: https://raw.githubusercontent.com/zhuhuang907-lang/cn-history-220-979/main/data/catalog.json
+- 目录统计: https://raw.githubusercontent.com/zhuhuang907-lang/cn-history-220-979/main/data/catalog_stats.json
+- 时代: https://raw.githubusercontent.com/zhuhuang907-lang/cn-history-220-979/main/data/periods.json
+- 政权: https://raw.githubusercontent.com/zhuhuang907-lang/cn-history-220-979/main/data/game/factions.json
+- 人物: https://raw.githubusercontent.com/zhuhuang907-lang/cn-history-220-979/main/data/game/characters.json
+- 事件: https://raw.githubusercontent.com/zhuhuang907-lang/cn-history-220-979/main/data/game/events.json
+- 地点: https://raw.githubusercontent.com/zhuhuang907-lang/cn-history-220-979/main/data/game/locations.json
+- 术语: https://raw.githubusercontent.com/zhuhuang907-lang/cn-history-220-979/main/data/game/glossary.json
+- 辨析: https://raw.githubusercontent.com/zhuhuang907-lang/cn-history-220-979/main/data/game/disambiguation.json
+- 游戏数据索引: https://raw.githubusercontent.com/zhuhuang907-lang/cn-history-220-979/main/data/game/index.json
+- 全文索引: https://raw.githubusercontent.com/zhuhuang907-lang/cn-history-220-979/main/texts/index.json
+- Schema: https://raw.githubusercontent.com/zhuhuang907-lang/cn-history-220-979/main/schemas/game-data.schema.json
+
+## 全文
+
+- 全文目录：`texts/<slug>/卷NNN.txt`
+- 书目与卷数：`texts/index.json`
+- 检索命令：`python scripts/search.py <关键词> [--book ID] [--period 时代] [--reliability A]`
+- 建索引：`python scripts/build_index.py`（生成 `index/search.db`，不提交）
+
+## 规则
+
+1. 引用格式：`《书名》卷次·篇名（来源ID，texts/...）`。
+2. 可信度：A 正史；B 别史/笔记；C 类书/汇编；M 现代研究（仅书目）；F 小说/演义（非史实）；D 数据库。
+3. 不得把 `F` 级内容当作史实；不得引用 `M` 级正文。
+4. 同名政权先查 `data/game/disambiguation.json`。
+5. 事件 `type` 使用 schema 枚举；游戏数据时代词表见 `data/periods.json`。
+
+## 许可
+
+- 古籍原文：公有领域。
+- Wikisource 转录：CC BY-SA 4.0。
+- 本项目新增数据与文档：CC BY-SA 4.0。
+- OpenCC 繁简表：Apache-2.0。

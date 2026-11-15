@@ -1,0 +1,628 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/zhuhuang907-lang/cn-history-220-979/schemas/game-data.schema.json",
+  "title": "Game data bundle for cn-history-220-979",
+  "description": "Schemas for factions.json, characters.json, events.json, locations.json, glossary.json and disambiguation.json. All dates are CE integers; use negative values for BCE. Unknown dates use null.",
+  "$defs": {
+    "reliability": {
+      "type": "string",
+      "enum": [
+        "A",
+        "A/B",
+        "B",
+        "B/C",
+        "C",
+        "M",
+        "F",
+        "D"
+      ],
+      "description": "A = primary source; A/B = primary with later compilation; B = unofficial history/notes; B/C = mixed; C = encyclopedia/anthology; M = modern research; F = fiction; D = database/tool."
+    },
+    "sourceId": {
+      "type": "string",
+      "description": "Catalog id, e.g. SANGUOZHI, JIUTANGSHU, ZIZHITONGJIAN."
+    },
+    "faction": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "name",
+        "type",
+        "start",
+        "end",
+        "summary",
+        "sources"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9-]+$"
+        },
+        "name": {
+          "type": "string"
+        },
+        "name_en": {
+          "type": "string"
+        },
+        "aliases": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "type": {
+          "type": "string",
+          "enum": [
+            "empire",
+            "kingdom",
+            "dynasty",
+            "warlord",
+            "regional-regime",
+            "tribal-confederation",
+            "rebel",
+            "garrison",
+            "city-state"
+          ]
+        },
+        "period": {
+          "type": "string"
+        },
+        "start": {
+          "type": "integer"
+        },
+        "end": {
+          "type": "integer"
+        },
+        "capital": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "territory": {
+          "type": "string"
+        },
+        "founders": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "key_rulers": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "allies": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "enemies": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "vassals": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "ideology": {
+          "type": "string"
+        },
+        "military": {
+          "type": "string"
+        },
+        "economy": {
+          "type": "string"
+        },
+        "strengths": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "weaknesses": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "game_hooks": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "summary": {
+          "type": "string"
+        },
+        "sources": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/sourceId"
+          }
+        },
+        "reliability": {
+          "$ref": "#/$defs/reliability"
+        }
+      }
+    },
+    "character": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "name",
+        "period",
+        "faction_id",
+        "summary",
+        "sources"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9-]+$"
+        },
+        "name": {
+          "type": "string"
+        },
+        "name_en": {
+          "type": "string"
+        },
+        "aliases": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "courtesy_name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "birth": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "death": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "birth_place": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "period": {
+          "type": "string"
+        },
+        "faction_id": {
+          "type": "string"
+        },
+        "roles": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "traits": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "relationships": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "target",
+              "type"
+            ],
+            "properties": {
+              "target": {
+                "type": "string"
+              },
+              "type": {
+                "type": "string"
+              },
+              "note": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "events": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "quotes": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "text",
+              "source"
+            ],
+            "properties": {
+              "text": {
+                "type": "string"
+              },
+              "source": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "summary": {
+          "type": "string"
+        },
+        "game_use": {
+          "type": "string"
+        },
+        "sources": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/sourceId"
+          }
+        },
+        "reliability": {
+          "$ref": "#/$defs/reliability"
+        }
+      }
+    },
+    "event": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "name",
+        "year",
+        "period",
+        "type",
+        "summary",
+        "sources"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9-]+$"
+        },
+        "name": {
+          "type": "string"
+        },
+        "name_en": {
+          "type": "string"
+        },
+        "aliases": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "year": {
+          "type": "integer"
+        },
+        "end_year": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "period": {
+          "type": "string"
+        },
+        "type": {
+          "type": "string",
+          "enum": [
+            "war",
+            "battle",
+            "rebellion",
+            "coup",
+            "succession",
+            "reform",
+            "treaty",
+            "massacre",
+            "migration",
+            "disaster",
+            "cultural",
+            "religious",
+            "administrative",
+            "diplomatic"
+          ]
+        },
+        "location_id": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "factions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "characters": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "summary": {
+          "type": "string"
+        },
+        "causes": {
+          "type": "string"
+        },
+        "course": {
+          "type": "string"
+        },
+        "outcome": {
+          "type": "string"
+        },
+        "significance": {
+          "type": "string"
+        },
+        "game_hooks": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "sources": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/sourceId"
+          }
+        },
+        "reliability": {
+          "$ref": "#/$defs/reliability"
+        }
+      }
+    },
+    "location": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "name",
+        "modern_name",
+        "type",
+        "summary",
+        "sources"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9-]+$"
+        },
+        "name": {
+          "type": "string"
+        },
+        "name_en": {
+          "type": "string"
+        },
+        "aliases": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "modern_name": {
+          "type": "string"
+        },
+        "lat": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "lon": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "type": {
+          "type": "string",
+          "enum": [
+            "capital",
+            "city",
+            "fortress",
+            "pass",
+            "region",
+            "river",
+            "port",
+            "religious-site",
+            "battlefield"
+          ]
+        },
+        "periods": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "summary": {
+          "type": "string"
+        },
+        "strategic_value": {
+          "type": "string"
+        },
+        "events": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "sources": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/sourceId"
+          }
+        },
+        "reliability": {
+          "$ref": "#/$defs/reliability"
+        },
+        "province": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "glossary": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "term",
+        "category",
+        "definition",
+        "sources"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9-]+$"
+        },
+        "term": {
+          "type": "string"
+        },
+        "term_en": {
+          "type": "string"
+        },
+        "aliases": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "category": {
+          "type": "string",
+          "enum": [
+            "institution",
+            "military",
+            "economy",
+            "society",
+            "ethnicity",
+            "religion",
+            "culture",
+            "geography",
+            "title",
+            "law"
+          ]
+        },
+        "periods": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "definition": {
+          "type": "string"
+        },
+        "game_use": {
+          "type": "string"
+        },
+        "related": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "sources": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/sourceId"
+          }
+        },
+        "reliability": {
+          "$ref": "#/$defs/reliability"
+        }
+      }
+    },
+    "disambiguation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "term",
+        "conflicts",
+        "guidance"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9-]+$"
+        },
+        "term": {
+          "type": "string"
+        },
+        "conflicts": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "name",
+              "period",
+              "note"
+            ],
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "period": {
+                "type": "string"
+              },
+              "entity_id": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "note": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "guidance": {
+          "type": "string"
+        },
+        "sources": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/sourceId"
+          }
+        }
+      }
+    }
+  }
+}

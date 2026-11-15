@@ -1,0 +1,50 @@
+{
+  "source_id": "SANCHUXINLU",
+  "title": "三楚新錄",
+  "title_simplified": "三楚新录",
+  "slug": "sanchuxinlu",
+  "page_title": "三楚新錄",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E6%A5%9A%E6%96%B0%E9%8C%84",
+  "license": "CC BY-SA 4.0 (Wikisource transcription); classical text is public domain",
+  "fetched_at": "2026-11-14T03:03:38+00:00",
+  "volume_count": 3,
+  "chars": 8230,
+  "volumes": [
+    {
+      "file": "卷001.txt",
+      "page_title": "三楚新錄/卷01",
+      "volume": 1,
+      "part": "",
+      "volume_label": "001",
+      "section": "",
+      "revid": 2517106,
+      "url": "https://zh.wikisource.org/wiki/%E4%B8%89%E6%A5%9A%E6%96%B0%E9%8C%84/%E5%8D%B701",
+      "chars": 2626,
+      "sha256": "3167a786e299e0f467de5e23de1430f226481ad2c820c8721375d38fcef4ceda"
+    },
+    {
+      "file": "卷002.txt",
+      "page_title": "三楚新錄/卷02",
+      "volume": 2,
+      "part": "",
+      "volume_label": "002",
+      "section": "",
+      "revid": 2517116,
+      "url": "https://zh.wikisource.org/wiki/%E4%B8%89%E6%A5%9A%E6%96%B0%E9%8C%84/%E5%8D%B702",
+      "chars": 3045,
+      "sha256": "927ccc5afa6c5efe101a8e35a9ec62ace4ad625af0628f7cf3e999e1534f85a9"
+    },
+    {
+      "file": "卷003.txt",
+      "page_title": "三楚新錄/卷03",
+      "volume": 3,
+      "part": "",
+      "volume_label": "003",
+      "section": "",
+      "revid": 2517121,
+      "url": "https://zh.wikisource.org/wiki/%E4%B8%89%E6%A5%9A%E6%96%B0%E9%8C%84/%E5%8D%B703",
+      "chars": 2559,
+      "sha256": "f133ec59e6a29c2691f585c6684cfb50496a4dc78050017dd4cca8043409ae21"
+    }
+  ]
+}

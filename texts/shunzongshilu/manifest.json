@@ -1,0 +1,74 @@
+{
+  "source_id": "SHUNZONGSHILU",
+  "title": "順宗實錄",
+  "title_simplified": "顺宗实录",
+  "slug": "shunzongshilu",
+  "page_title": "順宗實錄",
+  "source_url": "https://zh.wikisource.org/wiki/%E9%A0%86%E5%AE%97%E5%AF%A6%E9%8C%84",
+  "license": "CC BY-SA 4.0 (Wikisource transcription); classical text is public domain",
+  "fetched_at": "2026-11-14T03:02:02+00:00",
+  "volume_count": 5,
+  "chars": 18315,
+  "volumes": [
+    {
+      "file": "卷001.txt",
+      "page_title": "順宗實錄/卷一",
+      "volume": 1,
+      "part": "",
+      "volume_label": "001",
+      "section": "",
+      "revid": 1475985,
+      "url": "https://zh.wikisource.org/wiki/%E9%A0%86%E5%AE%97%E5%AF%A6%E9%8C%84/%E5%8D%B7%E4%B8%80",
+      "chars": 4194,
+      "sha256": "b96f3365506480d3542fdc2c9327ef2c76d9420765cb7492fc54b22a13386eea"
+    },
+    {
+      "file": "卷002.txt",
+      "page_title": "順宗實錄/卷二",
+      "volume": 2,
+      "part": "",
+      "volume_label": "002",
+      "section": "",
+      "revid": 1474946,
+      "url": "https://zh.wikisource.org/wiki/%E9%A0%86%E5%AE%97%E5%AF%A6%E9%8C%84/%E5%8D%B7%E4%BA%8C",
+      "chars": 2518,
+      "sha256": "bc9242476f09ae5b238c0a3346242af0976cf00205758b8cdfcb285faf3c123e"
+    },
+    {
+      "file": "卷003.txt",
+      "page_title": "順宗實錄/卷三",
+      "volume": 3,
+      "part": "",
+      "volume_label": "003",
+      "section": "",
+      "revid": 2637880,
+      "url": "https://zh.wikisource.org/wiki/%E9%A0%86%E5%AE%97%E5%AF%A6%E9%8C%84/%E5%8D%B7%E4%B8%89",
+      "chars": 3079,
+      "sha256": "409ac558f57800905d032afe7c4c9e1329076a6e83b2031d182f4faabd46fe92"
+    },
+    {
+      "file": "卷004.txt",
+      "page_title": "順宗實錄/卷四",
+      "volume": 4,
+      "part": "",
+      "volume_label": "004",
+      "section": "",
+      "revid": 518474,
+      "url": "https://zh.wikisource.org/wiki/%E9%A0%86%E5%AE%97%E5%AF%A6%E9%8C%84/%E5%8D%B7%E5%9B%9B",
+      "chars": 4976,
+      "sha256": "1f62ede4b13f7c2af38df4d938f96c11f4d328ed1e0c8765f13ae2d81f560c88"
+    },
+    {
+      "file": "卷005.txt",
+      "page_title": "順宗實錄/卷五",
+      "volume": 5,
+      "part": "",
+      "volume_label": "005",
+      "section": "",
+      "revid": 855933,
+      "url": "https://zh.wikisource.org/wiki/%E9%A0%86%E5%AE%97%E5%AF%A6%E9%8C%84/%E5%8D%B7%E4%BA%94",
+      "chars": 3548,
+      "sha256": "0d6ea3c10080abc067a5b58d57c5b6b27f92b47753aa4eab66fe6df899cd91ff"
+    }
+  ]
+}

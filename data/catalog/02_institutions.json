@@ -1,0 +1,624 @@
+[
+  {
+    "id": "TONGDIAN",
+    "type": "primary",
+    "priority": "core",
+    "title": "通典",
+    "title_trad": "通典",
+    "title_en": "Comprehensive Institutions",
+    "aliases": [
+      "杜佑通典",
+      "Tongdian"
+    ],
+    "authors": [
+      {
+        "name": "杜佑",
+        "dates": "735–812",
+        "role": "撰"
+      }
+    ],
+    "date": "801",
+    "periods": [
+      "跨期",
+      "盛唐",
+      "中唐"
+    ],
+    "cover_start": -221,
+    "cover_end": 756,
+    "genre": "政书",
+    "structure": "200卷：食货、选举、职官、礼、乐、兵、刑法、州郡、边防九典",
+    "reliability": "A",
+    "summary": "唐代制度通史，分九典叙述上古至唐天宝制度，保存大量唐代制度、政令、财政、军事、地理资料。",
+    "game_use": "设计中晚唐官制、财政、军事、礼制、地理的核心工具书。",
+    "caveats": "以唐制为中心回溯，早期制度有简化；需与《唐六典》《唐会要》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/通典",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=通典"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "政书",
+      "制度",
+      "财政",
+      "军事",
+      "地理"
+    ]
+  },
+  {
+    "id": "TANGHUIYAO",
+    "type": "primary",
+    "priority": "core",
+    "title": "唐会要",
+    "title_trad": "唐會要",
+    "title_en": "Institutional History of Tang",
+    "aliases": [
+      "王溥唐会要",
+      "Tang Huiyao"
+    ],
+    "authors": [
+      {
+        "name": "王溥",
+        "dates": "919–982",
+        "role": "撰"
+      }
+    ],
+    "date": "961",
+    "periods": [
+      "初唐",
+      "盛唐",
+      "中唐",
+      "晚唐",
+      "五代"
+    ],
+    "cover_start": 618,
+    "cover_end": 907,
+    "genre": "会要体政书",
+    "structure": "100卷，分类记唐代制度与政事",
+    "reliability": "A/B",
+    "summary": "分类汇编唐代制度、政令、事件，保存大量诏令、奏议、制度沿革，是唐史研究的资料库。",
+    "game_use": "按主题查唐代官制、礼仪、选举、藩镇、民族、灾害、法律。",
+    "caveats": "分类编排，需按主题检索；部分条目与正史有出入。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/唐會要",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=唐會要"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/tanghuiyao",
+      "volumes_available": 100,
+      "chars": 1004654
+    },
+    "tags": [
+      "政书",
+      "唐",
+      "制度",
+      "诏令",
+      "藩镇"
+    ]
+  },
+  {
+    "id": "WUDAIHUIYAO",
+    "type": "primary",
+    "priority": "core",
+    "title": "五代会要",
+    "title_trad": "五代會要",
+    "title_en": "Institutional History of the Five Dynasties",
+    "aliases": [
+      "王溥五代会要",
+      "Wudai Huiyao"
+    ],
+    "authors": [
+      {
+        "name": "王溥",
+        "dates": "919–982",
+        "role": "撰"
+      }
+    ],
+    "date": "961",
+    "periods": [
+      "五代",
+      "十国"
+    ],
+    "cover_start": 907,
+    "cover_end": 960,
+    "genre": "会要体政书",
+    "structure": "30卷，分类记五代制度与政事",
+    "reliability": "A/B",
+    "summary": "分类汇编五代制度、政令、事件，是五代十国制度史的基础史料。",
+    "game_use": "五代官制、财政、刑法、礼制、民族、对外关系。",
+    "caveats": "篇幅有限，十国制度多缺；与《旧五代史》《新五代史》对读。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/五代會要",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=五代會要"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/wudaihuiyao",
+      "volumes_available": 30,
+      "chars": 208083
+    },
+    "tags": [
+      "政书",
+      "五代",
+      "十国",
+      "制度"
+    ]
+  },
+  {
+    "id": "TANGLIUDIAN",
+    "type": "primary",
+    "priority": "core",
+    "title": "唐六典",
+    "title_trad": "唐六典",
+    "title_en": "Six Codes of Tang",
+    "aliases": [
+      "大唐六典",
+      "Tang Liudian"
+    ],
+    "authors": [
+      {
+        "name": "李林甫等",
+        "dates": "唐玄宗朝",
+        "role": "撰"
+      }
+    ],
+    "date": "738",
+    "periods": [
+      "盛唐"
+    ],
+    "cover_start": 713,
+    "cover_end": 741,
+    "genre": "官修行政法典",
+    "structure": "30卷，按三省六部九寺五监及地方官制编排",
+    "reliability": "A",
+    "summary": "唐代官修行政法典，详列三省六部、九寺五监、地方官制、品阶、职掌，是盛唐官制的基准。",
+    "game_use": "设计盛唐官僚体系、官职权限、品阶、考核、文书流程。",
+    "caveats": "成书于开元，不能直接套用于中晚唐；使职、藩镇、宦官机构需用《唐会要》《旧唐书·职官志》补。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/唐六典",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=唐六典"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/tangliudian",
+      "volumes_available": 30,
+      "chars": 253388
+    },
+    "tags": [
+      "官制",
+      "盛唐",
+      "行政",
+      "法典"
+    ]
+  },
+  {
+    "id": "TANGLVSHUYI",
+    "type": "primary",
+    "priority": "core",
+    "title": "唐律疏议",
+    "title_trad": "唐律疏議",
+    "title_en": "Tang Code with Commentary",
+    "aliases": [
+      "唐律",
+      "Tanglü Shuyi"
+    ],
+    "authors": [
+      {
+        "name": "长孙无忌等",
+        "dates": "唐高宗朝",
+        "role": "撰"
+      }
+    ],
+    "date": "653",
+    "periods": [
+      "初唐",
+      "盛唐",
+      "中唐",
+      "晚唐"
+    ],
+    "cover_start": 618,
+    "cover_end": 907,
+    "genre": "法典与律学",
+    "structure": "30卷，12篇502条",
+    "reliability": "A",
+    "summary": "唐律及其官方疏议，保存唐代法律体系、量刑原则、社会等级与家庭制度。",
+    "game_use": "设计法律、审判、身份、婚姻、财产、刑罚系统。",
+    "caveats": "法律文本不等于司法实践；需结合判例、墓志、笔记。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/唐律疏議",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=唐律疏議"
+    },
+    "fulltext": {
+      "status": "included",
+      "path": "texts/tanglushuyi",
+      "volumes_available": 30,
+      "chars": 280335
+    },
+    "tags": [
+      "法律",
+      "唐",
+      "社会",
+      "身份",
+      "刑罚"
+    ]
+  },
+  {
+    "id": "TANGDAZHAOLINGJI",
+    "type": "primary",
+    "priority": "core",
+    "title": "唐大诏令集",
+    "title_trad": "唐大詔令集",
+    "title_en": "Great Edicts of Tang",
+    "aliases": [
+      "宋敏求唐大诏令集",
+      "Tang Dazhaoling Ji"
+    ],
+    "authors": [
+      {
+        "name": "宋敏求",
+        "dates": "1019–1079",
+        "role": "编"
+      }
+    ],
+    "date": "1070",
+    "periods": [
+      "初唐",
+      "盛唐",
+      "中唐",
+      "晚唐"
+    ],
+    "cover_start": 618,
+    "cover_end": 907,
+    "genre": "诏令汇编",
+    "structure": "130卷，分类收唐代诏令、册文、赦文",
+    "reliability": "A/B",
+    "summary": "唐代诏令、册文、赦文、制诰的分类汇编，保存大量正史未收的原始政治文本。",
+    "game_use": "设计诏书、册封、赦免、政策发布、政治合法性。",
+    "caveats": "今本有缺卷；诏令多经润色，需注意发布背景。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/唐大詔令集"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "诏令",
+      "唐",
+      "政治",
+      "文书"
+    ]
+  },
+  {
+    "id": "CEFUYUANGUI",
+    "type": "primary",
+    "priority": "extended",
+    "title": "册府元龟",
+    "title_trad": "冊府元龜",
+    "title_en": "Prime Tortoise of the Record Bureau",
+    "aliases": [
+      "册府元龟",
+      "Cefu Yuangui"
+    ],
+    "authors": [
+      {
+        "name": "王钦若等",
+        "dates": "北宋",
+        "role": "编"
+      }
+    ],
+    "date": "1013",
+    "periods": [
+      "跨期",
+      "唐",
+      "五代"
+    ],
+    "cover_start": -221,
+    "cover_end": 960,
+    "genre": "类书",
+    "structure": "1000卷，31部，1104门",
+    "reliability": "C",
+    "summary": "北宋大型类书，分类辑录历代君臣事迹、制度、政令，保存大量佚书与唐五代史料。",
+    "game_use": "检索唐五代人物、政事、制度、边疆的轶文；适合补细节。",
+    "caveats": "类书转引，文字有删改；需查原始出处。",
+    "links": {
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=冊府元龜"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "类书",
+      "唐",
+      "五代",
+      "辑佚"
+    ]
+  },
+  {
+    "id": "TAIPINGYULAN",
+    "type": "primary",
+    "priority": "extended",
+    "title": "太平御览",
+    "title_trad": "太平御覽",
+    "title_en": "Imperial Reader of the Taiping Era",
+    "aliases": [
+      "太平御览",
+      "Taiping Yulan"
+    ],
+    "authors": [
+      {
+        "name": "李昉等",
+        "dates": "北宋",
+        "role": "编"
+      }
+    ],
+    "date": "984",
+    "periods": [
+      "跨期",
+      "唐",
+      "五代"
+    ],
+    "cover_start": -221,
+    "cover_end": 960,
+    "genre": "类书",
+    "structure": "1000卷，55部",
+    "reliability": "C",
+    "summary": "北宋类书，分类辑录经史子集，保存大量佚书，是唐五代史料辑佚的重要来源。",
+    "game_use": "检索制度、风俗、器物、地理、异闻的早期记载。",
+    "caveats": "转引删改，需核对原文；不能直接当作原始史料。",
+    "links": {
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=太平御覽"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "类书",
+      "辑佚",
+      "风俗",
+      "地理"
+    ]
+  },
+  {
+    "id": "WENYUANYINGHUA",
+    "type": "primary",
+    "priority": "extended",
+    "title": "文苑英华",
+    "title_trad": "文苑英華",
+    "title_en": "Finest Blossoms in the Garden of Literature",
+    "aliases": [
+      "文苑英华",
+      "Wenyuan Yinghua"
+    ],
+    "authors": [
+      {
+        "name": "李昉等",
+        "dates": "北宋",
+        "role": "编"
+      }
+    ],
+    "date": "987",
+    "periods": [
+      "南朝",
+      "唐",
+      "五代"
+    ],
+    "cover_start": 420,
+    "cover_end": 960,
+    "genre": "诗文总集",
+    "structure": "1000卷",
+    "reliability": "C",
+    "summary": "北宋诗文总集，保存大量唐代诏诰、碑志、表奏、诗文，可补正史与文集之缺。",
+    "game_use": "查找碑志、表奏、诏诰、人物生平、文学语言。",
+    "caveats": "选本，非全集；文字有校改。",
+    "links": {
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=文苑英華"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "总集",
+      "唐",
+      "碑志",
+      "表奏"
+    ]
+  },
+  {
+    "id": "QUANTANGWEN",
+    "type": "primary",
+    "priority": "extended",
+    "title": "全唐文",
+    "title_trad": "全唐文",
+    "title_en": "Complete Prose of Tang",
+    "aliases": [
+      "全唐文",
+      "Quan Tang Wen"
+    ],
+    "authors": [
+      {
+        "name": "董诰等",
+        "dates": "清",
+        "role": "编"
+      }
+    ],
+    "date": "1814",
+    "periods": [
+      "唐",
+      "五代"
+    ],
+    "cover_start": 618,
+    "cover_end": 960,
+    "genre": "文章总集",
+    "structure": "1000卷，收唐五代文章",
+    "reliability": "C",
+    "summary": "清代唐五代文章总集，收诏令、奏议、碑志、书信、赋序等，是唐五代人物与制度研究的大型资料库。",
+    "game_use": "查找人物墓志、书信、奏议、诏令、地方记载。",
+    "caveats": "清人编纂，辑佚有遗漏与误收；需查《全唐文补遗》等。",
+    "links": {
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=全唐文"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "总集",
+      "唐",
+      "五代",
+      "碑志",
+      "诏令"
+    ]
+  },
+  {
+    "id": "QUANTANGSHI",
+    "type": "primary",
+    "priority": "extended",
+    "title": "全唐诗",
+    "title_trad": "全唐詩",
+    "title_en": "Complete Poetry of Tang",
+    "aliases": [
+      "全唐诗",
+      "Quan Tang Shi"
+    ],
+    "authors": [
+      {
+        "name": "彭定求等",
+        "dates": "清",
+        "role": "编"
+      }
+    ],
+    "date": "1705",
+    "periods": [
+      "唐",
+      "五代"
+    ],
+    "cover_start": 618,
+    "cover_end": 960,
+    "genre": "诗歌总集",
+    "structure": "900卷，收唐五代诗约四万九千首",
+    "reliability": "C",
+    "summary": "清代唐诗总集，收唐五代诗近五万首，附作者小传，是文学与人物研究的基础。",
+    "game_use": "设计诗词、宴饮、送别、边塞、都市、情感表达；查找诗人生平线索。",
+    "caveats": "选诗、小传有误；需与《全唐诗补编》及别集对读。",
+    "links": {
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=全唐詩"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "总集",
+      "唐诗",
+      "文学",
+      "人物"
+    ]
+  },
+  {
+    "id": "QUANSHANGGU",
+    "type": "primary",
+    "priority": "extended",
+    "title": "全上古三代秦汉三国六朝文",
+    "title_trad": "全上古三代秦漢三國六朝文",
+    "title_en": "Complete Prose of Antiquity through the Six Dynasties",
+    "aliases": [
+      "全上古三代文",
+      "严可均全上古",
+      "Quan Shanggu"
+    ],
+    "authors": [
+      {
+        "name": "严可均",
+        "dates": "1762–1843",
+        "role": "编"
+      }
+    ],
+    "date": "1836",
+    "periods": [
+      "东汉末",
+      "三国",
+      "两晋",
+      "南朝",
+      "北朝"
+    ],
+    "cover_start": -221,
+    "cover_end": 589,
+    "genre": "文章总集",
+    "structure": "746卷",
+    "reliability": "C",
+    "summary": "清代先秦至隋文章总集，辑录大量散佚文章、诏令、碑志、书信，是六朝史料辑佚的重要来源。",
+    "game_use": "查找六朝人物佚文、诏令、碑志、书信、地方记载。",
+    "caveats": "辑佚与归属有误；需查原始出处与现代补编。",
+    "links": {
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=全上古三代秦漢三國六朝文"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "总集",
+      "六朝",
+      "辑佚",
+      "碑志"
+    ]
+  },
+  {
+    "id": "YUEFUSHIJI",
+    "type": "primary",
+    "priority": "extended",
+    "title": "乐府诗集",
+    "title_trad": "樂府詩集",
+    "title_en": "Collection of Yuefu Poetry",
+    "aliases": [
+      "乐府诗集",
+      "Yuefu Shiji"
+    ],
+    "authors": [
+      {
+        "name": "郭茂倩",
+        "dates": "北宋",
+        "role": "编"
+      }
+    ],
+    "date": "约1080",
+    "periods": [
+      "东汉末",
+      "三国",
+      "两晋",
+      "南朝",
+      "北朝",
+      "唐",
+      "五代"
+    ],
+    "cover_start": 25,
+    "cover_end": 960,
+    "genre": "诗歌总集",
+    "structure": "100卷，12类",
+    "reliability": "C",
+    "summary": "汉至唐乐府诗总集，保存大量民歌、军乐、宫廷乐章，反映社会与军事生活。",
+    "game_use": "设计军乐、民歌、宫廷仪式、战争氛围、语言风格。",
+    "caveats": "文学总集，不作史实直接依据；可作氛围、语言、仪式参考。",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/樂府詩集",
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=樂府詩集"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "总集",
+      "乐府",
+      "文学",
+      "军乐"
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "project": "cn-history-220-979",
+  "catalog_entries": 122,
+  "fulltext_books": 48,
+  "periods": 15,
+  "texts": {
+    "books": 50,
+    "volumes": 2504,
+    "chars": 25227437
+  },
+  "game": {
+    "factions": 96,
+    "characters": 159,
+    "events": 155,
+    "locations": 87,
+    "glossary": 90,
+    "disambiguation": 22,
+    "periods": 15
+  },
+  "files": [
+    "catalog.json",
+    "catalog_stats.json",
+    "game/characters.json",
+    "game/disambiguation.json",
+    "game/events.json",
+    "game/factions.json",
+    "game/glossary.json",
+    "game/index.json",
+    "game/locations.json",
+    "game/periods.json",
+    "periods.json",
+    "texts_index.json"
+  ]
+}

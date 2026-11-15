@@ -1,0 +1,26 @@
+{
+  "source_id": "NANTANGJINSHI",
+  "title": "南唐近事",
+  "title_simplified": "南唐近事",
+  "slug": "nantangjinshi",
+  "page_title": "南唐近事",
+  "source_url": "https://zh.wikisource.org/wiki/%E5%8D%97%E5%94%90%E8%BF%91%E4%BA%8B",
+  "license": "CC BY-SA 4.0 (Wikisource transcription); classical text is public domain",
+  "fetched_at": "2026-11-14T03:03:49+00:00",
+  "volume_count": 1,
+  "chars": 11874,
+  "volumes": [
+    {
+      "file": "卷001.txt",
+      "page_title": "南唐近事",
+      "volume": 1,
+      "part": "",
+      "volume_label": "001",
+      "section": "",
+      "revid": 1503836,
+      "url": "https://zh.wikisource.org/wiki/%E5%8D%97%E5%94%90%E8%BF%91%E4%BA%8B",
+      "chars": 11874,
+      "sha256": "b44b258453d619ee6676ff6d9cbe6c5d2cf047aed694d26209291127413b85d5"
+    }
+  ]
+}

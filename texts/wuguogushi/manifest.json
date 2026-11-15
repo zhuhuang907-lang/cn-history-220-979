@@ -1,0 +1,38 @@
+{
+  "source_id": "WUGUOGUSHI",
+  "title": "五國故事",
+  "title_simplified": "五国故事",
+  "slug": "wuguogushi",
+  "page_title": "五國故事",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%BA%94%E5%9C%8B%E6%95%85%E4%BA%8B",
+  "license": "CC BY-SA 4.0 (Wikisource transcription); classical text is public domain",
+  "fetched_at": "2026-11-14T03:03:48+00:00",
+  "volume_count": 2,
+  "chars": 12510,
+  "volumes": [
+    {
+      "file": "卷001.txt",
+      "page_title": "五國故事/卷上",
+      "volume": 1,
+      "part": "",
+      "volume_label": "001",
+      "section": "",
+      "revid": 2516086,
+      "url": "https://zh.wikisource.org/wiki/%E4%BA%94%E5%9C%8B%E6%95%85%E4%BA%8B/%E5%8D%B7%E4%B8%8A",
+      "chars": 6847,
+      "sha256": "95f4499e34bdb289077e08c055f0c4286c59fbb87913354649712569a4425cf9"
+    },
+    {
+      "file": "卷002.txt",
+      "page_title": "五國故事/卷下",
+      "volume": 2,
+      "part": "",
+      "volume_label": "002",
+      "section": "",
+      "revid": 2516090,
+      "url": "https://zh.wikisource.org/wiki/%E4%BA%94%E5%9C%8B%E6%95%85%E4%BA%8B/%E5%8D%B7%E4%B8%8B",
+      "chars": 5663,
+      "sha256": "0095eb0ec0cb3d0f9121e107e7b2942c611eae91ecf1c566a33c34ab435b286a"
+    }
+  ]
+}

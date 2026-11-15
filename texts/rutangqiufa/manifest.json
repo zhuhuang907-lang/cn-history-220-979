@@ -1,0 +1,62 @@
+{
+  "source_id": "RUTANGQIUFAXUNLIJINGJI",
+  "title": "入唐求法巡禮行記",
+  "title_simplified": "入唐求法巡礼行记",
+  "slug": "rutangqiufa",
+  "page_title": "入唐求法巡禮行記",
+  "source_url": "https://zh.wikisource.org/wiki/%E5%85%A5%E5%94%90%E6%B1%82%E6%B3%95%E5%B7%A1%E7%A6%AE%E8%A1%8C%E8%A8%98",
+  "license": "CC BY-SA 4.0 (Wikisource transcription); classical text is public domain",
+  "fetched_at": "2026-11-14T03:03:27+00:00",
+  "volume_count": 4,
+  "chars": 105185,
+  "volumes": [
+    {
+      "file": "卷001.txt",
+      "page_title": "入唐求法巡禮行記/卷一",
+      "volume": 1,
+      "part": "",
+      "volume_label": "001",
+      "section": "卷一",
+      "revid": 2188784,
+      "url": "https://zh.wikisource.org/wiki/%E5%85%A5%E5%94%90%E6%B1%82%E6%B3%95%E5%B7%A1%E7%A6%AE%E8%A1%8C%E8%A8%98/%E5%8D%B7%E4%B8%80",
+      "chars": 25029,
+      "sha256": "a58d9d51246483bf259910c4f24b52f99fe3c1711fc47417df6b5744b9643f00"
+    },
+    {
+      "file": "卷002.txt",
+      "page_title": "入唐求法巡禮行記/卷二",
+      "volume": 2,
+      "part": "",
+      "volume_label": "002",
+      "section": "卷二",
+      "revid": 2179296,
+      "url": "https://zh.wikisource.org/wiki/%E5%85%A5%E5%94%90%E6%B1%82%E6%B3%95%E5%B7%A1%E7%A6%AE%E8%A1%8C%E8%A8%98/%E5%8D%B7%E4%BA%8C",
+      "chars": 27698,
+      "sha256": "91528bd8d45d3795b272f83d5660460535fbe54a6eac12f417726b4c8bea180a"
+    },
+    {
+      "file": "卷003.txt",
+      "page_title": "入唐求法巡禮行記/卷三",
+      "volume": 3,
+      "part": "",
+      "volume_label": "003",
+      "section": "卷三",
+      "revid": 2179297,
+      "url": "https://zh.wikisource.org/wiki/%E5%85%A5%E5%94%90%E6%B1%82%E6%B3%95%E5%B7%A1%E7%A6%AE%E8%A1%8C%E8%A8%98/%E5%8D%B7%E4%B8%89",
+      "chars": 24163,
+      "sha256": "d7d1efaa9ea72ad58d88766e8c7ab4905344f022ffecd2ab071995612b99174f"
+    },
+    {
+      "file": "卷004.txt",
+      "page_title": "入唐求法巡禮行記/卷四",
+      "volume": 4,
+      "part": "",
+      "volume_label": "004",
+      "section": "卷四",
+      "revid": 2179299,
+      "url": "https://zh.wikisource.org/wiki/%E5%85%A5%E5%94%90%E6%B1%82%E6%B3%95%E5%B7%A1%E7%A6%AE%E8%A1%8C%E8%A8%98/%E5%8D%B7%E5%9B%9B",
+      "chars": 28295,
+      "sha256": "b80e8236b3d81070eb9b2181780d91bfe0e7fd59d7f047507b9f31fd10098271"
+    }
+  ]
+}

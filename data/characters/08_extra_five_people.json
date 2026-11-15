@@ -1,0 +1,587 @@
+[
+  {
+    "id": "yuan-shu",
+    "name": "袁术",
+    "name_en": "Yuan Shu",
+    "aliases": [
+      "袁公路",
+      "仲家"
+    ],
+    "courtesy_name": "公路",
+    "birth": null,
+    "death": 199,
+    "birth_place": "汝南汝阳",
+    "period": "东汉末",
+    "faction_id": "yuan-shu",
+    "roles": [
+      "军阀",
+      "称帝者"
+    ],
+    "tags": [
+      "汝南袁氏",
+      "淮南",
+      "称帝",
+      "仲家"
+    ],
+    "traits": [
+      "骄奢",
+      "野心",
+      "短视",
+      "善聚敛"
+    ],
+    "relationships": [
+      {
+        "target": "yuan-shao",
+        "type": "兄弟/对手",
+        "note": "袁氏内争"
+      }
+    ],
+    "events": [
+      "guandong-coalition",
+      "yingtianzi"
+    ],
+    "quotes": [],
+    "summary": "袁术据淮南，195 年称帝，国号仲家，因奢侈暴虐、外交孤立而败亡。",
+    "game_use": "适合高资源低合法性的称帝型军阀：初期富庶，称帝后四面受敌。",
+    "sources": [
+      "SANGUOZHI",
+      "HOUHANSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wang-dun",
+    "name": "王敦",
+    "name_en": "Wang Dun",
+    "aliases": [
+      "王处仲",
+      "武昌郡公"
+    ],
+    "courtesy_name": "处仲",
+    "birth": 266,
+    "death": 324,
+    "birth_place": "琅琊临沂",
+    "period": "东晋",
+    "faction_id": "eastern-jin",
+    "roles": [
+      "权臣",
+      "荆州刺史",
+      "叛乱者"
+    ],
+    "tags": [
+      "琅琊王氏",
+      "荆州",
+      "清君侧",
+      "王与马"
+    ],
+    "traits": [
+      "刚傲",
+      "善战",
+      "权谋",
+      "野心"
+    ],
+    "relationships": [
+      {
+        "target": "wang-dao",
+        "type": "堂兄弟",
+        "note": "琅琊王氏"
+      }
+    ],
+    "events": [
+      "eastern-jin-foundation",
+      "wang-dun"
+    ],
+    "quotes": [],
+    "summary": "王敦为琅琊王氏军事支柱，据荆州东下建康，发动王敦之乱，死后被戮尸。",
+    "game_use": "适合门阀军事强人：荆州资源与兵权强，与皇权必然冲突。",
+    "sources": [
+      "JINSHU",
+      "SHISHUOXINYU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "yang-yi",
+    "name": "杨仪",
+    "name_en": "Yang Yi",
+    "aliases": [
+      "杨威公"
+    ],
+    "courtesy_name": "威公",
+    "birth": null,
+    "death": 235,
+    "birth_place": "襄阳",
+    "period": "三国",
+    "faction_id": "shu-han",
+    "roles": [
+      "谋臣",
+      "参军"
+    ],
+    "tags": [
+      "蜀汉",
+      "诸葛亮",
+      "魏延",
+      "内争"
+    ],
+    "traits": [
+      "干练",
+      "偏狭",
+      "善后勤",
+      "记仇"
+    ],
+    "relationships": [
+      {
+        "target": "wei-yan",
+        "type": "政敌",
+        "note": "诸葛亮死后争权"
+      }
+    ],
+    "events": [
+      "northern-expedition",
+      "wuzhangyuan"
+    ],
+    "quotes": [],
+    "summary": "杨仪为诸葛亮北伐时期的重要僚属，负责后勤与军务，诸葛亮死后与魏延争权，最终被废自杀。",
+    "game_use": "适合高行政低人望的幕僚：后勤强，易与武将冲突。",
+    "sources": [
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "liu-yuxi",
+    "name": "刘禹锡",
+    "name_en": "Liu Yuxi",
+    "aliases": [
+      "刘梦得",
+      "诗豪"
+    ],
+    "courtesy_name": "梦得",
+    "birth": 772,
+    "death": 842,
+    "birth_place": "洛阳",
+    "period": "中唐",
+    "faction_id": "tang",
+    "roles": [
+      "诗人",
+      "文臣"
+    ],
+    "tags": [
+      "永贞革新",
+      "贬谪",
+      "竹枝词",
+      "诗豪"
+    ],
+    "traits": [
+      "刚直",
+      "乐观",
+      "博学",
+      "善诗"
+    ],
+    "relationships": [
+      {
+        "target": "liu-zongyuan",
+        "type": "同志/诗友",
+        "note": "二王八司马"
+      }
+    ],
+    "events": [
+      "yongzhen-reform",
+      "yuanhe-poetry"
+    ],
+    "quotes": [],
+    "summary": "刘禹锡参与永贞革新，失败后长期贬谪，以《竹枝词》《陋室铭》闻名，是中唐重要诗人。",
+    "game_use": "适合贬谪文臣：文化声望高，政治命运受党争影响。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "QUANTANGSHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "tang-wuzong",
+    "name": "唐武宗",
+    "name_en": "Emperor Wuzong of Tang",
+    "aliases": [
+      "李炎",
+      "会昌帝"
+    ],
+    "courtesy_name": null,
+    "birth": 814,
+    "death": 846,
+    "birth_place": "长安",
+    "period": "晚唐",
+    "faction_id": "tang",
+    "roles": [
+      "皇帝"
+    ],
+    "tags": [
+      "会昌中兴",
+      "李德裕",
+      "灭佛",
+      "泽潞"
+    ],
+    "traits": [
+      "果决",
+      "务实",
+      "刚毅",
+      "短寿"
+    ],
+    "relationships": [
+      {
+        "target": "li-deyu",
+        "type": "君臣",
+        "note": "会昌中兴"
+      }
+    ],
+    "events": [
+      "huichang"
+    ],
+    "quotes": [],
+    "summary": "唐武宗任用李德裕，击退回鹘、平定泽潞、推行灭佛，史称会昌中兴，但因服丹早逝。",
+    "game_use": "适合强硬改革型皇帝：短期国力回升，寿命与继承是最大风险。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wang-xianzhi",
+    "name": "王仙芝",
+    "name_en": "Wang Xianzhi",
+    "aliases": [
+      "王仙芝"
+    ],
+    "courtesy_name": null,
+    "birth": null,
+    "death": 878,
+    "birth_place": "濮州",
+    "period": "晚唐",
+    "faction_id": "huang-chao",
+    "roles": [
+      "叛乱首领",
+      "盐贩"
+    ],
+    "tags": [
+      "唐末民变",
+      "私盐",
+      "长垣",
+      "黄巢"
+    ],
+    "traits": [
+      "勇猛",
+      "善流动",
+      "缺乏政治纲领",
+      "轻信"
+    ],
+    "relationships": [
+      {
+        "target": "huang-chao",
+        "type": "盟友/分裂",
+        "note": "黄巢起义前身"
+      }
+    ],
+    "events": [
+      "huang-chao-rebellion"
+    ],
+    "quotes": [],
+    "summary": "王仙芝于 875 年在长垣起兵，是唐末民变的先驱，黄巢曾依附其部，后因招安分歧分裂，878 年败死。",
+    "game_use": "适合流寇型叛乱领袖：初期动员强，缺乏根据地与政治整合。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "zhao-guangyi",
+    "name": "赵光义",
+    "name_en": "Zhao Guangyi",
+    "aliases": [
+      "宋太宗",
+      "赵匡义",
+      "赵炅"
+    ],
+    "courtesy_name": null,
+    "birth": 939,
+    "death": 997,
+    "birth_place": "开封",
+    "period": "宋初统一",
+    "faction_id": "song",
+    "roles": [
+      "皇帝",
+      "军事统帅"
+    ],
+    "tags": [
+      "宋太宗",
+      "灭北汉",
+      "雍熙北伐",
+      "重文"
+    ],
+    "traits": [
+      "勤政",
+      "多疑",
+      "好大喜功",
+      "善权谋"
+    ],
+    "relationships": [
+      {
+        "target": "zhao-kuangyin",
+        "type": "兄弟/继承",
+        "note": "宋太祖之弟"
+      }
+    ],
+    "events": [
+      "chenqiao",
+      "northern-han-conquest"
+    ],
+    "quotes": [],
+    "summary": "赵光义继兄位为宋太宗，灭北汉完成局部统一，两次北伐辽国失败，转向重文守内。",
+    "game_use": "适合守成扩张型君主：统一南方强，对辽野战与骑兵弱。",
+    "sources": [
+      "SONGSHI",
+      "XUWUDAISHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wang-yanjun",
+    "name": "王延钧",
+    "name_en": "Wang Yanjun",
+    "aliases": [
+      "闽惠宗",
+      "王鏻"
+    ],
+    "courtesy_name": null,
+    "birth": null,
+    "death": 935,
+    "birth_place": "光州固始",
+    "period": "十国",
+    "faction_id": "min",
+    "roles": [
+      "皇帝"
+    ],
+    "tags": [
+      "闽",
+      "惠宗",
+      "称帝",
+      "道教"
+    ],
+    "traits": [
+      "奢侈",
+      "迷信",
+      "暴虐",
+      "短视"
+    ],
+    "relationships": [
+      {
+        "target": "wang-shenzhi",
+        "type": "父子",
+        "note": "闽太祖之子"
+      }
+    ],
+    "events": [],
+    "quotes": [],
+    "summary": "王延钧继王审知据闽，933 年称帝，国号闽，后期迷信道教、诛杀宗室，被儿子所杀。",
+    "game_use": "适合二代割据君主：继承资源好，政治稳定与军事能力差。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "ma-xifan",
+    "name": "马希范",
+    "name_en": "Ma Xifan",
+    "aliases": [
+      "楚文昭王"
+    ],
+    "courtesy_name": null,
+    "birth": 899,
+    "death": 947,
+    "birth_place": "长沙",
+    "period": "十国",
+    "faction_id": "chu",
+    "roles": [
+      "国王"
+    ],
+    "tags": [
+      "楚",
+      "文昭王",
+      "奢靡",
+      "溪州"
+    ],
+    "traits": [
+      "奢侈",
+      "文雅",
+      "好大喜功",
+      "不善继承"
+    ],
+    "relationships": [
+      {
+        "target": "ma-yin",
+        "type": "父子",
+        "note": "楚武穆王之子"
+      }
+    ],
+    "events": [],
+    "quotes": [],
+    "summary": "马希范继马殷为楚王，前期安定，后期大兴土木、加重赋税，死后诸子争位，楚国衰亡。",
+    "game_use": "适合富庶政权的守成君主：经济基础好，继承安排失败导致内乱。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "liu-sheng",
+    "name": "刘晟",
+    "name_en": "Liu Sheng",
+    "aliases": [
+      "南汉中宗"
+    ],
+    "courtesy_name": null,
+    "birth": 920,
+    "death": 958,
+    "birth_place": "兴王府",
+    "period": "十国",
+    "faction_id": "southern-han",
+    "roles": [
+      "皇帝"
+    ],
+    "tags": [
+      "南汉",
+      "中宗",
+      "宦官",
+      "诛杀宗室"
+    ],
+    "traits": [
+      "多疑",
+      "残暴",
+      "奢侈",
+      "依赖宦官"
+    ],
+    "relationships": [
+      {
+        "target": "liu-yan",
+        "type": "父子",
+        "note": "南汉高祖之子"
+      }
+    ],
+    "events": [],
+    "quotes": [],
+    "summary": "刘晟杀兄自立为南汉中宗，诛杀宗室、重用宦官，维持岭南割据但政治日益腐败。",
+    "game_use": "适合猜忌型君主：短期集权，长期人才凋零。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "zhang-bao",
+    "name": "张宝",
+    "name_en": "Zhang Bao",
+    "aliases": [
+      "地公将军"
+    ],
+    "courtesy_name": null,
+    "birth": null,
+    "death": 184,
+    "birth_place": "巨鹿",
+    "period": "东汉末",
+    "faction_id": "yellow-turban",
+    "roles": [
+      "宗教领袖",
+      "叛乱首领"
+    ],
+    "tags": [
+      "黄巾",
+      "地公将军",
+      "太平道"
+    ],
+    "traits": [
+      "宗教动员",
+      "勇猛",
+      "缺乏战略"
+    ],
+    "relationships": [
+      {
+        "target": "zhang-jiao",
+        "type": "兄弟",
+        "note": "天公将军之弟"
+      }
+    ],
+    "events": [
+      "yellow-turban"
+    ],
+    "quotes": [],
+    "summary": "张宝为张角之弟，号地公将军，黄巾起义中据广宗，与皇甫嵩作战，184 年兵败被杀。",
+    "game_use": "适合宗教叛乱副首领：动员强，正面战弱。",
+    "sources": [
+      "HOUHANSHU",
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "zhang-liang",
+    "name": "张梁",
+    "name_en": "Zhang Liang",
+    "aliases": [
+      "人公将军"
+    ],
+    "courtesy_name": null,
+    "birth": null,
+    "death": 184,
+    "birth_place": "巨鹿",
+    "period": "东汉末",
+    "faction_id": "yellow-turban",
+    "roles": [
+      "宗教领袖",
+      "叛乱首领"
+    ],
+    "tags": [
+      "黄巾",
+      "人公将军",
+      "太平道"
+    ],
+    "traits": [
+      "宗教动员",
+      "坚韧",
+      "缺乏战略"
+    ],
+    "relationships": [
+      {
+        "target": "zhang-jiao",
+        "type": "兄弟",
+        "note": "天公将军之弟"
+      }
+    ],
+    "events": [
+      "yellow-turban"
+    ],
+    "quotes": [],
+    "summary": "张梁为张角之弟，号人公将军，守广宗，皇甫嵩夜袭破城，张梁战死。",
+    "game_use": "适合宗教叛乱副首领：守城与动员强，野战弱。",
+    "sources": [
+      "HOUHANSHU",
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  }
+]

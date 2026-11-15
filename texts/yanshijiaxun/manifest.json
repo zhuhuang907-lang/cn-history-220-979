@@ -1,0 +1,98 @@
+{
+  "source_id": "YANSHIJIAXUN",
+  "title": "顏氏家訓",
+  "title_simplified": "颜氏家训",
+  "slug": "yanshijiaxun",
+  "page_title": "顏氏家訓",
+  "source_url": "https://zh.wikisource.org/wiki/%E9%A1%8F%E6%B0%8F%E5%AE%B6%E8%A8%93",
+  "license": "CC BY-SA 4.0 (Wikisource transcription); classical text is public domain",
+  "fetched_at": "2026-11-14T02:53:56+00:00",
+  "volume_count": 7,
+  "chars": 44206,
+  "volumes": [
+    {
+      "file": "卷001.txt",
+      "page_title": "顏氏家訓/卷第1",
+      "volume": 1,
+      "part": "",
+      "volume_label": "001",
+      "section": "",
+      "revid": 2596812,
+      "url": "https://zh.wikisource.org/wiki/%E9%A1%8F%E6%B0%8F%E5%AE%B6%E8%A8%93/%E5%8D%B7%E7%AC%AC1",
+      "chars": 4895,
+      "sha256": "245c39761715ebdf997eb0c2f5c715fd317a00ad0eb00a3b71ebe8d6d37660d4"
+    },
+    {
+      "file": "卷002.txt",
+      "page_title": "顏氏家訓/卷第2",
+      "volume": 2,
+      "part": "",
+      "volume_label": "002",
+      "section": "",
+      "revid": 2596811,
+      "url": "https://zh.wikisource.org/wiki/%E9%A1%8F%E6%B0%8F%E5%AE%B6%E8%A8%93/%E5%8D%B7%E7%AC%AC2",
+      "chars": 6392,
+      "sha256": "a1dc5a2589cdcb3b388a38ded4cd0118a90fabcc89be2619032fe66d41b99728"
+    },
+    {
+      "file": "卷003.txt",
+      "page_title": "顏氏家訓/卷第3",
+      "volume": 3,
+      "part": "",
+      "volume_label": "003",
+      "section": "",
+      "revid": 10678154,
+      "url": "https://zh.wikisource.org/wiki/%E9%A1%8F%E6%B0%8F%E5%AE%B6%E8%A8%93/%E5%8D%B7%E7%AC%AC3",
+      "chars": 6688,
+      "sha256": "fd5b95331e85da519f39f205a070bc9a52f0e5f741cadadc1a364e502739cacc"
+    },
+    {
+      "file": "卷004.txt",
+      "page_title": "顏氏家訓/卷第4",
+      "volume": 4,
+      "part": "",
+      "volume_label": "004",
+      "section": "",
+      "revid": 10678453,
+      "url": "https://zh.wikisource.org/wiki/%E9%A1%8F%E6%B0%8F%E5%AE%B6%E8%A8%93/%E5%8D%B7%E7%AC%AC4",
+      "chars": 6080,
+      "sha256": "72d51409f9b270f562e905cdeee3bbe11844fa50aa6454c326fa7e2819522ac2"
+    },
+    {
+      "file": "卷005.txt",
+      "page_title": "顏氏家訓/卷第5",
+      "volume": 5,
+      "part": "",
+      "volume_label": "005",
+      "section": "",
+      "revid": 2596814,
+      "url": "https://zh.wikisource.org/wiki/%E9%A1%8F%E6%B0%8F%E5%AE%B6%E8%A8%93/%E5%8D%B7%E7%AC%AC5",
+      "chars": 6199,
+      "sha256": "31214aa1e3c8ab694221fb4a4ec3ccc4e2e60b6c406ff5e10a2114fe5346f92a"
+    },
+    {
+      "file": "卷006.txt",
+      "page_title": "顏氏家訓/卷第6",
+      "volume": 6,
+      "part": "",
+      "volume_label": "006",
+      "section": "",
+      "revid": 2596815,
+      "url": "https://zh.wikisource.org/wiki/%E9%A1%8F%E6%B0%8F%E5%AE%B6%E8%A8%93/%E5%8D%B7%E7%AC%AC6",
+      "chars": 9154,
+      "sha256": "e7d14f8cd8c81d1acc07e7ff169495aea3015e6d4e384f801e9fb4a49f7fd2cb"
+    },
+    {
+      "file": "卷007.txt",
+      "page_title": "顏氏家訓/卷第7",
+      "volume": 7,
+      "part": "",
+      "volume_label": "007",
+      "section": "",
+      "revid": 10682324,
+      "url": "https://zh.wikisource.org/wiki/%E9%A1%8F%E6%B0%8F%E5%AE%B6%E8%A8%93/%E5%8D%B7%E7%AC%AC7",
+      "chars": 4798,
+      "sha256": "9af6c9f271c1642f7b0b340c17f03e4fda53ef5da01c87c0191761923226264e"
+    }
+  ]
+}

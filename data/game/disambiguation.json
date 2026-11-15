@@ -1,0 +1,692 @@
+[
+  {
+    "id": "wei",
+    "term": "魏",
+    "conflicts": [
+      {
+        "entity_id": "cao-wei",
+        "name": "曹魏",
+        "period": "三国",
+        "note": "曹操奠基、曹丕 220 年称帝，都洛阳。"
+      },
+      {
+        "entity_id": "ran-wei",
+        "name": "冉魏",
+        "period": "十六国",
+        "note": "冉闵 350 年建，都邺，352 年亡。"
+      },
+      {
+        "entity_id": "northern-wei",
+        "name": "北魏",
+        "period": "北朝",
+        "note": "拓跋珪 386 年建，都平城后迁洛阳。"
+      },
+      {
+        "entity_id": "eastern-wei",
+        "name": "东魏",
+        "period": "北朝",
+        "note": "高欢 534 年立元善见，都邺。"
+      },
+      {
+        "entity_id": "western-wei",
+        "name": "西魏",
+        "period": "北朝",
+        "note": "宇文泰 535 年立元宝炬，都长安。"
+      }
+    ],
+    "guidance": "先看时间：220–265 为曹魏；350–352 为冉魏；386–534 为北魏；534–550 为东魏；535–557 为西魏。",
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "WEISHU",
+      "BEISHI"
+    ]
+  },
+  {
+    "id": "jin",
+    "term": "晋",
+    "conflicts": [
+      {
+        "entity_id": "western-jin",
+        "name": "西晋",
+        "period": "西晋",
+        "note": "司马炎 266 年建，280 年灭吴，316 年亡。"
+      },
+      {
+        "entity_id": "eastern-jin",
+        "name": "东晋",
+        "period": "东晋",
+        "note": "司马睿 317 年建，都建康，420 年亡。"
+      },
+      {
+        "entity_id": "later-jin",
+        "name": "后晋",
+        "period": "五代",
+        "note": "石敬瑭 936 年建，947 年为辽所灭。"
+      },
+      {
+        "entity_id": "jin-state",
+        "name": "晋国（李克用父子）",
+        "period": "晚唐五代",
+        "note": "李克用据河东，李存勖 923 年称帝建后唐；史书常称“晋”。"
+      }
+    ],
+    "guidance": "“晋”在五代语境多指李克用父子的河东晋国，不是司马氏晋朝；后晋则是石敬瑭政权。",
+    "sources": [
+      "JINSHU",
+      "JIUWUDAISHI",
+      "XINWUDAISHI"
+    ]
+  },
+  {
+    "id": "tang",
+    "term": "唐",
+    "conflicts": [
+      {
+        "entity_id": "tang",
+        "name": "唐朝",
+        "period": "唐",
+        "note": "李渊 618 年建，907 年亡。"
+      },
+      {
+        "entity_id": "later-tang",
+        "name": "后唐",
+        "period": "五代",
+        "note": "李存勖 923 年建，自称继承唐室，937 年亡。"
+      },
+      {
+        "entity_id": "southern-tang",
+        "name": "南唐",
+        "period": "十国",
+        "note": "李昪 937 年建，都金陵，975 年为宋所灭。"
+      },
+      {
+        "entity_id": "wu-zhou",
+        "name": "武周",
+        "period": "初唐",
+        "note": "武则天 690–705 年以周代唐。"
+      }
+    ],
+    "guidance": "看都城与时间：长安唐 618–907；洛阳后唐 923–937；金陵南唐 937–975。",
+    "sources": [
+      "JIUTANGSHU",
+      "JIUWUDAISHI",
+      "NANTANGSHU_LU"
+    ]
+  },
+  {
+    "id": "zhou",
+    "term": "周",
+    "conflicts": [
+      {
+        "entity_id": "northern-zhou",
+        "name": "北周",
+        "period": "北朝",
+        "note": "宇文觉 557 年建，都长安，581 年为隋所代。"
+      },
+      {
+        "entity_id": "later-zhou",
+        "name": "后周",
+        "period": "五代",
+        "note": "郭威 951 年建，都汴州，960 年为宋所代。"
+      },
+      {
+        "entity_id": "wu-zhou",
+        "name": "武周",
+        "period": "初唐",
+        "note": "武则天 690–705 年建，都洛阳。"
+      }
+    ],
+    "guidance": "北周在长安、6 世纪；后周在汴州、10 世纪；武周是武则天改唐国号。",
+    "sources": [
+      "ZHOUSHU",
+      "JIUWUDAISHI",
+      "JIUTANGSHU"
+    ]
+  },
+  {
+    "id": "liang",
+    "term": "梁",
+    "conflicts": [
+      {
+        "entity_id": "liang",
+        "name": "南朝梁",
+        "period": "南朝",
+        "note": "萧衍 502 年建，都建康，557 年亡。"
+      },
+      {
+        "entity_id": "later-liang",
+        "name": "后梁",
+        "period": "五代",
+        "note": "朱温 907 年建，都汴州，923 年为后唐所灭。"
+      },
+      {
+        "entity_id": "western-liang",
+        "name": "西梁",
+        "period": "南朝",
+        "note": "萧詧 555 年依附西魏建立，都江陵，587 年亡。"
+      }
+    ],
+    "guidance": "南朝梁在建康；后梁在汴州；西梁是江陵附庸小政权。",
+    "sources": [
+      "LIANGSHU",
+      "JIUWUDAISHI",
+      "NANSHI"
+    ]
+  },
+  {
+    "id": "han",
+    "term": "汉",
+    "conflicts": [
+      {
+        "entity_id": "shu-han",
+        "name": "蜀汉",
+        "period": "三国",
+        "note": "刘备 221 年建，都成都，263 年亡。"
+      },
+      {
+        "entity_id": "han-zhao",
+        "name": "汉赵（前赵）",
+        "period": "十六国",
+        "note": "刘渊 304 年建，都平阳、长安，329 年亡。"
+      },
+      {
+        "entity_id": "cheng-han",
+        "name": "成汉",
+        "period": "十六国",
+        "note": "李雄 304 年建，都成都，347 年亡。"
+      },
+      {
+        "entity_id": "later-han",
+        "name": "后汉",
+        "period": "五代",
+        "note": "刘知远 947 年建，都汴州，951 年亡。"
+      },
+      {
+        "entity_id": "southern-han",
+        "name": "南汉",
+        "period": "十国",
+        "note": "刘龑 917 年建，都广州，971 年亡。"
+      },
+      {
+        "entity_id": "northern-han",
+        "name": "北汉",
+        "period": "十国",
+        "note": "刘崇 951 年建，都太原，979 年亡。"
+      }
+    ],
+    "guidance": "先分时代与地域：三国蜀汉、十六国汉赵/成汉、五代后汉、十国南汉/北汉。",
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "JIUWUDAISHI",
+      "SHIGUOCHUNQIU"
+    ]
+  },
+  {
+    "id": "yan",
+    "term": "燕",
+    "conflicts": [
+      {
+        "entity_id": "former-yan",
+        "name": "前燕",
+        "period": "十六国",
+        "note": "慕容皝 337 年建，都龙城、邺，370 年为前秦所灭。"
+      },
+      {
+        "entity_id": "later-yan",
+        "name": "后燕",
+        "period": "十六国",
+        "note": "慕容垂 384 年复国，都中山，407 年亡。"
+      },
+      {
+        "entity_id": "southern-yan",
+        "name": "南燕",
+        "period": "十六国",
+        "note": "慕容德 398 年建，都广固，410 年为刘裕所灭。"
+      },
+      {
+        "entity_id": "northern-yan",
+        "name": "北燕",
+        "period": "十六国",
+        "note": "冯跋 407 年建，都龙城，436 年为北魏所灭。"
+      },
+      {
+        "entity_id": "yan-lushan",
+        "name": "安史燕",
+        "period": "盛唐",
+        "note": "安禄山 756 年称帝，国号燕，史思明继之。"
+      }
+    ],
+    "guidance": "慕容诸燕看都城与时间；安史燕是唐朝内部叛乱政权，不是鲜卑慕容氏。",
+    "sources": [
+      "JINSHU",
+      "WEISHU",
+      "JIUTANGSHU"
+    ]
+  },
+  {
+    "id": "qin",
+    "term": "秦",
+    "conflicts": [
+      {
+        "entity_id": "former-qin",
+        "name": "前秦",
+        "period": "十六国",
+        "note": "苻健 351 年建，都长安，394 年亡。"
+      },
+      {
+        "entity_id": "later-qin",
+        "name": "后秦",
+        "period": "十六国",
+        "note": "姚苌 384 年建，都长安，417 年为刘裕所灭。"
+      },
+      {
+        "entity_id": "western-qin",
+        "name": "西秦",
+        "period": "十六国",
+        "note": "乞伏国仁 385 年建，都苑川，431 年亡。"
+      }
+    ],
+    "guidance": "前秦苻氏、后秦姚氏、西秦乞伏氏；三者都以“秦”为国号，靠姓氏与地域区分。",
+    "sources": [
+      "JINSHU",
+      "WEISHU"
+    ]
+  },
+  {
+    "id": "liang-regimes",
+    "term": "凉",
+    "conflicts": [
+      {
+        "entity_id": "former-liang",
+        "name": "前凉",
+        "period": "十六国",
+        "note": "张轨奠基，都姑臧，376 年为前秦所灭。"
+      },
+      {
+        "entity_id": "later-liang",
+        "name": "后凉",
+        "period": "十六国",
+        "note": "吕光 386 年建，都姑臧，403 年亡。"
+      },
+      {
+        "entity_id": "southern-liang",
+        "name": "南凉",
+        "period": "十六国",
+        "note": "秃发乌孤 397 年建，都乐都，414 年亡。"
+      },
+      {
+        "entity_id": "northern-liang",
+        "name": "北凉",
+        "period": "十六国",
+        "note": "沮渠蒙逊 401 年建，都姑臧，439 年为北魏所灭。"
+      },
+      {
+        "entity_id": "western-liang",
+        "name": "西凉",
+        "period": "十六国",
+        "note": "李暠 400 年建，都敦煌、酒泉，421 年亡。"
+      }
+    ],
+    "guidance": "五凉都在河西走廊，按时间与都城区分；北凉灭西凉，北魏灭北凉。",
+    "sources": [
+      "JINSHU",
+      "WEISHU"
+    ]
+  },
+  {
+    "id": "zhao",
+    "term": "赵",
+    "conflicts": [
+      {
+        "entity_id": "han-zhao",
+        "name": "汉赵（前赵）",
+        "period": "十六国",
+        "note": "刘渊建汉，刘曜改赵，都平阳、长安。"
+      },
+      {
+        "entity_id": "later-zhao",
+        "name": "后赵",
+        "period": "十六国",
+        "note": "石勒 319 年建，都襄国、邺，351 年亡。"
+      }
+    ],
+    "guidance": "汉赵是匈奴刘氏，后赵是羯族石氏；注意“前赵”是后人对汉赵的称呼。",
+    "sources": [
+      "JINSHU",
+      "WEISHU"
+    ]
+  },
+  {
+    "id": "shu",
+    "term": "蜀",
+    "conflicts": [
+      {
+        "entity_id": "shu-han",
+        "name": "蜀汉",
+        "period": "三国",
+        "note": "刘备建，都成都，263 年亡。"
+      },
+      {
+        "entity_id": "cheng-han",
+        "name": "成汉",
+        "period": "十六国",
+        "note": "李雄建，都成都，347 年亡。"
+      },
+      {
+        "entity_id": "former-shu",
+        "name": "前蜀",
+        "period": "十国",
+        "note": "王建 907 年建，都成都，925 年亡。"
+      },
+      {
+        "entity_id": "later-shu",
+        "name": "后蜀",
+        "period": "十国",
+        "note": "孟知祥 934 年建，都成都，965 年亡。"
+      }
+    ],
+    "guidance": "四个政权都以成都为中心，按时代区分：三国、十六国、五代、宋初。",
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "SHIGUOCHUNQIU"
+    ]
+  },
+  {
+    "id": "wu",
+    "term": "吴",
+    "conflicts": [
+      {
+        "entity_id": "eastern-wu",
+        "name": "东吴",
+        "period": "三国",
+        "note": "孙权 229 年称帝，都建业，280 年亡。"
+      },
+      {
+        "entity_id": "wu-yang",
+        "name": "杨吴",
+        "period": "十国",
+        "note": "杨行密奠基，都扬州，937 年为南唐所代。"
+      },
+      {
+        "entity_id": "wuyue",
+        "name": "吴越",
+        "period": "十国",
+        "note": "钱镠 907 年建，都杭州，978 年纳土归宋。"
+      }
+    ],
+    "guidance": "东吴在江南、三国；杨吴在淮南、五代；吴越在两浙、五代宋初。",
+    "sources": [
+      "SANGUOZHI",
+      "JIUWUDAISHI",
+      "WUYUEBEISHI"
+    ]
+  },
+  {
+    "id": "li-mi",
+    "term": "李密",
+    "conflicts": [
+      {
+        "entity_id": "li-mi-sui",
+        "name": "李密（隋末）",
+        "period": "隋",
+        "note": "瓦岗军首领，曾作《讨隋炀帝檄》，后降唐又叛，被杀。"
+      },
+      {
+        "entity_id": "li-mi-jin",
+        "name": "李密（西晋）",
+        "period": "西晋",
+        "note": "《陈情表》作者，蜀汉旧臣，以孝闻名。"
+      }
+    ],
+    "guidance": "隋末李密是瓦岗军领袖；西晋李密是《陈情表》作者，二人相隔约四百年。",
+    "sources": [
+      "SUISHU",
+      "JINSHU",
+      "ZIZHITONGJIAN"
+    ]
+  },
+  {
+    "id": "li-jing",
+    "term": "李靖",
+    "conflicts": [
+      {
+        "entity_id": "li-jing",
+        "name": "李靖（唐初）",
+        "period": "初唐",
+        "note": "卫国公，灭东突厥、平吐谷浑的军事家。"
+      },
+      {
+        "entity_id": "li-jing-nantang",
+        "name": "李璟（南唐）",
+        "period": "十国",
+        "note": "南唐中主，词人，后周征淮南后去帝号称臣。"
+      }
+    ],
+    "guidance": "李靖是唐初名将；李璟是南唐中主，字形、时代、身份均不同。",
+    "sources": [
+      "JIUTANGSHU",
+      "NANTANGSHU_LU"
+    ]
+  },
+  {
+    "id": "wang-jian",
+    "term": "王建",
+    "conflicts": [
+      {
+        "entity_id": "wang-jian",
+        "name": "王建（前蜀）",
+        "period": "十国",
+        "note": "前蜀开国皇帝，据成都。"
+      },
+      {
+        "entity_id": "wang-jian-poet",
+        "name": "王建（唐诗人）",
+        "period": "中唐",
+        "note": "以乐府诗著称，与张籍并称“张王乐府”。"
+      }
+    ],
+    "guidance": "前蜀王建是皇帝；唐诗人王建以《宫词》闻名，二者常被混淆。",
+    "sources": [
+      "JIUWUDAISHI",
+      "QUANTANGSHI"
+    ]
+  },
+  {
+    "id": "shishu",
+    "term": "石氏",
+    "conflicts": [
+      {
+        "entity_id": "shi-le",
+        "name": "石勒",
+        "period": "十六国",
+        "note": "羯族，后赵开国皇帝。"
+      },
+      {
+        "entity_id": "shi-hu",
+        "name": "石虎",
+        "period": "十六国",
+        "note": "石勒之侄，后赵暴君。"
+      },
+      {
+        "entity_id": "shi-jingtang",
+        "name": "石敬瑭",
+        "period": "五代",
+        "note": "沙陀人，后晋开国皇帝，割燕云十六州。"
+      }
+    ],
+    "guidance": "石勒、石虎是羯族后赵；石敬瑭是沙陀后晋，时代相差六百年。",
+    "sources": [
+      "JINSHU",
+      "JIUWUDAISHI"
+    ]
+  },
+  {
+    "id": "murong",
+    "term": "慕容氏诸王如何区分？",
+    "conflicts": [
+      {
+        "entity_id": "murong-huang",
+        "name": "慕容皝",
+        "period": "十六国",
+        "note": "前燕建立者。"
+      },
+      {
+        "entity_id": "murong-jun",
+        "name": "慕容儁",
+        "period": "十六国",
+        "note": "前燕皇帝，灭冉魏。"
+      },
+      {
+        "entity_id": "murong-chui",
+        "name": "慕容垂",
+        "period": "十六国",
+        "note": "后燕建立者，参合陂败于北魏。"
+      },
+      {
+        "entity_id": "murong-de",
+        "name": "慕容德",
+        "period": "十六国",
+        "note": "南燕建立者。"
+      }
+    ],
+    "guidance": "按政权记：皝—前燕；儁—前燕；垂—后燕；德—南燕。",
+    "sources": [
+      "JINSHU",
+      "WEISHU"
+    ]
+  },
+  {
+    "id": "dongjing",
+    "term": "东京",
+    "conflicts": [
+      {
+        "entity_id": "luoyang",
+        "name": "洛阳",
+        "period": "唐五代",
+        "note": "唐东都、后唐都城，常称东京/东都。"
+      },
+      {
+        "entity_id": "kaifeng",
+        "name": "开封",
+        "period": "五代宋",
+        "note": "后梁、后晋、后汉、后周与北宋都城，称东京汴梁。"
+      }
+    ],
+    "guidance": "唐五代前期的“东京”多指洛阳；五代后期至宋，“东京”指开封。",
+    "sources": [
+      "JIUTANGSHU",
+      "JIUWUDAISHI",
+      "SONGSHI"
+    ]
+  },
+  {
+    "id": "jiankang",
+    "term": "建业、建康、金陵、江宁是什么关系？",
+    "conflicts": [
+      {
+        "entity_id": "jiankang",
+        "name": "建业/建康",
+        "period": "三国至南朝",
+        "note": "东吴称建业，东晋南朝称建康，今南京。"
+      },
+      {
+        "entity_id": "jinling",
+        "name": "金陵/江宁",
+        "period": "唐五代宋",
+        "note": "唐称江宁、升州，南唐称金陵，今南京。"
+      }
+    ],
+    "guidance": "同一城市不同时代的名称；游戏内可按时代切换显示名。",
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "NANTANGSHU_LU"
+    ]
+  },
+  {
+    "id": "beijing",
+    "term": "北京",
+    "conflicts": [
+      {
+        "entity_id": "taiyuan",
+        "name": "太原",
+        "period": "唐五代",
+        "note": "唐与后唐、后晋、后汉称太原为北京。"
+      },
+      {
+        "entity_id": "daming",
+        "name": "大名府",
+        "period": "宋",
+        "note": "北宋以大名府为北京。"
+      },
+      {
+        "entity_id": "youzhou",
+        "name": "幽州",
+        "period": "辽",
+        "note": "辽以幽州为南京（燕京），不是北京。"
+      }
+    ],
+    "guidance": "唐宋“北京”多指太原；北宋北京是大名府；辽南京是幽州。",
+    "sources": [
+      "JIUTANGSHU",
+      "SONGSHI",
+      "LIAOSHI"
+    ]
+  },
+  {
+    "id": "tujue",
+    "term": "东突厥、西突厥、后突厥如何区分？",
+    "conflicts": [
+      {
+        "entity_id": "eastern-turk",
+        "name": "东突厥",
+        "period": "隋初唐",
+        "note": "控制蒙古高原，630 年为唐所灭。"
+      },
+      {
+        "entity_id": "western-turk",
+        "name": "西突厥",
+        "period": "隋唐",
+        "note": "控制中亚与天山北路，657 年为唐所灭。"
+      },
+      {
+        "entity_id": "later-turk",
+        "name": "后突厥",
+        "period": "盛唐",
+        "note": "682 年复国，745 年为回鹘所灭。"
+      }
+    ],
+    "guidance": "按地域与时间区分：东突厥在漠北、西突厥在中亚、后突厥是唐中期复国。",
+    "sources": [
+      "SUISHU",
+      "JIUTANGSHU",
+      "TONGDIAN"
+    ]
+  },
+  {
+    "id": "huihu",
+    "term": "回纥、回鹘、回回有什么区别？",
+    "conflicts": [
+      {
+        "entity_id": "uyghur",
+        "name": "回纥/回鹘",
+        "period": "唐五代",
+        "note": "铁勒部族，8 世纪建汗国，助唐平乱，后西迁。"
+      },
+      {
+        "entity_id": "huihui",
+        "name": "回回",
+        "period": "元明",
+        "note": "元代对中亚、西亚穆斯林的泛称，与唐回鹘不是同一群体。"
+      }
+    ],
+    "guidance": "回纥在唐德宗时改称回鹘；回回是元代概念，不能混用。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU"
+    ]
+  }
+]

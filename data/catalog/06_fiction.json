@@ -1,0 +1,282 @@
+[
+  {
+    "id": "SANGUOYANYI",
+    "type": "fiction",
+    "priority": "reference",
+    "title": "三国演义",
+    "title_trad": "三國演義",
+    "title_en": "Romance of the Three Kingdoms",
+    "aliases": [
+      "三国志通俗演义",
+      "Sanguo Yanyi"
+    ],
+    "authors": [
+      {
+        "name": "罗贯中",
+        "dates": "元末明初",
+        "role": "著"
+      }
+    ],
+    "date": "14世纪末",
+    "periods": [
+      "东汉末",
+      "三国"
+    ],
+    "cover_start": 184,
+    "cover_end": 280,
+    "genre": "历史小说",
+    "structure": "120回",
+    "reliability": "F",
+    "summary": "以三国历史为骨架的章回小说，塑造了曹操、刘备、诸葛亮、关羽等经典形象，是游戏叙事与人物设定的巨大母题库。",
+    "game_use": "人物弧光、阵营对立、战役桥段、名场面、台词风格；不可当作史实依据。",
+    "caveats": "大量虚构、移花接木、人物脸谱化；与《三国志》及裴注冲突处，以史书为准。",
+    "copyright": "public domain",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/三國演義"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "小说",
+      "三国",
+      "叙事",
+      "人物",
+      "名场面"
+    ]
+  },
+  {
+    "id": "SANGUOZHIPINGHUA",
+    "type": "fiction",
+    "priority": "reference",
+    "title": "三国志平话",
+    "title_trad": "三國志平話",
+    "title_en": "Plain Tale of the Three Kingdoms",
+    "aliases": [
+      "全相三国志平话",
+      "Sanguozhi Pinghua"
+    ],
+    "authors": [
+      {
+        "name": "佚名",
+        "dates": "元",
+        "role": "撰"
+      }
+    ],
+    "date": "元代",
+    "periods": [
+      "东汉末",
+      "三国"
+    ],
+    "cover_start": 184,
+    "cover_end": 280,
+    "genre": "讲史话本",
+    "structure": "3卷",
+    "reliability": "F",
+    "summary": "元代三国讲史话本，是《三国演义》的重要前身，保存民间三国叙事的早期形态。",
+    "game_use": "民间传说、奇术、夸张战斗、草根叙事；可作“说书人”视角。",
+    "caveats": "民间讲史，史实错误极多；仅作叙事传统参考。",
+    "copyright": "public domain",
+    "links": {
+      "wikisource": "https://zh.wikisource.org/wiki/三國志平話"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "话本",
+      "三国",
+      "民间叙事",
+      "元"
+    ]
+  },
+  {
+    "id": "CANTANGWUDAIYANYI",
+    "type": "fiction",
+    "priority": "reference",
+    "title": "残唐五代史演义",
+    "title_trad": "殘唐五代史演義",
+    "title_en": "Romance of the Late Tang and Five Dynasties",
+    "aliases": [
+      "残唐五代史演义传",
+      "Cantang Wudai Shi Yanyi"
+    ],
+    "authors": [
+      {
+        "name": "罗贯中（传）",
+        "dates": "元末明初",
+        "role": "著"
+      }
+    ],
+    "date": "明代",
+    "periods": [
+      "晚唐",
+      "五代",
+      "十国"
+    ],
+    "cover_start": 875,
+    "cover_end": 960,
+    "genre": "历史小说",
+    "structure": "60回",
+    "reliability": "F",
+    "summary": "以黄巢之乱至五代兴替为背景的历史演义，塑造李存孝、王彦章等猛将形象。",
+    "game_use": "晚唐五代猛将、战场传奇、政权更替的戏剧化桥段。",
+    "caveats": "虚构与夸张极多；人物、战绩需回查两《唐书》《旧五代史》《新五代史》。",
+    "copyright": "public domain",
+    "links": {
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=殘唐五代史演義"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "小说",
+      "晚唐",
+      "五代",
+      "猛将"
+    ]
+  },
+  {
+    "id": "SUITANGYANYI",
+    "type": "fiction",
+    "priority": "reference",
+    "title": "隋唐演义",
+    "title_trad": "隋唐演義",
+    "title_en": "Romance of Sui and Tang",
+    "aliases": [
+      "褚人获隋唐演义",
+      "Sui Tang Yanyi"
+    ],
+    "authors": [
+      {
+        "name": "褚人获",
+        "dates": "1675–1682",
+        "role": "著"
+      }
+    ],
+    "date": "清初",
+    "periods": [
+      "隋",
+      "初唐",
+      "盛唐"
+    ],
+    "cover_start": 581,
+    "cover_end": 756,
+    "genre": "历史小说",
+    "structure": "100回",
+    "reliability": "F",
+    "summary": "融合隋末群雄、唐初宫廷、玄宗杨贵妃故事的历史演义，是隋唐题材游戏的重要叙事来源。",
+    "game_use": "隋末群雄、瓦岗寨、唐初宫廷、盛唐爱情与叛乱。",
+    "caveats": "大量虚构与时代错置；不可作史实依据。",
+    "copyright": "public domain",
+    "links": {
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=隋唐演義"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "小说",
+      "隋唐",
+      "群雄",
+      "宫廷"
+    ]
+  },
+  {
+    "id": "SHUOTANG",
+    "type": "fiction",
+    "priority": "reference",
+    "title": "说唐",
+    "title_trad": "說唐",
+    "title_en": "Tales of Tang",
+    "aliases": [
+      "说唐全传",
+      "Shuo Tang"
+    ],
+    "authors": [
+      {
+        "name": "佚名",
+        "dates": "清",
+        "role": "著"
+      }
+    ],
+    "date": "清代",
+    "periods": [
+      "隋",
+      "初唐"
+    ],
+    "cover_start": 581,
+    "cover_end": 649,
+    "genre": "历史演义",
+    "structure": "68回",
+    "reliability": "F",
+    "summary": "以隋末群雄、瓦岗寨、李世民征战为主线的通俗演义，塑造秦琼、程咬金、尉迟恭等形象。",
+    "game_use": "隋末群雄、猛将、兄弟结义、战场传奇。",
+    "caveats": "民间演义，人物与战绩多虚构；仅作叙事参考。",
+    "copyright": "public domain",
+    "links": {
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=說唐"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "小说",
+      "隋唐",
+      "瓦岗",
+      "猛将"
+    ]
+  },
+  {
+    "id": "FEILONGQUANZHUAN",
+    "type": "fiction",
+    "priority": "reference",
+    "title": "飞龙全传",
+    "title_trad": "飛龍全傳",
+    "title_en": "Biography of the Flying Dragon",
+    "aliases": [
+      "飞龙全传",
+      "Feilong Quanzhuan"
+    ],
+    "authors": [
+      {
+        "name": "吴璿",
+        "dates": "清",
+        "role": "著"
+      }
+    ],
+    "date": "清代",
+    "periods": [
+      "五代",
+      "十国",
+      "宋初"
+    ],
+    "cover_start": 907,
+    "cover_end": 979,
+    "genre": "历史演义",
+    "structure": "60回",
+    "reliability": "F",
+    "summary": "以赵匡胤早年经历与陈桥兵变为核心的通俗演义，反映民间对宋初统一的想象。",
+    "game_use": "五代末宋初、赵匡胤、陈桥兵变、江湖与宫廷。",
+    "caveats": "民间演义，史实错误多；仅作叙事参考。",
+    "copyright": "public domain",
+    "links": {
+      "ctext": "https://ctext.org/searchbooks.pl?if=gb&searchu=飛龍全傳"
+    },
+    "fulltext": {
+      "status": "external",
+      "path": null
+    },
+    "tags": [
+      "小说",
+      "五代",
+      "宋初",
+      "赵匡胤"
+    ]
+  }
+]

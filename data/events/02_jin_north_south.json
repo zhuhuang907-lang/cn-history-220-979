@@ -1,0 +1,1540 @@
+[
+  {
+    "id": "yongjia",
+    "name": "永嘉之乱",
+    "name_en": "Yongjia Disaster",
+    "aliases": [
+      "永嘉之祸",
+      "洛阳陷落"
+    ],
+    "year": 311,
+    "end_year": 316,
+    "period": "西晋",
+    "type": "war",
+    "location_id": "luoyang",
+    "factions": [
+      "western-jin",
+      "han-zhao"
+    ],
+    "characters": [
+      "liu-yuan",
+      "shi-le",
+      "sima-rui",
+      "wang-dao"
+    ],
+    "summary": "匈奴汉赵军攻陷洛阳、长安，俘杀晋怀帝、晋愍帝，西晋灭亡，北方士族与百姓大规模南渡。",
+    "causes": "八王之乱耗尽西晋国力，内迁匈奴、羯、鲜卑等族起兵，中央禁军崩溃。",
+    "course": "刘渊建汉后派刘曜、石勒等攻掠并州、河南；311 年刘曜、王弥攻破洛阳，316 年长安陷落。",
+    "outcome": "西晋灭亡，司马睿在江东建立东晋，北方进入十六国时期。",
+    "significance": "永嘉之乱是中国中古最大规模的人口与文化南迁之一，奠定东晋南朝的门阀与侨郡格局。",
+    "game_hooks": [
+      "首都陷落",
+      "衣冠南渡",
+      "侨郡侨县",
+      "胡族起兵"
+    ],
+    "sources": [
+      "JINSHU",
+      "WEISHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "eastern-jin-foundation",
+    "name": "东晋建立",
+    "name_en": "Foundation of Eastern Jin",
+    "aliases": [
+      "司马睿称晋王",
+      "江左建国"
+    ],
+    "year": 317,
+    "end_year": 318,
+    "period": "东晋",
+    "type": "succession",
+    "location_id": "jiankang",
+    "factions": [
+      "eastern-jin",
+      "western-jin"
+    ],
+    "characters": [
+      "sima-rui",
+      "wang-dao"
+    ],
+    "summary": "司马睿在琅琊王氏支持下于建康称晋王，次年称帝，重建晋室，形成“王与马共天下”的门阀政治。",
+    "causes": "永嘉之乱后北方士族南渡，江东需要晋室正统与北方侨姓合作。",
+    "course": "王导协调琅琊王氏、侨姓士族与吴姓士族，拥立司马睿；司马睿称帝后以王导为丞相、王敦掌军事。",
+    "outcome": "东晋建立，皇权与门阀共治成为基本政治结构。",
+    "significance": "东晋模式决定南朝政治的基本矛盾：皇权、侨姓门阀、吴姓士族与军事强人。",
+    "game_hooks": [
+      "王与马共天下",
+      "侨姓与吴姓",
+      "正统重建",
+      "门阀共治"
+    ],
+    "sources": [
+      "JINSHU",
+      "SHISHUOXINYU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wang-dun",
+    "name": "王敦之乱",
+    "name_en": "Wang Dun's Rebellion",
+    "aliases": [
+      "王敦起兵",
+      "武昌东下"
+    ],
+    "year": 322,
+    "end_year": 324,
+    "period": "东晋",
+    "type": "rebellion",
+    "location_id": "jiankang",
+    "factions": [
+      "eastern-jin"
+    ],
+    "characters": [
+      "sima-rui",
+      "wang-dao"
+    ],
+    "summary": "荆州刺史王敦以清君侧为名东下建康，击败中央军，控制朝政，开启东晋门阀军事强人干政的先例。",
+    "causes": "司马睿试图削弱琅琊王氏兵权，任用刘隗、刁协，引发王敦不满。",
+    "course": "王敦自武昌起兵，攻入建康，杀刁协、刘隗，司马睿忧愤而死；王敦后再度起兵，病死于军中。",
+    "outcome": "琅琊王氏势力受挫，但荆州方镇干政的模式延续。",
+    "significance": "王敦之乱显示东晋皇权对荆扬军事强人的脆弱控制。",
+    "game_hooks": [
+      "荆扬之争",
+      "清君侧",
+      "门阀兵权",
+      "建康政变"
+    ],
+    "sources": [
+      "JINSHU",
+      "SHISHUOXINYU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "sun-en",
+    "name": "孙恩之乱",
+    "name_en": "Sun En's Rebellion",
+    "aliases": [
+      "孙恩卢循之乱",
+      "五斗米道起兵"
+    ],
+    "year": 399,
+    "end_year": 402,
+    "period": "东晋",
+    "type": "rebellion",
+    "location_id": "kuaiji",
+    "factions": [
+      "eastern-jin"
+    ],
+    "characters": [
+      "sun-en",
+      "liu-yu"
+    ],
+    "summary": "孙恩以五斗米道组织沿海民众起兵，屡破三吴郡县，刘裕在北府兵中崭露头角，最终平定。",
+    "causes": "东晋门阀兼并、赋役沉重，五斗米道在滨海地区拥有广泛信众。",
+    "course": "孙恩自海岛登陆，攻会稽、吴郡，多次被刘牢之、刘裕击败，最终投海；卢循继续转战至交广。",
+    "outcome": "三吴残破，门阀军事力量受损，刘裕借平乱崛起。",
+    "significance": "孙恩之乱加速东晋门阀政治衰落，为刘裕代晋提供军事资本。",
+    "game_hooks": [
+      "道教叛乱",
+      "沿海登陆",
+      "三吴残破",
+      "刘裕崛起"
+    ],
+    "sources": [
+      "JINSHU",
+      "SONGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "huan-xuan",
+    "name": "桓玄篡晋",
+    "name_en": "Huan Xuan Usurps Jin",
+    "aliases": [
+      "桓楚",
+      "桓玄建楚"
+    ],
+    "year": 403,
+    "end_year": 404,
+    "period": "东晋",
+    "type": "coup",
+    "location_id": "jiankang",
+    "factions": [
+      "eastern-jin"
+    ],
+    "characters": [
+      "huan-xuan",
+      "liu-yu"
+    ],
+    "summary": "桓玄自荆州东下攻入建康，篡晋称帝，建立桓楚，不久被刘裕、何无忌等北府兵将领起兵推翻。",
+    "causes": "桓氏长期控制荆州，东晋中央虚弱，门阀政治失去平衡。",
+    "course": "桓玄攻建康、废晋安帝，称帝；刘裕在京口起兵，收复建康，桓玄西逃被杀。",
+    "outcome": "桓楚覆灭，刘裕掌握东晋军政，最终代晋建宋。",
+    "significance": "桓玄之乱是东晋门阀政治的终点，也是刘宋寒人皇权的起点。",
+    "game_hooks": [
+      "荆州东下",
+      "篡位",
+      "北府兵反击",
+      "寒人崛起"
+    ],
+    "sources": [
+      "JINSHU",
+      "SONGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "huan-wen",
+    "name": "桓温北伐",
+    "name_en": "Huan Wen's Northern Expeditions",
+    "aliases": [
+      "桓温三次北伐",
+      "枋头之败"
+    ],
+    "year": 354,
+    "end_year": 369,
+    "period": "东晋",
+    "type": "war",
+    "location_id": "luoyang",
+    "factions": [
+      "eastern-jin",
+      "former-yan",
+      "former-qin"
+    ],
+    "characters": [
+      "huan-wen",
+      "xie-an"
+    ],
+    "summary": "荆州刺史桓温三次北伐，一度收复洛阳，但在枋头败于前燕，威望受损，转而谋求篡位。",
+    "causes": "东晋需要北伐合法性，桓温也需要军功积累政治资本。",
+    "course": "桓温先后攻成汉、北伐关中与河南，356 年收复洛阳；369 年枋头之战被慕容垂击败。",
+    "outcome": "北伐成果有限，桓温未能篡位，但其势力为桓玄篡晋埋下伏笔。",
+    "significance": "桓温北伐体现东晋“北伐—声望—篡位”的权臣逻辑。",
+    "game_hooks": [
+      "北伐声望",
+      "枋头之败",
+      "荆州方镇",
+      "权臣篡位"
+    ],
+    "sources": [
+      "JINSHU",
+      "SHISHUOXINYU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "former-qin-unification",
+    "name": "前秦统一北方",
+    "name_en": "Former Qin Unifies the North",
+    "aliases": [
+      "苻坚统一",
+      "王猛辅政"
+    ],
+    "year": 370,
+    "end_year": 376,
+    "period": "十六国",
+    "type": "war",
+    "location_id": "ye",
+    "factions": [
+      "former-qin",
+      "former-yan",
+      "former-liang"
+    ],
+    "characters": [
+      "fu-jian",
+      "wang-meng",
+      "murong-chui"
+    ],
+    "summary": "苻坚在王猛辅佐下整顿内政，先后灭前燕、前凉、代国，统一北方，成为十六国最强政权。",
+    "causes": "前秦据关中，王猛改革提升国力；前燕、前凉等国内部腐败。",
+    "course": "370 年灭前燕，376 年灭前凉与代，苻坚推行民族宽容与汉化政策。",
+    "outcome": "前秦统一北方，但多民族整合不足，淝水之战后迅速崩解。",
+    "significance": "前秦统一展示十六国时期短暂的北方整合，也暴露族群政治的风险。",
+    "game_hooks": [
+      "王猛改革",
+      "灭前燕",
+      "民族宽容",
+      "统一过快"
+    ],
+    "sources": [
+      "JINSHU",
+      "WEISHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "feishui",
+    "name": "淝水之战",
+    "name_en": "Battle of Feishui",
+    "aliases": [
+      "淝水",
+      "八公山之战"
+    ],
+    "year": 383,
+    "end_year": null,
+    "period": "东晋",
+    "type": "battle",
+    "location_id": "feishui",
+    "factions": [
+      "eastern-jin",
+      "former-qin"
+    ],
+    "characters": [
+      "xie-an",
+      "xie-xuan",
+      "fu-jian",
+      "murong-chui"
+    ],
+    "summary": "东晋北府兵在淝水以少胜多，击破前秦大军，前秦帝国随之崩解，南北分裂延续。",
+    "causes": "苻坚统一北方后南征，试图一举灭晋；东晋以谢安、谢玄组织北府兵抵抗。",
+    "course": "前秦号称百万大军南下，晋军八万迎击；苻坚同意后撤让晋军渡河，秦军阵脚大乱，朱序等内应散布败讯。",
+    "outcome": "前秦惨败，苻坚北逃，慕容垂、姚苌等相继自立，北方重陷分裂。",
+    "significance": "淝水之战保住东晋，奠定南北朝对峙格局，也是心理战与情报战的经典。",
+    "game_hooks": [
+      "以少胜多",
+      "半渡而击",
+      "内应",
+      "帝国崩解"
+    ],
+    "sources": [
+      "JINSHU",
+      "SHISHUOXINYU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "later-yan-foundation",
+    "name": "慕容垂复国",
+    "name_en": "Murong Chui Restores Yan",
+    "aliases": [
+      "后燕建立",
+      "慕容垂称燕王"
+    ],
+    "year": 384,
+    "end_year": 386,
+    "period": "十六国",
+    "type": "succession",
+    "location_id": "ye",
+    "factions": [
+      "later-yan",
+      "former-qin"
+    ],
+    "characters": [
+      "murong-chui",
+      "fu-jian"
+    ],
+    "summary": "慕容垂在淝水之战后脱离前秦，于河北重建燕国，史称后燕，成为北方东部最强势力。",
+    "causes": "前秦淝水战败，被征服的慕容鲜卑寻求复国。",
+    "course": "慕容垂借护送苻坚北返之机脱身，回邺城起兵，称燕王，逐步控制河北。",
+    "outcome": "后燕建立，定都中山，成为北魏在华北的主要对手。",
+    "significance": "后燕复国是淝水之后北方重组的关键一环，也展示慕容部的政治韧性。",
+    "game_hooks": [
+      "复国",
+      "慕容骑兵",
+      "河北争夺",
+      "前秦崩解"
+    ],
+    "sources": [
+      "JINSHU",
+      "WEISHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "canhebei",
+    "name": "参合陂之战",
+    "name_en": "Battle of Canhebei",
+    "aliases": [
+      "参合陂",
+      "北魏破后燕"
+    ],
+    "year": 395,
+    "end_year": null,
+    "period": "十六国",
+    "type": "battle",
+    "location_id": "canhebei",
+    "factions": [
+      "northern-wei",
+      "later-yan"
+    ],
+    "characters": [
+      "tuoba-gui",
+      "murong-chui"
+    ],
+    "summary": "北魏拓跋珪在参合陂大破后燕军，坑杀降卒，后燕元气大伤，河北霸权转入北魏。",
+    "causes": "后燕与北魏争夺代北与河北，慕容宝轻敌冒进。",
+    "course": "慕容宝率军攻魏，拓跋珪避实击虚，在参合陂突袭燕军，燕军溃败，数万降卒被坑杀。",
+    "outcome": "后燕精锐尽失，慕容垂亲征复仇后病逝，北魏逐步入主河北。",
+    "significance": "参合陂是北魏统一北方的关键战役，也是十六国后期最惨烈的歼灭战之一。",
+    "game_hooks": [
+      "突袭",
+      "坑杀降卒",
+      "骑兵追击",
+      "河北易主"
+    ],
+    "sources": [
+      "WEISHU",
+      "JINSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "northern-wei-foundation",
+    "name": "北魏建国",
+    "name_en": "Foundation of Northern Wei",
+    "aliases": [
+      "拓跋珪称魏",
+      "代国复立"
+    ],
+    "year": 386,
+    "end_year": null,
+    "period": "北朝",
+    "type": "succession",
+    "location_id": "pingcheng",
+    "factions": [
+      "northern-wei"
+    ],
+    "characters": [
+      "tuoba-gui"
+    ],
+    "summary": "拓跋珪重建代国，改称魏，定都盛乐、后迁平城，逐步统一代北与河北，建立北魏。",
+    "causes": "前秦崩解后，代北鲜卑部落重新整合。",
+    "course": "拓跋珪即代王位，改国号魏，击败周围部落与后燕，推行部落解散与编户。",
+    "outcome": "北魏成为北朝第一个长期稳定的北方王朝。",
+    "significance": "北魏建国开启北朝，其制度创新影响隋唐。",
+    "game_hooks": [
+      "部落建国",
+      "代北骑兵",
+      "编户齐民",
+      "平城时代"
+    ],
+    "sources": [
+      "WEISHU",
+      "BEISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "six-garrisons",
+    "name": "六镇起义",
+    "name_en": "Six Garrisons Rebellion",
+    "aliases": [
+      "六镇之乱",
+      "北方边镇起义"
+    ],
+    "year": 523,
+    "end_year": 525,
+    "period": "北朝",
+    "type": "rebellion",
+    "location_id": "pingcheng",
+    "factions": [
+      "northern-wei"
+    ],
+    "characters": [],
+    "summary": "北魏北方六镇军民因地位下降与待遇恶化起兵，席卷代北、河北，最终引发北魏分裂。",
+    "causes": "孝文帝迁都洛阳后，六镇从军事核心沦为边陲，镇民仕途受阻，加上饥荒与苛政。",
+    "course": "沃野镇破六韩拔陵首义，各镇响应；北魏借柔然兵力镇压，余部又起，尔朱荣等军阀崛起。",
+    "outcome": "六镇势力进入中原，高欢、宇文泰分别依托六镇余部建立东魏、西魏。",
+    "significance": "六镇起义是北魏分裂与北齐、北周形成的直接起点。",
+    "game_hooks": [
+      "边镇不满",
+      "军阀崛起",
+      "族群冲突",
+      "北魏分裂"
+    ],
+    "sources": [
+      "WEISHU",
+      "BEISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "east-west-division",
+    "name": "东西魏分裂",
+    "name_en": "Division of Eastern and Western Wei",
+    "aliases": [
+      "北魏分裂",
+      "高欢宇文泰对峙"
+    ],
+    "year": 534,
+    "end_year": 535,
+    "period": "北朝",
+    "type": "administrative",
+    "location_id": "ye",
+    "factions": [
+      "northern-wei",
+      "eastern-wei",
+      "western-wei"
+    ],
+    "characters": [
+      "gao-huan",
+      "yuwen-tai"
+    ],
+    "summary": "北魏孝武帝西奔关中投宇文泰，高欢另立孝静帝迁都邺，北魏正式分裂为东魏、西魏。",
+    "causes": "六镇之乱后尔朱荣、高欢、宇文泰等军阀控制朝政，皇权沦为傀儡。",
+    "course": "高欢立元善见为帝，迁都邺；宇文泰在长安立元宝炬，东西对峙。",
+    "outcome": "东魏、西魏成为高氏、宇文氏的过渡政权，后分别禅让为北齐、北周。",
+    "significance": "东西分裂塑造了北朝后期的双中心格局，也催生府兵制与关陇集团。",
+    "game_hooks": [
+      "霸府政治",
+      "迁都邺城",
+      "关陇集团",
+      "双雄对峙"
+    ],
+    "sources": [
+      "WEISHU",
+      "BEISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "shayuan",
+    "name": "沙苑之战",
+    "name_en": "Battle of Shayuan",
+    "aliases": [
+      "沙苑",
+      "宇文泰破高欢"
+    ],
+    "year": 537,
+    "end_year": null,
+    "period": "北朝",
+    "type": "battle",
+    "location_id": "shayuan",
+    "factions": [
+      "western-wei",
+      "eastern-wei"
+    ],
+    "characters": [
+      "yuwen-tai",
+      "gao-huan"
+    ],
+    "summary": "宇文泰在沙苑以少胜多，大破高欢东魏军，西魏稳住关中，关陇集团得以成形。",
+    "causes": "高欢趁西魏新立、关中饥荒，率大军西征。",
+    "course": "宇文泰采纳李弼建议，在沙苑芦苇地伏击东魏军，东魏军大溃。",
+    "outcome": "西魏俘斩数万，缴获大量装备，关中局势稳定。",
+    "significance": "沙苑之战是西魏由弱转强的转折，为府兵制与北周崛起创造条件。",
+    "game_hooks": [
+      "芦苇伏击",
+      "以少胜多",
+      "关中保卫",
+      "关陇集团"
+    ],
+    "sources": [
+      "ZHOUSHU",
+      "BEISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "fubing",
+    "name": "府兵制创立",
+    "name_en": "Creation of the Fubing System",
+    "aliases": [
+      "府兵",
+      "六军",
+      "军府"
+    ],
+    "year": 550,
+    "end_year": null,
+    "period": "北朝",
+    "type": "reform",
+    "location_id": "changan",
+    "factions": [
+      "western-wei",
+      "northern-zhou"
+    ],
+    "characters": [
+      "yuwen-tai"
+    ],
+    "summary": "宇文泰整合关陇豪强与鲜卑部落兵，建立军府与府兵体系，形成兵农合一、中央可控的军事制度。",
+    "causes": "西魏国力弱于东魏，需要以制度整合有限兵源与豪强武装。",
+    "course": "设六军、二十四军，以八柱国、十二大将军统领；府兵另立军籍，轮番宿卫与出征。",
+    "outcome": "府兵制成为北周、隋、唐前期核心军制，关陇集团由此形成。",
+    "significance": "府兵制是北朝制度创新对隋唐最重要的遗产之一。",
+    "game_hooks": [
+      "兵农合一",
+      "军府",
+      "关陇集团",
+      "中央集权"
+    ],
+    "sources": [
+      "ZHOUSHU",
+      "BEISHI",
+      "SUISHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "northern-qi-foundation",
+    "name": "北齐建立",
+    "name_en": "Foundation of Northern Qi",
+    "aliases": [
+      "高洋代东魏",
+      "北齐建国"
+    ],
+    "year": 550,
+    "end_year": null,
+    "period": "北朝",
+    "type": "succession",
+    "location_id": "ye",
+    "factions": [
+      "northern-qi",
+      "eastern-wei"
+    ],
+    "characters": [
+      "gao-yang"
+    ],
+    "summary": "高洋接受东魏禅让，建立北齐，定都邺，前期国力强盛，成为北周在东方的强敌。",
+    "causes": "高氏长期控制东魏朝政，代魏条件成熟。",
+    "course": "高洋称帝，追尊高欢、高澄，整顿军备，击柔然、突厥，修建长城。",
+    "outcome": "北齐建立，与北周形成东西对峙。",
+    "significance": "北齐继承东魏的人口与经济优势，却因皇族内残与族群矛盾由盛转衰。",
+    "game_hooks": [
+      "禅让",
+      "晋阳霸府",
+      "邺城宫廷",
+      "东西对峙"
+    ],
+    "sources": [
+      "BEIQISHU",
+      "BEISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "northern-zhou-foundation",
+    "name": "北周建立",
+    "name_en": "Foundation of Northern Zhou",
+    "aliases": [
+      "宇文觉称帝",
+      "周代西魏"
+    ],
+    "year": 557,
+    "end_year": null,
+    "period": "北朝",
+    "type": "succession",
+    "location_id": "changan",
+    "factions": [
+      "northern-zhou",
+      "western-wei"
+    ],
+    "characters": [
+      "yuwen-hu"
+    ],
+    "summary": "宇文护迫使西魏恭帝禅让，立宇文觉为帝，建立北周，朝政由宇文护掌控。",
+    "causes": "宇文泰死后，诸子年幼，宇文护需要以禅让完成政权更替。",
+    "course": "宇文觉称天王，建立北周；宇文护专权，先后废杀宇文觉、宇文毓。",
+    "outcome": "北周建立，但皇权长期受宇文护压制，直到周武帝亲政。",
+    "significance": "北周延续西魏府兵与六官制度，最终由宇文邕完成北方统一。",
+    "game_hooks": [
+      "权臣摄政",
+      "禅让",
+      "六官",
+      "周武帝亲政"
+    ],
+    "sources": [
+      "ZHOUSHU",
+      "BEISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "northern-qi-conquest",
+    "name": "北周灭北齐",
+    "name_en": "Northern Zhou Conquers Northern Qi",
+    "aliases": [
+      "周灭齐",
+      "平齐之役"
+    ],
+    "year": 576,
+    "end_year": 577,
+    "period": "北朝",
+    "type": "war",
+    "location_id": "ye",
+    "factions": [
+      "northern-zhou",
+      "northern-qi"
+    ],
+    "characters": [
+      "yuwen-yong"
+    ],
+    "summary": "周武帝宇文邕亲征北齐，攻破晋阳、邺城，北齐后主高纬被俘，北方重新统一。",
+    "causes": "北齐后主荒政、皇族内残，国力衰退；北周经武帝改革国力上升。",
+    "course": "周军分路东进，攻晋阳、邺城，齐军溃败，高纬南逃被俘。",
+    "outcome": "北周统一北方，为隋统一全国奠定基础。",
+    "significance": "灭齐是北周鼎盛顶点，也暴露北周继承与整合问题。",
+    "game_hooks": [
+      "灭国战",
+      "晋阳攻防",
+      "邺城陷落",
+      "北方统一"
+    ],
+    "sources": [
+      "ZHOUSHU",
+      "BEIQISHU",
+      "BEISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "persecution-buddhism",
+    "name": "周武帝灭佛",
+    "name_en": "Emperor Wu of Northern Zhou Persecutes Buddhism",
+    "aliases": [
+      "建德毁佛",
+      "三武一宗灭佛"
+    ],
+    "year": 574,
+    "end_year": 577,
+    "period": "北朝",
+    "type": "religious",
+    "location_id": "changan",
+    "factions": [
+      "northern-zhou"
+    ],
+    "characters": [
+      "yuwen-yong"
+    ],
+    "summary": "周武帝下令毁佛，强迫僧尼还俗，没收寺院财产，以扩充兵源与财政。",
+    "causes": "寺院经济膨胀、僧尼免役，国家需要人力与土地。",
+    "course": "武帝多次召集儒释道辩论，最终下诏毁佛，寺院财产入官，僧尼还俗。",
+    "outcome": "北周获得大量劳动力与财富，但佛教文化遭受重创。",
+    "significance": "灭佛是北周富国强兵的重要财政措施，也是中国佛教史上的重大事件。",
+    "game_hooks": [
+      "宗教与财政",
+      "僧尼还俗",
+      "寺院经济",
+      "灭佛争议"
+    ],
+    "sources": [
+      "ZHOUSHU",
+      "BEISHI",
+      "SUISHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "sui-foundation",
+    "name": "杨坚代周",
+    "name_en": "Yang Jian Usurps Northern Zhou",
+    "aliases": [
+      "隋朝建立",
+      "周隋禅让"
+    ],
+    "year": 581,
+    "end_year": null,
+    "period": "隋",
+    "type": "succession",
+    "location_id": "daxing",
+    "factions": [
+      "sui",
+      "northern-zhou"
+    ],
+    "characters": [
+      "yang-jian"
+    ],
+    "summary": "外戚杨坚借周宣帝死后幼主即位之机辅政，平定尉迟迥等叛乱，接受禅让建立隋朝。",
+    "causes": "北周宣帝早逝，静帝年幼，杨坚以皇后之父身份掌握朝政。",
+    "course": "杨坚平定三方之乱，受禅称帝，改国号隋，定都大兴。",
+    "outcome": "隋朝建立，随后统一南北。",
+    "significance": "杨坚代周是关陇集团内部权力转移，隋制直接继承北周。",
+    "game_hooks": [
+      "外戚辅政",
+      "三方之乱",
+      "禅让",
+      "关陇集团"
+    ],
+    "sources": [
+      "SUISHU",
+      "BEISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "three-departments",
+    "name": "三省六部制",
+    "name_en": "Three Departments and Six Ministries",
+    "aliases": [
+      "三省六部",
+      "隋唐官制"
+    ],
+    "year": 581,
+    "end_year": 583,
+    "period": "隋",
+    "type": "reform",
+    "location_id": "daxing",
+    "factions": [
+      "sui"
+    ],
+    "characters": [
+      "yang-jian"
+    ],
+    "summary": "隋文帝整合中书、门下、尚书三省与六部，建立中央官僚体系，成为唐制基础。",
+    "causes": "北周六官制复古繁琐，隋需要更高效的中央行政。",
+    "course": "设内史省、门下省、尚书省，尚书省下分吏、户、礼、兵、刑、工六部。",
+    "outcome": "三省六部制确立，强化皇权与行政分工。",
+    "significance": "三省六部制是中国中古官僚制的核心框架，影响东亚各国。",
+    "game_hooks": [
+      "官制改革",
+      "行政效率",
+      "皇权集中",
+      "六部分工"
+    ],
+    "sources": [
+      "SUISHU",
+      "TANGLIUDIAN",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "grand-canal",
+    "name": "大运河开凿",
+    "name_en": "Construction of the Grand Canal",
+    "aliases": [
+      "隋唐大运河",
+      "通济渠",
+      "永济渠"
+    ],
+    "year": 605,
+    "end_year": 610,
+    "period": "隋",
+    "type": "administrative",
+    "location_id": null,
+    "factions": [
+      "sui"
+    ],
+    "characters": [
+      "yang-guang"
+    ],
+    "summary": "隋炀帝征发数百万民夫开凿通济渠、永济渠、江南河，形成贯通南北的运河体系。",
+    "causes": "隋需要把江南粮赋运往关中与洛阳，并支持对高句丽的远征。",
+    "course": "以洛阳为中心，南通余杭、北达涿郡，连接黄河、淮河、长江。",
+    "outcome": "运河贯通南北，成为唐宋漕运命脉，但工程征发激化民怨。",
+    "significance": "大运河重塑中国经济地理，是隋唐帝国维系南北统一的物质基础。",
+    "game_hooks": [
+      "漕运",
+      "民夫征发",
+      "南北经济",
+      "工程与民怨"
+    ],
+    "sources": [
+      "SUISHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "gaogouli-campaign",
+    "name": "隋三征高句丽",
+    "name_en": "Sui Campaigns Against Goguryeo",
+    "aliases": [
+      "三征高句丽",
+      "辽东之役"
+    ],
+    "year": 612,
+    "end_year": 614,
+    "period": "隋",
+    "type": "war",
+    "location_id": "liaodong",
+    "factions": [
+      "sui",
+      "gaogouli"
+    ],
+    "characters": [
+      "yang-guang"
+    ],
+    "summary": "隋炀帝三次大规模征讨高句丽，均未成功，巨大伤亡与征发引发全国性民变。",
+    "causes": "高句丽拒朝贡并修筑辽东防线，隋炀帝试图建立东北霸权。",
+    "course": "612 年隋军号称百万，围攻辽东城不克，萨水之战惨败；613、614 年再征，因内乱与高句丽请降而罢。",
+    "outcome": "隋军损失惨重，民变四起，隋朝走向崩溃。",
+    "significance": "三征高句丽是隋亡的直接导火索，也为唐太宗、唐高宗征高句丽提供教训。",
+    "game_hooks": [
+      "远征后勤",
+      "辽东攻防",
+      "民变",
+      "帝国透支"
+    ],
+    "sources": [
+      "SUISHU",
+      "JIUTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "jiangdu-coup",
+    "name": "江都兵变",
+    "name_en": "Jiangdu Mutiny",
+    "aliases": [
+      "江都之变",
+      "隋炀帝被弑"
+    ],
+    "year": 618,
+    "end_year": null,
+    "period": "隋",
+    "type": "coup",
+    "location_id": "jiangdu",
+    "factions": [
+      "sui"
+    ],
+    "characters": [
+      "yang-guang"
+    ],
+    "summary": "隋炀帝滞留江都，禁军思归关中，宇文化及等发动兵变，缢杀炀帝，隋朝实质灭亡。",
+    "causes": "隋末民变与群雄割据，炀帝不愿北返，禁军士气崩溃。",
+    "course": "宇文化及、司马德戡等率骁果军起事，攻入宫城，缢杀杨广，立秦王杨浩。",
+    "outcome": "隋朝灭亡，宇文化及率军北上，被李密、窦建德等击败。",
+    "significance": "江都兵变标志隋朝终结，天下进入群雄逐鹿。",
+    "game_hooks": [
+      "禁军思归",
+      "弑君",
+      "江都孤城",
+      "隋末群雄"
+    ],
+    "sources": [
+      "SUISHU",
+      "JIUTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "chen-conquest",
+    "name": "隋灭陈",
+    "name_en": "Sui Conquest of Chen",
+    "aliases": [
+      "灭陈",
+      "韩擒虎贺若弼渡江"
+    ],
+    "year": 588,
+    "end_year": 589,
+    "period": "隋",
+    "type": "war",
+    "location_id": "jiankang",
+    "factions": [
+      "sui",
+      "chen"
+    ],
+    "characters": [
+      "yang-jian",
+      "yang-guang",
+      "chen-shu-bao"
+    ],
+    "summary": "隋文帝以杨广为主帅，韩擒虎、贺若弼等渡江攻陈，攻破建康，俘陈后主，南北统一。",
+    "causes": "隋国力强盛，陈后主荒政，长江防务松弛。",
+    "course": "隋军多路并进，贺若弼自广陵渡江，韩擒虎自采石渡江，直取建康；陈军溃散。",
+    "outcome": "陈朝灭亡，结束自西晋末年以来近三百年的分裂。",
+    "significance": "隋灭陈完成中国再次统一，为唐帝国奠定疆域与制度基础。",
+    "game_hooks": [
+      "渡江战役",
+      "建康陷落",
+      "南北统一",
+      "亡国之君"
+    ],
+    "sources": [
+      "SUISHU",
+      "CHENSHU",
+      "NANSHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "que-yue",
+    "name": "却月阵",
+    "name_en": "Battle of the Crescent Formation",
+    "aliases": [
+      "却月阵破魏军",
+      "刘裕北伐"
+    ],
+    "year": 417,
+    "end_year": null,
+    "period": "东晋",
+    "type": "battle",
+    "location_id": "huanghe",
+    "factions": [
+      "liu-song",
+      "northern-wei"
+    ],
+    "characters": [
+      "liu-yu"
+    ],
+    "summary": "刘裕北伐后秦时，以却月阵在黄河岸边击败北魏骑兵，展示水军与步兵协同的防御战术。",
+    "causes": "刘裕借道北魏境北伐，北魏派骑兵骚扰晋军。",
+    "course": "刘裕以战车百乘布成却月阵，步兵持长槊与弓弩，背水而战，魏军骑兵冲击失败。",
+    "outcome": "魏军退走，晋军顺利西进，最终灭后秦。",
+    "significance": "却月阵是冷兵器时代车步协同抗骑兵的经典战例。",
+    "game_hooks": [
+      "车阵",
+      "背水一战",
+      "步骑对抗",
+      "北伐"
+    ],
+    "sources": [
+      "SONGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "liu-song-foundation",
+    "name": "刘裕代晋",
+    "name_en": "Liu Yu Usurps Jin",
+    "aliases": [
+      "刘宋建立",
+      "晋宋禅让"
+    ],
+    "year": 420,
+    "end_year": null,
+    "period": "南朝",
+    "type": "succession",
+    "location_id": "jiankang",
+    "factions": [
+      "liu-song",
+      "eastern-jin"
+    ],
+    "characters": [
+      "liu-yu"
+    ],
+    "summary": "刘裕以北府兵起家，平定桓玄、孙恩，北伐灭南燕、后秦，最终受禅建立刘宋。",
+    "causes": "东晋门阀政治衰败，刘裕掌握军政大权。",
+    "course": "刘裕封宋王，逼晋恭帝禅让，建立宋朝，史称刘宋。",
+    "outcome": "南朝开始，刘宋成为南朝最强盛的王朝之一。",
+    "significance": "刘宋代晋标志寒人军功集团取代门阀皇权，南朝政治进入新阶段。",
+    "game_hooks": [
+      "寒人崛起",
+      "北伐军功",
+      "禅让",
+      "北府兵"
+    ],
+    "sources": [
+      "SONGSHU",
+      "NANSHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "yuanjia-expedition",
+    "name": "元嘉北伐",
+    "name_en": "Yuanjia Northern Expeditions",
+    "aliases": [
+      "元嘉北伐",
+      "宋魏战争"
+    ],
+    "year": 430,
+    "end_year": 450,
+    "period": "南朝",
+    "type": "war",
+    "location_id": "huanghe",
+    "factions": [
+      "liu-song",
+      "northern-wei"
+    ],
+    "characters": [
+      "tuoba-tao"
+    ],
+    "summary": "宋文帝刘义隆两次北伐北魏，均遭失败，北魏太武帝反攻至长江北岸，刘宋国力受损。",
+    "causes": "宋文帝欲收复河南，建立北伐声望；北魏统一北方后南下。",
+    "course": "宋军攻滑台、洛阳，因指挥不一与补给困难失败；北魏反攻，围攻盱眙，饮马长江。",
+    "outcome": "刘宋损失惨重，淮北防线动摇，元嘉之治由盛转衰。",
+    "significance": "元嘉北伐说明南朝北伐在骑兵与后勤上的结构性劣势。",
+    "game_hooks": [
+      "北伐后勤",
+      "骑兵冲击",
+      "长江防线",
+      "盛世转衰"
+    ],
+    "sources": [
+      "SONGSHU",
+      "WEISHU",
+      "NANSHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "southern-qi-foundation",
+    "name": "南齐代宋",
+    "name_en": "Southern Qi Usurps Liu Song",
+    "aliases": [
+      "萧道成建齐",
+      "宋齐禅让"
+    ],
+    "year": 479,
+    "end_year": null,
+    "period": "南朝",
+    "type": "succession",
+    "location_id": "jiankang",
+    "factions": [
+      "southern-qi",
+      "liu-song"
+    ],
+    "characters": [
+      "xiao-daocheng"
+    ],
+    "summary": "萧道成乘刘宋宗室内乱，掌握禁军，受禅建立南齐，推行节俭政治。",
+    "causes": "刘宋后期宗室相残、寒人典签专权，中央权威崩坏。",
+    "course": "萧道成平定刘休范、沈攸之等叛乱，封齐王，受禅称帝。",
+    "outcome": "南齐建立，前期永明之治，后期宗室屠杀与东昏侯暴政。",
+    "significance": "南齐是南朝最短命但文化繁荣的王朝之一。",
+    "game_hooks": [
+      "禁军拥立",
+      "禅让",
+      "永明之治",
+      "宗室内残"
+    ],
+    "sources": [
+      "NANQISHU",
+      "NANSHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "liang-foundation",
+    "name": "梁代齐",
+    "name_en": "Liang Usurps Southern Qi",
+    "aliases": [
+      "萧衍建梁",
+      "齐梁禅让"
+    ],
+    "year": 502,
+    "end_year": null,
+    "period": "南朝",
+    "type": "succession",
+    "location_id": "jiankang",
+    "factions": [
+      "liang",
+      "southern-qi"
+    ],
+    "characters": [
+      "xiao-yan"
+    ],
+    "summary": "萧衍自雍州起兵，攻入建康，取代南齐建立梁朝，前期文治繁荣、佛教兴盛。",
+    "causes": "东昏侯暴政引发宗室与方镇反抗，萧衍借机起兵。",
+    "course": "萧衍拥立萧宝融，攻破建康，后受禅称帝，建立梁朝。",
+    "outcome": "梁朝建立，成为南朝文化高峰，但晚年爆发侯景之乱。",
+    "significance": "梁朝是南朝经济文化鼎盛期，也是江南由盛转衰的转折。",
+    "game_hooks": [
+      "雍州起兵",
+      "禅让",
+      "佛教国家",
+      "文化盛世"
+    ],
+    "sources": [
+      "LIANGSHU",
+      "NANSHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "hou-jing",
+    "name": "侯景之乱",
+    "name_en": "Hou Jing Rebellion",
+    "aliases": [
+      "侯景之乱",
+      "建康陷落",
+      "台城之围"
+    ],
+    "year": 548,
+    "end_year": 552,
+    "period": "南朝",
+    "type": "rebellion",
+    "location_id": "jiankang",
+    "factions": [
+      "liang",
+      "eastern-wei"
+    ],
+    "characters": [
+      "hou-jing",
+      "xiao-yan",
+      "chen-bawang"
+    ],
+    "summary": "东魏降将侯景在梁发动叛乱，围攻台城，饿死梁武帝，江南经济文化遭受空前破坏。",
+    "causes": "梁武帝晚年优容宗室与降将，侯景因求娶王谢被拒、割地要求未遂而反。",
+    "course": "侯景渡江攻建康，围台城百余日，梁武帝饿死；侯景立傀儡，纵兵劫掠三吴。",
+    "outcome": "陈霸先、王僧辩等平定侯景，但梁朝已名存实亡，江南残破。",
+    "significance": "侯景之乱是南朝由盛转衰的决定性事件，彻底改变江南士族格局。",
+    "game_hooks": [
+      "降将反叛",
+      "台城围城",
+      "江南残破",
+      "勤王军"
+    ],
+    "sources": [
+      "LIANGSHU",
+      "NANSHI",
+      "CHENSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "chen-foundation",
+    "name": "陈霸先建陈",
+    "name_en": "Chen Baxian Founds Chen",
+    "aliases": [
+      "陈朝建立",
+      "梁陈禅让"
+    ],
+    "year": 557,
+    "end_year": null,
+    "period": "南朝",
+    "type": "succession",
+    "location_id": "jiankang",
+    "factions": [
+      "chen",
+      "liang"
+    ],
+    "characters": [
+      "chen-bawang"
+    ],
+    "summary": "陈霸先平定侯景之乱，击败王僧辩，受禅建立陈朝，是南朝最后一个王朝。",
+    "causes": "梁末宗室与方镇混战，陈霸先掌握建康与岭南兵力。",
+    "course": "陈霸先袭杀王僧辩，拥立梁敬帝，后受禅称帝。",
+    "outcome": "陈朝建立，但版图缩小、国力衰弱。",
+    "significance": "陈朝是南朝终点，最终被隋统一。",
+    "game_hooks": [
+      "寒门军功",
+      "岭南起兵",
+      "禅让",
+      "残破江南"
+    ],
+    "sources": [
+      "CHENSHU",
+      "NANSHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "xiaowen-reform",
+    "name": "孝文帝汉化改革",
+    "name_en": "Emperor Xiaowen's Sinicization Reforms",
+    "aliases": [
+      "孝文改革",
+      "太和改制"
+    ],
+    "year": 484,
+    "end_year": 499,
+    "period": "北朝",
+    "type": "reform",
+    "location_id": "luoyang",
+    "factions": [
+      "northern-wei"
+    ],
+    "characters": [
+      "tuoba-hong",
+      "feng-taihou"
+    ],
+    "summary": "北魏推行均田制、三长制、俸禄制，迁都洛阳，改鲜卑姓为汉姓，全面汉化。",
+    "causes": "北魏需要整合胡汉、增加财政、强化中央对基层的控制。",
+    "course": "冯太后时期推行均田、三长、俸禄；孝文帝亲政后迁都洛阳，改姓元，禁胡服胡语，通婚汉族士族。",
+    "outcome": "北魏行政与文化整合加强，但六镇与鲜卑旧贵不满，埋下分裂伏笔。",
+    "significance": "孝文改革是北朝制度与族群融合的顶峰，也造成新的社会裂痕。",
+    "game_hooks": [
+      "均田制",
+      "三长制",
+      "迁都",
+      "汉化冲突"
+    ],
+    "sources": [
+      "WEISHU",
+      "BEISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "luoyang-capital",
+    "name": "北魏迁都洛阳",
+    "name_en": "Northern Wei Moves Capital to Luoyang",
+    "aliases": [
+      "迁都洛阳",
+      "太和迁都"
+    ],
+    "year": 493,
+    "end_year": 494,
+    "period": "北朝",
+    "type": "administrative",
+    "location_id": "luoyang",
+    "factions": [
+      "northern-wei"
+    ],
+    "characters": [
+      "tuoba-hong",
+      "feng-taihou"
+    ],
+    "summary": "孝文帝以南征为名率军南下，迫使群臣同意迁都洛阳，将北魏政治中心移入中原。",
+    "causes": "平城偏北，粮食供应与汉化改革受限；洛阳是中原正统象征。",
+    "course": "孝文帝借南征之名，到洛阳后宣布迁都，随后营建洛阳宫室，推行汉化。",
+    "outcome": "洛阳成为北魏首都，鲜卑贵族与中原士族进一步融合。",
+    "significance": "迁都洛阳是北魏汉化的关键步骤，也加剧六镇边缘化。",
+    "game_hooks": [
+      "迁都博弈",
+      "营建洛阳",
+      "正统象征",
+      "边镇失落"
+    ],
+    "sources": [
+      "WEISHU",
+      "BEISHI",
+      "LUOYANGQIELANJI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "lanting",
+    "name": "兰亭雅集",
+    "name_en": "Orchid Pavilion Gathering",
+    "aliases": [
+      "兰亭集序",
+      "永和九年"
+    ],
+    "year": 353,
+    "end_year": null,
+    "period": "东晋",
+    "type": "cultural",
+    "location_id": "shanyin",
+    "factions": [
+      "eastern-jin"
+    ],
+    "characters": [
+      "wang-xizhi"
+    ],
+    "summary": "王羲之与谢安、孙绰等四十余人在会稽山阴兰亭修禊雅集，王羲之写下《兰亭集序》。",
+    "causes": "东晋士族文人崇尚清谈、山水与书法，上巳修禊提供聚会契机。",
+    "course": "众人曲水流觞、赋诗，王羲之即席作序，感叹生死与人生无常。",
+    "outcome": "《兰亭集序》成为中国书法史上最著名的作品之一。",
+    "significance": "兰亭雅集是魏晋风度与士族文化的象征，也是书法艺术的巅峰。",
+    "game_hooks": [
+      "文人雅集",
+      "书法",
+      "清谈",
+      "文化声望"
+    ],
+    "sources": [
+      "JINSHU",
+      "SHISHUOXINYU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "faxian-pilgrimage",
+    "name": "法显西行求法",
+    "name_en": "Faxian's Pilgrimage to India",
+    "aliases": [
+      "法显求法",
+      "佛国记"
+    ],
+    "year": 399,
+    "end_year": 412,
+    "period": "东晋",
+    "type": "religious",
+    "location_id": null,
+    "factions": [
+      "eastern-jin"
+    ],
+    "characters": [
+      "faxian"
+    ],
+    "summary": "法显以六十余岁高龄从长安出发，经西域、天竺、师子国，由海路归国，撰《佛国记》。",
+    "causes": "东晋佛教兴盛，但戒律经典不全，僧侣希望求取完整律藏。",
+    "course": "法显穿越塔克拉玛干、翻越葱岭，游历天竺诸国，在师子国求法，后乘商船归国。",
+    "outcome": "法显携回大量梵本经典，译经并撰《佛国记》，记录南亚与海上交通。",
+    "significance": "法显西行是中古最重要的求法旅行之一，为佛教史与中外交通史提供第一手资料。",
+    "game_hooks": [
+      "求法旅行",
+      "西域路线",
+      "海上丝路",
+      "佛教经典"
+    ],
+    "sources": [
+      "GAOSENGZHUAN",
+      "CHUSANZANGJIJI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "later-zhao-foundation",
+    "name": "后赵建立",
+    "name_en": "Foundation of Later Zhao",
+    "aliases": [
+      "石勒称赵王",
+      "后赵开国"
+    ],
+    "year": 319,
+    "end_year": null,
+    "period": "十六国",
+    "type": "succession",
+    "location_id": "xiangguo",
+    "factions": [
+      "later-zhao",
+      "han-zhao"
+    ],
+    "characters": [
+      "shi-le"
+    ],
+    "summary": "石勒脱离汉赵，自称赵王，建立后赵，定都襄国，逐步统一北方东部。",
+    "causes": "汉赵内乱，石勒据河北实力最强，不再服从刘曜。",
+    "course": "石勒称赵王，设百官、兴学校，后击败刘曜，统一北方大部。",
+    "outcome": "后赵成为十六国前期最强政权之一。",
+    "significance": "后赵建立标志羯族势力崛起，也展示奴隶出身者的建国路径。",
+    "game_hooks": [
+      "脱离旧主",
+      "羯族政权",
+      "襄国",
+      "北方整合"
+    ],
+    "sources": [
+      "JINSHU",
+      "WEISHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "ran-wei",
+    "name": "冉魏建立",
+    "name_en": "Foundation of Ran Wei",
+    "aliases": [
+      "冉闵称帝",
+      "杀胡令"
+    ],
+    "year": 350,
+    "end_year": 352,
+    "period": "十六国",
+    "type": "coup",
+    "location_id": "ye",
+    "factions": [
+      "ran-wei",
+      "later-zhao"
+    ],
+    "characters": [
+      "ran-min"
+    ],
+    "summary": "冉闵乘后赵内乱夺取邺城，发布杀胡令，称帝建立冉魏，最终被前燕所灭。",
+    "causes": "后赵石虎死后诸子争位，胡汉矛盾激化。",
+    "course": "冉闵杀石遵、石鉴，颁布杀胡令，邺城及各地胡人大量被杀；冉闵称帝，国号魏。",
+    "outcome": "冉魏孤立无援，352 年被前燕慕容儁击败，冉闵被擒杀。",
+    "significance": "冉魏是十六国族群冲突最激烈的缩影，政权短命而影响深远。",
+    "game_hooks": [
+      "杀胡令",
+      "族群清洗",
+      "短命政权",
+      "邺城"
+    ],
+    "sources": [
+      "JINSHU",
+      "WEISHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "shiting",
+    "name": "石亭之战",
+    "name_en": "Battle of Shiting",
+    "aliases": [
+      "石亭",
+      "陆逊破曹休"
+    ],
+    "year": 228,
+    "end_year": null,
+    "period": "三国",
+    "type": "battle",
+    "location_id": "shiting",
+    "factions": [
+      "eastern-wu",
+      "cao-wei"
+    ],
+    "characters": [
+      "lu-xun",
+      "sun-quan"
+    ],
+    "summary": "孙权诈降诱曹休深入，陆逊在石亭大破魏军，曹休惭愤而死。",
+    "causes": "曹魏欲趁吴国内部不稳南征，孙权用诈降诱敌。",
+    "course": "周鲂诈降，曹休率军深入皖地，陆逊率军夹击，魏军大败。",
+    "outcome": "魏军损失惨重，东线稳定，孙权次年称帝。",
+    "significance": "石亭之战为孙权称帝创造条件，也展示诈降与山地伏击。",
+    "game_hooks": [
+      "诈降诱敌",
+      "伏击",
+      "东线稳定",
+      "称帝前夜"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "duangu",
+    "name": "段谷之战",
+    "name_en": "Battle of Duangu",
+    "aliases": [
+      "段谷",
+      "邓艾破姜维"
+    ],
+    "year": 256,
+    "end_year": null,
+    "period": "三国",
+    "type": "battle",
+    "location_id": "duangu",
+    "factions": [
+      "cao-wei",
+      "shu-han"
+    ],
+    "characters": [
+      "deng-ai",
+      "jiang-wei"
+    ],
+    "summary": "姜维北伐，邓艾在段谷设伏大破蜀军，姜维损失惨重，蜀汉国力进一步消耗。",
+    "causes": "姜维趁魏国内乱北伐，试图夺取陇右。",
+    "course": "姜维出兵祁山，邓艾抢占险要，蜀军粮尽退兵，邓艾追击于段谷。",
+    "outcome": "蜀军大败，姜维自贬，蜀汉北伐势头受挫。",
+    "significance": "段谷之战是姜维北伐的转折，削弱蜀汉后期军力。",
+    "game_hooks": [
+      "设伏",
+      "粮尽退兵",
+      "北伐受挫",
+      "陇右争夺"
+    ],
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  }
+]

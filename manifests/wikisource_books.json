@@ -1,0 +1,1268 @@
+[
+  {
+    "id": "SANGUOZHI",
+    "title": "三國志",
+    "title_simplified": "三国志",
+    "slug": "sanguozhi",
+    "page_title": "三國志",
+    "aliases": [
+      "三国志"
+    ],
+    "priority": "core",
+    "volume_min": 1,
+    "volume_max": 65,
+    "note": "陈寿撰，裴松之注全文随正文保留为（注：……）。"
+  },
+  {
+    "id": "HOUHANSHU",
+    "title": "後漢書",
+    "title_simplified": "后汉书",
+    "slug": "houhanshu",
+    "page_title": "後漢書",
+    "aliases": [
+      "后汉书"
+    ],
+    "priority": "core",
+    "volume_min": 1,
+    "volume_max": 120,
+    "note": "范晔撰；东汉末三国前夜的核心背景史料。"
+  },
+  {
+    "id": "JINSHU",
+    "title": "晉書",
+    "title_simplified": "晋书",
+    "slug": "jinshu",
+    "page_title": "晉書",
+    "aliases": [
+      "晋书"
+    ],
+    "priority": "core",
+    "volume_min": 1,
+    "volume_max": 130,
+    "note": "房玄龄等撰；两晋与十六国核心正史。"
+  },
+  {
+    "id": "SONGSHU",
+    "title": "宋書",
+    "title_simplified": "宋书",
+    "slug": "songshu",
+    "page_title": "宋書",
+    "aliases": [
+      "宋书"
+    ],
+    "priority": "core",
+    "volume_min": 1,
+    "volume_max": 100,
+    "note": "沈约撰；南朝宋。"
+  },
+  {
+    "id": "NANQISHU",
+    "title": "南齊書",
+    "title_simplified": "南齐书",
+    "slug": "nanqishu",
+    "page_title": "南齊書",
+    "aliases": [
+      "南齐书"
+    ],
+    "priority": "core",
+    "volume_min": 1,
+    "volume_max": 59,
+    "note": "萧子显撰；南朝齐。"
+  },
+  {
+    "id": "LIANGSHU",
+    "title": "梁書",
+    "title_simplified": "梁书",
+    "slug": "liangshu",
+    "page_title": "梁書",
+    "aliases": [
+      "梁书"
+    ],
+    "priority": "core",
+    "volume_min": 1,
+    "volume_max": 56,
+    "note": "姚思廉撰；南朝梁。"
+  },
+  {
+    "id": "CHENSHU",
+    "title": "陳書",
+    "title_simplified": "陈书",
+    "slug": "chenshu",
+    "page_title": "陳書",
+    "aliases": [
+      "陈书"
+    ],
+    "priority": "core",
+    "volume_min": 1,
+    "volume_max": 36,
+    "note": "姚思廉撰；南朝陈。"
+  },
+  {
+    "id": "WEISHU",
+    "title": "魏書",
+    "title_simplified": "魏书",
+    "slug": "weishu",
+    "page_title": "魏書",
+    "aliases": [
+      "魏书"
+    ],
+    "priority": "core",
+    "volume_min": 1,
+    "volume_max": 114,
+    "note": "魏收撰；北魏、东魏。注意与曹魏、王沈《魏书》区分。"
+  },
+  {
+    "id": "BEIQISHU",
+    "title": "北齊書",
+    "title_simplified": "北齐书",
+    "slug": "beiqishu",
+    "page_title": "北齊書",
+    "aliases": [
+      "北齐书"
+    ],
+    "priority": "core",
+    "volume_min": 1,
+    "volume_max": 50,
+    "note": "李百药撰；东魏、北齐。"
+  },
+  {
+    "id": "ZHOUSHU",
+    "title": "周書",
+    "title_simplified": "周书",
+    "slug": "zhoushu",
+    "page_title": "周書",
+    "aliases": [
+      "周书"
+    ],
+    "priority": "core",
+    "volume_min": 1,
+    "volume_max": 50,
+    "note": "令狐德棻等撰；西魏、北周。"
+  },
+  {
+    "id": "SUISHU",
+    "title": "隋書",
+    "title_simplified": "隋书",
+    "slug": "suishu",
+    "page_title": "隋書",
+    "aliases": [
+      "隋书"
+    ],
+    "priority": "core",
+    "volume_min": 1,
+    "volume_max": 85,
+    "note": "魏征等撰；隋及梁陈齐周制度。"
+  },
+  {
+    "id": "NANSHI",
+    "title": "南史",
+    "title_simplified": "南史",
+    "slug": "nanshi",
+    "page_title": "南史",
+    "aliases": [
+      "南史"
+    ],
+    "priority": "core",
+    "volume_min": 1,
+    "volume_max": 80,
+    "note": "李延寿撰；南朝宋齐梁陈通史。"
+  },
+  {
+    "id": "BEISHI",
+    "title": "北史",
+    "title_simplified": "北史",
+    "slug": "beishi",
+    "page_title": "北史",
+    "aliases": [
+      "北史"
+    ],
+    "priority": "core",
+    "volume_min": 1,
+    "volume_max": 100,
+    "note": "李延寿撰；北魏至隋北方通史。"
+  },
+  {
+    "id": "JIUTANGSHU",
+    "title": "舊唐書",
+    "title_simplified": "旧唐书",
+    "slug": "jiutangshu",
+    "page_title": "舊唐書",
+    "aliases": [
+      "旧唐书"
+    ],
+    "priority": "core",
+    "volume_min": 1,
+    "volume_max": 200,
+    "note": "刘昫等撰；唐五代原始史料保存较多。"
+  },
+  {
+    "id": "XINTANGSHU",
+    "title": "新唐書",
+    "title_simplified": "新唐书",
+    "slug": "xintangshu",
+    "page_title": "新唐書",
+    "aliases": [
+      "新唐书"
+    ],
+    "priority": "core",
+    "volume_min": 1,
+    "volume_max": 225,
+    "note": "欧阳修、宋祁等撰；志、表更系统，叙事有删润。"
+  },
+  {
+    "id": "JIUWUDAISHI",
+    "title": "舊五代史",
+    "title_simplified": "旧五代史",
+    "slug": "jiuwudaishi",
+    "page_title": "舊五代史",
+    "aliases": [
+      "旧五代史"
+    ],
+    "priority": "core",
+    "volume_min": 1,
+    "volume_max": 150,
+    "note": "薛居正等撰；五代十国核心正史，辑本。"
+  },
+  {
+    "id": "XINWUDAISHI",
+    "title": "新五代史",
+    "title_simplified": "新五代史",
+    "slug": "xinwudaishi",
+    "page_title": "新五代史",
+    "aliases": [
+      "新五代史"
+    ],
+    "priority": "core",
+    "volume_min": 1,
+    "volume_max": 74,
+    "note": "欧阳修撰；义例严谨，文字简省，可与旧史对读。"
+  },
+  {
+    "id": "ZIZHITONGJIAN",
+    "title": "資治通鑑",
+    "title_simplified": "资治通鉴",
+    "slug": "zizhitongjian",
+    "page_title": "資治通鑑",
+    "aliases": [
+      "资治通鉴"
+    ],
+    "priority": "core",
+    "volume_min": 59,
+    "volume_max": 294,
+    "note": "司马光撰；仅收录卷59–294（汉末至五代），与正史互校。"
+  },
+  {
+    "id": "HUAYANGGUOZHI",
+    "title": "華陽國志",
+    "title_simplified": "华阳国志",
+    "slug": "huayangguozhi",
+    "page_title": "華陽國志",
+    "aliases": [
+      "华阳国志"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 12,
+    "note": "常璩撰；巴蜀、成汉、西南地方史。"
+  },
+  {
+    "id": "LUOYANGQIELANJI",
+    "title": "洛陽伽藍記",
+    "title_simplified": "洛阳伽蓝记",
+    "slug": "luoyangqielanji",
+    "page_title": "洛陽伽藍記",
+    "aliases": [
+      "洛阳伽蓝记"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 5,
+    "note": "杨衒之撰；北魏洛阳城市、佛教、社会。"
+  },
+  {
+    "id": "SHISHUOXINYU",
+    "title": "世說新語",
+    "title_simplified": "世说新语",
+    "slug": "shishuoxinyu",
+    "page_title": "世說新語",
+    "aliases": [
+      "世说新语"
+    ],
+    "priority": "extended",
+    "note": "刘义庆撰，刘孝标注；魏晋风度与门阀社会。",
+    "chapters": [
+      "德行",
+      "言語",
+      "政事",
+      "文學",
+      "方正",
+      "雅量",
+      "識鑒",
+      "賞譽",
+      "品藻",
+      "規箴",
+      "捷悟",
+      "夙惠",
+      "豪爽",
+      "容止",
+      "自新",
+      "企羡",
+      "傷逝",
+      "棲逸",
+      "賢媛",
+      "術解",
+      "巧蓺",
+      "寵禮",
+      "任誕",
+      "簡傲",
+      "排調",
+      "輕詆",
+      "假譎",
+      "黜免",
+      "儉嗇",
+      "汰侈",
+      "忿狷",
+      "讒險",
+      "尤悔",
+      "紕漏",
+      "惑溺",
+      "仇隟"
+    ]
+  },
+  {
+    "id": "YANSHIJIAXUN",
+    "title": "顏氏家訓",
+    "title_simplified": "颜氏家训",
+    "slug": "yanshijiaxun",
+    "page_title": "顏氏家訓",
+    "aliases": [
+      "颜氏家训"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 7,
+    "note": "颜之推撰；南北朝士族生活、教育、风俗。"
+  },
+  {
+    "id": "QIMINYAOSHU",
+    "title": "齊民要術",
+    "title_simplified": "齐民要术",
+    "slug": "qimin-yaoshu",
+    "page_title": "齊民要術",
+    "aliases": [
+      "齐民要术"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 10,
+    "note": "贾思勰撰；北朝农业、食物、手工业。"
+  },
+  {
+    "id": "SHUIJINGZHU",
+    "title": "水經注",
+    "title_simplified": "水经注",
+    "slug": "shuijingzhu",
+    "page_title": "水經注",
+    "aliases": [
+      "水经注"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 40,
+    "note": "郦道元撰；地理、城邑、水利、碑刻。"
+  },
+  {
+    "id": "TANGHUIYAO",
+    "title": "唐會要",
+    "title_simplified": "唐会要",
+    "slug": "tanghuiyao",
+    "page_title": "唐會要",
+    "aliases": [
+      "唐会要"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 100,
+    "note": "王溥撰；唐代制度、政令、事件分类汇编。"
+  },
+  {
+    "id": "WUDAIHUIYAO",
+    "title": "五代會要",
+    "title_simplified": "五代会要",
+    "slug": "wudaihuiyao",
+    "page_title": "五代會要",
+    "aliases": [
+      "五代会要"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 30,
+    "note": "王溥撰；五代制度与政事。"
+  },
+  {
+    "id": "TONGDIAN",
+    "title": "通典",
+    "title_simplified": "通典",
+    "slug": "tongdian",
+    "page_title": "通典",
+    "aliases": [
+      "通典"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 200,
+    "note": "杜佑撰；唐以前制度通史，含大量唐代制度。"
+  },
+  {
+    "id": "TANGLIUDIAN",
+    "title": "唐六典",
+    "title_simplified": "唐六典",
+    "slug": "tangliudian",
+    "page_title": "唐六典",
+    "aliases": [
+      "唐六典"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 30,
+    "note": "李林甫等撰；盛唐官制与行政法典。"
+  },
+  {
+    "id": "TANGLVSHUYI",
+    "title": "唐律疏議",
+    "title_simplified": "唐律疏议",
+    "slug": "tanglushuyi",
+    "page_title": "唐律疏議",
+    "aliases": [
+      "唐律疏议"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 30,
+    "note": "长孙无忌等撰；唐律及其官方解释。"
+  },
+  {
+    "id": "TANGDAZHAOLINGJI",
+    "title": "唐大詔令集",
+    "title_simplified": "唐大诏令集",
+    "slug": "tangdazhaolingji",
+    "page_title": "唐大詔令集",
+    "aliases": [
+      "唐大诏令集"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 130,
+    "note": "宋敏求编；唐代诏令、册文、赦文。"
+  },
+  {
+    "id": "ANSHANSHIJI",
+    "title": "安祿山事跡",
+    "title_simplified": "安禄山事迹",
+    "slug": "anshanshiji",
+    "page_title": "安祿山事跡",
+    "aliases": [
+      "安禄山事迹"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 3,
+    "note": "姚汝能撰；安史之乱核心专题史料。"
+  },
+  {
+    "id": "FENGTIANLU",
+    "title": "奉天錄",
+    "title_simplified": "奉天录",
+    "slug": "fengtianlu",
+    "page_title": "奉天錄",
+    "aliases": [
+      "奉天录"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 4,
+    "note": "赵元一撰；泾原兵变、德宗奉天蒙难。"
+  },
+  {
+    "id": "BEIMENGSUOYAN",
+    "title": "北夢瑣言",
+    "title_simplified": "北梦琐言",
+    "slug": "beimengsuoyan",
+    "page_title": "北夢瑣言",
+    "aliases": [
+      "北梦琐言"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 20,
+    "note": "孙光宪撰；晚唐五代人物、政治、社会笔记。"
+  },
+  {
+    "id": "SHIGUOCHUNQIU",
+    "title": "十國春秋",
+    "title_simplified": "十国春秋",
+    "slug": "shiguochunqiu",
+    "page_title": "十國春秋",
+    "aliases": [
+      "十国春秋"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 114,
+    "note": "吴任臣撰；十国最系统的后世专史。"
+  },
+  {
+    "id": "NANTANGSHU_MA",
+    "title": "南唐書",
+    "title_simplified": "南唐书",
+    "slug": "nantangshu-ma",
+    "page_title": "南唐書",
+    "aliases": [
+      "南唐书"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 30,
+    "note": "马令撰；南唐史。Wikisource 同名页面需确认版本。"
+  },
+  {
+    "id": "WUYUEBEISHI",
+    "title": "吳越備史",
+    "title_simplified": "吴越备史",
+    "slug": "wuyuebeishi",
+    "page_title": "吳越備史",
+    "aliases": [
+      "吴越备史"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 4,
+    "note": "钱俨撰；吴越国编年史。"
+  },
+  {
+    "id": "JIANKANGSHILU",
+    "title": "建康實錄",
+    "title_simplified": "建康实录",
+    "slug": "jiankangshilu",
+    "page_title": "建康實錄",
+    "aliases": [
+      "建康实录"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 20,
+    "note": "许嵩撰；六朝建康编年史。"
+  },
+  {
+    "id": "ZHENGGUANZHENGYAO",
+    "title": "貞觀政要",
+    "title_simplified": "贞观政要",
+    "slug": "zhenguanzhengyao",
+    "page_title": "貞觀政要",
+    "aliases": [
+      "贞观政要"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 10,
+    "note": "吴兢撰；唐太宗君臣论政。"
+  },
+  {
+    "id": "DATANGCHUANGYEQIJUZHU",
+    "title": "大唐創業起居注",
+    "title_simplified": "大唐创业起居注",
+    "slug": "datangchuangyeqijuzhu",
+    "page_title": "大唐創業起居注",
+    "aliases": [
+      "大唐创业起居注"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 3,
+    "note": "温大雅撰；李渊起兵建唐的第一手起居注。"
+  },
+  {
+    "id": "SHUNZONGSHILU",
+    "title": "順宗實錄",
+    "title_simplified": "顺宗实录",
+    "slug": "shunzongshilu",
+    "page_title": "順宗實錄",
+    "aliases": [
+      "顺宗实录"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 5,
+    "note": "韩愈撰；永贞革新核心史料。"
+  },
+  {
+    "id": "TANGGUOSHIPU",
+    "title": "唐國史補",
+    "title_simplified": "唐国史补",
+    "slug": "tangguoshipu",
+    "page_title": "唐國史補",
+    "aliases": [
+      "唐国史补"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 3,
+    "note": "李肇撰；中唐社会、官场、文学轶事。"
+  },
+  {
+    "id": "TANGZHIYAN",
+    "title": "唐摭言",
+    "title_simplified": "唐摭言",
+    "slug": "tangzhiyan",
+    "page_title": "唐摭言",
+    "aliases": [
+      "唐摭言"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 15,
+    "note": "王定保撰；唐代科举、士人、贡举。"
+  },
+  {
+    "id": "TANGYULIN",
+    "title": "唐語林",
+    "title_simplified": "唐语林",
+    "slug": "tangyulin",
+    "page_title": "唐語林",
+    "aliases": [
+      "唐语林"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 8,
+    "note": "王谠撰；唐代笔记汇编。"
+  },
+  {
+    "id": "YINHUALU",
+    "title": "因話錄",
+    "title_simplified": "因话录",
+    "slug": "yinhuallu",
+    "page_title": "因話錄",
+    "aliases": [
+      "因话录"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 6,
+    "note": "赵璘撰；中晚唐宫闱、官场、士族。"
+  },
+  {
+    "id": "YOUYANGZAZU",
+    "title": "酉陽雜俎",
+    "title_simplified": "酉阳杂俎",
+    "slug": "youyangzazu",
+    "page_title": "酉陽雜俎",
+    "aliases": [
+      "酉阳杂俎"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 30,
+    "note": "段成式撰；晚唐博物、志怪、社会史料。"
+  },
+  {
+    "id": "CHAOYEQIANZAI",
+    "title": "朝野僉載",
+    "title_simplified": "朝野佥载",
+    "slug": "chaoyeqianzai",
+    "page_title": "朝野僉載",
+    "aliases": [
+      "朝野佥载"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 6,
+    "note": "张鷟撰；武周至玄宗朝野轶闻。"
+  },
+  {
+    "id": "SUITANGJIAHUA",
+    "title": "隋唐嘉話",
+    "title_simplified": "隋唐嘉话",
+    "slug": "suitangjiahua",
+    "page_title": "隋唐嘉話",
+    "aliases": [
+      "隋唐嘉话"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 3,
+    "note": "刘餗撰；隋唐之际人物轶事。"
+  },
+  {
+    "id": "DATANGXINYU",
+    "title": "大唐新語",
+    "title_simplified": "大唐新语",
+    "slug": "datangxinyu",
+    "page_title": "大唐新語",
+    "aliases": [
+      "大唐新语"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 13,
+    "note": "刘肃撰；初盛唐政治与人物。"
+  },
+  {
+    "id": "KAIYUANTIANBAOYISHI",
+    "title": "開元天寶遺事",
+    "title_simplified": "开元天宝遗事",
+    "slug": "kaiyuantianbaoyishi",
+    "page_title": "開元天寶遺事",
+    "aliases": [
+      "开元天宝遗事"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 4,
+    "note": "王仁裕撰；盛唐宫廷轶闻，需与正史对读。"
+  },
+  {
+    "id": "MINGHUANGZALU",
+    "title": "明皇雜錄",
+    "title_simplified": "明皇杂录",
+    "slug": "minghuangzalu",
+    "page_title": "明皇雜錄",
+    "aliases": [
+      "明皇杂录"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 2,
+    "note": "郑处诲撰；玄宗朝轶闻。"
+  },
+  {
+    "id": "CILIUSHIJIUWEN",
+    "title": "次柳氏舊聞",
+    "title_simplified": "次柳氏旧闻",
+    "slug": "ciliushijiuwen",
+    "page_title": "次柳氏舊聞",
+    "aliases": [
+      "次柳氏旧闻"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 1,
+    "note": "李德裕撰；玄宗朝旧闻。"
+  },
+  {
+    "id": "DONGQUANZOUJI",
+    "title": "東觀奏記",
+    "title_simplified": "东观奏记",
+    "slug": "dongquanzouji",
+    "page_title": "東觀奏記",
+    "aliases": [
+      "东观奏记"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 3,
+    "note": "裴庭裕撰；宣宗朝政治。"
+  },
+  {
+    "id": "TANGCAIZIZHUAN",
+    "title": "唐才子傳",
+    "title_simplified": "唐才子传",
+    "slug": "tangcaizizhuan",
+    "page_title": "唐才子傳",
+    "aliases": [
+      "唐才子传"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 10,
+    "note": "辛文房撰；唐代诗人小传，文学史料。"
+  },
+  {
+    "id": "MANSHU",
+    "title": "蠻書",
+    "title_simplified": "蛮书",
+    "slug": "manshu",
+    "page_title": "蠻書",
+    "aliases": [
+      "蛮书"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 10,
+    "note": "樊绰撰；南诏、云南民族地理。"
+  },
+  {
+    "id": "RUTANGQIUFAXUNLIJINGJI",
+    "title": "入唐求法巡禮行記",
+    "title_simplified": "入唐求法巡礼行记",
+    "slug": "rutangqiufa",
+    "page_title": "入唐求法巡禮行記",
+    "aliases": [
+      "入唐求法巡礼行记"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 4,
+    "note": "圆仁撰；晚唐社会、交通、宗教的第一手见闻。"
+  },
+  {
+    "id": "DATANGXIYIJI",
+    "title": "大唐西域記",
+    "title_simplified": "大唐西域记",
+    "slug": "datangxiyiji",
+    "page_title": "大唐西域記",
+    "aliases": [
+      "大唐西域记"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 12,
+    "note": "玄奘述，辩机编；中亚南亚地理宗教。"
+  },
+  {
+    "id": "DACIENSISANZANG",
+    "title": "大慈恩寺三藏法師傳",
+    "title_simplified": "大慈恩寺三藏法师传",
+    "slug": "daciensizhuan",
+    "page_title": "大慈恩寺三藏法師傳",
+    "aliases": [
+      "大慈恩寺三藏法师传"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 10,
+    "note": "慧立、彦悰撰；玄奘生平。"
+  },
+  {
+    "id": "ZUTANGJI",
+    "title": "祖堂集",
+    "title_simplified": "祖堂集",
+    "slug": "zutangji",
+    "page_title": "祖堂集",
+    "aliases": [
+      "祖堂集"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 20,
+    "note": "五代禅宗灯史，保留早期禅宗史料。"
+  },
+  {
+    "id": "JINGDECHUANDENGLU",
+    "title": "景德傳燈錄",
+    "title_simplified": "景德传灯录",
+    "slug": "jingdechuandenglu",
+    "page_title": "景德傳燈錄",
+    "aliases": [
+      "景德传灯录"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 30,
+    "note": "北宋道原撰；禅宗谱系，含晚唐五代。"
+  },
+  {
+    "id": "GAOSENGZHUAN",
+    "title": "高僧傳",
+    "title_simplified": "高僧传",
+    "slug": "gaosengzhuan",
+    "page_title": "高僧傳",
+    "aliases": [
+      "高僧传"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 14,
+    "note": "慧皎撰；汉魏六朝高僧。"
+  },
+  {
+    "id": "XUGAOSENGZHUAN",
+    "title": "續高僧傳",
+    "title_simplified": "续高僧传",
+    "slug": "xugaosengzhuan",
+    "page_title": "續高僧傳",
+    "aliases": [
+      "续高僧传"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 30,
+    "note": "道宣撰；南北朝至唐初高僧。"
+  },
+  {
+    "id": "SONGGAOSENGZHUAN",
+    "title": "宋高僧傳",
+    "title_simplified": "宋高僧传",
+    "slug": "songgaosengzhuan",
+    "page_title": "宋高僧傳",
+    "aliases": [
+      "宋高僧传"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 30,
+    "note": "赞宁撰；唐五代宋初高僧。"
+  },
+  {
+    "id": "HONGMINGJI",
+    "title": "弘明集",
+    "title_simplified": "弘明集",
+    "slug": "hongmingji",
+    "page_title": "弘明集",
+    "aliases": [
+      "弘明集"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 14,
+    "note": "僧祐编；六朝佛教论辩文献。"
+  },
+  {
+    "id": "GUANGHONGMINGJI",
+    "title": "廣弘明集",
+    "title_simplified": "广弘明集",
+    "slug": "guanghongmingji",
+    "page_title": "廣弘明集",
+    "aliases": [
+      "广弘明集"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 30,
+    "note": "道宣编；南北朝至唐佛教文献。"
+  },
+  {
+    "id": "CHUSANZANGJIJI",
+    "title": "出三藏記集",
+    "title_simplified": "出三藏记集",
+    "slug": "chusan-zangjiji",
+    "page_title": "出三藏記集",
+    "aliases": [
+      "出三藏记集"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 15,
+    "note": "僧祐撰；早期佛经目录与译经史。"
+  },
+  {
+    "id": "FAYUANZHULIN",
+    "title": "法苑珠林",
+    "title_simplified": "法苑珠林",
+    "slug": "fayuanzhulin",
+    "page_title": "法苑珠林",
+    "aliases": [
+      "法苑珠林"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 100,
+    "note": "道世撰；佛教类书，保存大量社会史料。"
+  },
+  {
+    "id": "BAOPUZI",
+    "title": "抱朴子",
+    "title_simplified": "抱朴子",
+    "slug": "baopuzi",
+    "page_title": "抱朴子",
+    "aliases": [
+      "抱朴子"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 70,
+    "note": "葛洪撰；道教、炼丹、社会思想。"
+  },
+  {
+    "id": "SOUSHENJI",
+    "title": "搜神記",
+    "title_simplified": "搜神记",
+    "slug": "soushenji",
+    "page_title": "搜神記",
+    "aliases": [
+      "搜神记"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 20,
+    "note": "干宝撰；志怪小说，兼存社会民俗。"
+  },
+  {
+    "id": "SHIYIJI",
+    "title": "拾遺記",
+    "title_simplified": "拾遗记",
+    "slug": "shiyiji",
+    "page_title": "拾遺記",
+    "aliases": [
+      "拾遗记"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 10,
+    "note": "王嘉撰；志怪与传说。"
+  },
+  {
+    "id": "YOUMINGLU",
+    "title": "幽明錄",
+    "title_simplified": "幽明录",
+    "slug": "youminglu",
+    "page_title": "幽明錄",
+    "aliases": [
+      "幽明录"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 1,
+    "note": "刘义庆撰，辑本；志怪。"
+  },
+  {
+    "id": "YIYUAN",
+    "title": "異苑",
+    "title_simplified": "异苑",
+    "slug": "yiyuan",
+    "page_title": "異苑",
+    "aliases": [
+      "异苑"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 10,
+    "note": "刘敬叔撰；志怪。"
+  },
+  {
+    "id": "JINLOUZI",
+    "title": "金樓子",
+    "title_simplified": "金楼子",
+    "slug": "jinlouzi",
+    "page_title": "金樓子",
+    "aliases": [
+      "金楼子"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 14,
+    "note": "萧绎撰；梁代政治、文化、杂说。"
+  },
+  {
+    "id": "WENXUAN",
+    "title": "文選",
+    "title_simplified": "文选",
+    "slug": "wenxuan",
+    "page_title": "文選",
+    "aliases": [
+      "文选"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 60,
+    "note": "萧统编；六朝文学总集。"
+  },
+  {
+    "id": "YUTAIXINYONG",
+    "title": "玉臺新詠",
+    "title_simplified": "玉台新咏",
+    "slug": "yutaixinyong",
+    "page_title": "玉臺新詠",
+    "aliases": [
+      "玉台新咏"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 10,
+    "note": "徐陵编；六朝艳情诗。"
+  },
+  {
+    "id": "YUEFUSHIJI",
+    "title": "樂府詩集",
+    "title_simplified": "乐府诗集",
+    "slug": "yuefushiji",
+    "page_title": "樂府詩集",
+    "aliases": [
+      "乐府诗集"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 100,
+    "note": "郭茂倩编；汉至唐乐府诗。"
+  },
+  {
+    "id": "HUAJIANJI",
+    "title": "花間集",
+    "title_simplified": "花间集",
+    "slug": "huajianji",
+    "page_title": "花間集",
+    "aliases": [
+      "花间集"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 10,
+    "note": "赵崇祚编；晚唐五代词。"
+  },
+  {
+    "id": "CAIDIAOJI",
+    "title": "才調集",
+    "title_simplified": "才调集",
+    "slug": "caidiaoji",
+    "page_title": "才調集",
+    "aliases": [
+      "才调集"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 10,
+    "note": "韦縠编；晚唐五代诗。"
+  },
+  {
+    "id": "SANGUOZHIPINGHUA",
+    "title": "三國志平話",
+    "title_simplified": "三国志平话",
+    "slug": "sanguozhipinghua",
+    "page_title": "三國志平話",
+    "aliases": [
+      "三国志平话"
+    ],
+    "priority": "fiction",
+    "volume_min": 1,
+    "volume_max": 3,
+    "note": "元代讲史话本；演义传统，非史料。"
+  },
+  {
+    "id": "SANGUOYANYI",
+    "title": "三國演義",
+    "title_simplified": "三国演义",
+    "slug": "sanguoyanyi",
+    "page_title": "三國演義",
+    "aliases": [
+      "三国演义"
+    ],
+    "priority": "fiction",
+    "volume_min": 1,
+    "volume_max": 120,
+    "note": "罗贯中；历史小说，游戏叙事参考，不作史实依据。"
+  },
+  {
+    "id": "SHUGUOCHU",
+    "title": "蜀檮杌",
+    "title_simplified": "蜀梼杌",
+    "slug": "shuguochu",
+    "page_title": "蜀檮杌",
+    "aliases": [
+      "蜀梼杌"
+    ],
+    "priority": "extended",
+    "chapters": [
+      "卷上",
+      "卷下"
+    ],
+    "note": "张唐英撰；前蜀、后蜀编年史。"
+  },
+  {
+    "id": "SANCHUXINLU",
+    "title": "三楚新錄",
+    "title_simplified": "三楚新录",
+    "slug": "sanchuxinlu",
+    "page_title": "三楚新錄",
+    "aliases": [
+      "三楚新录"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 3,
+    "note": "周羽翀撰；楚、南唐、南汉等十国见闻。"
+  },
+  {
+    "id": "WUDAISHIBU",
+    "title": "五代史補",
+    "title_simplified": "五代史补",
+    "slug": "wudaishibu",
+    "page_title": "五代史補",
+    "aliases": [
+      "五代史补"
+    ],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 5,
+    "note": "陶岳撰；补《旧五代史》所遗逸事。"
+  },
+  {
+    "id": "WUGUOGUSHI",
+    "title": "五國故事",
+    "title_simplified": "五国故事",
+    "slug": "wuguogushi",
+    "page_title": "五國故事",
+    "aliases": [
+      "五国故事"
+    ],
+    "priority": "extended",
+    "chapters": [
+      "卷上",
+      "卷下"
+    ],
+    "note": "佚名撰；吴、南唐、前后蜀、闽、汉等故事。"
+  },
+  {
+    "id": "NANTANGJINSHI",
+    "title": "南唐近事",
+    "title_simplified": "南唐近事",
+    "slug": "nantangjinshi",
+    "page_title": "南唐近事",
+    "aliases": [],
+    "priority": "extended",
+    "single_page": true,
+    "note": "郑文宝撰；南唐朝廷轶事。"
+  },
+  {
+    "id": "JIANGNANBIELU",
+    "title": "江南別錄",
+    "title_simplified": "江南别录",
+    "slug": "jiangnanbielu",
+    "page_title": "江南別錄",
+    "aliases": [
+      "江南别录"
+    ],
+    "priority": "extended",
+    "single_page": true,
+    "note": "陈彭年撰；南唐李氏政权纪事。"
+  },
+  {
+    "id": "JIANGNANYESHI",
+    "title": "江南野史",
+    "title_simplified": "江南野史",
+    "slug": "jiangnanyeshi",
+    "page_title": "江南野史",
+    "aliases": [],
+    "priority": "extended",
+    "volume_min": 1,
+    "volume_max": 10,
+    "note": "龙衮撰；南唐人物与政事。"
+  },
+  {
+    "id": "JIANGBIAOZHI",
+    "title": "江表志",
+    "title_simplified": "江表志",
+    "slug": "jiangbiaozhi",
+    "page_title": "江表志",
+    "aliases": [],
+    "priority": "extended",
+    "chapters": [
+      "卷上",
+      "卷中",
+      "卷下"
+    ],
+    "note": "郑文宝撰；南唐三主事迹。"
+  },
+  {
+    "id": "DIAOJILITAN",
+    "title": "釣磯立談",
+    "title_simplified": "钓矶立谈",
+    "slug": "diaojilitan",
+    "page_title": "釣磯立談",
+    "aliases": [
+      "钓矶立谈"
+    ],
+    "priority": "extended",
+    "single_page": true,
+    "note": "史虚白撰；南唐兴亡见闻。"
+  }
+]

@@ -1,0 +1,8877 @@
+[
+  {
+    "id": "cao-cao",
+    "name": "曹操",
+    "name_en": "Cao Cao",
+    "aliases": [
+      "曹孟德",
+      "魏武帝",
+      "阿瞒"
+    ],
+    "courtesy_name": "孟德",
+    "birth": 155,
+    "death": 220,
+    "birth_place": "沛国谯县",
+    "period": "东汉末",
+    "faction_id": "cao-wei",
+    "roles": [
+      "军阀",
+      "丞相",
+      "魏王",
+      "诗人"
+    ],
+    "tags": [
+      "政治家",
+      "军事家",
+      "文学家",
+      "奠基者"
+    ],
+    "traits": [
+      "务实",
+      "多疑",
+      "果断",
+      "善用人",
+      "权谋"
+    ],
+    "relationships": [
+      {
+        "target": "cao-pi",
+        "type": "父子",
+        "note": "次子，魏文帝"
+      },
+      {
+        "target": "xun-yu",
+        "type": "君臣",
+        "note": "首席谋臣，后因称公分歧"
+      },
+      {
+        "target": "guo-jia",
+        "type": "君臣",
+        "note": "早逝的奇谋之士"
+      },
+      {
+        "target": "liu-bei",
+        "type": "对手",
+        "note": "煮酒论英雄"
+      },
+      {
+        "target": "yuan-shao",
+        "type": "对手",
+        "note": "官渡之战"
+      }
+    ],
+    "events": [
+      "yellow-turban",
+      "guandu",
+      "chibi",
+      "tongguan"
+    ],
+    "quotes": [
+      {
+        "text": "老骥伏枥，志在千里；烈士暮年，壮心不已。",
+        "source": "乐府诗集《龟虽寿》"
+      }
+    ],
+    "summary": "曹操以兖州起家，迎献帝都许，屯田养兵，官渡破袁绍，统一北方，奠定曹魏基业。",
+    "game_use": "适合作为“挟天子”路线的核心君主：高军政、高权谋、低正统，需平衡士族与军功集团。",
+    "sources": [
+      "SANGUOZHI",
+      "HOUHANSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "liu-bei",
+    "name": "刘备",
+    "name_en": "Liu Bei",
+    "aliases": [
+      "刘玄德",
+      "汉昭烈帝",
+      "刘皇叔"
+    ],
+    "courtesy_name": "玄德",
+    "birth": 161,
+    "death": 223,
+    "birth_place": "涿郡涿县",
+    "period": "东汉末",
+    "faction_id": "shu-han",
+    "roles": [
+      "军阀",
+      "汉中王",
+      "皇帝"
+    ],
+    "tags": [
+      "政治家",
+      "仁德",
+      "宗室",
+      "创业者"
+    ],
+    "traits": [
+      "坚韧",
+      "仁厚",
+      "重义",
+      "善聚人",
+      "情绪化"
+    ],
+    "relationships": [
+      {
+        "target": "zhuge-liang",
+        "type": "君臣",
+        "note": "三顾茅庐，托孤"
+      },
+      {
+        "target": "guan-yu",
+        "type": "义兄弟",
+        "note": "情同手足"
+      },
+      {
+        "target": "zhang-fei",
+        "type": "义兄弟",
+        "note": "情同手足"
+      },
+      {
+        "target": "cao-cao",
+        "type": "对手",
+        "note": "汉室正统之争"
+      },
+      {
+        "target": "sun-quan",
+        "type": "盟友/对手",
+        "note": "赤壁联盟后因荆州反目"
+      }
+    ],
+    "events": [
+      "yellow-turban",
+      "chibi",
+      "yiling",
+      "hanzhong"
+    ],
+    "quotes": [
+      {
+        "text": "勿以恶小而为之，勿以善小而不为。",
+        "source": "SANGUOZHI·先主传"
+      }
+    ],
+    "summary": "刘备以汉室宗亲身份辗转半生，得诸葛亮与荆州集团后取益州、称帝，最终在夷陵之战后病逝。",
+    "game_use": "适合“低起点、高声望”的创业型君主：正统与仁德提供招募加成，但资源与地盘长期不足。",
+    "sources": [
+      "SANGUOZHI",
+      "HUAYANGGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "sun-quan",
+    "name": "孙权",
+    "name_en": "Sun Quan",
+    "aliases": [
+      "孙仲谋",
+      "吴大帝"
+    ],
+    "courtesy_name": "仲谋",
+    "birth": 182,
+    "death": 252,
+    "birth_place": "吴郡富春",
+    "period": "三国",
+    "faction_id": "eastern-wu",
+    "roles": [
+      "吴王",
+      "皇帝"
+    ],
+    "tags": [
+      "政治家",
+      "守成",
+      "水军",
+      "江东"
+    ],
+    "traits": [
+      "隐忍",
+      "善平衡",
+      "多疑",
+      "晚年昏聩"
+    ],
+    "relationships": [
+      {
+        "target": "zhou-yu",
+        "type": "君臣",
+        "note": "赤壁统帅"
+      },
+      {
+        "target": "lu-su",
+        "type": "君臣",
+        "note": "战略顾问"
+      },
+      {
+        "target": "lu-xun",
+        "type": "君臣",
+        "note": "夷陵之战统帅"
+      },
+      {
+        "target": "liu-bei",
+        "type": "盟友/对手",
+        "note": "赤壁联盟与荆州争夺"
+      },
+      {
+        "target": "cao-cao",
+        "type": "对手",
+        "note": "赤壁与濡须口"
+      }
+    ],
+    "events": [
+      "hefei"
+    ],
+    "quotes": [],
+    "summary": "孙权继承父兄基业，赤壁联刘抗曹，夷陵败刘备，建立东吴，晚年因继承问题导致政局动荡。",
+    "game_use": "适合“守江”型君主：水战与外交强，北伐弱；需处理江东士族与世袭领兵。",
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "zhuge-liang",
+    "name": "诸葛亮",
+    "name_en": "Zhuge Liang",
+    "aliases": [
+      "孔明",
+      "卧龙",
+      "武乡侯"
+    ],
+    "courtesy_name": "孔明",
+    "birth": 181,
+    "death": 234,
+    "birth_place": "琅琊阳都",
+    "period": "三国",
+    "faction_id": "shu-han",
+    "roles": [
+      "丞相",
+      "军师",
+      "托孤大臣"
+    ],
+    "tags": [
+      "政治家",
+      "军事家",
+      "发明家",
+      "忠臣"
+    ],
+    "traits": [
+      "谨慎",
+      "勤勉",
+      "法治",
+      "忠贞",
+      "事必躬亲"
+    ],
+    "relationships": [
+      {
+        "target": "liu-bei",
+        "type": "君臣",
+        "note": "三顾茅庐，白帝托孤"
+      },
+      {
+        "target": "jiang-wei",
+        "type": "师徒",
+        "note": "北伐事业继承者"
+      },
+      {
+        "target": "sima-yi",
+        "type": "对手",
+        "note": "北伐对峙"
+      },
+      {
+        "target": "guan-yu",
+        "type": "同僚",
+        "note": "荆州战略分歧"
+      }
+    ],
+    "events": [
+      "chibi",
+      "nanman",
+      "northern-expedition",
+      "wuzhangyuan"
+    ],
+    "quotes": [
+      {
+        "text": "鞠躬尽瘁，死而后已。",
+        "source": "ZIZHITONGJIAN 引《后出师表》"
+      }
+    ],
+    "summary": "诸葛亮为刘备制定隆中对策，赤壁联吴，治蜀以法治，南平南中，五次北伐，病逝五丈原。",
+    "game_use": "适合作为“内政+后勤+法治”型丞相：提升行政效率与军队纪律，但北伐消耗巨大。",
+    "sources": [
+      "SANGUOZHI",
+      "HUAYANGGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "guan-yu",
+    "name": "关羽",
+    "name_en": "Guan Yu",
+    "aliases": [
+      "关云长",
+      "关公",
+      "武圣"
+    ],
+    "courtesy_name": "云长",
+    "birth": 160,
+    "death": 220,
+    "birth_place": "河东解县",
+    "period": "东汉末",
+    "faction_id": "shu-han",
+    "roles": [
+      "将领",
+      "荆州守将"
+    ],
+    "tags": [
+      "武将",
+      "忠义",
+      "水军",
+      "荆州"
+    ],
+    "traits": [
+      "勇猛",
+      "骄傲",
+      "重义",
+      "轻敌"
+    ],
+    "relationships": [
+      {
+        "target": "liu-bei",
+        "type": "义兄弟",
+        "note": "情同手足"
+      },
+      {
+        "target": "zhang-fei",
+        "type": "义兄弟",
+        "note": "情同手足"
+      },
+      {
+        "target": "cao-cao",
+        "type": "旧主/对手",
+        "note": "曾降曹，后归刘备"
+      },
+      {
+        "target": "sun-quan",
+        "type": "对手",
+        "note": "荆州之争"
+      }
+    ],
+    "events": [
+      "xuzhou"
+    ],
+    "quotes": [],
+    "summary": "关羽为刘备麾下名将，镇守荆州，水淹七军威震华夏，后因骄傲与后方空虚被孙权袭杀。",
+    "game_use": "适合“高攻低防”的方面军统帅：单挑与士气强，但外交与后方治理弱。",
+    "sources": [
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "zhang-fei",
+    "name": "张飞",
+    "name_en": "Zhang Fei",
+    "aliases": [
+      "张翼德",
+      "燕人张飞"
+    ],
+    "courtesy_name": "翼德",
+    "birth": 165,
+    "death": 221,
+    "birth_place": "涿郡",
+    "period": "东汉末",
+    "faction_id": "shu-han",
+    "roles": [
+      "将领"
+    ],
+    "tags": [
+      "武将",
+      "猛将",
+      "巴西"
+    ],
+    "traits": [
+      "勇猛",
+      "暴躁",
+      "敬重士人",
+      "鞭挞士卒"
+    ],
+    "relationships": [
+      {
+        "target": "liu-bei",
+        "type": "义兄弟",
+        "note": "情同手足"
+      },
+      {
+        "target": "guan-yu",
+        "type": "义兄弟",
+        "note": "情同手足"
+      },
+      {
+        "target": "cao-cao",
+        "type": "对手",
+        "note": "长坂桥"
+      }
+    ],
+    "events": [
+      "changban",
+      "hanzhong",
+      "yiling"
+    ],
+    "quotes": [],
+    "summary": "张飞为刘备麾下猛将，长坂桥据水断桥，巴西大破张郃，后因鞭挞部将被刺。",
+    "game_use": "适合“突击+威慑”型将领：战场爆发高，但部曲忠诚度风险大。",
+    "sources": [
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "zhao-yun",
+    "name": "赵云",
+    "name_en": "Zhao Yun",
+    "aliases": [
+      "赵子龙",
+      "常山赵子龙"
+    ],
+    "courtesy_name": "子龙",
+    "birth": 168,
+    "death": 229,
+    "birth_place": "常山真定",
+    "period": "东汉末",
+    "faction_id": "shu-han",
+    "roles": [
+      "将领",
+      "禁卫"
+    ],
+    "tags": [
+      "武将",
+      "忠勇",
+      "禁卫",
+      "骑兵"
+    ],
+    "traits": [
+      "沉稳",
+      "忠勇",
+      "谨慎",
+      "寡言"
+    ],
+    "relationships": [
+      {
+        "target": "liu-bei",
+        "type": "君臣",
+        "note": "长期担任亲卫"
+      },
+      {
+        "target": "zhuge-liang",
+        "type": "同僚",
+        "note": "北伐偏师"
+      }
+    ],
+    "events": [
+      "changban",
+      "hanzhong",
+      "jieting"
+    ],
+    "quotes": [],
+    "summary": "赵云以忠勇沉稳著称，长坂救阿斗，汉水空营退敌，是刘备集团的重要禁卫与偏师将领。",
+    "game_use": "适合“护卫+撤退”型将领：提升君主存活率与败军秩序。",
+    "sources": [
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "zhou-yu",
+    "name": "周瑜",
+    "name_en": "Zhou Yu",
+    "aliases": [
+      "周公瑾",
+      "周郎"
+    ],
+    "courtesy_name": "公瑾",
+    "birth": 175,
+    "death": 210,
+    "birth_place": "庐江舒县",
+    "period": "东汉末",
+    "faction_id": "eastern-wu",
+    "roles": [
+      "都督",
+      "水军统帅"
+    ],
+    "tags": [
+      "军事家",
+      "水军",
+      "音乐",
+      "江东"
+    ],
+    "traits": [
+      "英锐",
+      "自信",
+      "善水战",
+      "气量宽宏"
+    ],
+    "relationships": [
+      {
+        "target": "sun-quan",
+        "type": "君臣",
+        "note": "托孤重臣"
+      },
+      {
+        "target": "lu-su",
+        "type": "挚友",
+        "note": "推荐鲁肃"
+      },
+      {
+        "target": "cao-cao",
+        "type": "对手",
+        "note": "赤壁之战"
+      }
+    ],
+    "events": [
+      "jiangling"
+    ],
+    "quotes": [],
+    "summary": "周瑜为东吴水军统帅，赤壁之战以火攻破曹操，后又攻取江陵，英年早逝。",
+    "game_use": "适合“水战爆发”型都督：江面战斗与火攻强，但寿命短、战略野心大。",
+    "sources": [
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "lu-su",
+    "name": "鲁肃",
+    "name_en": "Lu Su",
+    "aliases": [
+      "鲁子敬"
+    ],
+    "courtesy_name": "子敬",
+    "birth": 172,
+    "death": 217,
+    "birth_place": "临淮东城",
+    "period": "东汉末",
+    "faction_id": "eastern-wu",
+    "roles": [
+      "谋臣",
+      "都督"
+    ],
+    "tags": [
+      "战略家",
+      "外交",
+      "江东"
+    ],
+    "traits": [
+      "豪爽",
+      "务实",
+      "远见",
+      "主和"
+    ],
+    "relationships": [
+      {
+        "target": "sun-quan",
+        "type": "君臣",
+        "note": "榻上策"
+      },
+      {
+        "target": "zhou-yu",
+        "type": "挚友",
+        "note": "赤壁主战"
+      },
+      {
+        "target": "liu-bei",
+        "type": "盟友",
+        "note": "主张联刘抗曹"
+      }
+    ],
+    "events": [
+      "chibi",
+      "jingzhou"
+    ],
+    "quotes": [],
+    "summary": "鲁肃为孙权提出榻上策，主张联刘抗曹，是赤壁联盟与荆州问题的关键外交家。",
+    "game_use": "适合“外交+联盟”型谋臣：提升盟友关系与借地谈判成功率。",
+    "sources": [
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "sima-yi",
+    "name": "司马懿",
+    "name_en": "Sima Yi",
+    "aliases": [
+      "司马仲达",
+      "晋宣帝"
+    ],
+    "courtesy_name": "仲达",
+    "birth": 179,
+    "death": 251,
+    "birth_place": "河内温县",
+    "period": "三国",
+    "faction_id": "cao-wei",
+    "roles": [
+      "谋臣",
+      "统帅",
+      "权臣"
+    ],
+    "tags": [
+      "政治家",
+      "军事家",
+      "权谋",
+      "门阀"
+    ],
+    "traits": [
+      "隐忍",
+      "深沉",
+      "多疑",
+      "善等待"
+    ],
+    "relationships": [
+      {
+        "target": "cao-cao",
+        "type": "君臣",
+        "note": "被曹操猜忌"
+      },
+      {
+        "target": "zhuge-liang",
+        "type": "对手",
+        "note": "祁山对峙"
+      },
+      {
+        "target": "cao-pi",
+        "type": "君臣",
+        "note": "辅佐曹丕"
+      },
+      {
+        "target": "sima-zhao",
+        "type": "父子",
+        "note": "次子"
+      }
+    ],
+    "events": [
+      "northern-expedition",
+      "gaopingling"
+    ],
+    "quotes": [],
+    "summary": "司马懿历仕曹魏四代，抵御诸葛亮北伐，平定辽东，发动高平陵之变夺取政权，奠定晋室基础。",
+    "game_use": "适合“防守反击+政变”型权臣：战场耐久高，后期可触发夺权事件。",
+    "sources": [
+      "JINSHU",
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "cao-pi",
+    "name": "曹丕",
+    "name_en": "Cao Pi",
+    "aliases": [
+      "魏文帝",
+      "曹子桓"
+    ],
+    "courtesy_name": "子桓",
+    "birth": 187,
+    "death": 226,
+    "birth_place": "沛国谯县",
+    "period": "三国",
+    "faction_id": "cao-wei",
+    "roles": [
+      "皇帝",
+      "文学家"
+    ],
+    "tags": [
+      "开国",
+      "文学",
+      "制度",
+      "九品中正"
+    ],
+    "traits": [
+      "精明",
+      "敏感",
+      "猜忌",
+      "文才"
+    ],
+    "relationships": [
+      {
+        "target": "cao-cao",
+        "type": "父子",
+        "note": "继承人"
+      },
+      {
+        "target": "cao-zhi",
+        "type": "兄弟",
+        "note": "储位之争"
+      },
+      {
+        "target": "sima-yi",
+        "type": "君臣",
+        "note": "托孤重臣"
+      }
+    ],
+    "events": [
+      "wei-foundation",
+      "nine-rank"
+    ],
+    "quotes": [],
+    "summary": "曹丕代汉称帝，建立曹魏，推行九品中正制，制定《典论》，是制度与文学并重的开国君主。",
+    "game_use": "适合“禅让开国+制度设计”型君主：正统转换与士族整合强，军事一般。",
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "cao-zhi",
+    "name": "曹植",
+    "name_en": "Cao Zhi",
+    "aliases": [
+      "陈思王",
+      "曹子建"
+    ],
+    "courtesy_name": "子建",
+    "birth": 192,
+    "death": 232,
+    "birth_place": "沛国谯县",
+    "period": "三国",
+    "faction_id": "cao-wei",
+    "roles": [
+      "宗室",
+      "诗人"
+    ],
+    "tags": [
+      "文学",
+      "宗室",
+      "建安"
+    ],
+    "traits": [
+      "才华横溢",
+      "任性",
+      "嗜酒",
+      "政治幼稚"
+    ],
+    "relationships": [
+      {
+        "target": "cao-cao",
+        "type": "父子",
+        "note": "曾受宠爱"
+      },
+      {
+        "target": "cao-pi",
+        "type": "兄弟",
+        "note": "储位之争失败"
+      }
+    ],
+    "events": [
+      "wei-foundation"
+    ],
+    "quotes": [
+      {
+        "text": "捐躯赴国难，视死忽如归。",
+        "source": "文选《白马篇》"
+      }
+    ],
+    "summary": "曹植是建安文学的代表，才高八斗却在储位之争中失败，后半生受猜忌而郁郁不得志。",
+    "game_use": "适合“文化声望+宗室风险”型人物：提升文教与声望，但政治忠诚事件复杂。",
+    "sources": [
+      "SANGUOZHI",
+      "WENXUAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "xun-yu",
+    "name": "荀彧",
+    "name_en": "Xun Yu",
+    "aliases": [
+      "荀文若"
+    ],
+    "courtesy_name": "文若",
+    "birth": 163,
+    "death": 212,
+    "birth_place": "颍川颍阴",
+    "period": "东汉末",
+    "faction_id": "cao-wei",
+    "roles": [
+      "谋臣",
+      "尚书令"
+    ],
+    "tags": [
+      "战略",
+      "内政",
+      "士族",
+      "汉室"
+    ],
+    "traits": [
+      "沉稳",
+      "远见",
+      "守节",
+      "善识人"
+    ],
+    "relationships": [
+      {
+        "target": "cao-cao",
+        "type": "君臣",
+        "note": "首席谋臣，后因称公分歧"
+      },
+      {
+        "target": "guo-jia",
+        "type": "同僚",
+        "note": "共事曹操"
+      }
+    ],
+    "events": [
+      "yingtianzi",
+      "guandu"
+    ],
+    "quotes": [],
+    "summary": "荀彧为曹操规划迎献帝、定兖州、官渡坚守，是曹魏制度与士族网络的核心构建者，后因反对称魏公而失宠。",
+    "game_use": "适合“内政+合法性”型谋臣：提升行政效率与汉室声望，但反对僭号会触发忠诚危机。",
+    "sources": [
+      "SANGUOZHI",
+      "HOUHANSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "guo-jia",
+    "name": "郭嘉",
+    "name_en": "Guo Jia",
+    "aliases": [
+      "郭奉孝"
+    ],
+    "courtesy_name": "奉孝",
+    "birth": 170,
+    "death": 207,
+    "birth_place": "颍川阳翟",
+    "period": "东汉末",
+    "faction_id": "cao-wei",
+    "roles": [
+      "谋臣",
+      "军师"
+    ],
+    "tags": [
+      "奇谋",
+      "心理战",
+      "北伐"
+    ],
+    "traits": [
+      "机敏",
+      "大胆",
+      "洞察人心",
+      "不治行检"
+    ],
+    "relationships": [
+      {
+        "target": "cao-cao",
+        "type": "君臣",
+        "note": "视为奇佐"
+      },
+      {
+        "target": "xun-yu",
+        "type": "同僚",
+        "note": "颍川集团"
+      }
+    ],
+    "events": [
+      "bailangshan"
+    ],
+    "quotes": [],
+    "summary": "郭嘉为曹操重要军师，善察人心，官渡前后屡出奇谋，北征乌桓后病逝。",
+    "game_use": "适合“高风险奇谋”型军师：提高奇袭与心理战成功率，但寿命短。",
+    "sources": [
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "sun-ce",
+    "name": "孙策",
+    "name_en": "Sun Ce",
+    "aliases": [
+      "孙伯符",
+      "小霸王"
+    ],
+    "courtesy_name": "伯符",
+    "birth": 175,
+    "death": 200,
+    "birth_place": "吴郡富春",
+    "period": "东汉末",
+    "faction_id": "eastern-wu",
+    "roles": [
+      "军阀",
+      "江东奠基者"
+    ],
+    "tags": [
+      "武将",
+      "创业",
+      "江东",
+      "骑兵"
+    ],
+    "traits": [
+      "勇锐",
+      "豪爽",
+      "轻敌",
+      "善用人"
+    ],
+    "relationships": [
+      {
+        "target": "sun-quan",
+        "type": "兄弟",
+        "note": "临终托弟"
+      },
+      {
+        "target": "zhou-yu",
+        "type": "挚友",
+        "note": "总角之交"
+      },
+      {
+        "target": "yuan-shu",
+        "type": "旧主",
+        "note": "借兵起家"
+      }
+    ],
+    "events": [
+      "guandu"
+    ],
+    "quotes": [],
+    "summary": "孙策以袁术借兵渡江，数年间平定江东，为东吴奠定基业，后遇刺早逝。",
+    "game_use": "适合“快速扩张”型创业君主：前期攻城与招募强，但存活风险高。",
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "lu-meng",
+    "name": "吕蒙",
+    "name_en": "Lü Meng",
+    "aliases": [
+      "吕子明",
+      "吴下阿蒙"
+    ],
+    "courtesy_name": "子明",
+    "birth": 178,
+    "death": 220,
+    "birth_place": "汝南富陂",
+    "period": "东汉末",
+    "faction_id": "eastern-wu",
+    "roles": [
+      "将领",
+      "都督"
+    ],
+    "tags": [
+      "武将",
+      "水军",
+      "学习",
+      "荆州"
+    ],
+    "traits": [
+      "勇猛",
+      "好学",
+      "务实",
+      "果断"
+    ],
+    "relationships": [
+      {
+        "target": "sun-quan",
+        "type": "君臣",
+        "note": "劝学"
+      },
+      {
+        "target": "lu-xun",
+        "type": "同僚",
+        "note": "袭荆州"
+      },
+      {
+        "target": "guan-yu",
+        "type": "对手",
+        "note": "白衣渡江"
+      }
+    ],
+    "events": [
+      "xiaoyaojin"
+    ],
+    "quotes": [],
+    "summary": "吕蒙由勇将成长为统帅，白衣渡江袭取荆州，擒杀关羽，是东吴全据长江的关键人物。",
+    "game_use": "适合“成长型水军将领”：早期战力一般，学习后解锁奇袭与伪装。",
+    "sources": [
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "lu-xun",
+    "name": "陆逊",
+    "name_en": "Lu Xun",
+    "aliases": [
+      "陆伯言",
+      "陆议"
+    ],
+    "courtesy_name": "伯言",
+    "birth": 183,
+    "death": 245,
+    "birth_place": "吴郡吴县",
+    "period": "三国",
+    "faction_id": "eastern-wu",
+    "roles": [
+      "都督",
+      "丞相"
+    ],
+    "tags": [
+      "军事家",
+      "江东士族",
+      "火攻",
+      "夷陵"
+    ],
+    "traits": [
+      "沉稳",
+      "隐忍",
+      "善火攻",
+      "政治谨慎"
+    ],
+    "relationships": [
+      {
+        "target": "sun-quan",
+        "type": "君臣",
+        "note": "夷陵统帅，后因二宫之争失宠"
+      },
+      {
+        "target": "lu-meng",
+        "type": "同僚",
+        "note": "袭荆州"
+      },
+      {
+        "target": "liu-bei",
+        "type": "对手",
+        "note": "夷陵之战"
+      }
+    ],
+    "events": [
+      "shiting"
+    ],
+    "quotes": [],
+    "summary": "陆逊在夷陵之战以火攻大破刘备，后镇守荆州，官至丞相，晚年卷入孙权二宫之争。",
+    "game_use": "适合“防御反击”型都督：火攻与山地伏击强，政治生存需谨慎。",
+    "sources": [
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "deng-ai",
+    "name": "邓艾",
+    "name_en": "Deng Ai",
+    "aliases": [
+      "邓士载"
+    ],
+    "courtesy_name": "士载",
+    "birth": 197,
+    "death": 264,
+    "birth_place": "义阳棘阳",
+    "period": "三国",
+    "faction_id": "cao-wei",
+    "roles": [
+      "将领",
+      "灭蜀统帅"
+    ],
+    "tags": [
+      "军事家",
+      "奇袭",
+      "屯田",
+      "灭蜀"
+    ],
+    "traits": [
+      "坚毅",
+      "善地形",
+      "口吃",
+      "居功"
+    ],
+    "relationships": [
+      {
+        "target": "jiang-wei",
+        "type": "对手",
+        "note": "段谷之战"
+      },
+      {
+        "target": "zhong-hui",
+        "type": "同僚/对手",
+        "note": "灭蜀后争功"
+      },
+      {
+        "target": "sima-zhao",
+        "type": "君臣",
+        "note": "灭蜀主将"
+      }
+    ],
+    "events": [
+      "duangu"
+    ],
+    "quotes": [],
+    "summary": "邓艾以屯田与地形分析见长，灭蜀之役偷渡阴平，迫降刘禅，后因钟会诬陷被杀。",
+    "game_use": "适合“奇袭+后勤”型将领：山地行军与迂回强，但政治自保弱。",
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "jiang-wei",
+    "name": "姜维",
+    "name_en": "Jiang Wei",
+    "aliases": [
+      "姜伯约"
+    ],
+    "courtesy_name": "伯约",
+    "birth": 202,
+    "death": 264,
+    "birth_place": "天水冀县",
+    "period": "三国",
+    "faction_id": "shu-han",
+    "roles": [
+      "将领",
+      "大将军"
+    ],
+    "tags": [
+      "北伐",
+      "陇右",
+      "继承",
+      "军事"
+    ],
+    "traits": [
+      "执着",
+      "善用兵",
+      "冒险",
+      "政治孤立"
+    ],
+    "relationships": [
+      {
+        "target": "zhuge-liang",
+        "type": "师徒",
+        "note": "事业继承者"
+      },
+      {
+        "target": "deng-ai",
+        "type": "对手",
+        "note": "段谷之战"
+      },
+      {
+        "target": "liu-shan",
+        "type": "君臣",
+        "note": "后期北伐"
+      }
+    ],
+    "events": [
+      "northern-expedition",
+      "shu-conquest"
+    ],
+    "quotes": [],
+    "summary": "姜维继承诸葛亮北伐事业，多次出兵陇右，国力耗尽后仍试图借钟会之乱复国，最终失败。",
+    "game_use": "适合“高意志低国力”型大将军：北伐动员强，但会持续消耗人口与粮草。",
+    "sources": [
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "zhong-hui",
+    "name": "钟会",
+    "name_en": "Zhong Hui",
+    "aliases": [
+      "钟士季"
+    ],
+    "courtesy_name": "士季",
+    "birth": 225,
+    "death": 264,
+    "birth_place": "颍川长社",
+    "period": "三国",
+    "faction_id": "cao-wei",
+    "roles": [
+      "谋臣",
+      "灭蜀统帅"
+    ],
+    "tags": [
+      "权谋",
+      "书法",
+      "灭蜀",
+      "叛乱"
+    ],
+    "traits": [
+      "聪慧",
+      "自负",
+      "野心",
+      "善谋"
+    ],
+    "relationships": [
+      {
+        "target": "deng-ai",
+        "type": "同僚/对手",
+        "note": "争功"
+      },
+      {
+        "target": "sima-zhao",
+        "type": "君臣",
+        "note": "灭蜀后反叛"
+      },
+      {
+        "target": "jiang-wei",
+        "type": "合作者",
+        "note": "密谋复蜀"
+      }
+    ],
+    "events": [
+      "shu-conquest"
+    ],
+    "quotes": [],
+    "summary": "钟会为司马昭心腹，主持灭蜀之役，后与姜维密谋据蜀自立，事败被杀。",
+    "game_use": "适合“高智谋高野心”型权臣：策划与离间强，但忠诚度低。",
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "sima-zhao",
+    "name": "司马昭",
+    "name_en": "Sima Zhao",
+    "aliases": [
+      "晋文帝",
+      "司马子上"
+    ],
+    "courtesy_name": "子上",
+    "birth": 211,
+    "death": 265,
+    "birth_place": "河内温县",
+    "period": "三国",
+    "faction_id": "cao-wei",
+    "roles": [
+      "权臣",
+      "晋王"
+    ],
+    "tags": [
+      "权谋",
+      "灭蜀",
+      "晋室",
+      "禅让"
+    ],
+    "traits": [
+      "沉稳",
+      "果断",
+      "野心",
+      "善权术"
+    ],
+    "relationships": [
+      {
+        "target": "sima-yi",
+        "type": "父子",
+        "note": "祖父"
+      },
+      {
+        "target": "sima-yan",
+        "type": "父子",
+        "note": "晋武帝"
+      },
+      {
+        "target": "zhong-hui",
+        "type": "君臣",
+        "note": "灭蜀"
+      }
+    ],
+    "events": [
+      "shu-conquest",
+      "jin-foundation"
+    ],
+    "quotes": [],
+    "summary": "司马昭继承父兄权力，弑杀曹髦，灭蜀汉，受封晋王，为司马炎代魏铺平道路。",
+    "game_use": "适合“幕后权臣”路线：通过军功与政变累积权力，最终触发禅让。",
+    "sources": [
+      "JINSHU",
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "chen-shou",
+    "name": "陈寿",
+    "name_en": "Chen Shou",
+    "aliases": [
+      "陈承祚"
+    ],
+    "courtesy_name": "承祚",
+    "birth": 233,
+    "death": 297,
+    "birth_place": "巴西安汉",
+    "period": "三国",
+    "faction_id": "western-jin",
+    "roles": [
+      "史学家",
+      "官员"
+    ],
+    "tags": [
+      "史学",
+      "三国志",
+      "蜀汉",
+      "晋臣"
+    ],
+    "traits": [
+      "严谨",
+      "简洁",
+      "隐忍",
+      "史才"
+    ],
+    "relationships": [
+      {
+        "target": "zhuge-liang",
+        "type": "评价对象",
+        "note": "蜀汉旧臣之子"
+      },
+      {
+        "target": "sima-yan",
+        "type": "君臣",
+        "note": "晋朝任官"
+      }
+    ],
+    "events": [
+      "jin-foundation"
+    ],
+    "quotes": [],
+    "summary": "陈寿原为蜀汉官员，入晋后撰《三国志》，以简洁严谨的纪传体保存三国史料。",
+    "game_use": "适合作为“史料解锁”型人物：提升史书编纂与情报整理能力。",
+    "sources": [
+      "JINSHU",
+      "SANGUOZHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "ma-chao",
+    "name": "马超",
+    "name_en": "Ma Chao",
+    "aliases": [
+      "马孟起",
+      "锦马超"
+    ],
+    "courtesy_name": "孟起",
+    "birth": 176,
+    "death": 222,
+    "birth_place": "扶风茂陵",
+    "period": "东汉末",
+    "faction_id": "shu-han",
+    "roles": [
+      "将领",
+      "凉州军阀"
+    ],
+    "tags": [
+      "骑兵",
+      "西凉",
+      "羌胡",
+      "猛将"
+    ],
+    "traits": [
+      "勇猛",
+      "高傲",
+      "善骑战",
+      "政治幼稚"
+    ],
+    "relationships": [
+      {
+        "target": "liu-bei",
+        "type": "君臣",
+        "note": "归附蜀汉"
+      },
+      {
+        "target": "cao-cao",
+        "type": "仇敌",
+        "note": "潼关之战，家族被诛"
+      },
+      {
+        "target": "zhang-fei",
+        "type": "同僚",
+        "note": "汉中之战"
+      }
+    ],
+    "events": [
+      "tongguan",
+      "hanzhong"
+    ],
+    "quotes": [],
+    "summary": "马超为西凉军阀马腾之子，潼关之战败于曹操，后归附刘备，成为蜀汉重要骑兵将领。",
+    "game_use": "适合“西凉骑兵”型将领：平原突击与羌胡招募强，但政治忠诚不稳。",
+    "sources": [
+      "SANGUOZHI",
+      "HOUHANSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "huang-zhong",
+    "name": "黄忠",
+    "name_en": "Huang Zhong",
+    "aliases": [
+      "黄汉升"
+    ],
+    "courtesy_name": "汉升",
+    "birth": 148,
+    "death": 220,
+    "birth_place": "南阳",
+    "period": "东汉末",
+    "faction_id": "shu-han",
+    "roles": [
+      "将领"
+    ],
+    "tags": [
+      "老将",
+      "弓弩",
+      "汉中",
+      "猛将"
+    ],
+    "traits": [
+      "勇毅",
+      "老当益壮",
+      "善射",
+      "沉稳"
+    ],
+    "relationships": [
+      {
+        "target": "liu-bei",
+        "type": "君臣",
+        "note": "汉中之战"
+      },
+      {
+        "target": "zhao-yun",
+        "type": "同僚",
+        "note": "蜀汉将领"
+      }
+    ],
+    "events": [
+      "hanzhong"
+    ],
+    "quotes": [],
+    "summary": "黄忠为蜀汉老将，定军山之战阵斩夏侯渊，是刘备夺取汉中的关键功臣。",
+    "game_use": "适合“高龄高爆发”型将领：单次战役战力强，但寿命与持续作战有限。",
+    "sources": [
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wei-yan",
+    "name": "魏延",
+    "name_en": "Wei Yan",
+    "aliases": [
+      "魏文长"
+    ],
+    "courtesy_name": "文长",
+    "birth": 175,
+    "death": 234,
+    "birth_place": "义阳",
+    "period": "三国",
+    "faction_id": "shu-han",
+    "roles": [
+      "将领",
+      "汉中守将"
+    ],
+    "tags": [
+      "武将",
+      "汉中",
+      "奇谋",
+      "北伐"
+    ],
+    "traits": [
+      "勇猛",
+      "高傲",
+      "冒险",
+      "善守"
+    ],
+    "relationships": [
+      {
+        "target": "liu-bei",
+        "type": "君臣",
+        "note": "破格提拔"
+      },
+      {
+        "target": "zhuge-liang",
+        "type": "同僚/分歧",
+        "note": "子午谷奇谋"
+      },
+      {
+        "target": "yang-yi",
+        "type": "政敌",
+        "note": "内斗被杀"
+      }
+    ],
+    "events": [
+      "hanzhong",
+      "northern-expedition"
+    ],
+    "quotes": [],
+    "summary": "魏延为蜀汉汉中守将，提出子午谷奇谋未被采纳，诸葛亮死后与杨仪内斗被杀。",
+    "game_use": "适合“高风险奇袭”型将领：子午谷路线高收益高风险，忠诚事件复杂。",
+    "sources": [
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "cai-wenji",
+    "name": "蔡文姬",
+    "name_en": "Cai Wenji",
+    "aliases": [
+      "蔡琰",
+      "昭姬"
+    ],
+    "courtesy_name": null,
+    "birth": 177,
+    "death": null,
+    "birth_place": "陈留圉县",
+    "period": "东汉末",
+    "faction_id": "late-han",
+    "roles": [
+      "文学家",
+      "音乐家"
+    ],
+    "tags": [
+      "文学",
+      "音乐",
+      "女性",
+      "匈奴"
+    ],
+    "traits": [
+      "才情",
+      "坚韧",
+      "悲怆",
+      "博学"
+    ],
+    "relationships": [
+      {
+        "target": "cao-cao",
+        "type": "故交",
+        "note": "曹操赎归"
+      }
+    ],
+    "events": [],
+    "quotes": [],
+    "summary": "蔡文姬为蔡邕之女，博学多才，战乱中被掳入匈奴，后被曹操赎回，作《悲愤诗》。",
+    "game_use": "适合“文化人物+乱世悲剧”型角色：提升文学与音乐，触发赎归事件。",
+    "sources": [
+      "HOUHANSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "hua-tuo",
+    "name": "华佗",
+    "name_en": "Hua Tuo",
+    "aliases": [
+      "华元化"
+    ],
+    "courtesy_name": "元化",
+    "birth": 145,
+    "death": 208,
+    "birth_place": "沛国谯县",
+    "period": "东汉末",
+    "faction_id": "late-han",
+    "roles": [
+      "医者"
+    ],
+    "tags": [
+      "医学",
+      "外科",
+      "养生",
+      "方技"
+    ],
+    "traits": [
+      "医术高超",
+      "淡泊",
+      "固执",
+      "游方"
+    ],
+    "relationships": [
+      {
+        "target": "cao-cao",
+        "type": "医患/被杀",
+        "note": "被曹操下狱处死"
+      }
+    ],
+    "events": [
+      "yellow-turban"
+    ],
+    "quotes": [],
+    "summary": "华佗为汉末名医，擅长外科与养生，因不愿长期为曹操侍医而被杀。",
+    "game_use": "适合“医疗+瘟疫”型角色：降低伤病与疫病损失，但政治风险高。",
+    "sources": [
+      "SANGUOZHI",
+      "HOUHANSHU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "sima-yan",
+    "name": "司马炎",
+    "name_en": "Sima Yan",
+    "aliases": [
+      "晋武帝",
+      "司马安世"
+    ],
+    "courtesy_name": "安世",
+    "birth": 236,
+    "death": 290,
+    "birth_place": "河内温县",
+    "period": "西晋",
+    "faction_id": "western-jin",
+    "roles": [
+      "皇帝",
+      "开国君主"
+    ],
+    "tags": [
+      "开国",
+      "统一",
+      "宗室分封",
+      "占田"
+    ],
+    "traits": [
+      "宽厚",
+      "好享乐",
+      "优柔",
+      "善权谋"
+    ],
+    "relationships": [
+      {
+        "target": "sima-zhao",
+        "type": "父子",
+        "note": "晋文帝"
+      },
+      {
+        "target": "sima-zhong",
+        "type": "父子",
+        "note": "齐王，宗室重臣"
+      }
+    ],
+    "events": [
+      "jin-foundation",
+      "wu-conquest",
+      "eight-princes"
+    ],
+    "quotes": [],
+    "summary": "司马炎代魏建晋，灭吴统一，推行占田课田与宗室分封，晚年因继承安排埋下八王之乱。",
+    "game_use": "适合“统一后转衰”型君主：前期扩张强，后期需处理宗室分封与继承风险。",
+    "sources": [
+      "JINSHU",
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "sima-rui",
+    "name": "司马睿",
+    "name_en": "Sima Rui",
+    "aliases": [
+      "晋元帝"
+    ],
+    "courtesy_name": "景文",
+    "birth": 276,
+    "death": 323,
+    "birth_place": "洛阳",
+    "period": "东晋",
+    "faction_id": "eastern-jin",
+    "roles": [
+      "皇帝",
+      "东晋开国"
+    ],
+    "tags": [
+      "开国",
+      "南渡",
+      "门阀",
+      "江东"
+    ],
+    "traits": [
+      "隐忍",
+      "谨慎",
+      "依赖士族",
+      "猜忌"
+    ],
+    "relationships": [
+      {
+        "target": "wang-dao",
+        "type": "君臣",
+        "note": "王与马共天下"
+      },
+      {
+        "target": "wang-dun",
+        "type": "君臣/威胁",
+        "note": "王敦之乱"
+      }
+    ],
+    "events": [
+      "yongjia",
+      "eastern-jin-foundation",
+      "wang-dun"
+    ],
+    "quotes": [],
+    "summary": "司马睿在永嘉南渡后于建康重建晋室，依赖琅琊王氏，形成门阀共治格局。",
+    "game_use": "适合“南渡重建”型君主：正统与士族支持强，但皇权受门阀制约。",
+    "sources": [
+      "JINSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wang-dao",
+    "name": "王导",
+    "name_en": "Wang Dao",
+    "aliases": [
+      "王茂弘"
+    ],
+    "courtesy_name": "茂弘",
+    "birth": 276,
+    "death": 339,
+    "birth_place": "琅琊临沂",
+    "period": "东晋",
+    "faction_id": "eastern-jin",
+    "roles": [
+      "丞相",
+      "门阀领袖"
+    ],
+    "tags": [
+      "政治",
+      "门阀",
+      "侨姓",
+      "江东"
+    ],
+    "traits": [
+      "沉稳",
+      "圆融",
+      "善调和",
+      "务实"
+    ],
+    "relationships": [
+      {
+        "target": "sima-rui",
+        "type": "君臣",
+        "note": "王与马共天下"
+      },
+      {
+        "target": "wang-dun",
+        "type": "兄弟",
+        "note": "王敦之乱中的复杂立场"
+      },
+      {
+        "target": "xie-an",
+        "type": "后辈",
+        "note": "琅琊王氏与陈郡谢氏"
+      }
+    ],
+    "events": [
+      "eastern-jin-foundation",
+      "wang-dun"
+    ],
+    "quotes": [],
+    "summary": "王导辅佐司马睿建立东晋，调和侨姓士族与吴姓士族，奠定门阀政治的基本格局。",
+    "game_use": "适合“门阀共治”型丞相：提升士族支持与政权稳定，但会限制皇权集中。",
+    "sources": [
+      "JINSHU",
+      "SHISHUOXINYU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "xie-an",
+    "name": "谢安",
+    "name_en": "Xie An",
+    "aliases": [
+      "谢安石",
+      "谢太傅"
+    ],
+    "courtesy_name": "安石",
+    "birth": 320,
+    "death": 385,
+    "birth_place": "陈郡阳夏",
+    "period": "东晋",
+    "faction_id": "eastern-jin",
+    "roles": [
+      "丞相",
+      "门阀领袖"
+    ],
+    "tags": [
+      "政治",
+      "淝水",
+      "门阀",
+      "清谈"
+    ],
+    "traits": [
+      "从容",
+      "雅量",
+      "善用人",
+      "隐忍"
+    ],
+    "relationships": [
+      {
+        "target": "xie-xuan",
+        "type": "叔侄",
+        "note": "淝水前线统帅"
+      },
+      {
+        "target": "huan-wen",
+        "type": "同僚/对手",
+        "note": "桓温专政时期"
+      },
+      {
+        "target": "fu-jian",
+        "type": "对手",
+        "note": "淝水之战"
+      }
+    ],
+    "events": [
+      "feishui",
+      "huan-wen"
+    ],
+    "quotes": [],
+    "summary": "谢安为东晋门阀领袖，桓温死后执掌朝政，淝水之战以镇定调度击败前秦。",
+    "game_use": "适合“危机统帅”型丞相：大战时提升全军士气与盟友协调。",
+    "sources": [
+      "JINSHU",
+      "SHISHUOXINYU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "huan-wen",
+    "name": "桓温",
+    "name_en": "Huan Wen",
+    "aliases": [
+      "桓元子",
+      "桓宣武"
+    ],
+    "courtesy_name": "元子",
+    "birth": 312,
+    "death": 373,
+    "birth_place": "谯国龙亢",
+    "period": "东晋",
+    "faction_id": "eastern-jin",
+    "roles": [
+      "权臣",
+      "荆州刺史",
+      "北伐统帅"
+    ],
+    "tags": [
+      "军事",
+      "北伐",
+      "权臣",
+      "荆州"
+    ],
+    "traits": [
+      "雄豪",
+      "野心",
+      "果决",
+      "残忍"
+    ],
+    "relationships": [
+      {
+        "target": "xie-an",
+        "type": "同僚/对手",
+        "note": "桓温专政"
+      },
+      {
+        "target": "sima-rui",
+        "type": "君臣",
+        "note": "东晋皇权"
+      }
+    ],
+    "events": [
+      "northern-expedition",
+      "huan-wen"
+    ],
+    "quotes": [
+      {
+        "text": "既不能流芳后世，亦不足复遗臭万载邪！",
+        "source": "JINSHU·桓温传"
+      }
+    ],
+    "summary": "桓温三次北伐，一度收复洛阳，权倾朝野，废立皇帝，为桓玄篡晋埋下伏笔。",
+    "game_use": "适合“北伐权臣”路线：军功与声望快速上升，但会触发皇权猜忌。",
+    "sources": [
+      "JINSHU",
+      "SHISHUOXINYU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "fu-jian",
+    "name": "苻坚",
+    "name_en": "Fu Jian",
+    "aliases": [
+      "苻永固",
+      "前秦宣昭帝"
+    ],
+    "courtesy_name": "永固",
+    "birth": 338,
+    "death": 385,
+    "birth_place": "略阳临渭",
+    "period": "十六国",
+    "faction_id": "former-qin",
+    "roles": [
+      "皇帝",
+      "统一者"
+    ],
+    "tags": [
+      "氐族",
+      "统一",
+      "汉化",
+      "淝水"
+    ],
+    "traits": [
+      "宽仁",
+      "自信",
+      "理想主义",
+      "轻敌"
+    ],
+    "relationships": [
+      {
+        "target": "wang-meng",
+        "type": "君臣",
+        "note": "王猛辅政"
+      },
+      {
+        "target": "xie-an",
+        "type": "对手",
+        "note": "淝水之战"
+      },
+      {
+        "target": "murong-chui",
+        "type": "君臣/隐患",
+        "note": "慕容垂降秦"
+      }
+    ],
+    "events": [
+      "former-qin-unification",
+      "feishui"
+    ],
+    "quotes": [],
+    "summary": "苻坚在王猛辅佐下统一北方，推行汉化与民族宽容，淝水之战惨败后帝国崩解。",
+    "game_use": "适合“多民族统一”型君主：整合与招降强，但族群忠诚与大战风险高。",
+    "sources": [
+      "JINSHU",
+      "WEISHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wang-meng",
+    "name": "王猛",
+    "name_en": "Wang Meng",
+    "aliases": [
+      "王景略"
+    ],
+    "courtesy_name": "景略",
+    "birth": 325,
+    "death": 375,
+    "birth_place": "北海剧县",
+    "period": "十六国",
+    "faction_id": "former-qin",
+    "roles": [
+      "丞相",
+      "改革家"
+    ],
+    "tags": [
+      "法治",
+      "改革",
+      "氐族",
+      "统一"
+    ],
+    "traits": [
+      "刚毅",
+      "严明",
+      "务实",
+      "铁腕"
+    ],
+    "relationships": [
+      {
+        "target": "fu-jian",
+        "type": "君臣",
+        "note": "苻坚首席辅臣"
+      }
+    ],
+    "events": [
+      "former-qin-unification"
+    ],
+    "quotes": [],
+    "summary": "王猛辅佐苻坚整顿吏治、发展经济、统一北方，是十六国最杰出的改革家之一。",
+    "game_use": "适合“法治改革”型丞相：短期提升税收与行政效率，但会得罪豪强。",
+    "sources": [
+      "JINSHU",
+      "WEISHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "murong-chui",
+    "name": "慕容垂",
+    "name_en": "Murong Chui",
+    "aliases": [
+      "慕容道明",
+      "后燕成武帝"
+    ],
+    "courtesy_name": "道明",
+    "birth": 326,
+    "death": 396,
+    "birth_place": "昌黎棘城",
+    "period": "十六国",
+    "faction_id": "former-yan",
+    "roles": [
+      "将领",
+      "后燕开国"
+    ],
+    "tags": [
+      "鲜卑",
+      "骑兵",
+      "复国",
+      "军事"
+    ],
+    "traits": [
+      "勇猛",
+      "隐忍",
+      "老练",
+      "善战"
+    ],
+    "relationships": [
+      {
+        "target": "fu-jian",
+        "type": "君臣/对手",
+        "note": "淝水后复国"
+      },
+      {
+        "target": "tuoba-gui",
+        "type": "对手",
+        "note": "参合陂之战"
+      }
+    ],
+    "events": [
+      "feishui",
+      "later-yan-foundation",
+      "canhebei"
+    ],
+    "quotes": [],
+    "summary": "慕容垂为前燕名将，淝水之战后复国建立后燕，晚年参合陂惨败于北魏。",
+    "game_use": "适合“复国者”型君主：起兵合法性高，骑兵强，但晚年继承风险大。",
+    "sources": [
+      "JINSHU",
+      "WEISHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "tuoba-gui",
+    "name": "拓跋珪",
+    "name_en": "Tuoba Gui",
+    "aliases": [
+      "魏道武帝",
+      "拓跋涉珪"
+    ],
+    "courtesy_name": null,
+    "birth": 371,
+    "death": 409,
+    "birth_place": "代北",
+    "period": "北朝",
+    "faction_id": "northern-wei",
+    "roles": [
+      "皇帝",
+      "北魏开国"
+    ],
+    "tags": [
+      "鲜卑",
+      "开国",
+      "部落解散",
+      "骑兵"
+    ],
+    "traits": [
+      "雄才",
+      "多疑",
+      "残暴",
+      "改革"
+    ],
+    "relationships": [
+      {
+        "target": "murong-chui",
+        "type": "对手",
+        "note": "参合陂之战"
+      }
+    ],
+    "events": [
+      "northern-wei-foundation",
+      "canhebei"
+    ],
+    "quotes": [],
+    "summary": "拓跋珪重建代国、改称魏，击败后燕，解散部落、编户齐民，奠定北魏国家基础。",
+    "game_use": "适合“部落国家转型”型君主：军事扩张与制度建设并重，但内部贵族反弹。",
+    "sources": [
+      "WEISHU",
+      "BEISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "tuoba-hong",
+    "name": "拓跋宏（孝文帝）",
+    "name_en": "Emperor Xiaowen of Northern Wei",
+    "aliases": [
+      "魏孝文帝",
+      "元宏"
+    ],
+    "courtesy_name": null,
+    "birth": 467,
+    "death": 499,
+    "birth_place": "平城",
+    "period": "北朝",
+    "faction_id": "northern-wei",
+    "roles": [
+      "皇帝",
+      "改革家"
+    ],
+    "tags": [
+      "汉化",
+      "迁都",
+      "均田",
+      "三长制"
+    ],
+    "traits": [
+      "理想主义",
+      "果断",
+      "博学",
+      "强势"
+    ],
+    "relationships": [
+      {
+        "target": "tuoba-gui",
+        "type": "祖先",
+        "note": "北魏开国"
+      }
+    ],
+    "events": [
+      "xiaowen-reform",
+      "luoyang-capital"
+    ],
+    "quotes": [],
+    "summary": "孝文帝推行汉化改革，迁都洛阳，改姓元氏，推行均田、三长、官制与礼制改革，深刻改变北朝。",
+    "game_use": "适合“汉化改革”型君主：提升行政与文化整合，但会引发六镇与鲜卑旧贵不满。",
+    "sources": [
+      "WEISHU",
+      "BEISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "liu-yu",
+    "name": "刘裕",
+    "name_en": "Liu Yu",
+    "aliases": [
+      "宋武帝",
+      "刘寄奴"
+    ],
+    "courtesy_name": "寄奴",
+    "birth": 363,
+    "death": 422,
+    "birth_place": "彭城",
+    "period": "东晋",
+    "faction_id": "liu-song",
+    "roles": [
+      "将领",
+      "权臣",
+      "刘宋开国"
+    ],
+    "tags": [
+      "北伐",
+      "寒人",
+      "水军",
+      "开国"
+    ],
+    "traits": [
+      "果决",
+      "勇猛",
+      "节俭",
+      "猜忌"
+    ],
+    "relationships": [
+      {
+        "target": "huan-wen",
+        "type": "旧主",
+        "note": "北府兵出身"
+      },
+      {
+        "target": "sima-rui",
+        "type": "君臣",
+        "note": "东晋皇权"
+      }
+    ],
+    "events": [
+      "northern-expedition",
+      "liu-song-foundation",
+      "que-yue"
+    ],
+    "quotes": [],
+    "summary": "刘裕以北府兵起家，平定桓玄、孙恩，北伐灭南燕后秦，最终代晋建宋。",
+    "game_use": "适合“寒人北伐”型君主：军功与集权强，但门阀支持弱。",
+    "sources": [
+      "SONGSHU",
+      "NANSHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "xiao-daocheng",
+    "name": "萧道成",
+    "name_en": "Xiao Daocheng",
+    "aliases": [
+      "齐高帝",
+      "萧绍伯"
+    ],
+    "courtesy_name": "绍伯",
+    "birth": 427,
+    "death": 482,
+    "birth_place": "兰陵",
+    "period": "南朝",
+    "faction_id": "southern-qi",
+    "roles": [
+      "皇帝",
+      "南齐开国"
+    ],
+    "tags": [
+      "开国",
+      "节俭",
+      "寒人",
+      "佛教"
+    ],
+    "traits": [
+      "沉稳",
+      "节俭",
+      "谨慎",
+      "善权谋"
+    ],
+    "relationships": [
+      {
+        "target": "xiao-yan",
+        "type": "同族",
+        "note": "萧梁开国"
+      }
+    ],
+    "events": [
+      "southern-qi-foundation"
+    ],
+    "quotes": [],
+    "summary": "萧道成乘刘宋内乱代宋建齐，提倡节俭，抑制豪强，为永明之治奠定基础。",
+    "game_use": "适合“节俭开国”型君主：降低财政消耗，提升行政效率。",
+    "sources": [
+      "NANQISHU",
+      "NANSHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "xiao-yan",
+    "name": "萧衍",
+    "name_en": "Xiao Yan",
+    "aliases": [
+      "梁武帝",
+      "萧叔达"
+    ],
+    "courtesy_name": "叔达",
+    "birth": 464,
+    "death": 549,
+    "birth_place": "兰陵",
+    "period": "南朝",
+    "faction_id": "liang",
+    "roles": [
+      "皇帝",
+      "文学家",
+      "佛教护法"
+    ],
+    "tags": [
+      "佛教",
+      "文学",
+      "开国",
+      "侯景"
+    ],
+    "traits": [
+      "博学",
+      "虔诚",
+      "宽纵",
+      "晚年昏聩"
+    ],
+    "relationships": [
+      {
+        "target": "hou-jing",
+        "type": "君臣/叛乱",
+        "note": "侯景之乱"
+      },
+      {
+        "target": "chen-bawang",
+        "type": "君臣",
+        "note": "陈霸先崛起"
+      }
+    ],
+    "events": [
+      "liang-foundation",
+      "hou-jing"
+    ],
+    "quotes": [],
+    "summary": "萧衍建立梁朝，前期文治繁荣、佛教兴盛，晚年因侯景之乱被困饿死，江南残破。",
+    "game_use": "适合“文化盛世+晚年危机”型君主：前期文化经济强，后期需防降将与宗教过度。",
+    "sources": [
+      "LIANGSHU",
+      "NANSHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "chen-bawang",
+    "name": "陈霸先",
+    "name_en": "Chen Baxian",
+    "aliases": [
+      "陈武帝",
+      "陈兴国"
+    ],
+    "courtesy_name": "兴国",
+    "birth": 503,
+    "death": 559,
+    "birth_place": "吴兴长城",
+    "period": "南朝",
+    "faction_id": "chen",
+    "roles": [
+      "皇帝",
+      "陈朝开国"
+    ],
+    "tags": [
+      "开国",
+      "岭南",
+      "水军",
+      "寒人"
+    ],
+    "traits": [
+      "果决",
+      "节俭",
+      "善战",
+      "务实"
+    ],
+    "relationships": [
+      {
+        "target": "hou-jing",
+        "type": "对手",
+        "note": "平定侯景之乱"
+      },
+      {
+        "target": "xiao-yan",
+        "type": "旧主",
+        "note": "梁臣出身"
+      }
+    ],
+    "events": [
+      "hou-jing",
+      "chen-foundation"
+    ],
+    "quotes": [],
+    "summary": "陈霸先出身寒微，起兵岭南，平定侯景之乱，后受禅建立陈朝，是南朝最后的开国君主。",
+    "game_use": "适合“寒门军功”型君主：起家资源少，但平叛与水战强。",
+    "sources": [
+      "CHENSHU",
+      "NANSHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "hou-jing",
+    "name": "侯景",
+    "name_en": "Hou Jing",
+    "aliases": [
+      "侯万景",
+      "宇宙大将军"
+    ],
+    "courtesy_name": null,
+    "birth": 503,
+    "death": 552,
+    "birth_place": "朔方",
+    "period": "南朝",
+    "faction_id": "liang",
+    "roles": [
+      "降将",
+      "叛军首领"
+    ],
+    "tags": [
+      "叛乱",
+      "羯胡",
+      "建康",
+      "破坏"
+    ],
+    "traits": [
+      "反复",
+      "残暴",
+      "善战",
+      "野心"
+    ],
+    "relationships": [
+      {
+        "target": "xiao-yan",
+        "type": "君臣/叛乱",
+        "note": "侯景之乱"
+      },
+      {
+        "target": "chen-bawang",
+        "type": "对手",
+        "note": "被陈霸先平定"
+      }
+    ],
+    "events": [
+      "hou-jing"
+    ],
+    "quotes": [],
+    "summary": "侯景原为东魏降将，投梁后发动叛乱，攻陷建康，饿死梁武帝，导致江南空前浩劫。",
+    "game_use": "适合“降将反叛”事件链：高军事低忠诚，触发后破坏力极大。",
+    "sources": [
+      "LIANGSHU",
+      "NANSHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "gao-huan",
+    "name": "高欢",
+    "name_en": "Gao Huan",
+    "aliases": [
+      "高贺六浑",
+      "北齐神武帝"
+    ],
+    "courtesy_name": "贺六浑",
+    "birth": 496,
+    "death": 547,
+    "birth_place": "渤海蓨县",
+    "period": "北朝",
+    "faction_id": "eastern-wei",
+    "roles": [
+      "权臣",
+      "晋阳霸府"
+    ],
+    "tags": [
+      "六镇",
+      "鲜卑",
+      "权臣",
+      "东魏"
+    ],
+    "traits": [
+      "雄豪",
+      "善用人",
+      "隐忍",
+      "权谋"
+    ],
+    "relationships": [
+      {
+        "target": "yuwen-tai",
+        "type": "对手",
+        "note": "东西魏对峙"
+      },
+      {
+        "target": "hou-jing",
+        "type": "君臣/叛离",
+        "note": "侯景降梁"
+      }
+    ],
+    "events": [
+      "six-garrisons",
+      "east-west-division",
+      "shayuan"
+    ],
+    "quotes": [],
+    "summary": "高欢以六镇余部起家，控制东魏朝政，与宇文泰东西对峙，奠定北齐基业。",
+    "game_use": "适合“霸府权臣”型领袖：军事与用人强，但族群与继承问题多。",
+    "sources": [
+      "BEIQISHU",
+      "BEISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "yuwen-tai",
+    "name": "宇文泰",
+    "name_en": "Yuwen Tai",
+    "aliases": [
+      "宇文黑獭",
+      "北周文帝"
+    ],
+    "courtesy_name": "黑獭",
+    "birth": 507,
+    "death": 556,
+    "birth_place": "代郡武川",
+    "period": "北朝",
+    "faction_id": "western-wei",
+    "roles": [
+      "权臣",
+      "关陇集团领袖"
+    ],
+    "tags": [
+      "府兵",
+      "六官",
+      "关陇",
+      "改革"
+    ],
+    "traits": [
+      "深沉",
+      "果决",
+      "善制度",
+      "隐忍"
+    ],
+    "relationships": [
+      {
+        "target": "gao-huan",
+        "type": "对手",
+        "note": "东西魏对峙"
+      },
+      {
+        "target": "yuwen-yong",
+        "type": "父子",
+        "note": "北周武帝"
+      }
+    ],
+    "events": [
+      "east-west-division",
+      "shayuan",
+      "fubing"
+    ],
+    "quotes": [],
+    "summary": "宇文泰控制西魏，创立府兵制与六官制度，整合关陇豪强，奠定北周隋唐的制度基础。",
+    "game_use": "适合“弱势制度创新”型领袖：以制度改革弥补国力差距。",
+    "sources": [
+      "ZHOUSHU",
+      "BEISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "yuwen-yong",
+    "name": "宇文邕",
+    "name_en": "Yuwen Yong",
+    "aliases": [
+      "北周武帝",
+      "宇文祢罗突"
+    ],
+    "courtesy_name": "祢罗突",
+    "birth": 543,
+    "death": 578,
+    "birth_place": "长安",
+    "period": "北朝",
+    "faction_id": "northern-zhou",
+    "roles": [
+      "皇帝",
+      "统一者"
+    ],
+    "tags": [
+      "灭北齐",
+      "灭佛",
+      "府兵",
+      "改革"
+    ],
+    "traits": [
+      "隐忍",
+      "果断",
+      "节俭",
+      "雄才"
+    ],
+    "relationships": [
+      {
+        "target": "yuwen-tai",
+        "type": "父子",
+        "note": "北周文帝"
+      },
+      {
+        "target": "yang-jian",
+        "type": "君臣/隐患",
+        "note": "外戚杨坚"
+      }
+    ],
+    "events": [
+      "northern-zhou-foundation",
+      "northern-qi-conquest",
+      "persecution-buddhism"
+    ],
+    "quotes": [],
+    "summary": "周武帝宇文邕诛宇文护亲政，灭北齐统一北方，推行灭佛与府兵改革，为隋统一奠定基础。",
+    "game_use": "适合“隐忍反击”型君主：前期受权臣压制，亲政后爆发式扩张。",
+    "sources": [
+      "ZHOUSHU",
+      "BEISHI",
+      "SUISHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "yang-jian",
+    "name": "杨坚",
+    "name_en": "Yang Jian",
+    "aliases": [
+      "隋文帝",
+      "杨那罗延"
+    ],
+    "courtesy_name": "那罗延",
+    "birth": 541,
+    "death": 604,
+    "birth_place": "弘农华阴",
+    "period": "隋",
+    "faction_id": "sui",
+    "roles": [
+      "皇帝",
+      "开国君主"
+    ],
+    "tags": [
+      "统一",
+      "三省六部",
+      "科举",
+      "均田"
+    ],
+    "traits": [
+      "节俭",
+      "多疑",
+      "勤政",
+      "严苛"
+    ],
+    "relationships": [
+      {
+        "target": "du-gu-jialuo",
+        "type": "夫妻",
+        "note": "独孤皇后"
+      },
+      {
+        "target": "yang-guang",
+        "type": "父子",
+        "note": "隋炀帝"
+      },
+      {
+        "target": "yuwen-yong",
+        "type": "君臣/篡位",
+        "note": "北周外戚"
+      }
+    ],
+    "events": [
+      "sui-foundation",
+      "chen-conquest",
+      "three-departments"
+    ],
+    "quotes": [],
+    "summary": "杨坚代周建隋，统一南北，推行三省六部、科举、均田与律令改革，开创开皇之治。",
+    "game_use": "适合“制度重建+统一”型君主：行政效率与财政强，但严苛与继承问题突出。",
+    "sources": [
+      "SUISHU",
+      "BEISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "du-gu-jialuo",
+    "name": "独孤伽罗",
+    "name_en": "Empress Dugu Qieluo",
+    "aliases": [
+      "独孤皇后",
+      "文献皇后"
+    ],
+    "courtesy_name": null,
+    "birth": 544,
+    "death": 602,
+    "birth_place": "洛阳",
+    "period": "隋",
+    "faction_id": "sui",
+    "roles": [
+      "皇后",
+      "政治参与者"
+    ],
+    "tags": [
+      "女性",
+      "关陇",
+      "宫廷",
+      "一夫一妻"
+    ],
+    "traits": [
+      "刚毅",
+      "聪慧",
+      "善妒",
+      "强势"
+    ],
+    "relationships": [
+      {
+        "target": "yang-jian",
+        "type": "夫妻",
+        "note": "并称二圣"
+      },
+      {
+        "target": "yang-guang",
+        "type": "母子",
+        "note": "隋炀帝"
+      }
+    ],
+    "events": [
+      "sui-foundation"
+    ],
+    "quotes": [],
+    "summary": "独孤伽罗为隋文帝皇后，深度参与朝政，与杨坚并称二圣，对隋初政治影响巨大。",
+    "game_use": "适合“强势皇后”型宫廷角色：提升皇权稳定与继承控制，但会干预决策。",
+    "sources": [
+      "SUISHU",
+      "BEISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "zu-ti",
+    "name": "祖逖",
+    "name_en": "Zu Ti",
+    "aliases": [
+      "祖士稚"
+    ],
+    "courtesy_name": "士稚",
+    "birth": 266,
+    "death": 321,
+    "birth_place": "范阳遒县",
+    "period": "东晋",
+    "faction_id": "eastern-jin",
+    "roles": [
+      "将领",
+      "北伐统帅"
+    ],
+    "tags": [
+      "北伐",
+      "闻鸡起舞",
+      "流民",
+      "河南"
+    ],
+    "traits": [
+      "豪迈",
+      "坚毅",
+      "善动员",
+      "忠勇"
+    ],
+    "relationships": [
+      {
+        "target": "sima-rui",
+        "type": "君臣",
+        "note": "北伐未获全力支持"
+      }
+    ],
+    "events": [
+      "northern-expedition"
+    ],
+    "quotes": [],
+    "summary": "祖逖闻鸡起舞，率流民北伐，收复黄河以南，但因东晋内斗与朝廷猜忌忧愤而死。",
+    "game_use": "适合“孤军北伐”型将领：流民动员与士气强，但后勤与朝廷支持不足。",
+    "sources": [
+      "JINSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "tao-yuanming",
+    "name": "陶渊明",
+    "name_en": "Tao Yuanming",
+    "aliases": [
+      "陶潜",
+      "五柳先生",
+      "陶元亮"
+    ],
+    "courtesy_name": "元亮",
+    "birth": 365,
+    "death": 427,
+    "birth_place": "浔阳柴桑",
+    "period": "东晋",
+    "faction_id": "eastern-jin",
+    "roles": [
+      "诗人",
+      "隐士"
+    ],
+    "tags": [
+      "文学",
+      "田园",
+      "隐逸",
+      "酒"
+    ],
+    "traits": [
+      "淡泊",
+      "真率",
+      "孤高",
+      "爱酒"
+    ],
+    "relationships": [],
+    "events": [],
+    "quotes": [
+      {
+        "text": "采菊东篱下，悠然见南山。",
+        "source": "文选《饮酒》"
+      }
+    ],
+    "summary": "陶渊明为东晋田园诗代表，不为五斗米折腰，归隐后创作大量田园诗与《桃花源记》。",
+    "game_use": "适合“文化声望+隐逸”型人物：提升文教与民心，但不愿出仕。",
+    "sources": [
+      "JINSHU",
+      "SONGSHU",
+      "WENXUAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wang-xizhi",
+    "name": "王羲之",
+    "name_en": "Wang Xizhi",
+    "aliases": [
+      "王逸少",
+      "书圣"
+    ],
+    "courtesy_name": "逸少",
+    "birth": 303,
+    "death": 361,
+    "birth_place": "琅琊临沂",
+    "period": "东晋",
+    "faction_id": "eastern-jin",
+    "roles": [
+      "书法家",
+      "官员"
+    ],
+    "tags": [
+      "书法",
+      "兰亭",
+      "门阀",
+      "文化"
+    ],
+    "traits": [
+      "飘逸",
+      "率真",
+      "清高",
+      "善书"
+    ],
+    "relationships": [
+      {
+        "target": "wang-dao",
+        "type": "同族",
+        "note": "琅琊王氏"
+      },
+      {
+        "target": "xie-an",
+        "type": "友人",
+        "note": "兰亭雅集"
+      }
+    ],
+    "events": [
+      "lanting"
+    ],
+    "quotes": [],
+    "summary": "王羲之为东晋书法家，代表作《兰亭集序》被誉为天下第一行书，代表魏晋风度与门阀文化。",
+    "game_use": "适合“文化名人”型角色：提升声望与文化输出，可触发兰亭雅集事件。",
+    "sources": [
+      "JINSHU",
+      "SHISHUOXINYU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "gu-kaizhi",
+    "name": "顾恺之",
+    "name_en": "Gu Kaizhi",
+    "aliases": [
+      "顾长康",
+      "虎头"
+    ],
+    "courtesy_name": "长康",
+    "birth": 348,
+    "death": 409,
+    "birth_place": "晋陵无锡",
+    "period": "东晋",
+    "faction_id": "eastern-jin",
+    "roles": [
+      "画家",
+      "文学家"
+    ],
+    "tags": [
+      "绘画",
+      "传神",
+      "文化",
+      "江南"
+    ],
+    "traits": [
+      "痴黠",
+      "才绝",
+      "画绝",
+      "率真"
+    ],
+    "relationships": [],
+    "events": [],
+    "quotes": [],
+    "summary": "顾恺之为东晋画家，提出“传神写照”，代表作《女史箴图》《洛神赋图》，是中国绘画史的关键人物。",
+    "game_use": "适合“艺术+建筑装饰”型角色：提升城市文化值与绘画事件。",
+    "sources": [
+      "JINSHU",
+      "SHISHUOXINYU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "faxian",
+    "name": "法显",
+    "name_en": "Faxian",
+    "aliases": [
+      "法显大师",
+      "释法显"
+    ],
+    "courtesy_name": null,
+    "birth": 337,
+    "death": 422,
+    "birth_place": "平阳武阳",
+    "period": "东晋",
+    "faction_id": "eastern-jin",
+    "roles": [
+      "僧人",
+      "旅行家",
+      "翻译家"
+    ],
+    "tags": [
+      "佛教",
+      "求法",
+      "天竺",
+      "游记"
+    ],
+    "traits": [
+      "坚毅",
+      "虔诚",
+      "勇敢",
+      "博学"
+    ],
+    "relationships": [],
+    "events": [
+      "faxian-pilgrimage"
+    ],
+    "quotes": [],
+    "summary": "法显以六十余岁高龄西行求法，游历天竺、师子国，归国后译经并撰《佛国记》。",
+    "game_use": "适合“求法旅行”事件链：解锁南亚地理、佛教经典与航海路线。",
+    "sources": [
+      "GAOSENGZHUAN",
+      "CHUSANZANGJIJI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "li-daoyuan",
+    "name": "郦道元",
+    "name_en": "Li Daoyuan",
+    "aliases": [
+      "郦善长"
+    ],
+    "courtesy_name": "善长",
+    "birth": 472,
+    "death": 527,
+    "birth_place": "范阳涿县",
+    "period": "北朝",
+    "faction_id": "northern-wei",
+    "roles": [
+      "地理学家",
+      "官员"
+    ],
+    "tags": [
+      "地理",
+      "水经注",
+      "水文",
+      "北朝"
+    ],
+    "traits": [
+      "严谨",
+      "博学",
+      "刚直",
+      "勤政"
+    ],
+    "relationships": [],
+    "events": [
+      "six-garrisons"
+    ],
+    "quotes": [],
+    "summary": "郦道元撰《水经注》，以水道为纲记录城邑、山川、碑刻、风俗，是中古地理学巨著。",
+    "game_use": "适合“地理情报”型人物：解锁河流、城邑、关隘与行军路线。",
+    "sources": [
+      "WEISHU",
+      "BEISHI",
+      "SHUIJINGZHU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "jia-sixie",
+    "name": "贾思勰",
+    "name_en": "Jia Sixie",
+    "aliases": [
+      "贾思勰"
+    ],
+    "courtesy_name": null,
+    "birth": 470,
+    "death": 550,
+    "birth_place": "齐郡益都",
+    "period": "北朝",
+    "faction_id": "northern-wei",
+    "roles": [
+      "农学家",
+      "官员"
+    ],
+    "tags": [
+      "农业",
+      "齐民要术",
+      "食物",
+      "手工业"
+    ],
+    "traits": [
+      "务实",
+      "严谨",
+      "博学",
+      "重实验"
+    ],
+    "relationships": [],
+    "events": [],
+    "quotes": [],
+    "summary": "贾思勰撰《齐民要术》，系统总结北朝农业、畜牧、食品加工与手工业技术。",
+    "game_use": "适合“农业技术”型人物：提升粮食产量、食品加工与灾害韧性。",
+    "sources": [
+      "WEISHU",
+      "QIMINYAOSHU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "yan-zhitui",
+    "name": "颜之推",
+    "name_en": "Yan Zhitui",
+    "aliases": [
+      "颜介",
+      "颜氏家训作者"
+    ],
+    "courtesy_name": "介",
+    "birth": 531,
+    "death": 591,
+    "birth_place": "琅琊临沂",
+    "period": "南朝",
+    "faction_id": "northern-qi",
+    "roles": [
+      "学者",
+      "官员",
+      "教育家"
+    ],
+    "tags": [
+      "家训",
+      "教育",
+      "南北朝",
+      "士族"
+    ],
+    "traits": [
+      "博学",
+      "务实",
+      "谨慎",
+      "重视家教"
+    ],
+    "relationships": [],
+    "events": [
+      "hou-jing",
+      "northern-qi-conquest"
+    ],
+    "quotes": [],
+    "summary": "颜之推历仕梁、北齐、北周、隋，撰《颜氏家训》，记录南北朝士族生活、教育与风俗。",
+    "game_use": "适合“教育+家族传承”型角色：提升家族子弟属性与家风稳定。",
+    "sources": [
+      "BEIQISHU",
+      "BEISHI",
+      "YANSHIJIAXUN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "li-yuan",
+    "name": "李渊",
+    "name_en": "Li Yuan",
+    "aliases": [
+      "唐高祖",
+      "李叔德"
+    ],
+    "courtesy_name": "叔德",
+    "birth": 566,
+    "death": 635,
+    "birth_place": "长安",
+    "period": "初唐",
+    "faction_id": "tang",
+    "roles": [
+      "皇帝",
+      "唐开国"
+    ],
+    "tags": [
+      "开国",
+      "关陇",
+      "太原起兵",
+      "禅让"
+    ],
+    "traits": [
+      "沉稳",
+      "谨慎",
+      "善用人",
+      "优柔"
+    ],
+    "relationships": [
+      {
+        "target": "li-shimin",
+        "type": "父子",
+        "note": "玄武门之变"
+      },
+      {
+        "target": "yang-jian",
+        "type": "君臣/亲戚",
+        "note": "隋室外戚"
+      }
+    ],
+    "events": [
+      "taiyuan-uprising",
+      "tang-foundation",
+      "xuanwu-gate"
+    ],
+    "quotes": [],
+    "summary": "李渊以太原留守起兵，入长安、代隋建唐，统一全国，晚年因玄武门之变退位。",
+    "game_use": "适合“关陇起兵”型开国君主：初期资源强，继承危机需提前布局。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "li-shimin",
+    "name": "李世民",
+    "name_en": "Li Shimin",
+    "aliases": [
+      "唐太宗",
+      "天可汗"
+    ],
+    "courtesy_name": null,
+    "birth": 598,
+    "death": 649,
+    "birth_place": "武功",
+    "period": "初唐",
+    "faction_id": "tang",
+    "roles": [
+      "皇帝",
+      "军事统帅"
+    ],
+    "tags": [
+      "贞观",
+      "天可汗",
+      "玄武门",
+      "纳谏"
+    ],
+    "traits": [
+      "雄才",
+      "果决",
+      "善纳谏",
+      "好胜"
+    ],
+    "relationships": [
+      {
+        "target": "li-yuan",
+        "type": "父子",
+        "note": "玄武门之变"
+      },
+      {
+        "target": "wei-zheng",
+        "type": "君臣",
+        "note": "纳谏典范"
+      },
+      {
+        "target": "wu-zetian",
+        "type": "君臣/才人",
+        "note": "武则天入宫"
+      }
+    ],
+    "events": [
+      "xuanwu-gate",
+      "zhenguan",
+      "eastern-turk-conquest",
+      "gaochang"
+    ],
+    "quotes": [
+      {
+        "text": "以铜为镜，可以正衣冠；以古为镜，可以知兴替；以人为镜，可以明得失。",
+        "source": "贞观政要"
+      }
+    ],
+    "summary": "李世民经玄武门之变即位，开创贞观之治，灭东突厥、经营西域，被尊为天可汗。",
+    "game_use": "适合“军政全才+纳谏”型君主：战斗与治理都强，但继承安排是隐患。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZHENGGUANZHENGYAO",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wu-zetian",
+    "name": "武则天",
+    "name_en": "Wu Zetian",
+    "aliases": [
+      "武曌",
+      "则天大圣皇帝",
+      "武后"
+    ],
+    "courtesy_name": null,
+    "birth": 624,
+    "death": 705,
+    "birth_place": "利州",
+    "period": "初唐",
+    "faction_id": "wu-zhou",
+    "roles": [
+      "皇后",
+      "皇帝",
+      "开国君主"
+    ],
+    "tags": [
+      "女主",
+      "科举",
+      "佛教",
+      "酷吏"
+    ],
+    "traits": [
+      "果决",
+      "权谋",
+      "博学",
+      "残酷"
+    ],
+    "relationships": [
+      {
+        "target": "li-shimin",
+        "type": "君臣/才人",
+        "note": "太宗才人"
+      },
+      {
+        "target": "li-longji",
+        "type": "祖孙",
+        "note": "唐玄宗"
+      }
+    ],
+    "events": [
+      "wu-zhou",
+      "restoration-tang",
+      "imperial-exams"
+    ],
+    "quotes": [],
+    "summary": "武则天由才人、皇后到皇帝，改唐为周，扩大科举、崇佛、用酷吏，晚年被迫复唐。",
+    "game_use": "适合“合法性重建”型君主：打破门阀、提拔寒门，但统治成本与反对派压力高。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "li-longji",
+    "name": "李隆基",
+    "name_en": "Li Longji",
+    "aliases": [
+      "唐玄宗",
+      "唐明皇",
+      "李三郎"
+    ],
+    "courtesy_name": null,
+    "birth": 685,
+    "death": 762,
+    "birth_place": "洛阳",
+    "period": "盛唐",
+    "faction_id": "tang",
+    "roles": [
+      "皇帝",
+      "音乐家"
+    ],
+    "tags": [
+      "开元",
+      "天宝",
+      "安史之乱",
+      "梨园"
+    ],
+    "traits": [
+      "英明",
+      "多才",
+      "浪漫",
+      "晚年昏聩"
+    ],
+    "relationships": [
+      {
+        "target": "yang-guifei",
+        "type": "夫妻",
+        "note": "杨贵妃"
+      },
+      {
+        "target": "an-lushan",
+        "type": "君臣/叛乱",
+        "note": "安史之乱"
+      },
+      {
+        "target": "li-mi",
+        "type": "君臣",
+        "note": "肃宗谋臣"
+      }
+    ],
+    "events": [
+      "kaiyuan",
+      "tianbao",
+      "an-lushan-rebellion",
+      "mawei"
+    ],
+    "quotes": [],
+    "summary": "唐玄宗前期开创开元盛世，后期怠政、宠信边将，导致安史之乱，唐由盛转衰。",
+    "game_use": "适合“盛世转衰”型君主：前期经济文化爆发，后期需防边镇与宫廷腐败。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN",
+      "KAIYUANTIANBAOYISHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "yang-guifei",
+    "name": "杨贵妃",
+    "name_en": "Yang Guifei",
+    "aliases": [
+      "杨玉环",
+      "太真"
+    ],
+    "courtesy_name": null,
+    "birth": 719,
+    "death": 756,
+    "birth_place": "蒲州永乐",
+    "period": "盛唐",
+    "faction_id": "tang",
+    "roles": [
+      "贵妃",
+      "宫廷"
+    ],
+    "tags": [
+      "宫廷",
+      "音乐",
+      "舞蹈",
+      "马嵬"
+    ],
+    "traits": [
+      "美貌",
+      "才艺",
+      "受宠",
+      "政治被动"
+    ],
+    "relationships": [
+      {
+        "target": "li-longji",
+        "type": "夫妻",
+        "note": "唐玄宗"
+      },
+      {
+        "target": "an-lushan",
+        "type": "传闻",
+        "note": "安禄山入朝"
+      }
+    ],
+    "events": [
+      "tianbao",
+      "an-lushan-rebellion",
+      "mawei"
+    ],
+    "quotes": [],
+    "summary": "杨贵妃为唐玄宗宠妃，通音律、善歌舞，安史之乱中随玄宗西逃，死于马嵬驿。",
+    "game_use": "适合“宫廷文化+危机”型角色：提升宫廷文化，但过度宠信会降低朝政效率。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "an-lushan",
+    "name": "安禄山",
+    "name_en": "An Lushan",
+    "aliases": [
+      "安禄山",
+      "轧荦山"
+    ],
+    "courtesy_name": null,
+    "birth": 703,
+    "death": 757,
+    "birth_place": "营州柳城",
+    "period": "盛唐",
+    "faction_id": "yan-lushan",
+    "roles": [
+      "节度使",
+      "叛乱首领",
+      "皇帝"
+    ],
+    "tags": [
+      "粟特",
+      "边镇",
+      "骑兵",
+      "安史之乱"
+    ],
+    "traits": [
+      "狡黠",
+      "勇猛",
+      "善逢迎",
+      "残暴"
+    ],
+    "relationships": [
+      {
+        "target": "li-longji",
+        "type": "君臣/叛乱",
+        "note": "三镇节度使"
+      },
+      {
+        "target": "shi-siming",
+        "type": "同伙/对手",
+        "note": "安史集团"
+      },
+      {
+        "target": "yang-guifei",
+        "type": "养母/传闻",
+        "note": "宫廷关系"
+      }
+    ],
+    "events": [
+      "an-lushan-rebellion",
+      "luoyang-fall",
+      "mawei"
+    ],
+    "quotes": [],
+    "summary": "安禄山以范阳、平卢、河东三镇节度使起兵，攻陷洛阳长安，建立大燕，后被其子安庆绪所杀。",
+    "game_use": "适合“边镇反叛”事件链：前期忠诚高、军力强，触发后成为超级叛乱势力。",
+    "sources": [
+      "ANSHANSHIJI",
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "shi-siming",
+    "name": "史思明",
+    "name_en": "Shi Siming",
+    "aliases": [
+      "史窣干",
+      "大燕皇帝"
+    ],
+    "courtesy_name": null,
+    "birth": 703,
+    "death": 761,
+    "birth_place": "营州",
+    "period": "中唐",
+    "faction_id": "shi-siming-yan",
+    "roles": [
+      "节度使",
+      "叛乱首领",
+      "皇帝"
+    ],
+    "tags": [
+      "粟特",
+      "边镇",
+      "骑兵",
+      "安史之乱"
+    ],
+    "traits": [
+      "狡诈",
+      "善战",
+      "残暴",
+      "野心"
+    ],
+    "relationships": [
+      {
+        "target": "an-lushan",
+        "type": "同伙",
+        "note": "安史集团"
+      },
+      {
+        "target": "shi-chaoyi",
+        "type": "父子",
+        "note": "被其子所杀"
+      }
+    ],
+    "events": [
+      "an-lushan-rebellion",
+      "ye-city",
+      "shi-chaoyi"
+    ],
+    "quotes": [],
+    "summary": "史思明为安禄山部将，安死后继续叛乱，称帝建燕，后被其子史朝义所杀。",
+    "game_use": "适合“叛乱延续”型势力：继承安禄山军力，但内部弑杀频繁。",
+    "sources": [
+      "ANSHANSHIJI",
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "guo-ziyi",
+    "name": "郭子仪",
+    "name_en": "Guo Ziyi",
+    "aliases": [
+      "郭令公",
+      "汾阳王"
+    ],
+    "courtesy_name": "子仪",
+    "birth": 697,
+    "death": 781,
+    "birth_place": "华州郑县",
+    "period": "中唐",
+    "faction_id": "shuo-fang",
+    "roles": [
+      "将领",
+      "宰相"
+    ],
+    "tags": [
+      "平叛",
+      "朔方",
+      "回鹘",
+      "吐蕃"
+    ],
+    "traits": [
+      "沉稳",
+      "忠谨",
+      "善协调",
+      "宽厚"
+    ],
+    "relationships": [
+      {
+        "target": "li-guangbi",
+        "type": "同僚/对手",
+        "note": "平叛双璧"
+      },
+      {
+        "target": "li-longji",
+        "type": "君臣",
+        "note": "安史之乱"
+      },
+      {
+        "target": "pugu-huai-en",
+        "type": "同僚/叛乱",
+        "note": "朔方军内乱"
+      }
+    ],
+    "events": [
+      "an-lushan-rebellion",
+      "tibet-invasion",
+      "shuo-fang"
+    ],
+    "quotes": [],
+    "summary": "郭子仪为平定安史之乱的核心统帅，后镇守朔方，单骑退回鹘，屡次挽救唐廷。",
+    "game_use": "适合“救火队长”型统帅：防御、外交、平叛都强，但难以根除藩镇。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "li-guangbi",
+    "name": "李光弼",
+    "name_en": "Li Guangbi",
+    "aliases": [
+      "李临淮",
+      "李光弼"
+    ],
+    "courtesy_name": null,
+    "birth": 708,
+    "death": 764,
+    "birth_place": "营州柳城",
+    "period": "中唐",
+    "faction_id": "shuo-fang",
+    "roles": [
+      "将领",
+      "平叛统帅"
+    ],
+    "tags": [
+      "平叛",
+      "契丹",
+      "太原",
+      "河阳"
+    ],
+    "traits": [
+      "严整",
+      "果决",
+      "善守",
+      "寡恩"
+    ],
+    "relationships": [
+      {
+        "target": "guo-ziyi",
+        "type": "同僚/对手",
+        "note": "平叛双璧"
+      },
+      {
+        "target": "shi-siming",
+        "type": "对手",
+        "note": "河阳之战"
+      }
+    ],
+    "events": [
+      "an-lushan-rebellion",
+      "taiyuan-defense",
+      "heyang"
+    ],
+    "quotes": [],
+    "summary": "李光弼为契丹族唐将，太原保卫战与河阳之战屡败叛军，与郭子仪并称平叛双璧。",
+    "game_use": "适合“防御战大师”型将领：守城与反击强，但人际关系与政治自保弱。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "li-mi",
+    "name": "李泌",
+    "name_en": "Li Mi",
+    "aliases": [
+      "李长源",
+      "邺侯"
+    ],
+    "courtesy_name": "长源",
+    "birth": 722,
+    "death": 789,
+    "birth_place": "辽东襄平",
+    "period": "中唐",
+    "faction_id": "tang",
+    "roles": [
+      "谋臣",
+      "宰相",
+      "道士"
+    ],
+    "tags": [
+      "战略",
+      "财政",
+      "外交",
+      "道教"
+    ],
+    "traits": [
+      "聪慧",
+      "淡泊",
+      "善谋",
+      "神秘"
+    ],
+    "relationships": [
+      {
+        "target": "li-longji",
+        "type": "君臣",
+        "note": "玄宗朝"
+      },
+      {
+        "target": "tang-dezong",
+        "type": "君臣",
+        "note": "德宗朝宰相"
+      }
+    ],
+    "events": [
+      "an-lushan-rebellion",
+      "jingyuan-mutiny"
+    ],
+    "quotes": [],
+    "summary": "李泌历仕四朝，善谋略与财政，安史之乱中辅佐肃宗，德宗朝调解藩镇与回鹘关系。",
+    "game_use": "适合“幕后谋士”型角色：外交、财政与危机处理强，但不掌兵。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "yan-zhenqing",
+    "name": "颜真卿",
+    "name_en": "Yan Zhenqing",
+    "aliases": [
+      "颜清臣",
+      "颜鲁公"
+    ],
+    "courtesy_name": "清臣",
+    "birth": 709,
+    "death": 785,
+    "birth_place": "京兆万年",
+    "period": "中唐",
+    "faction_id": "tang",
+    "roles": [
+      "书法家",
+      "官员",
+      "节度使"
+    ],
+    "tags": [
+      "书法",
+      "忠烈",
+      "平原",
+      "安史之乱"
+    ],
+    "traits": [
+      "刚正",
+      "忠烈",
+      "博学",
+      "善守"
+    ],
+    "relationships": [
+      {
+        "target": "an-lushan",
+        "type": "对手",
+        "note": "平原抵抗"
+      },
+      {
+        "target": "li-xilie",
+        "type": "对手",
+        "note": "被李希烈杀害"
+      }
+    ],
+    "events": [
+      "an-lushan-rebellion",
+      "huai-xi"
+    ],
+    "quotes": [],
+    "summary": "颜真卿为唐代书法大家，安史之乱中坚守平原，后奉使淮西被李希烈杀害，以忠烈与颜体书法闻名。",
+    "game_use": "适合“忠烈文臣”型角色：提升民心与士气，外交出使风险高。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "du-fu",
+    "name": "杜甫",
+    "name_en": "Du Fu",
+    "aliases": [
+      "杜子美",
+      "诗圣",
+      "少陵野老"
+    ],
+    "courtesy_name": "子美",
+    "birth": 712,
+    "death": 770,
+    "birth_place": "巩县",
+    "period": "盛唐",
+    "faction_id": "tang",
+    "roles": [
+      "诗人",
+      "官员"
+    ],
+    "tags": [
+      "诗歌",
+      "安史之乱",
+      "民生",
+      "现实主义"
+    ],
+    "traits": [
+      "忧国",
+      "沉郁",
+      "严谨",
+      "漂泊"
+    ],
+    "relationships": [
+      {
+        "target": "li-bai",
+        "type": "友人",
+        "note": "李杜之交"
+      }
+    ],
+    "events": [
+      "an-lushan-rebellion",
+      "chengdu"
+    ],
+    "quotes": [
+      {
+        "text": "国破山河在，城春草木深。",
+        "source": "全唐诗《春望》"
+      }
+    ],
+    "summary": "杜甫历经盛唐至中唐，以诗记录安史之乱与民生疾苦，被尊为诗圣。",
+    "game_use": "适合“民生记录者”型角色：提升民心与文化，可触发战乱诗歌事件。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "QUANTANGSHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "li-bai",
+    "name": "李白",
+    "name_en": "Li Bai",
+    "aliases": [
+      "李太白",
+      "青莲居士",
+      "诗仙"
+    ],
+    "courtesy_name": "太白",
+    "birth": 701,
+    "death": 762,
+    "birth_place": "碎叶（一说绵州）",
+    "period": "盛唐",
+    "faction_id": "tang",
+    "roles": [
+      "诗人",
+      "翰林供奉"
+    ],
+    "tags": [
+      "诗歌",
+      "道教",
+      "游侠",
+      "盛唐"
+    ],
+    "traits": [
+      "豪放",
+      "浪漫",
+      "自负",
+      "好酒"
+    ],
+    "relationships": [
+      {
+        "target": "du-fu",
+        "type": "友人",
+        "note": "李杜之交"
+      },
+      {
+        "target": "li-longji",
+        "type": "君臣",
+        "note": "翰林供奉"
+      }
+    ],
+    "events": [
+      "kaiyuan",
+      "an-lushan-rebellion"
+    ],
+    "quotes": [
+      {
+        "text": "天生我材必有用，千金散尽还复来。",
+        "source": "全唐诗《将进酒》"
+      }
+    ],
+    "summary": "李白为盛唐浪漫主义诗歌代表，供奉翰林，后因永王李璘案流放夜郎，遇赦而还。",
+    "game_use": "适合“文化名人+游侠”型角色：提升声望与文化，但政治判断力低。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "QUANTANGSHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "han-yu",
+    "name": "韩愈",
+    "name_en": "Han Yu",
+    "aliases": [
+      "韩退之",
+      "韩昌黎"
+    ],
+    "courtesy_name": "退之",
+    "birth": 768,
+    "death": 824,
+    "birth_place": "河阳",
+    "period": "中唐",
+    "faction_id": "tang",
+    "roles": [
+      "文学家",
+      "官员",
+      "思想家"
+    ],
+    "tags": [
+      "古文运动",
+      "儒学",
+      "谏迎佛骨",
+      "潮州"
+    ],
+    "traits": [
+      "刚直",
+      "博学",
+      "好辩",
+      "忠愤"
+    ],
+    "relationships": [
+      {
+        "target": "liu-zongyuan",
+        "type": "友人/同僚",
+        "note": "古文运动"
+      }
+    ],
+    "events": [
+      "yongzhen-reform",
+      "huai-xi"
+    ],
+    "quotes": [
+      {
+        "text": "业精于勤，荒于嬉；行成于思，毁于随。",
+        "source": "韩愈《进学解》"
+      }
+    ],
+    "summary": "韩愈为唐代古文运动领袖，倡导恢复儒家道统，因谏迎佛骨被贬潮州，后官至吏部侍郎。",
+    "game_use": "适合“文教+意识形态”型角色：提升儒学正统与文化整合，但直言会触怒皇权。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "liu-zongyuan",
+    "name": "柳宗元",
+    "name_en": "Liu Zongyuan",
+    "aliases": [
+      "柳子厚",
+      "柳河东"
+    ],
+    "courtesy_name": "子厚",
+    "birth": 773,
+    "death": 819,
+    "birth_place": "河东解县",
+    "period": "中唐",
+    "faction_id": "tang",
+    "roles": [
+      "文学家",
+      "官员",
+      "思想家"
+    ],
+    "tags": [
+      "古文运动",
+      "永贞革新",
+      "柳州",
+      "山水"
+    ],
+    "traits": [
+      "聪敏",
+      "刚直",
+      "抑郁",
+      "博学"
+    ],
+    "relationships": [
+      {
+        "target": "han-yu",
+        "type": "友人/同僚",
+        "note": "古文运动"
+      },
+      {
+        "target": "liu-yuxi",
+        "type": "友人",
+        "note": "永贞革新"
+      }
+    ],
+    "events": [
+      "yongzhen-reform"
+    ],
+    "quotes": [],
+    "summary": "柳宗元参与永贞革新，失败后被贬永州、柳州，以山水游记与寓言著称，是古文运动核心人物。",
+    "game_use": "适合“改革失败者”型角色：提升文教与地方治理，但政治风险高。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "bai-juyi",
+    "name": "白居易",
+    "name_en": "Bai Juyi",
+    "aliases": [
+      "白乐天",
+      "香山居士"
+    ],
+    "courtesy_name": "乐天",
+    "birth": 772,
+    "death": 846,
+    "birth_place": "新郑",
+    "period": "中唐",
+    "faction_id": "tang",
+    "roles": [
+      "诗人",
+      "官员"
+    ],
+    "tags": [
+      "诗歌",
+      "新乐府",
+      "民生",
+      "杭州"
+    ],
+    "traits": [
+      "平易",
+      "务实",
+      "忧民",
+      "旷达"
+    ],
+    "relationships": [
+      {
+        "target": "yuan-zhen",
+        "type": "友人",
+        "note": "元白"
+      }
+    ],
+    "events": [
+      "yuanhe-poetry",
+      "huai-xi"
+    ],
+    "quotes": [
+      {
+        "text": "同是天涯沦落人，相逢何必曾相识。",
+        "source": "全唐诗《琵琶行》"
+      }
+    ],
+    "summary": "白居易为中唐新乐府运动代表，诗风平易，关注民生，曾任杭州、苏州刺史，兴修水利。",
+    "game_use": "适合“民生+文化”型官员：提升民心、农业与城市文化。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "QUANTANGSHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "yuan-zhen",
+    "name": "元稹",
+    "name_en": "Yuan Zhen",
+    "aliases": [
+      "元微之"
+    ],
+    "courtesy_name": "微之",
+    "birth": 779,
+    "death": 831,
+    "birth_place": "河南洛阳",
+    "period": "中唐",
+    "faction_id": "tang",
+    "roles": [
+      "诗人",
+      "官员",
+      "宰相"
+    ],
+    "tags": [
+      "诗歌",
+      "新乐府",
+      "元白",
+      "党争"
+    ],
+    "traits": [
+      "才情",
+      "机敏",
+      "投机",
+      "风流"
+    ],
+    "relationships": [
+      {
+        "target": "bai-juyi",
+        "type": "友人",
+        "note": "元白"
+      }
+    ],
+    "events": [
+      "yuanhe-poetry"
+    ],
+    "quotes": [],
+    "summary": "元稹与白居易并称元白，倡导新乐府，仕途起伏，曾官至宰相，也卷入牛李党争。",
+    "game_use": "适合“文才+政治投机”型角色：文化声望高，忠诚与立场不稳定。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "QUANTANGSHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "niu-sengru",
+    "name": "牛僧孺",
+    "name_en": "Niu Sengru",
+    "aliases": [
+      "牛思黯"
+    ],
+    "courtesy_name": "思黯",
+    "birth": 779,
+    "death": 847,
+    "birth_place": "安定鹑觚",
+    "period": "中唐",
+    "faction_id": "tang",
+    "roles": [
+      "宰相",
+      "党争领袖"
+    ],
+    "tags": [
+      "牛李党争",
+      "科举",
+      "进士",
+      "淮南"
+    ],
+    "traits": [
+      "持重",
+      "好文",
+      "派系",
+      "保守"
+    ],
+    "relationships": [
+      {
+        "target": "li-deyu",
+        "type": "政敌",
+        "note": "牛李党争"
+      }
+    ],
+    "events": [
+      "niu-li-faction"
+    ],
+    "quotes": [],
+    "summary": "牛僧孺为牛党领袖，进士出身，与李德裕长期党争，历仕多朝，主张保守稳定。",
+    "game_use": "适合“科举文官集团”领袖：提升文官支持，但会与门荫/军功集团冲突。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "li-deyu",
+    "name": "李德裕",
+    "name_en": "Li Deyu",
+    "aliases": [
+      "李文饶",
+      "李卫公"
+    ],
+    "courtesy_name": "文饶",
+    "birth": 787,
+    "death": 850,
+    "birth_place": "赵郡赞皇",
+    "period": "中唐",
+    "faction_id": "tang",
+    "roles": [
+      "宰相",
+      "党争领袖"
+    ],
+    "tags": [
+      "牛李党争",
+      "会昌",
+      "门荫",
+      "回鹘"
+    ],
+    "traits": [
+      "刚强",
+      "干练",
+      "自负",
+      "记仇"
+    ],
+    "relationships": [
+      {
+        "target": "niu-sengru",
+        "type": "政敌",
+        "note": "牛李党争"
+      },
+      {
+        "target": "tang-wuzong",
+        "type": "君臣",
+        "note": "会昌中兴"
+      }
+    ],
+    "events": [
+      "niu-li-faction",
+      "huichang"
+    ],
+    "quotes": [],
+    "summary": "李德裕为李党领袖，会昌年间主持削藩、抵御回鹘、整顿财政，宣宗即位后遭贬死。",
+    "game_use": "适合“强硬改革派”宰相：财政军事改革强，但树敌多、政治生命周期短。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "tang-xianzong",
+    "name": "唐宪宗",
+    "name_en": "Emperor Xianzong of Tang",
+    "aliases": [
+      "李纯",
+      "元和天子"
+    ],
+    "courtesy_name": null,
+    "birth": 778,
+    "death": 820,
+    "birth_place": "长安",
+    "period": "中唐",
+    "faction_id": "tang",
+    "roles": [
+      "皇帝",
+      "削藩君主"
+    ],
+    "tags": [
+      "元和中兴",
+      "削藩",
+      "淮西",
+      "宦官"
+    ],
+    "traits": [
+      "果决",
+      "勤政",
+      "多疑",
+      "迷信"
+    ],
+    "relationships": [
+      {
+        "target": "li-deyu",
+        "type": "君臣",
+        "note": "宪宗朝"
+      },
+      {
+        "target": "huang-chao",
+        "type": "后世",
+        "note": "晚唐"
+      }
+    ],
+    "events": [
+      "yuanhe-restoration",
+      "huai-xi",
+      "chengde"
+    ],
+    "quotes": [],
+    "summary": "唐宪宗励精图治，平定淮西、成德等藩镇，史称元和中兴，晚年因宦官与丹药问题被杀。",
+    "game_use": "适合“削藩强君”路线：短期集中权力，但宦官与继承风险高。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "tang-wenzong",
+    "name": "唐文宗",
+    "name_en": "Emperor Wenzong of Tang",
+    "aliases": [
+      "李昂",
+      "甘露之变"
+    ],
+    "courtesy_name": null,
+    "birth": 809,
+    "death": 840,
+    "birth_place": "长安",
+    "period": "晚唐",
+    "faction_id": "tang",
+    "roles": [
+      "皇帝"
+    ],
+    "tags": [
+      "甘露之变",
+      "宦官",
+      "牛李",
+      "文宗"
+    ],
+    "traits": [
+      "勤勉",
+      "优柔",
+      "理想主义",
+      "受制"
+    ],
+    "relationships": [
+      {
+        "target": "qiu-shi-liang",
+        "type": "君臣/政敌",
+        "note": "甘露之变"
+      },
+      {
+        "target": "li-deyu",
+        "type": "君臣",
+        "note": "牛李党争"
+      }
+    ],
+    "events": [
+      "ganlu-coup",
+      "niu-li-faction"
+    ],
+    "quotes": [],
+    "summary": "唐文宗试图铲除宦官，发动甘露之变失败，反被宦官控制，郁郁而终。",
+    "game_use": "适合“傀儡皇帝反击”事件链：高风险政变，失败后皇权进一步旁落。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "qiu-shi-liang",
+    "name": "仇士良",
+    "name_en": "Qiu Shiliang",
+    "aliases": [
+      "仇士良",
+      "楚国公"
+    ],
+    "courtesy_name": null,
+    "birth": 781,
+    "death": 843,
+    "birth_place": "循州兴宁",
+    "period": "晚唐",
+    "faction_id": "tang",
+    "roles": [
+      "宦官",
+      "神策军护军中尉"
+    ],
+    "tags": [
+      "宦官",
+      "神策军",
+      "甘露之变",
+      "宫廷"
+    ],
+    "traits": [
+      "阴狠",
+      "权谋",
+      "贪暴",
+      "善控"
+    ],
+    "relationships": [
+      {
+        "target": "tang-wenzong",
+        "type": "君臣/政敌",
+        "note": "甘露之变"
+      }
+    ],
+    "events": [
+      "ganlu-coup"
+    ],
+    "quotes": [],
+    "summary": "仇士良为晚唐权宦，掌控神策军，甘露之变后屠杀朝臣，专权跋扈，是南衙北司之争的代表。",
+    "game_use": "适合“宦官专权”型反派：控制禁军与皇帝，需通过政变或外部军力清除。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "huang-chao",
+    "name": "黄巢",
+    "name_en": "Huang Chao",
+    "aliases": [
+      "黄巢",
+      "冲天大将军",
+      "大齐皇帝"
+    ],
+    "courtesy_name": null,
+    "birth": 820,
+    "death": 884,
+    "birth_place": "曹州冤句",
+    "period": "晚唐",
+    "faction_id": "huang-chao",
+    "roles": [
+      "私盐贩",
+      "叛乱首领",
+      "皇帝"
+    ],
+    "tags": [
+      "民变",
+      "流动作战",
+      "长安",
+      "大齐"
+    ],
+    "traits": [
+      "果决",
+      "善动员",
+      "残暴",
+      "战略短视"
+    ],
+    "relationships": [
+      {
+        "target": "wang-xianzhi",
+        "type": "盟友/前辈",
+        "note": "王仙芝余部"
+      },
+      {
+        "target": "zhu-wen",
+        "type": "部将/叛降",
+        "note": "朱温降唐"
+      }
+    ],
+    "events": [
+      "huang-chao-rebellion",
+      "changan-fall",
+      "huang-chao-defeat"
+    ],
+    "quotes": [
+      {
+        "text": "冲天香阵透长安，满城尽带黄金甲。",
+        "source": "全唐诗《不第后赋菊》"
+      }
+    ],
+    "summary": "黄巢以私盐贩起兵，转战大半个唐帝国，攻入长安称帝建大齐，最终因缺乏根据地与内部叛降失败。",
+    "game_use": "适合“流民军”势力：机动性与破坏力强，但补给、根据地与忠诚度是致命弱点。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "BEIMENGSUOYAN",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "zhu-wen",
+    "name": "朱温",
+    "name_en": "Zhu Wen",
+    "aliases": [
+      "朱全忠",
+      "梁太祖",
+      "朱晃"
+    ],
+    "courtesy_name": null,
+    "birth": 852,
+    "death": 912,
+    "birth_place": "宋州砀山",
+    "period": "晚唐",
+    "faction_id": "later-liang",
+    "roles": [
+      "军阀",
+      "宣武节度使",
+      "皇帝"
+    ],
+    "tags": [
+      "宣武",
+      "篡唐",
+      "后梁",
+      "藩镇"
+    ],
+    "traits": [
+      "狡诈",
+      "果断",
+      "残暴",
+      "善用降将"
+    ],
+    "relationships": [
+      {
+        "target": "huang-chao",
+        "type": "旧主/叛降",
+        "note": "降唐"
+      },
+      {
+        "target": "li-keyong",
+        "type": "对手",
+        "note": "晋梁争霸"
+      },
+      {
+        "target": "tang-wenzong",
+        "type": "后世",
+        "note": "篡唐"
+      }
+    ],
+    "events": [
+      "huang-chao-rebellion",
+      "tang-end",
+      "later-liang-foundation"
+    ],
+    "quotes": [],
+    "summary": "朱温原为黄巢部将，降唐后据宣武，吞并中原藩镇，挟持昭宗，最终篡唐建立后梁。",
+    "game_use": "适合“藩镇篡位”路线：中原经济与外交强，但四战之地与继承问题突出。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "JIUTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "li-cunxu",
+    "name": "李存勖",
+    "name_en": "Li Cunxu",
+    "aliases": [
+      "后唐庄宗",
+      "李亚子"
+    ],
+    "courtesy_name": null,
+    "birth": 885,
+    "death": 926,
+    "birth_place": "应州金城",
+    "period": "五代",
+    "faction_id": "later-tang",
+    "roles": [
+      "皇帝",
+      "军事统帅"
+    ],
+    "tags": [
+      "沙陀",
+      "灭梁",
+      "骑兵",
+      "伶人"
+    ],
+    "traits": [
+      "勇猛",
+      "果决",
+      "善战",
+      "后期荒怠"
+    ],
+    "relationships": [
+      {
+        "target": "li-keyong",
+        "type": "父子",
+        "note": "李克用之子"
+      },
+      {
+        "target": "zhu-wen",
+        "type": "对手",
+        "note": "灭后梁"
+      },
+      {
+        "target": "guo-wei",
+        "type": "君臣",
+        "note": "后周太祖"
+      }
+    ],
+    "events": [
+      "later-tang-foundation",
+      "liang-conquest",
+      "xingjiao"
+    ],
+    "quotes": [],
+    "summary": "李存勖继承李克用基业，灭后梁建立后唐，军事天才却治国无方，最终死于兴教门之变。",
+    "game_use": "适合“军事天才+政治低能”型君主：战场极强，内政与忠诚管理差。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "li-siyuan",
+    "name": "李嗣源",
+    "name_en": "Li Siyuan",
+    "aliases": [
+      "后唐明宗",
+      "李亶"
+    ],
+    "courtesy_name": null,
+    "birth": 867,
+    "death": 933,
+    "birth_place": "应州金城",
+    "period": "五代",
+    "faction_id": "later-tang",
+    "roles": [
+      "皇帝",
+      "将领"
+    ],
+    "tags": [
+      "沙陀",
+      "明宗之治",
+      "节俭",
+      "禁军"
+    ],
+    "traits": [
+      "宽厚",
+      "节俭",
+      "务实",
+      "不识字"
+    ],
+    "relationships": [
+      {
+        "target": "li-cunxu",
+        "type": "君臣/义兄弟",
+        "note": "兴教门之变后即位"
+      },
+      {
+        "target": "shi-jingtang",
+        "type": "君臣/女婿",
+        "note": "石敬瑭"
+      }
+    ],
+    "events": [
+      "mingzong-era",
+      "xingjiao"
+    ],
+    "quotes": [],
+    "summary": "李嗣源为李克用养子，后唐明宗，即位后节俭宽政，史称明宗之治，但未能解决禁军与藩镇问题。",
+    "game_use": "适合“务实守成”型君主：降低财政消耗、提升民心，但军事扩张弱。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "shi-jingtang",
+    "name": "石敬瑭",
+    "name_en": "Shi Jingtang",
+    "aliases": [
+      "后晋高祖",
+      "儿皇帝"
+    ],
+    "courtesy_name": null,
+    "birth": 892,
+    "death": 942,
+    "birth_place": "太原",
+    "period": "五代",
+    "faction_id": "later-jin",
+    "roles": [
+      "皇帝",
+      "节度使"
+    ],
+    "tags": [
+      "沙陀",
+      "燕云十六州",
+      "契丹",
+      "儿皇帝"
+    ],
+    "traits": [
+      "隐忍",
+      "权谋",
+      "屈辱",
+      "务实"
+    ],
+    "relationships": [
+      {
+        "target": "li-siyuan",
+        "type": "君臣/女婿",
+        "note": "后唐明宗"
+      },
+      {
+        "target": "yelv-abaoji",
+        "type": "君臣/依附",
+        "note": "契丹册封"
+      }
+    ],
+    "events": [
+      "later-jin-foundation",
+      "sixteen-prefectures"
+    ],
+    "quotes": [],
+    "summary": "石敬瑭以割让燕云十六州、称儿皇帝为代价换取契丹支持，建立后晋，深刻改变华北战略格局。",
+    "game_use": "适合“屈辱外交”路线：短期获得强援，长期丧失屏障与合法性。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "liu-zhiyuan",
+    "name": "刘知远",
+    "name_en": "Liu Zhiyuan",
+    "aliases": [
+      "后汉高祖"
+    ],
+    "courtesy_name": null,
+    "birth": 895,
+    "death": 948,
+    "birth_place": "太原",
+    "period": "五代",
+    "faction_id": "later-han",
+    "roles": [
+      "皇帝",
+      "节度使"
+    ],
+    "tags": [
+      "沙陀",
+      "河东",
+      "后汉",
+      "契丹"
+    ],
+    "traits": [
+      "沉稳",
+      "隐忍",
+      "善观时变",
+      "严酷"
+    ],
+    "relationships": [
+      {
+        "target": "shi-jingtang",
+        "type": "君臣",
+        "note": "后晋河东节度使"
+      },
+      {
+        "target": "guo-wei",
+        "type": "君臣",
+        "note": "后汉枢密使"
+      }
+    ],
+    "events": [
+      "later-han-foundation",
+      "khitan-withdrawal"
+    ],
+    "quotes": [],
+    "summary": "刘知远在后晋灭亡、契丹北撤之际称帝建立后汉，但统治严酷、猜忌功臣，国祚极短。",
+    "game_use": "适合“乱世捡漏”型势力：在契丹北撤后快速填补真空，但内部稳定差。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "guo-wei",
+    "name": "郭威",
+    "name_en": "Guo Wei",
+    "aliases": [
+      "后周太祖",
+      "郭文仲"
+    ],
+    "courtesy_name": "文仲",
+    "birth": 904,
+    "death": 954,
+    "birth_place": "邢州尧山",
+    "period": "五代",
+    "faction_id": "later-zhou",
+    "roles": [
+      "皇帝",
+      "枢密使"
+    ],
+    "tags": [
+      "后周",
+      "改革",
+      "禁军",
+      "节俭"
+    ],
+    "traits": [
+      "沉稳",
+      "节俭",
+      "善用人",
+      "果决"
+    ],
+    "relationships": [
+      {
+        "target": "liu-zhiyuan",
+        "type": "君臣",
+        "note": "后汉枢密使"
+      },
+      {
+        "target": "chai-rong",
+        "type": "养父子",
+        "note": "后周世宗"
+      }
+    ],
+    "events": [
+      "later-zhou-foundation",
+      "guowei-reform"
+    ],
+    "quotes": [],
+    "summary": "郭威由后汉枢密使起兵建立后周，革除苛政、整顿禁军，为世宗改革与北宋统一奠定基础。",
+    "game_use": "适合“改革开国”型君主：财政与军制改革强，但在位时间短。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "chai-rong",
+    "name": "柴荣",
+    "name_en": "Chai Rong",
+    "aliases": [
+      "后周世宗",
+      "柴荣"
+    ],
+    "courtesy_name": null,
+    "birth": 921,
+    "death": 959,
+    "birth_place": "邢州龙岗",
+    "period": "五代",
+    "faction_id": "later-zhou",
+    "roles": [
+      "皇帝",
+      "改革家",
+      "军事统帅"
+    ],
+    "tags": [
+      "世宗改革",
+      "北伐",
+      "禁军",
+      "统一"
+    ],
+    "traits": [
+      "雄才",
+      "果决",
+      "勤政",
+      "急躁"
+    ],
+    "relationships": [
+      {
+        "target": "guo-wei",
+        "type": "养父子",
+        "note": "后周太祖"
+      },
+      {
+        "target": "zhao-kuangyin",
+        "type": "君臣",
+        "note": "殿前都点检"
+      }
+    ],
+    "events": [
+      "shizong-reform",
+      "gaoping",
+      "shizong-northern-expedition"
+    ],
+    "quotes": [],
+    "summary": "周世宗柴荣改革禁军、财政与漕运，南征北战，收复燕云部分，因病早逝，统一成果被赵匡胤继承。",
+    "game_use": "适合“高强度改革+早逝”型君主：短时间内爆发式增强国力，但继承危机致命。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "zhao-kuangyin",
+    "name": "赵匡胤",
+    "name_en": "Zhao Kuangyin",
+    "aliases": [
+      "宋太祖",
+      "赵九重"
+    ],
+    "courtesy_name": "元朗",
+    "birth": 927,
+    "death": 976,
+    "birth_place": "洛阳夹马营",
+    "period": "宋初统一",
+    "faction_id": "song",
+    "roles": [
+      "皇帝",
+      "宋开国"
+    ],
+    "tags": [
+      "陈桥兵变",
+      "杯酒释兵权",
+      "先南后北",
+      "禁军"
+    ],
+    "traits": [
+      "沉稳",
+      "宽厚",
+      "权谋",
+      "重文"
+    ],
+    "relationships": [
+      {
+        "target": "chai-rong",
+        "type": "君臣",
+        "note": "后周殿前都点检"
+      },
+      {
+        "target": "zhao-guangyi",
+        "type": "兄弟",
+        "note": "宋太宗"
+      }
+    ],
+    "events": [
+      "chenqiao",
+      "song-foundation",
+      "southern-conquest"
+    ],
+    "quotes": [],
+    "summary": "赵匡胤通过陈桥兵变建立北宋，杯酒释兵权、改革禁军，采取先南后北策略统一大部分地区。",
+    "game_use": "适合“禁军拥立+集权”型开国君主：统一与制度设计强，但边防与继承问题突出。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "qian-liu",
+    "name": "钱镠",
+    "name_en": "Qian Liu",
+    "aliases": [
+      "吴越武肃王",
+      "钱具美"
+    ],
+    "courtesy_name": "具美",
+    "birth": 852,
+    "death": 932,
+    "birth_place": "杭州临安",
+    "period": "十国",
+    "faction_id": "wuyue",
+    "roles": [
+      "国王",
+      "吴越开国"
+    ],
+    "tags": [
+      "吴越",
+      "水利",
+      "海贸",
+      "保境"
+    ],
+    "traits": [
+      "务实",
+      "勤政",
+      "谨慎",
+      "善治理"
+    ],
+    "relationships": [
+      {
+        "target": "yang-xingmi",
+        "type": "对手/邻居",
+        "note": "吴越与杨吴"
+      }
+    ],
+    "events": [
+      "wuyue-foundation",
+      "qiantang-dike"
+    ],
+    "quotes": [],
+    "summary": "钱镠建立吴越国，定都杭州，修海塘、兴水利、发展海贸，推行保境安民政策。",
+    "game_use": "适合“经济型割据”君主：水利、海贸与民心强，军事扩张弱。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "WUYUEBEISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "yang-xingmi",
+    "name": "杨行密",
+    "name_en": "Yang Xingmi",
+    "aliases": [
+      "吴武忠王",
+      "杨化源"
+    ],
+    "courtesy_name": "化源",
+    "birth": 852,
+    "death": 905,
+    "birth_place": "庐州合肥",
+    "period": "十国",
+    "faction_id": "wu-yang",
+    "roles": [
+      "军阀",
+      "吴王"
+    ],
+    "tags": [
+      "淮南",
+      "杨吴",
+      "水军",
+      "盐利"
+    ],
+    "traits": [
+      "沉稳",
+      "善战",
+      "宽厚",
+      "善用人"
+    ],
+    "relationships": [
+      {
+        "target": "zhu-wen",
+        "type": "对手",
+        "note": "清口之战"
+      },
+      {
+        "target": "li-bian",
+        "type": "后继者",
+        "note": "徐温养子，南唐建立"
+      }
+    ],
+    "events": [
+      "wu-foundation",
+      "qingkou"
+    ],
+    "quotes": [],
+    "summary": "杨行密据淮南，清口之战大败朱温，建立杨吴，控制江淮盐利与漕运。",
+    "game_use": "适合“江淮割据”型君主：水军、盐利与防御强，但继承与权臣问题突出。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "li-bian",
+    "name": "李昪",
+    "name_en": "Li Bian",
+    "aliases": [
+      "南唐烈祖",
+      "徐知诰"
+    ],
+    "courtesy_name": null,
+    "birth": 888,
+    "death": 943,
+    "birth_place": "徐州彭城",
+    "period": "十国",
+    "faction_id": "southern-tang",
+    "roles": [
+      "皇帝",
+      "南唐开国"
+    ],
+    "tags": [
+      "南唐",
+      "唐室",
+      "保境",
+      "文治"
+    ],
+    "traits": [
+      "谨慎",
+      "节俭",
+      "善权谋",
+      "重文"
+    ],
+    "relationships": [
+      {
+        "target": "yang-xingmi",
+        "type": "旧主",
+        "note": "杨吴权臣"
+      },
+      {
+        "target": "li-jing",
+        "type": "父子",
+        "note": "南唐元宗"
+      }
+    ],
+    "events": [
+      "southern-tang-foundation"
+    ],
+    "quotes": [],
+    "summary": "李昪原为杨吴权臣徐知诰，篡吴建南唐，自称唐室后裔，推行保境安民与文治。",
+    "game_use": "适合“权臣篡位+文治”型君主：合法性建构与内政强，军事保守。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "NANTANGSHU_MA",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wang-jian",
+    "name": "王建",
+    "name_en": "Wang Jian",
+    "aliases": [
+      "前蜀高祖",
+      "王光图"
+    ],
+    "courtesy_name": "光图",
+    "birth": 847,
+    "death": 918,
+    "birth_place": "许州舞阳",
+    "period": "十国",
+    "faction_id": "former-shu",
+    "roles": [
+      "皇帝",
+      "前蜀开国"
+    ],
+    "tags": [
+      "前蜀",
+      "巴蜀",
+      "唐臣",
+      "保境"
+    ],
+    "traits": [
+      "机敏",
+      "务实",
+      "善用人",
+      "多疑"
+    ],
+    "relationships": [
+      {
+        "target": "wang-yan",
+        "type": "父子",
+        "note": "前蜀后主"
+      }
+    ],
+    "events": [
+      "former-shu-foundation"
+    ],
+    "quotes": [],
+    "summary": "王建原为唐末壁州刺史，据巴蜀建立前蜀，收容唐室旧臣，发展经济与文化。",
+    "game_use": "适合“巴蜀割据”型君主：地形与经济强，继承风险大。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "meng-zhixiang",
+    "name": "孟知祥",
+    "name_en": "Meng Zhixiang",
+    "aliases": [
+      "后蜀高祖"
+    ],
+    "courtesy_name": null,
+    "birth": 874,
+    "death": 934,
+    "birth_place": "邢州龙岗",
+    "period": "十国",
+    "faction_id": "later-shu",
+    "roles": [
+      "皇帝",
+      "后蜀开国"
+    ],
+    "tags": [
+      "后蜀",
+      "巴蜀",
+      "后唐",
+      "割据"
+    ],
+    "traits": [
+      "沉稳",
+      "果决",
+      "善治理",
+      "务实"
+    ],
+    "relationships": [
+      {
+        "target": "meng-chang",
+        "type": "父子",
+        "note": "后蜀后主"
+      },
+      {
+        "target": "li-cunxu",
+        "type": "君臣",
+        "note": "后唐灭前蜀"
+      }
+    ],
+    "events": [
+      "later-shu-foundation"
+    ],
+    "quotes": [],
+    "summary": "孟知祥原为后唐西川节度使，趁后唐内乱据蜀建立后蜀，发展经济与文化。",
+    "game_use": "适合“后唐分裂”型割据：巴蜀资源强，需处理中原王朝的吞并意图。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wang-shenzhi",
+    "name": "王审知",
+    "name_en": "Wang Shenzhi",
+    "aliases": [
+      "闽太祖",
+      "王信通"
+    ],
+    "courtesy_name": "信通",
+    "birth": 862,
+    "death": 925,
+    "birth_place": "光州固始",
+    "period": "十国",
+    "faction_id": "min",
+    "roles": [
+      "国王",
+      "闽开国"
+    ],
+    "tags": [
+      "闽",
+      "海贸",
+      "保境",
+      "福建"
+    ],
+    "traits": [
+      "节俭",
+      "宽厚",
+      "务实",
+      "重文"
+    ],
+    "relationships": [
+      {
+        "target": "wang-yanjun",
+        "type": "父子",
+        "note": "闽惠宗"
+      }
+    ],
+    "events": [
+      "min-foundation"
+    ],
+    "quotes": [],
+    "summary": "王审知据福建，建立闽国，推行保境安民、发展海贸与文教，被称为开闽王。",
+    "game_use": "适合“海贸型割据”君主：港口与商业强，军事扩张弱。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "ma-yin",
+    "name": "马殷",
+    "name_en": "Ma Yin",
+    "aliases": [
+      "楚武穆王",
+      "马霸图"
+    ],
+    "courtesy_name": "霸图",
+    "birth": 852,
+    "death": 930,
+    "birth_place": "许州鄢陵",
+    "period": "十国",
+    "faction_id": "chu",
+    "roles": [
+      "国王",
+      "楚开国"
+    ],
+    "tags": [
+      "楚",
+      "茶马",
+      "湖南",
+      "保境"
+    ],
+    "traits": [
+      "务实",
+      "善经商",
+      "宽厚",
+      "稳健"
+    ],
+    "relationships": [
+      {
+        "target": "ma-xifan",
+        "type": "父子",
+        "note": "楚文昭王"
+      }
+    ],
+    "events": [
+      "chu-foundation"
+    ],
+    "quotes": [],
+    "summary": "马殷据湖南建立楚国，发展茶叶与马匹贸易，推行保境安民，使长沙成为区域商业中心。",
+    "game_use": "适合“贸易型割据”君主：茶马贸易与商税强，军事一般。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "liu-yan",
+    "name": "刘龑",
+    "name_en": "Liu Yan",
+    "aliases": [
+      "南汉高祖",
+      "刘岩"
+    ],
+    "courtesy_name": null,
+    "birth": 889,
+    "death": 942,
+    "birth_place": "封州",
+    "period": "十国",
+    "faction_id": "southern-han",
+    "roles": [
+      "皇帝",
+      "南汉开国"
+    ],
+    "tags": [
+      "南汉",
+      "岭南",
+      "海贸",
+      "香药"
+    ],
+    "traits": [
+      "奢侈",
+      "残暴",
+      "善权术",
+      "重商"
+    ],
+    "relationships": [
+      {
+        "target": "liu-sheng",
+        "type": "父子",
+        "note": "南汉中宗"
+      }
+    ],
+    "events": [
+      "southern-han-foundation"
+    ],
+    "quotes": [],
+    "summary": "刘龑据岭南建立南汉，发展广州海贸与香药贸易，但统治奢侈残暴，宦官政治渐起。",
+    "game_use": "适合“海贸+暴政”型君主：商业收入高，民心与官僚忠诚低。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "gao-jixing",
+    "name": "高季兴",
+    "name_en": "Gao Jixing",
+    "aliases": [
+      "荆南武信王",
+      "高贻孙"
+    ],
+    "courtesy_name": "贻孙",
+    "birth": 858,
+    "death": 929,
+    "birth_place": "陕州峡石",
+    "period": "十国",
+    "faction_id": "jingnan",
+    "roles": [
+      "国王",
+      "荆南开国"
+    ],
+    "tags": [
+      "荆南",
+      "江陵",
+      "商税",
+      "夹缝"
+    ],
+    "traits": [
+      "机敏",
+      "务实",
+      "善外交",
+      "无赖"
+    ],
+    "relationships": [
+      {
+        "target": "zhu-wen",
+        "type": "君臣",
+        "note": "后梁荆南节度使"
+      }
+    ],
+    "events": [
+      "jingnan-foundation"
+    ],
+    "quotes": [],
+    "summary": "高季兴据江陵建立荆南，依靠过境商税与灵活外交在十国夹缝中生存，被称为高赖子。",
+    "game_use": "适合“极小势力”玩法：外交与商税是生命线，军事几乎不可扩张。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "liu-chong",
+    "name": "刘崇",
+    "name_en": "Liu Chong",
+    "aliases": [
+      "北汉世祖",
+      "刘旻"
+    ],
+    "courtesy_name": null,
+    "birth": 895,
+    "death": 954,
+    "birth_place": "太原",
+    "period": "十国",
+    "faction_id": "northern-han",
+    "roles": [
+      "皇帝",
+      "北汉开国"
+    ],
+    "tags": [
+      "北汉",
+      "河东",
+      "契丹",
+      "后汉"
+    ],
+    "traits": [
+      "刚愎",
+      "坚韧",
+      "依附",
+      "好战"
+    ],
+    "relationships": [
+      {
+        "target": "liu-zhiyuan",
+        "type": "兄弟",
+        "note": "后汉高祖"
+      }
+    ],
+    "events": [
+      "northern-han-foundation",
+      "gaoping"
+    ],
+    "quotes": [],
+    "summary": "刘崇为后汉高祖之弟，后周代汉后据太原建立北汉，依附契丹与中原王朝对抗。",
+    "game_use": "适合“最后一个北方割据”势力：太原坚城+契丹援军，但国力极弱。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "li-yu",
+    "name": "李煜",
+    "name_en": "Li Yu",
+    "aliases": [
+      "南唐后主",
+      "李重光",
+      "词帝"
+    ],
+    "courtesy_name": "重光",
+    "birth": 937,
+    "death": 978,
+    "birth_place": "金陵",
+    "period": "十国",
+    "faction_id": "southern-tang",
+    "roles": [
+      "皇帝",
+      "词人"
+    ],
+    "tags": [
+      "南唐",
+      "词",
+      "亡国",
+      "金陵"
+    ],
+    "traits": [
+      "敏感",
+      "才情",
+      "仁弱",
+      "逃避"
+    ],
+    "relationships": [
+      {
+        "target": "li-jing",
+        "type": "父子",
+        "note": "南唐元宗"
+      },
+      {
+        "target": "zhao-kuangyin",
+        "type": "君臣/俘虏",
+        "note": "北宋灭南唐"
+      }
+    ],
+    "events": [
+      "southern-tang-fall",
+      "jinling-fall"
+    ],
+    "quotes": [
+      {
+        "text": "问君能有几多愁，恰似一江春水向东流。",
+        "source": "全唐诗《虞美人》"
+      }
+    ],
+    "summary": "李煜为南唐后主，词艺绝伦却治国无能，北宋灭南唐后被俘，最终被赐死。",
+    "game_use": "适合“文化天才+亡国之君”：文化值极高，军事与政治决策弱。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "feng-dao",
+    "name": "冯道",
+    "name_en": "Feng Dao",
+    "aliases": [
+      "冯可道",
+      "长乐老"
+    ],
+    "courtesy_name": "可道",
+    "birth": 882,
+    "death": 954,
+    "birth_place": "瀛州景城",
+    "period": "五代",
+    "faction_id": "later-zhou",
+    "roles": [
+      "宰相",
+      "学者"
+    ],
+    "tags": [
+      "五朝元老",
+      "宰相",
+      "印刷",
+      "官场"
+    ],
+    "traits": [
+      "圆滑",
+      "务实",
+      "宽厚",
+      "自保"
+    ],
+    "relationships": [
+      {
+        "target": "li-cunxu",
+        "type": "君臣",
+        "note": "后唐"
+      },
+      {
+        "target": "guo-wei",
+        "type": "君臣",
+        "note": "后周"
+      }
+    ],
+    "events": [
+      "nine-classics-printing"
+    ],
+    "quotes": [],
+    "summary": "冯道历仕五朝八姓，官至宰相，主持雕版印刷九经，是五代官场生存与文教延续的代表。",
+    "game_use": "适合“官僚系统稳定器”：跨政权保留行政能力，但忠诚度低、声望争议大。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wei-zhuang",
+    "name": "韦庄",
+    "name_en": "Wei Zhuang",
+    "aliases": [
+      "韦端己",
+      "浣花词"
+    ],
+    "courtesy_name": "端己",
+    "birth": 836,
+    "death": 910,
+    "birth_place": "京兆杜陵",
+    "period": "晚唐",
+    "faction_id": "former-shu",
+    "roles": [
+      "诗人",
+      "词人",
+      "宰相"
+    ],
+    "tags": [
+      "花间词",
+      "前蜀",
+      "唐末",
+      "长安"
+    ],
+    "traits": [
+      "才情",
+      "感伤",
+      "务实",
+      "善词"
+    ],
+    "relationships": [
+      {
+        "target": "wang-jian",
+        "type": "君臣",
+        "note": "前蜀宰相"
+      }
+    ],
+    "events": [
+      "huang-chao-rebellion",
+      "former-shu-foundation"
+    ],
+    "quotes": [],
+    "summary": "韦庄为唐末五代词人，花间派代表，晚年入前蜀为宰相，作品多写乱离与江南。",
+    "game_use": "适合“文化官僚”型角色：提升文教与外交文书，可触发花间词事件。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "HUAJIANJI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "zhang-jiao",
+    "name": "张角",
+    "name_en": "Zhang Jiao",
+    "aliases": [
+      "大贤良师",
+      "天公将军"
+    ],
+    "courtesy_name": null,
+    "birth": null,
+    "death": 184,
+    "birth_place": "巨鹿",
+    "period": "东汉末",
+    "faction_id": "yellow-turban",
+    "roles": [
+      "宗教领袖",
+      "叛乱首领"
+    ],
+    "tags": [
+      "太平道",
+      "黄巾",
+      "符水",
+      "末世"
+    ],
+    "traits": [
+      "善组织",
+      "神秘",
+      "坚毅",
+      "宗教魅力"
+    ],
+    "relationships": [
+      {
+        "target": "zhang-bao",
+        "type": "兄弟",
+        "note": "地公将军"
+      },
+      {
+        "target": "zhang-liang",
+        "type": "兄弟",
+        "note": "人公将军"
+      }
+    ],
+    "events": [
+      "yellow-turban"
+    ],
+    "quotes": [
+      {
+        "text": "苍天已死，黄天当立；岁在甲子，天下大吉。",
+        "source": "后汉书·皇甫嵩传"
+      }
+    ],
+    "summary": "张角以太平道组织信众十余年，遍布八州，中平元年起兵，自称天公将军，同年病卒，黄巾主力随之瓦解。",
+    "game_use": "适合宗教动员型叛乱领袖：招募与民心强，但军事指挥与后勤弱，死后组织易崩解。",
+    "sources": [
+      "HOUHANSHU",
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "dong-zhuo",
+    "name": "董卓",
+    "name_en": "Dong Zhuo",
+    "aliases": [
+      "董仲颖",
+      "董太师"
+    ],
+    "courtesy_name": "仲颖",
+    "birth": null,
+    "death": 192,
+    "birth_place": "陇西临洮",
+    "period": "东汉末",
+    "faction_id": "dong-zhuo",
+    "roles": [
+      "军阀",
+      "太师",
+      "相国"
+    ],
+    "tags": [
+      "凉州",
+      "废立",
+      "迁都",
+      "羌胡"
+    ],
+    "traits": [
+      "残暴",
+      "勇猛",
+      "短视",
+      "善驭兵"
+    ],
+    "relationships": [
+      {
+        "target": "lv-bu",
+        "type": "义父子/被杀",
+        "note": "吕布刺杀董卓"
+      },
+      {
+        "target": "yuan-shao",
+        "type": "对手",
+        "note": "关东联军"
+      }
+    ],
+    "events": [
+      "dong-zhuo-entry",
+      "guandong-coalition"
+    ],
+    "quotes": [],
+    "summary": "董卓以凉州边军入洛，废少帝立献帝，迁都长安，焚烧洛阳，最终被吕布所杀。",
+    "game_use": "适合暴力型军事强人：初期军力压倒性强，但民心、士族与内部忠诚极低。",
+    "sources": [
+      "HOUHANSHU",
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "lv-bu",
+    "name": "吕布",
+    "name_en": "Lü Bu",
+    "aliases": [
+      "吕奉先",
+      "飞将"
+    ],
+    "courtesy_name": "奉先",
+    "birth": null,
+    "death": 199,
+    "birth_place": "五原九原",
+    "period": "东汉末",
+    "faction_id": "lv-bu",
+    "roles": [
+      "将领",
+      "军阀"
+    ],
+    "tags": [
+      "并州",
+      "骑兵",
+      "辕门射戟",
+      "白门楼"
+    ],
+    "traits": [
+      "勇武",
+      "反复",
+      "短视",
+      "善骑战"
+    ],
+    "relationships": [
+      {
+        "target": "dong-zhuo",
+        "type": "义父子/刺杀",
+        "note": "诛杀董卓"
+      },
+      {
+        "target": "cao-cao",
+        "type": "对手",
+        "note": "下邳围城"
+      }
+    ],
+    "events": [
+      "xiapi"
+    ],
+    "quotes": [],
+    "summary": "吕布以并州骑将起家，先后依附丁原、董卓、袁绍、刘备，据徐州，最终在下邳被曹操擒杀。",
+    "game_use": "适合高战力低忠诚的雇佣型军阀：单场战斗强，外交信用与后方治理极差。",
+    "sources": [
+      "HOUHANSHU",
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "yuan-shao",
+    "name": "袁绍",
+    "name_en": "Yuan Shao",
+    "aliases": [
+      "袁本初",
+      "袁盟主"
+    ],
+    "courtesy_name": "本初",
+    "birth": null,
+    "death": 202,
+    "birth_place": "汝南汝阳",
+    "period": "东汉末",
+    "faction_id": "yuan-shao",
+    "roles": [
+      "军阀",
+      "冀州牧",
+      "盟主"
+    ],
+    "tags": [
+      "汝南袁氏",
+      "河北",
+      "关东联军",
+      "官渡"
+    ],
+    "traits": [
+      "宽雅",
+      "犹豫",
+      "自负",
+      "不善决断"
+    ],
+    "relationships": [
+      {
+        "target": "cao-cao",
+        "type": "对手",
+        "note": "官渡之战"
+      },
+      {
+        "target": "yuan-shu",
+        "type": "兄弟/对手",
+        "note": "袁氏内争"
+      }
+    ],
+    "events": [
+      "guandong-coalition",
+      "guandu"
+    ],
+    "quotes": [],
+    "summary": "袁绍以汝南袁氏门生故吏网络起家，取冀州、青州、幽州、并州，成为官渡前最强军阀，败后病卒。",
+    "game_use": "适合资源雄厚但决策迟缓的势力：兵力与士族支持高，临战决断与继承安排差。",
+    "sources": [
+      "HOUHANSHU",
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "sun-jian",
+    "name": "孙坚",
+    "name_en": "Sun Jian",
+    "aliases": [
+      "孙文台",
+      "江东猛虎"
+    ],
+    "courtesy_name": "文台",
+    "birth": 155,
+    "death": 191,
+    "birth_place": "吴郡富春",
+    "period": "东汉末",
+    "faction_id": "eastern-wu",
+    "roles": [
+      "将领",
+      "长沙太守"
+    ],
+    "tags": [
+      "江东",
+      "讨董",
+      "长沙",
+      "孙氏"
+    ],
+    "traits": [
+      "勇猛",
+      "果决",
+      "重义",
+      "轻身"
+    ],
+    "relationships": [
+      {
+        "target": "sun-ce",
+        "type": "父子",
+        "note": "孙策"
+      },
+      {
+        "target": "sun-quan",
+        "type": "父子",
+        "note": "孙权"
+      }
+    ],
+    "events": [
+      "guandong-coalition"
+    ],
+    "quotes": [],
+    "summary": "孙坚为孙氏基业开创者，讨黄巾、平长沙，关东联军中率先攻入洛阳，后征刘表时中伏身亡。",
+    "game_use": "适合先锋型将领：攻城与士气强，但君主存活风险高。",
+    "sources": [
+      "SANGUOZHI",
+      "HOUHANSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "cao-shuang",
+    "name": "曹爽",
+    "name_en": "Cao Shuang",
+    "aliases": [
+      "曹昭伯"
+    ],
+    "courtesy_name": "昭伯",
+    "birth": null,
+    "death": 249,
+    "birth_place": "沛国谯县",
+    "period": "三国",
+    "faction_id": "cao-wei",
+    "roles": [
+      "宗室",
+      "大将军"
+    ],
+    "tags": [
+      "宗室",
+      "高平陵",
+      "正始",
+      "权臣"
+    ],
+    "traits": [
+      "骄奢",
+      "优柔",
+      "轻信",
+      "缺乏决断"
+    ],
+    "relationships": [
+      {
+        "target": "sima-yi",
+        "type": "政敌",
+        "note": "高平陵之变"
+      }
+    ],
+    "events": [
+      "gaopingling"
+    ],
+    "quotes": [],
+    "summary": "曹爽为曹魏宗室大将军，正始年间专权，高平陵之变中被司马懿诱降，随后被诛三族。",
+    "game_use": "适合纨绔型权臣：资源与名分高，危机决断力极低。",
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "chen-qun",
+    "name": "陈群",
+    "name_en": "Chen Qun",
+    "aliases": [
+      "陈长文"
+    ],
+    "courtesy_name": "长文",
+    "birth": null,
+    "death": 237,
+    "birth_place": "颍川许昌",
+    "period": "三国",
+    "faction_id": "cao-wei",
+    "roles": [
+      "谋臣",
+      "尚书令",
+      "制度设计者"
+    ],
+    "tags": [
+      "九品中正",
+      "颍川",
+      "律令",
+      "曹魏"
+    ],
+    "traits": [
+      "严谨",
+      "务实",
+      "善制度",
+      "持重"
+    ],
+    "relationships": [
+      {
+        "target": "cao-pi",
+        "type": "君臣",
+        "note": "九品中正制"
+      }
+    ],
+    "events": [
+      "nine-rank",
+      "wei-foundation"
+    ],
+    "quotes": [],
+    "summary": "陈群为曹魏重臣，建议推行九品中正制，参与制定《魏律》，是曹魏制度化的关键人物。",
+    "game_use": "适合制度型文臣：提升选官效率与士族整合，但会加速门阀化。",
+    "sources": [
+      "SANGUOZHI",
+      "JINSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "liu-shan",
+    "name": "刘禅",
+    "name_en": "Liu Shan",
+    "aliases": [
+      "刘公嗣",
+      "蜀汉后主",
+      "阿斗"
+    ],
+    "courtesy_name": "公嗣",
+    "birth": 207,
+    "death": 271,
+    "birth_place": "荆州",
+    "period": "三国",
+    "faction_id": "shu-han",
+    "roles": [
+      "皇帝"
+    ],
+    "tags": [
+      "蜀汉",
+      "后主",
+      "投降",
+      "乐不思蜀"
+    ],
+    "traits": [
+      "宽厚",
+      "依赖",
+      "平庸",
+      "善自保"
+    ],
+    "relationships": [
+      {
+        "target": "liu-bei",
+        "type": "父子",
+        "note": "蜀汉昭烈帝"
+      },
+      {
+        "target": "zhuge-liang",
+        "type": "君臣/相父",
+        "note": "托孤"
+      },
+      {
+        "target": "jiang-wei",
+        "type": "君臣",
+        "note": "后期北伐"
+      }
+    ],
+    "events": [
+      "shu-foundation",
+      "shu-conquest"
+    ],
+    "quotes": [
+      {
+        "text": "此间乐，不思蜀。",
+        "source": "三国志·后主传 裴松之注引《汉晋春秋》"
+      }
+    ],
+    "summary": "刘禅在位四十余年，前期依赖诸葛亮治蜀，后期宠信宦官黄皓，魏军兵临成都时投降，蜀汉灭亡。",
+    "game_use": "适合守成型君主：内政依赖强臣，忠诚与决策风险高，亡国后可触发归晋事件。",
+    "sources": [
+      "SANGUOZHI",
+      "HUAYANGGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "sima-zhong",
+    "name": "司马衷",
+    "name_en": "Sima Zhong",
+    "aliases": [
+      "晋惠帝"
+    ],
+    "courtesy_name": null,
+    "birth": 259,
+    "death": 307,
+    "birth_place": "河内温县",
+    "period": "西晋",
+    "faction_id": "western-jin",
+    "roles": [
+      "皇帝"
+    ],
+    "tags": [
+      "西晋",
+      "惠帝",
+      "贾后",
+      "八王之乱"
+    ],
+    "traits": [
+      "愚弱",
+      "受控",
+      "迟钝",
+      "无决断"
+    ],
+    "relationships": [
+      {
+        "target": "sima-yan",
+        "type": "父子",
+        "note": "晋武帝"
+      }
+    ],
+    "events": [
+      "eight-princes"
+    ],
+    "quotes": [
+      {
+        "text": "何不食肉糜？",
+        "source": "晋书·惠帝纪"
+      }
+    ],
+    "summary": "晋惠帝司马衷愚弱，即位后贾后干政，诸王争权，最终酿成八王之乱与永嘉之乱。",
+    "game_use": "适合傀儡君主：皇权名分仍在，但决策权被后宫与宗王争夺。",
+    "sources": [
+      "JINSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "liu-yuan",
+    "name": "刘渊",
+    "name_en": "Liu Yuan",
+    "aliases": [
+      "刘元海",
+      "汉光文帝"
+    ],
+    "courtesy_name": "元海",
+    "birth": null,
+    "death": 310,
+    "birth_place": "新兴匈奴",
+    "period": "十六国",
+    "faction_id": "han-zhao",
+    "roles": [
+      "匈奴单于",
+      "皇帝",
+      "汉赵开国"
+    ],
+    "tags": [
+      "匈奴",
+      "汉赵",
+      "并州",
+      "永嘉"
+    ],
+    "traits": [
+      "雄才",
+      "博学",
+      "善用人",
+      "隐忍"
+    ],
+    "relationships": [
+      {
+        "target": "shi-le",
+        "type": "君臣",
+        "note": "石勒归附"
+      },
+      {
+        "target": "sima-rui",
+        "type": "对手",
+        "note": "永嘉之乱"
+      }
+    ],
+    "events": [
+      "yongjia"
+    ],
+    "quotes": [],
+    "summary": "刘渊以匈奴五部为基，自称汉室后裔，在左国城起兵建汉，攻掠并州，开启十六国时代。",
+    "game_use": "适合草原-中原双轨政权：骑兵与招降强，但胡汉官僚协调困难。",
+    "sources": [
+      "JINSHU",
+      "WEISHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "shi-le",
+    "name": "石勒",
+    "name_en": "Shi Le",
+    "aliases": [
+      "石世龙",
+      "后赵明帝"
+    ],
+    "courtesy_name": "世龙",
+    "birth": 274,
+    "death": 333,
+    "birth_place": "上党武乡",
+    "period": "十六国",
+    "faction_id": "later-zhao",
+    "roles": [
+      "军阀",
+      "皇帝",
+      "后赵开国"
+    ],
+    "tags": [
+      "羯胡",
+      "后赵",
+      "骑兵",
+      "河北"
+    ],
+    "traits": [
+      "勇猛",
+      "狡黠",
+      "善用人",
+      "重实务"
+    ],
+    "relationships": [
+      {
+        "target": "liu-yuan",
+        "type": "旧主",
+        "note": "汉赵部将"
+      },
+      {
+        "target": "ran-min",
+        "type": "养孙/灭族",
+        "note": "冉闵杀胡"
+      }
+    ],
+    "events": [
+      "later-zhao-foundation"
+    ],
+    "quotes": [],
+    "summary": "石勒由奴隶起家，归附刘渊，后自立建立后赵，统一北方大部，是十六国最杰出的军事政治家之一。",
+    "game_use": "适合底层崛起型军阀：招募与骑兵强，族群政策是最大风险。",
+    "sources": [
+      "JINSHU",
+      "WEISHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "ran-min",
+    "name": "冉闵",
+    "name_en": "Ran Min",
+    "aliases": [
+      "石闵",
+      "冉永曾",
+      "武悼天王"
+    ],
+    "courtesy_name": "永曾",
+    "birth": null,
+    "death": 352,
+    "birth_place": "魏郡内黄",
+    "period": "十六国",
+    "faction_id": "ran-wei",
+    "roles": [
+      "将领",
+      "皇帝",
+      "冉魏开国"
+    ],
+    "tags": [
+      "冉魏",
+      "杀胡令",
+      "邺城",
+      "后赵"
+    ],
+    "traits": [
+      "勇猛",
+      "果决",
+      "残暴",
+      "善战"
+    ],
+    "relationships": [
+      {
+        "target": "shi-le",
+        "type": "养祖",
+        "note": "后赵宗室养孙"
+      }
+    ],
+    "events": [
+      "ran-wei"
+    ],
+    "quotes": [],
+    "summary": "冉闵为后赵汉将，乘后赵内乱夺邺城，发布杀胡令，建立冉魏，最终被前燕慕容儁擒杀。",
+    "game_use": "适合高爆发短命政权：汉人动员与攻城强，但四面树敌、后勤脆弱。",
+    "sources": [
+      "JINSHU",
+      "WEISHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "xie-xuan",
+    "name": "谢玄",
+    "name_en": "Xie Xuan",
+    "aliases": [
+      "谢幼度"
+    ],
+    "courtesy_name": "幼度",
+    "birth": 343,
+    "death": 388,
+    "birth_place": "陈郡阳夏",
+    "period": "东晋",
+    "faction_id": "eastern-jin",
+    "roles": [
+      "将领",
+      "北府兵统帅"
+    ],
+    "tags": [
+      "北府兵",
+      "淝水",
+      "陈郡谢氏",
+      "北伐"
+    ],
+    "traits": [
+      "果决",
+      "善练兵",
+      "沉稳",
+      "谦退"
+    ],
+    "relationships": [
+      {
+        "target": "xie-an",
+        "type": "叔侄",
+        "note": "淝水之战"
+      },
+      {
+        "target": "fu-jian",
+        "type": "对手",
+        "note": "淝水之战"
+      }
+    ],
+    "events": [
+      "feishui"
+    ],
+    "quotes": [],
+    "summary": "谢玄组建北府兵，淝水之战任前锋都督，以少胜多击破前秦，后又北伐收复黄河以南。",
+    "game_use": "适合精锐部队缔造者：练兵与前锋战强，但受门阀政治掣肘。",
+    "sources": [
+      "JINSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "huan-xuan",
+    "name": "桓玄",
+    "name_en": "Huan Xuan",
+    "aliases": [
+      "桓敬道",
+      "楚帝"
+    ],
+    "courtesy_name": "敬道",
+    "birth": 369,
+    "death": 404,
+    "birth_place": "谯国龙亢",
+    "period": "东晋",
+    "faction_id": "eastern-jin",
+    "roles": [
+      "权臣",
+      "篡位者"
+    ],
+    "tags": [
+      "桓楚",
+      "荆州",
+      "篡晋",
+      "刘裕"
+    ],
+    "traits": [
+      "自负",
+      "善权谋",
+      "奢侈",
+      "短视"
+    ],
+    "relationships": [
+      {
+        "target": "huan-wen",
+        "type": "父子",
+        "note": "桓温之子"
+      },
+      {
+        "target": "liu-yu",
+        "type": "对手",
+        "note": "刘裕起兵讨桓玄"
+      }
+    ],
+    "events": [
+      "huan-xuan",
+      "liu-song-foundation"
+    ],
+    "quotes": [],
+    "summary": "桓玄继承桓温势力，据荆州东下建康，篡晋建楚，不久被刘裕起兵击败，逃亡被杀。",
+    "game_use": "适合门阀篡位路线：名分与荆州资源强，但根基浅、军事韧性差。",
+    "sources": [
+      "JINSHU",
+      "SONGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "sun-en",
+    "name": "孙恩",
+    "name_en": "Sun En",
+    "aliases": [
+      "孙灵秀",
+      "海寇"
+    ],
+    "courtesy_name": "灵秀",
+    "birth": null,
+    "death": 402,
+    "birth_place": "琅琊",
+    "period": "东晋",
+    "faction_id": "eastern-jin",
+    "roles": [
+      "道教领袖",
+      "叛乱首领"
+    ],
+    "tags": [
+      "五斗米道",
+      "海寇",
+      "会稽",
+      "东晋"
+    ],
+    "traits": [
+      "宗教魅力",
+      "残忍",
+      "善水战",
+      "流动作战"
+    ],
+    "relationships": [
+      {
+        "target": "liu-yu",
+        "type": "对手",
+        "note": "刘裕镇压孙恩"
+      }
+    ],
+    "events": [
+      "sun-en"
+    ],
+    "quotes": [],
+    "summary": "孙恩以五斗米道组织沿海民众起兵，屡次登陆劫掠三吴，最终投海自尽，部众由卢循继续。",
+    "game_use": "适合沿海宗教叛乱：登陆突袭与民众动员强，缺乏稳固根据地。",
+    "sources": [
+      "JINSHU",
+      "SONGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "tuoba-tao",
+    "name": "拓跋焘",
+    "name_en": "Tuoba Tao",
+    "aliases": [
+      "魏太武帝",
+      "佛狸"
+    ],
+    "courtesy_name": null,
+    "birth": 408,
+    "death": 452,
+    "birth_place": "平城",
+    "period": "北朝",
+    "faction_id": "northern-wei",
+    "roles": [
+      "皇帝",
+      "军事统帅"
+    ],
+    "tags": [
+      "北魏",
+      "太武帝",
+      "灭佛",
+      "柔然"
+    ],
+    "traits": [
+      "雄武",
+      "果决",
+      "严酷",
+      "善战"
+    ],
+    "relationships": [
+      {
+        "target": "tuoba-gui",
+        "type": "祖孙",
+        "note": "北魏道武帝"
+      },
+      {
+        "target": "murong-chui",
+        "type": "对手",
+        "note": "参合陂后继续攻燕"
+      }
+    ],
+    "events": [
+      "canhebei",
+      "yuanjia-expedition",
+      "persecution-buddhism"
+    ],
+    "quotes": [],
+    "summary": "拓跋焘统一北方，灭胡夏、北燕、北凉，击柔然，多次南征刘宋，并发动北魏第一次灭佛。",
+    "game_use": "适合高扩张型君主：骑兵与多线作战强，但统治严酷、内部矛盾累积。",
+    "sources": [
+      "WEISHU",
+      "BEISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "feng-taihou",
+    "name": "冯太后",
+    "name_en": "Empress Dowager Feng",
+    "aliases": [
+      "文明太后",
+      "冯氏"
+    ],
+    "courtesy_name": null,
+    "birth": 442,
+    "death": 490,
+    "birth_place": "长乐信都",
+    "period": "北朝",
+    "faction_id": "northern-wei",
+    "roles": [
+      "太后",
+      "摄政",
+      "改革推动者"
+    ],
+    "tags": [
+      "北魏",
+      "均田",
+      "三长制",
+      "汉化"
+    ],
+    "traits": [
+      "果决",
+      "权谋",
+      "务实",
+      "强势"
+    ],
+    "relationships": [
+      {
+        "target": "tuoba-hong",
+        "type": "祖孙/摄政",
+        "note": "孝文帝改革"
+      }
+    ],
+    "events": [
+      "xiaowen-reform",
+      "luoyang-capital"
+    ],
+    "quotes": [],
+    "summary": "冯太后两度临朝称制，推动均田制、三长制与俸禄制，为孝文帝汉化改革奠定制度基础。",
+    "game_use": "适合摄政太后：内政改革与宫廷控制强，但与宗室、鲜卑旧贵冲突。",
+    "sources": [
+      "WEISHU",
+      "BEISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "yuwen-hu",
+    "name": "宇文护",
+    "name_en": "Yuwen Hu",
+    "aliases": [
+      "宇文萨保"
+    ],
+    "courtesy_name": "萨保",
+    "birth": 515,
+    "death": 572,
+    "birth_place": "代郡武川",
+    "period": "北朝",
+    "faction_id": "northern-zhou",
+    "roles": [
+      "权臣",
+      "摄政"
+    ],
+    "tags": [
+      "北周",
+      "权臣",
+      "弑君",
+      "府兵"
+    ],
+    "traits": [
+      "强硬",
+      "权谋",
+      "猜忌",
+      "善控军"
+    ],
+    "relationships": [
+      {
+        "target": "yuwen-tai",
+        "type": "叔侄",
+        "note": "宇文泰之侄"
+      },
+      {
+        "target": "yuwen-yong",
+        "type": "君臣/被杀",
+        "note": "周武帝诛宇文护"
+      }
+    ],
+    "events": [
+      "northern-zhou-foundation"
+    ],
+    "quotes": [],
+    "summary": "宇文护受宇文泰托孤，掌控西魏、北周朝政十余年，连杀三帝，最终被周武帝宇文邕设计诛杀。",
+    "game_use": "适合摄政权臣：军政控制强，但与成年君主必然冲突。",
+    "sources": [
+      "ZHOUSHU",
+      "BEISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "gao-yang",
+    "name": "高洋",
+    "name_en": "Gao Yang",
+    "aliases": [
+      "北齐文宣帝",
+      "高子进"
+    ],
+    "courtesy_name": "子进",
+    "birth": 526,
+    "death": 559,
+    "birth_place": "渤海蓨县",
+    "period": "北朝",
+    "faction_id": "northern-qi",
+    "roles": [
+      "皇帝",
+      "北齐开国"
+    ],
+    "tags": [
+      "北齐",
+      "开国",
+      "晋阳",
+      "鲜卑"
+    ],
+    "traits": [
+      "果决",
+      "雄武",
+      "后期暴虐",
+      "多疑"
+    ],
+    "relationships": [
+      {
+        "target": "gao-huan",
+        "type": "父子",
+        "note": "高欢之子"
+      }
+    ],
+    "events": [
+      "northern-qi-foundation",
+      "northern-qi-conquest"
+    ],
+    "quotes": [],
+    "summary": "高洋代东魏建北齐，前期励精图治、击败柔然与突厥，后期酗酒暴虐，北齐政治自此不稳。",
+    "game_use": "适合前期强势后期失控型君主：开国军力强，统治稳定性随时间恶化。",
+    "sources": [
+      "BEIQISHU",
+      "BEISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "yang-guang",
+    "name": "杨广",
+    "name_en": "Yang Guang",
+    "aliases": [
+      "隋炀帝",
+      "杨英"
+    ],
+    "courtesy_name": "阿摐",
+    "birth": 569,
+    "death": 618,
+    "birth_place": "大兴",
+    "period": "隋",
+    "faction_id": "sui",
+    "roles": [
+      "皇帝",
+      "军事统帅"
+    ],
+    "tags": [
+      "大运河",
+      "科举",
+      "高句丽",
+      "江都"
+    ],
+    "traits": [
+      "雄才",
+      "好大喜功",
+      "果决",
+      "奢侈"
+    ],
+    "relationships": [
+      {
+        "target": "yang-jian",
+        "type": "父子",
+        "note": "隋文帝"
+      },
+      {
+        "target": "du-gu-jialuo",
+        "type": "母子",
+        "note": "独孤皇后"
+      }
+    ],
+    "events": [
+      "chen-conquest",
+      "three-departments",
+      "grand-canal",
+      "gaogouli-campaign",
+      "jiangdu-coup"
+    ],
+    "quotes": [],
+    "summary": "杨广完成灭陈、开运河、扩科举、经营西域，但三征高句丽与过度动员耗尽民力，最终在江都被弑。",
+    "game_use": "适合高工程高动员型君主：短期国力爆发，长期民怨与财政崩溃。",
+    "sources": [
+      "SUISHU",
+      "BEISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "chen-shu-bao",
+    "name": "陈叔宝",
+    "name_en": "Chen Shubao",
+    "aliases": [
+      "陈后主",
+      "陈元秀"
+    ],
+    "courtesy_name": "元秀",
+    "birth": 553,
+    "death": 604,
+    "birth_place": "建康",
+    "period": "南朝",
+    "faction_id": "chen",
+    "roles": [
+      "皇帝",
+      "词人"
+    ],
+    "tags": [
+      "陈",
+      "后主",
+      "玉树后庭花",
+      "亡国"
+    ],
+    "traits": [
+      "文才",
+      "荒怠",
+      "奢侈",
+      "逃避"
+    ],
+    "relationships": [
+      {
+        "target": "chen-bawang",
+        "type": "祖孙",
+        "note": "陈武帝"
+      }
+    ],
+    "events": [
+      "chen-conquest"
+    ],
+    "quotes": [
+      {
+        "text": "玉树后庭花，花开不复久。",
+        "source": "陈书·后主纪"
+      }
+    ],
+    "summary": "陈叔宝为南朝陈末帝，耽于诗酒，隋军渡江时仍在宫中宴乐，建康陷落后被俘。",
+    "game_use": "适合文化型亡国之君：文化值高，军事与行政决策极弱。",
+    "sources": [
+      "CHENSHU",
+      "NANSHI",
+      "SUISHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "sima-lun",
+    "name": "司马伦",
+    "name_en": "Sima Lun",
+    "aliases": [
+      "赵王伦"
+    ],
+    "courtesy_name": null,
+    "birth": null,
+    "death": 301,
+    "birth_place": "河内温县",
+    "period": "西晋",
+    "faction_id": "western-jin",
+    "roles": [
+      "宗王",
+      "篡位者"
+    ],
+    "tags": [
+      "八王之乱",
+      "赵王",
+      "废惠帝",
+      "孙秀"
+    ],
+    "traits": [
+      "贪婪",
+      "昏聩",
+      "野心",
+      "受控"
+    ],
+    "relationships": [
+      {
+        "target": "sima-yan",
+        "type": "叔侄",
+        "note": "晋武帝叔父"
+      },
+      {
+        "target": "sima-zhong",
+        "type": "君臣/废立",
+        "note": "废惠帝自立"
+      }
+    ],
+    "events": [
+      "eight-princes"
+    ],
+    "quotes": [],
+    "summary": "司马伦为司马懿第九子，八王之乱中联合孙秀废杀贾后，次年篡位称帝，不久被齐王冏等讨灭。",
+    "game_use": "适合低能力高野心的宗王：宫廷阴谋强，军事与合法性极差。",
+    "sources": [
+      "JINSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "sima-ying",
+    "name": "司马颖",
+    "name_en": "Sima Ying",
+    "aliases": [
+      "成都王颖"
+    ],
+    "courtesy_name": null,
+    "birth": 279,
+    "death": 306,
+    "birth_place": "河内温县",
+    "period": "西晋",
+    "faction_id": "western-jin",
+    "roles": [
+      "宗王",
+      "大将军"
+    ],
+    "tags": [
+      "八王之乱",
+      "成都王",
+      "邺城",
+      "皇太弟"
+    ],
+    "traits": [
+      "优柔",
+      "宽厚",
+      "缺乏决断",
+      "善笼络"
+    ],
+    "relationships": [
+      {
+        "target": "sima-yan",
+        "type": "父子",
+        "note": "晋武帝第十六子"
+      },
+      {
+        "target": "sima-zhong",
+        "type": "兄弟",
+        "note": "晋惠帝之弟"
+      }
+    ],
+    "events": [
+      "eight-princes"
+    ],
+    "quotes": [],
+    "summary": "司马颖为晋武帝之子，八王之乱中据邺城，一度被立为皇太弟，后被王浚、司马腾联军击败，逃亡被杀。",
+    "game_use": "适合有合法性但缺决断的宗王：号召力强，战场指挥与政治判断弱。",
+    "sources": [
+      "JINSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "li-keyong",
+    "name": "李克用",
+    "name_en": "Li Keyong",
+    "aliases": [
+      "李鸦儿",
+      "晋王",
+      "独眼龙"
+    ],
+    "courtesy_name": null,
+    "birth": 856,
+    "death": 908,
+    "birth_place": "神武川新城",
+    "period": "晚唐",
+    "faction_id": "li-keyong",
+    "roles": [
+      "节度使",
+      "晋王",
+      "军阀"
+    ],
+    "tags": [
+      "沙陀",
+      "河东",
+      "鸦军",
+      "晋梁争霸"
+    ],
+    "traits": [
+      "勇猛",
+      "豪爽",
+      "记仇",
+      "善骑战"
+    ],
+    "relationships": [
+      {
+        "target": "li-cunxu",
+        "type": "父子",
+        "note": "后唐庄宗"
+      },
+      {
+        "target": "zhu-wen",
+        "type": "死敌",
+        "note": "晋梁争霸"
+      }
+    ],
+    "events": [
+      "huang-chao-defeat",
+      "later-liang-foundation"
+    ],
+    "quotes": [],
+    "summary": "李克用为沙陀部首领，因平黄巢有功据河东，与朱温长期争霸，临终以三矢遗命李存勖复仇。",
+    "game_use": "适合骑兵型军阀：野战与招募沙陀骑兵强，但后勤与河北盟友不稳。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "shi-chaoyi",
+    "name": "史朝义",
+    "name_en": "Shi Chaoyi",
+    "aliases": [
+      "大燕末帝"
+    ],
+    "courtesy_name": null,
+    "birth": null,
+    "death": 763,
+    "birth_place": "营州",
+    "period": "中唐",
+    "faction_id": "shi-siming-yan",
+    "roles": [
+      "皇帝",
+      "叛乱首领"
+    ],
+    "tags": [
+      "安史",
+      "燕",
+      "弑父",
+      "败亡"
+    ],
+    "traits": [
+      "仁弱",
+      "犹豫",
+      "善抚下",
+      "缺乏威信"
+    ],
+    "relationships": [
+      {
+        "target": "shi-siming",
+        "type": "父子/弑父",
+        "note": "史思明被杀"
+      }
+    ],
+    "events": [
+      "shi-chaoyi",
+      "anshi-end"
+    ],
+    "quotes": [],
+    "summary": "史朝义杀父自立，延续安史政权，但在唐与回鹘联军打击下节节败退，最终自缢。",
+    "game_use": "适合继承危机型叛军：部众忠诚低，内部弑杀事件频发。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "li-xilie",
+    "name": "李希烈",
+    "name_en": "Li Xilie",
+    "aliases": [
+      "李希烈",
+      "淮西节度使"
+    ],
+    "courtesy_name": null,
+    "birth": null,
+    "death": 786,
+    "birth_place": "辽西",
+    "period": "中唐",
+    "faction_id": "huai-xi",
+    "roles": [
+      "节度使",
+      "叛乱首领",
+      "皇帝"
+    ],
+    "tags": [
+      "淮西",
+      "藩镇",
+      "称帝",
+      "颜真卿"
+    ],
+    "traits": [
+      "野心",
+      "残暴",
+      "善战",
+      "反复"
+    ],
+    "relationships": [
+      {
+        "target": "yan-zhenqing",
+        "type": "杀害",
+        "note": "颜真卿殉难"
+      },
+      {
+        "target": "tang-dezong",
+        "type": "君臣/叛乱",
+        "note": "建中之乱"
+      }
+    ],
+    "events": [
+      "huai-xi",
+      "jingyuan-mutiny"
+    ],
+    "quotes": [],
+    "summary": "李希烈为淮西节度使，建中年间起兵称帝，攻陷汴州，杀害颜真卿，最终被部将毒杀。",
+    "game_use": "适合中原腹地叛乱：威胁漕运与东都，但四面受敌、后勤脆弱。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "tang-dezong",
+    "name": "唐德宗",
+    "name_en": "Emperor Dezong of Tang",
+    "aliases": [
+      "李适"
+    ],
+    "courtesy_name": null,
+    "birth": 742,
+    "death": 805,
+    "birth_place": "长安",
+    "period": "中唐",
+    "faction_id": "tang",
+    "roles": [
+      "皇帝"
+    ],
+    "tags": [
+      "建中",
+      "泾原兵变",
+      "两税法",
+      "藩镇"
+    ],
+    "traits": [
+      "刚愎",
+      "多疑",
+      "勤政",
+      "聚敛"
+    ],
+    "relationships": [
+      {
+        "target": "li-mi",
+        "type": "君臣",
+        "note": "德宗朝宰相"
+      },
+      {
+        "target": "li-xilie",
+        "type": "君臣/叛乱",
+        "note": "建中之乱"
+      }
+    ],
+    "events": [
+      "liang-tax",
+      "jingyuan-mutiny",
+      "fengtian",
+      "huai-xi"
+    ],
+    "quotes": [],
+    "summary": "唐德宗推行两税法，试图削藩，却因泾原兵变出逃奉天，此后对藩镇转向妥协。",
+    "game_use": "适合改革与危机并存型君主：财政改革强，军事决策与用人失误多。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "pugu-huai-en",
+    "name": "仆固怀恩",
+    "name_en": "Pugu Huai'en",
+    "aliases": [
+      "仆固怀恩"
+    ],
+    "courtesy_name": null,
+    "birth": null,
+    "death": 765,
+    "birth_place": "铁勒仆固部",
+    "period": "中唐",
+    "faction_id": "shuo-fang",
+    "roles": [
+      "将领",
+      "朔方节度使"
+    ],
+    "tags": [
+      "铁勒",
+      "朔方",
+      "安史之乱",
+      "叛乱"
+    ],
+    "traits": [
+      "勇猛",
+      "善战",
+      "怨望",
+      "反复"
+    ],
+    "relationships": [
+      {
+        "target": "guo-ziyi",
+        "type": "同僚/猜忌",
+        "note": "朔方军内斗"
+      },
+      {
+        "target": "li-guangbi",
+        "type": "同僚",
+        "note": "平叛"
+      }
+    ],
+    "events": [
+      "anshi-end",
+      "pugu-rebellion"
+    ],
+    "quotes": [],
+    "summary": "仆固怀恩为铁勒族唐将，安史之乱中功勋卓著，后因朝廷猜忌起兵，引回鹘、吐蕃入侵，途中病死。",
+    "game_use": "适合功高震主型边将：军事强，忠诚因猜忌事件快速下降。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wei-zheng",
+    "name": "魏徵",
+    "name_en": "Wei Zheng",
+    "aliases": [
+      "魏玄成",
+      "魏郑公"
+    ],
+    "courtesy_name": "玄成",
+    "birth": 580,
+    "death": 643,
+    "birth_place": "巨鹿下曲阳",
+    "period": "初唐",
+    "faction_id": "tang",
+    "roles": [
+      "谏臣",
+      "宰相"
+    ],
+    "tags": [
+      "贞观",
+      "纳谏",
+      "谏臣",
+      "史学"
+    ],
+    "traits": [
+      "刚直",
+      "敢谏",
+      "博学",
+      "务实"
+    ],
+    "relationships": [
+      {
+        "target": "li-shimin",
+        "type": "君臣",
+        "note": "贞观纳谏"
+      }
+    ],
+    "events": [
+      "zhenguan"
+    ],
+    "quotes": [
+      {
+        "text": "兼听则明，偏信则暗。",
+        "source": "贞观政要"
+      }
+    ],
+    "summary": "魏徵原为李建成谋臣，太宗即位后重用，前后进谏二百余事，是贞观之治的象征。",
+    "game_use": "适合谏臣型角色：降低君主决策失误，但会触发君主不满。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZHENGGUANZHENGYAO",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "li-jing",
+    "name": "李靖",
+    "name_en": "Li Jing",
+    "aliases": [
+      "李药师",
+      "卫国公"
+    ],
+    "courtesy_name": "药师",
+    "birth": 571,
+    "death": 649,
+    "birth_place": "雍州三原",
+    "period": "初唐",
+    "faction_id": "tang",
+    "roles": [
+      "将领",
+      "军事理论家"
+    ],
+    "tags": [
+      "灭突厥",
+      "兵法",
+      "骑兵",
+      "贞观"
+    ],
+    "traits": [
+      "沉稳",
+      "善谋",
+      "果决",
+      "谨慎"
+    ],
+    "relationships": [
+      {
+        "target": "li-shimin",
+        "type": "君臣",
+        "note": "灭东突厥"
+      }
+    ],
+    "events": [
+      "eastern-turk-conquest",
+      "gaochang"
+    ],
+    "quotes": [],
+    "summary": "李靖为唐初名将，灭东突厥、平吐谷浑，著有兵书，是贞观武功的代表人物。",
+    "game_use": "适合远程奔袭型统帅：骑兵机动与奇袭强，后勤要求高。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "guo-chongtao",
+    "name": "郭崇韬",
+    "name_en": "Guo Chongtao",
+    "aliases": [
+      "郭安时",
+      "郭崇韬"
+    ],
+    "courtesy_name": "安时",
+    "birth": 865,
+    "death": 926,
+    "birth_place": "代州雁门",
+    "period": "五代",
+    "faction_id": "later-tang",
+    "roles": [
+      "谋臣",
+      "枢密使",
+      "统帅"
+    ],
+    "tags": [
+      "后唐",
+      "灭梁",
+      "灭前蜀",
+      "枢密使"
+    ],
+    "traits": [
+      "果决",
+      "善谋",
+      "刚傲",
+      "善后勤"
+    ],
+    "relationships": [
+      {
+        "target": "li-cunxu",
+        "type": "君臣",
+        "note": "后唐庄宗枢密使"
+      },
+      {
+        "target": "li-siyuan",
+        "type": "同僚/政敌",
+        "note": "庄宗死后被杀"
+      }
+    ],
+    "events": [
+      "liang-conquest",
+      "former-shu-conquest"
+    ],
+    "quotes": [],
+    "summary": "郭崇韬为后唐庄宗首席谋臣，主持灭梁战略，后又率军灭前蜀，因功高遭猜忌，在成都被杀。",
+    "game_use": "适合战略型枢密使：后勤与多线调度强，政治敏感度低，功高易死。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wang-yanzhang",
+    "name": "王彦章",
+    "name_en": "Wang Yanzhang",
+    "aliases": [
+      "王贤明",
+      "王铁枪"
+    ],
+    "courtesy_name": "贤明",
+    "birth": 863,
+    "death": 923,
+    "birth_place": "郓州寿张",
+    "period": "五代",
+    "faction_id": "later-liang",
+    "roles": [
+      "将领"
+    ],
+    "tags": [
+      "后梁",
+      "铁枪",
+      "德胜口",
+      "忠勇"
+    ],
+    "traits": [
+      "勇猛",
+      "忠直",
+      "寡言",
+      "轻敌"
+    ],
+    "relationships": [
+      {
+        "target": "zhu-wen",
+        "type": "君臣",
+        "note": "后梁名将"
+      },
+      {
+        "target": "li-cunxu",
+        "type": "对手",
+        "note": "被后唐所擒"
+      }
+    ],
+    "events": [
+      "liang-conquest"
+    ],
+    "quotes": [
+      {
+        "text": "豹死留皮，人死留名。",
+        "source": "新五代史·王彦章传"
+      }
+    ],
+    "summary": "王彦章为后梁猛将，善使铁枪，屡破后唐军，后因梁廷猜忌被罢，复起时兵少败俘，不屈而死。",
+    "game_use": "适合高勇武低政治的救火型将领：局部战强，但无法扭转战略颓势。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "yelv-abaoji",
+    "name": "耶律阿保机",
+    "name_en": "Yelü Abaoji",
+    "aliases": [
+      "辽太祖",
+      "阿保机",
+      "契丹可汗"
+    ],
+    "courtesy_name": null,
+    "birth": 872,
+    "death": 926,
+    "birth_place": "契丹迭剌部",
+    "period": "五代",
+    "faction_id": "khitan",
+    "roles": [
+      "可汗",
+      "皇帝",
+      "开国者"
+    ],
+    "tags": [
+      "契丹",
+      "辽",
+      "草原帝国",
+      "汉制"
+    ],
+    "traits": [
+      "雄才",
+      "果决",
+      "善用人",
+      "善骑战"
+    ],
+    "relationships": [
+      {
+        "target": "yelv-deguang",
+        "type": "父子",
+        "note": "辽太宗"
+      },
+      {
+        "target": "li-cunxu",
+        "type": "对手",
+        "note": "幽州之战"
+      }
+    ],
+    "events": [
+      "khitan-foundation"
+    ],
+    "quotes": [],
+    "summary": "耶律阿保机统一契丹诸部，称帝建辽，创契丹文字，兼采汉制，奠定辽朝两百年的基业。",
+    "game_use": "适合草原帝国开国者：部族整合与骑兵强，需在汉制与部族传统间平衡。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "LIAOSHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "yelv-deguang",
+    "name": "耶律德光",
+    "name_en": "Yelü Deguang",
+    "aliases": [
+      "辽太宗",
+      "尧骨"
+    ],
+    "courtesy_name": null,
+    "birth": 902,
+    "death": 947,
+    "birth_place": "契丹",
+    "period": "五代",
+    "faction_id": "khitan",
+    "roles": [
+      "皇帝",
+      "军事统帅"
+    ],
+    "tags": [
+      "辽",
+      "燕云十六州",
+      "灭后晋",
+      "入汴"
+    ],
+    "traits": [
+      "果决",
+      "善战",
+      "务实",
+      "纵兵"
+    ],
+    "relationships": [
+      {
+        "target": "yelv-abaoji",
+        "type": "父子",
+        "note": "辽太祖之子"
+      },
+      {
+        "target": "shi-jingtang",
+        "type": "君臣/宗主",
+        "note": "割燕云"
+      },
+      {
+        "target": "shi-chonggui",
+        "type": "对手",
+        "note": "灭后晋"
+      }
+    ],
+    "events": [
+      "sixteen-prefectures",
+      "khitan-entry",
+      "khitan-withdrawal"
+    ],
+    "quotes": [],
+    "summary": "耶律德光助石敬瑭灭后唐，取得燕云十六州，后南下灭后晋，入汴称帝，因中原反抗北撤途中病死。",
+    "game_use": "适合草原-中原双轨征服者：骑兵与政治胁迫强，占中原后治理与民心极差。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "LIAOSHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "shi-chonggui",
+    "name": "石重贵",
+    "name_en": "Shi Chonggui",
+    "aliases": [
+      "后晋出帝",
+      "石重贵"
+    ],
+    "courtesy_name": null,
+    "birth": 914,
+    "death": 974,
+    "birth_place": "太原",
+    "period": "五代",
+    "faction_id": "later-jin",
+    "roles": [
+      "皇帝"
+    ],
+    "tags": [
+      "后晋",
+      "出帝",
+      "抗辽",
+      "亡国"
+    ],
+    "traits": [
+      "倔强",
+      "轻率",
+      "好战",
+      "缺乏谋略"
+    ],
+    "relationships": [
+      {
+        "target": "shi-jingtang",
+        "type": "叔侄/养父子",
+        "note": "后晋高祖之侄"
+      },
+      {
+        "target": "yelv-deguang",
+        "type": "对手",
+        "note": "后晋亡于辽"
+      }
+    ],
+    "events": [
+      "khitan-entry"
+    ],
+    "quotes": [],
+    "summary": "石重贵继位后拒绝向辽称臣，两次击退辽军，但用人不当、藩镇叛降，最终后晋被辽所灭。",
+    "game_use": "适合强硬但资源不足的君主：抵抗意志高，外交与军事协调差。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "sang-weihan",
+    "name": "桑维翰",
+    "name_en": "Sang Weihan",
+    "aliases": [
+      "桑国侨"
+    ],
+    "courtesy_name": "国侨",
+    "birth": 898,
+    "death": 947,
+    "birth_place": "洛阳",
+    "period": "五代",
+    "faction_id": "later-jin",
+    "roles": [
+      "宰相",
+      "谋臣"
+    ],
+    "tags": [
+      "后晋",
+      "燕云十六州",
+      "契丹",
+      "财政"
+    ],
+    "traits": [
+      "务实",
+      "善外交",
+      "勤政",
+      "相貌丑"
+    ],
+    "relationships": [
+      {
+        "target": "shi-jingtang",
+        "type": "君臣",
+        "note": "后晋开国宰相"
+      },
+      {
+        "target": "yelv-deguang",
+        "type": "外交",
+        "note": "割地称臣"
+      }
+    ],
+    "events": [
+      "sixteen-prefectures",
+      "khitan-entry"
+    ],
+    "quotes": [],
+    "summary": "桑维翰为石敬瑭核心谋臣，主持对契丹称臣割地，后晋建立后长期执政，最终被张彦泽所杀。",
+    "game_use": "适合现实主义外交家：能以屈辱条件换取生存，但会永久损害正统与民心。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "jing-yanguang",
+    "name": "景延广",
+    "name_en": "Jing Yanguang",
+    "aliases": [
+      "景延广"
+    ],
+    "courtesy_name": null,
+    "birth": 892,
+    "death": 947,
+    "birth_place": "陕州",
+    "period": "五代",
+    "faction_id": "later-jin",
+    "roles": [
+      "将领",
+      "宰相"
+    ],
+    "tags": [
+      "后晋",
+      "抗辽",
+      "称孙不称臣",
+      "强硬"
+    ],
+    "traits": [
+      "刚傲",
+      "口舌",
+      "果决",
+      "缺乏战略"
+    ],
+    "relationships": [
+      {
+        "target": "shi-chonggui",
+        "type": "君臣",
+        "note": "后晋出帝宰相"
+      },
+      {
+        "target": "yelv-deguang",
+        "type": "对手",
+        "note": "对辽强硬"
+      }
+    ],
+    "events": [
+      "khitan-entry"
+    ],
+    "quotes": [
+      {
+        "text": "称孙足矣，称臣不可。",
+        "source": "新五代史·景延广传"
+      }
+    ],
+    "summary": "景延广辅佐石重贵对辽强硬，主张称孙不称臣，激化辽晋矛盾，后晋灭亡后被俘自杀。",
+    "game_use": "适合强硬主战派：士气与独立性高，但容易把国家推入无法承受的战争。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "du-zhongwei",
+    "name": "杜重威",
+    "name_en": "Du Zhongwei",
+    "aliases": [
+      "杜重威"
+    ],
+    "courtesy_name": null,
+    "birth": null,
+    "death": 948,
+    "birth_place": "朔州",
+    "period": "五代",
+    "faction_id": "later-jin",
+    "roles": [
+      "将领",
+      "节度使"
+    ],
+    "tags": [
+      "后晋",
+      "成德",
+      "叛降",
+      "契丹"
+    ],
+    "traits": [
+      "贪懦",
+      "反复",
+      "善投机",
+      "不得军心"
+    ],
+    "relationships": [
+      {
+        "target": "shi-chonggui",
+        "type": "君臣/叛降",
+        "note": "阵前降辽"
+      },
+      {
+        "target": "yelv-deguang",
+        "type": "降附",
+        "note": "引辽灭晋"
+      }
+    ],
+    "events": [
+      "khitan-entry"
+    ],
+    "quotes": [],
+    "summary": "杜重威为后晋成德节度使，统率北伐大军却在阵前降辽，直接导致后晋崩溃，后为后汉所杀。",
+    "game_use": "适合高兵力低忠诚的军阀：可守一方，关键时刻叛降风险极高。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "liu-chengyou",
+    "name": "刘承祐",
+    "name_en": "Liu Chengyou",
+    "aliases": [
+      "后汉隐帝"
+    ],
+    "courtesy_name": null,
+    "birth": 931,
+    "death": 951,
+    "birth_place": "太原",
+    "period": "五代",
+    "faction_id": "later-han",
+    "roles": [
+      "皇帝"
+    ],
+    "tags": [
+      "后汉",
+      "隐帝",
+      "诛杀权臣",
+      "郭威起兵"
+    ],
+    "traits": [
+      "年少",
+      "多疑",
+      "急躁",
+      "无决断"
+    ],
+    "relationships": [
+      {
+        "target": "liu-zhiyuan",
+        "type": "父子",
+        "note": "后汉高祖之子"
+      },
+      {
+        "target": "guo-wei",
+        "type": "君臣/被杀",
+        "note": "逼反郭威"
+      }
+    ],
+    "events": [
+      "guowei-rebellion"
+    ],
+    "quotes": [],
+    "summary": "刘承祐年少即位，猜忌郭威等功臣，诛杀其全家，逼郭威起兵，自己死于乱军，后汉灭亡。",
+    "game_use": "适合少年多疑君主：宫廷清洗可短期集权，但极易逼反最强将领。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "li-jun",
+    "name": "李筠",
+    "name_en": "Li Jun",
+    "aliases": [
+      "李筠"
+    ],
+    "courtesy_name": null,
+    "birth": null,
+    "death": 960,
+    "birth_place": "并州",
+    "period": "宋初统一",
+    "faction_id": "later-zhou",
+    "roles": [
+      "节度使",
+      "叛乱首领"
+    ],
+    "tags": [
+      "昭义",
+      "潞州",
+      "北汉",
+      "反宋"
+    ],
+    "traits": [
+      "骄横",
+      "勇武",
+      "念旧",
+      "缺乏谋略"
+    ],
+    "relationships": [
+      {
+        "target": "zhao-kuangyin",
+        "type": "君臣/叛乱",
+        "note": "反宋被杀"
+      },
+      {
+        "target": "liu-chong",
+        "type": "盟友",
+        "note": "联合北汉"
+      }
+    ],
+    "events": [
+      "li-jun-rebellion"
+    ],
+    "quotes": [],
+    "summary": "李筠为后周昭义节度使，宋太祖代周后联合北汉起兵，攻泽州失败，自焚而死。",
+    "game_use": "适合旧朝忠臣型叛乱：初期声势大，但资源有限、盟友不可靠。",
+    "sources": [
+      "SONGSHI",
+      "XUWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "li-zhongjin",
+    "name": "李重进",
+    "name_en": "Li Zhongjin",
+    "aliases": [
+      "李重进"
+    ],
+    "courtesy_name": null,
+    "birth": null,
+    "death": 961,
+    "birth_place": "太原",
+    "period": "宋初统一",
+    "faction_id": "later-zhou",
+    "roles": [
+      "节度使",
+      "宗室"
+    ],
+    "tags": [
+      "淮南",
+      "扬州",
+      "后周宗室",
+      "反宋"
+    ],
+    "traits": [
+      "刚烈",
+      "善战",
+      "孤立",
+      "犹豫"
+    ],
+    "relationships": [
+      {
+        "target": "zhao-kuangyin",
+        "type": "君臣/叛乱",
+        "note": "扬州起兵"
+      },
+      {
+        "target": "guo-wei",
+        "type": "舅甥",
+        "note": "后周太祖外甥"
+      }
+    ],
+    "events": [
+      "li-zhongjin-rebellion"
+    ],
+    "quotes": [],
+    "summary": "李重进为后周太祖外甥，出镇淮南，宋太祖代周后起兵扬州，被宋军围城，城破自焚。",
+    "game_use": "适合后周忠臣势力：江淮财赋充足，但缺乏北方盟友与战略纵深。",
+    "sources": [
+      "SONGSHI",
+      "XUWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "meng-chang",
+    "name": "孟昶",
+    "name_en": "Meng Chang",
+    "aliases": [
+      "后蜀后主",
+      "孟仁赞"
+    ],
+    "courtesy_name": "仁赞",
+    "birth": 919,
+    "death": 965,
+    "birth_place": "太原",
+    "period": "十国",
+    "faction_id": "later-shu",
+    "roles": [
+      "皇帝",
+      "词人"
+    ],
+    "tags": [
+      "后蜀",
+      "成都",
+      "花蕊夫人",
+      "亡国"
+    ],
+    "traits": [
+      "文雅",
+      "奢侈",
+      "宽厚",
+      "怠政"
+    ],
+    "relationships": [
+      {
+        "target": "meng-zhixiang",
+        "type": "父子",
+        "note": "后蜀高祖之子"
+      },
+      {
+        "target": "zhao-kuangyin",
+        "type": "对手",
+        "note": "宋灭后蜀"
+      }
+    ],
+    "events": [
+      "later-shu-foundation",
+      "later-shu-conquest"
+    ],
+    "quotes": [
+      {
+        "text": "十四万人齐解甲，更无一个是男儿。",
+        "source": "花蕊夫人《述国亡诗》（传）"
+      }
+    ],
+    "summary": "孟昶继孟知祥据蜀三十余年，前期安定繁荣，后期奢侈怠政，宋军入蜀后投降，死于汴京。",
+    "game_use": "适合富庶但武备废弛的割据君主：经济文化高，军事动员与危机应对极弱。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "SONGSHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wang-yan",
+    "name": "王衍",
+    "name_en": "Wang Yan",
+    "aliases": [
+      "前蜀后主",
+      "王宗衍"
+    ],
+    "courtesy_name": null,
+    "birth": 899,
+    "death": 926,
+    "birth_place": "成都",
+    "period": "十国",
+    "faction_id": "former-shu",
+    "roles": [
+      "皇帝"
+    ],
+    "tags": [
+      "前蜀",
+      "成都",
+      "荒淫",
+      "亡国"
+    ],
+    "traits": [
+      "奢靡",
+      "文才",
+      "荒怠",
+      "轻信"
+    ],
+    "relationships": [
+      {
+        "target": "wang-jian",
+        "type": "父子",
+        "note": "前蜀高祖之子"
+      },
+      {
+        "target": "guo-chongtao",
+        "type": "对手",
+        "note": "后唐灭前蜀"
+      }
+    ],
+    "events": [
+      "former-shu-conquest"
+    ],
+    "quotes": [],
+    "summary": "王衍继王建据蜀，荒于游宴，国政败坏，后唐郭崇韬伐蜀，王衍投降，次年被杀。",
+    "game_use": "适合文化型亡国之君：文化值高，行政与军事几近瘫痪。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "liu-chang",
+    "name": "刘鋹",
+    "name_en": "Liu Chang",
+    "aliases": [
+      "南汉后主",
+      "刘继兴"
+    ],
+    "courtesy_name": null,
+    "birth": 942,
+    "death": 980,
+    "birth_place": "兴王府",
+    "period": "十国",
+    "faction_id": "southern-han",
+    "roles": [
+      "皇帝"
+    ],
+    "tags": [
+      "南汉",
+      "宦官",
+      "广州",
+      "亡国"
+    ],
+    "traits": [
+      "荒暴",
+      "多疑",
+      "奢侈",
+      "依赖宦官"
+    ],
+    "relationships": [
+      {
+        "target": "liu-yan",
+        "type": "祖孙",
+        "note": "南汉高祖之孙"
+      },
+      {
+        "target": "zhao-kuangyin",
+        "type": "对手",
+        "note": "宋灭南汉"
+      }
+    ],
+    "events": [
+      "southern-han-conquest"
+    ],
+    "quotes": [],
+    "summary": "刘鋹据岭南，宠信宦官与女巫，政刑混乱，宋军南下后投降，南汉灭亡。",
+    "game_use": "适合宦官政治型政权：财富与海外贸易高，行政效率与军心极低。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "SONGSHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "qian-chu",
+    "name": "钱俶",
+    "name_en": "Qian Chu",
+    "aliases": [
+      "吴越忠懿王",
+      "钱弘俶"
+    ],
+    "courtesy_name": null,
+    "birth": 929,
+    "death": 988,
+    "birth_place": "杭州",
+    "period": "十国",
+    "faction_id": "wuyue",
+    "roles": [
+      "国王"
+    ],
+    "tags": [
+      "吴越",
+      "纳土归宋",
+      "杭州",
+      "保境安民"
+    ],
+    "traits": [
+      "谨慎",
+      "务实",
+      "崇佛",
+      "善守"
+    ],
+    "relationships": [
+      {
+        "target": "qian-liu",
+        "type": "祖孙",
+        "note": "吴越武肃王之孙"
+      },
+      {
+        "target": "zhao-kuangyin",
+        "type": "君臣",
+        "note": "纳土归宋"
+      }
+    ],
+    "events": [
+      "wuyue-submission"
+    ],
+    "quotes": [],
+    "summary": "钱俶继吴越王位，尊奉中原王朝，宋统一大势下纳土归宋，使两浙免于战火。",
+    "game_use": "适合小国生存路线：外交称臣与经济建设强，抵抗意志低但可保全民众。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "WUYUEBEISHI",
+      "SONGSHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "li-jing-nantang",
+    "name": "李璟",
+    "name_en": "Li Jing of Southern Tang",
+    "aliases": [
+      "南唐中主",
+      "李伯玉"
+    ],
+    "courtesy_name": "伯玉",
+    "birth": 916,
+    "death": 961,
+    "birth_place": "徐州",
+    "period": "十国",
+    "faction_id": "southern-tang",
+    "roles": [
+      "皇帝",
+      "词人"
+    ],
+    "tags": [
+      "南唐",
+      "中主",
+      "词",
+      "后周征淮南"
+    ],
+    "traits": [
+      "文雅",
+      "优柔",
+      "好文学",
+      "不善军事"
+    ],
+    "relationships": [
+      {
+        "target": "li-bian",
+        "type": "父子",
+        "note": "南唐烈祖之子"
+      },
+      {
+        "target": "chai-rong",
+        "type": "对手",
+        "note": "后周征淮南"
+      },
+      {
+        "target": "li-yu",
+        "type": "父子",
+        "note": "南唐后主"
+      }
+    ],
+    "events": [
+      "huainan-campaign"
+    ],
+    "quotes": [
+      {
+        "text": "细雨梦回鸡塞远，小楼吹彻玉笙寒。",
+        "source": "李璟《摊破浣溪沙》"
+      }
+    ],
+    "summary": "李璟继李昪为南唐主，前期灭闽、楚，后期被后周世宗击败，去帝号称臣，割让江北。",
+    "game_use": "适合文化型君主：文治与词章高，军事扩张反噬国力。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "NANTANGSHU_LU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "han-xizai",
+    "name": "韩熙载",
+    "name_en": "Han Xizai",
+    "aliases": [
+      "韩叔言"
+    ],
+    "courtesy_name": "叔言",
+    "birth": 902,
+    "death": 970,
+    "birth_place": "北海",
+    "period": "十国",
+    "faction_id": "southern-tang",
+    "roles": [
+      "文臣",
+      "宰相"
+    ],
+    "tags": [
+      "南唐",
+      "夜宴图",
+      "文臣",
+      "避祸"
+    ],
+    "traits": [
+      "博学",
+      "放达",
+      "善自保",
+      "有谋略"
+    ],
+    "relationships": [
+      {
+        "target": "li-yu",
+        "type": "君臣",
+        "note": "南唐后主朝"
+      },
+      {
+        "target": "li-jing-nantang",
+        "type": "君臣",
+        "note": "南唐中主朝"
+      }
+    ],
+    "events": [
+      "southern-tang-fall"
+    ],
+    "quotes": [],
+    "summary": "韩熙载为南唐名臣，因遭猜忌而纵情声色，顾闳中绘《韩熙载夜宴图》记录其夜宴，后官至中书侍郎。",
+    "game_use": "适合避祸型文臣：内政与文化强，但会以自污降低君主猜忌。",
+    "sources": [
+      "NANTANGSHU_LU",
+      "NANTANGJINSHI",
+      "XINWUDAISHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "song-qiqiu",
+    "name": "宋齐丘",
+    "name_en": "Song Qiqiu",
+    "aliases": [
+      "宋子嵩",
+      "九华先生"
+    ],
+    "courtesy_name": "子嵩",
+    "birth": 887,
+    "death": 959,
+    "birth_place": "豫章",
+    "period": "十国",
+    "faction_id": "southern-tang",
+    "roles": [
+      "谋臣",
+      "宰相"
+    ],
+    "tags": [
+      "南唐",
+      "禅代",
+      "党争",
+      "江淮"
+    ],
+    "traits": [
+      "善谋",
+      "权术",
+      "自负",
+      "结党"
+    ],
+    "relationships": [
+      {
+        "target": "li-bian",
+        "type": "君臣",
+        "note": "佐李昪建南唐"
+      },
+      {
+        "target": "li-jing-nantang",
+        "type": "君臣/被贬",
+        "note": "晚年失势"
+      }
+    ],
+    "events": [
+      "southern-tang-foundation"
+    ],
+    "quotes": [],
+    "summary": "宋齐丘为李昪核心谋臣，助其代吴建南唐，后因党争与专权被贬，最终被赐死。",
+    "game_use": "适合开国谋臣：政权建构与外交强，易形成朋党并遭君主清算。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "NANTANGSHU_LU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "yuan-shu",
+    "name": "袁术",
+    "name_en": "Yuan Shu",
+    "aliases": [
+      "袁公路",
+      "仲家"
+    ],
+    "courtesy_name": "公路",
+    "birth": null,
+    "death": 199,
+    "birth_place": "汝南汝阳",
+    "period": "东汉末",
+    "faction_id": "yuan-shu",
+    "roles": [
+      "军阀",
+      "称帝者"
+    ],
+    "tags": [
+      "汝南袁氏",
+      "淮南",
+      "称帝",
+      "仲家"
+    ],
+    "traits": [
+      "骄奢",
+      "野心",
+      "短视",
+      "善聚敛"
+    ],
+    "relationships": [
+      {
+        "target": "yuan-shao",
+        "type": "兄弟/对手",
+        "note": "袁氏内争"
+      }
+    ],
+    "events": [
+      "guandong-coalition",
+      "yingtianzi"
+    ],
+    "quotes": [],
+    "summary": "袁术据淮南，195 年称帝，国号仲家，因奢侈暴虐、外交孤立而败亡。",
+    "game_use": "适合高资源低合法性的称帝型军阀：初期富庶，称帝后四面受敌。",
+    "sources": [
+      "SANGUOZHI",
+      "HOUHANSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wang-dun",
+    "name": "王敦",
+    "name_en": "Wang Dun",
+    "aliases": [
+      "王处仲",
+      "武昌郡公"
+    ],
+    "courtesy_name": "处仲",
+    "birth": 266,
+    "death": 324,
+    "birth_place": "琅琊临沂",
+    "period": "东晋",
+    "faction_id": "eastern-jin",
+    "roles": [
+      "权臣",
+      "荆州刺史",
+      "叛乱者"
+    ],
+    "tags": [
+      "琅琊王氏",
+      "荆州",
+      "清君侧",
+      "王与马"
+    ],
+    "traits": [
+      "刚傲",
+      "善战",
+      "权谋",
+      "野心"
+    ],
+    "relationships": [
+      {
+        "target": "wang-dao",
+        "type": "堂兄弟",
+        "note": "琅琊王氏"
+      }
+    ],
+    "events": [
+      "eastern-jin-foundation",
+      "wang-dun"
+    ],
+    "quotes": [],
+    "summary": "王敦为琅琊王氏军事支柱，据荆州东下建康，发动王敦之乱，死后被戮尸。",
+    "game_use": "适合门阀军事强人：荆州资源与兵权强，与皇权必然冲突。",
+    "sources": [
+      "JINSHU",
+      "SHISHUOXINYU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "yang-yi",
+    "name": "杨仪",
+    "name_en": "Yang Yi",
+    "aliases": [
+      "杨威公"
+    ],
+    "courtesy_name": "威公",
+    "birth": null,
+    "death": 235,
+    "birth_place": "襄阳",
+    "period": "三国",
+    "faction_id": "shu-han",
+    "roles": [
+      "谋臣",
+      "参军"
+    ],
+    "tags": [
+      "蜀汉",
+      "诸葛亮",
+      "魏延",
+      "内争"
+    ],
+    "traits": [
+      "干练",
+      "偏狭",
+      "善后勤",
+      "记仇"
+    ],
+    "relationships": [
+      {
+        "target": "wei-yan",
+        "type": "政敌",
+        "note": "诸葛亮死后争权"
+      }
+    ],
+    "events": [
+      "northern-expedition",
+      "wuzhangyuan"
+    ],
+    "quotes": [],
+    "summary": "杨仪为诸葛亮北伐时期的重要僚属，负责后勤与军务，诸葛亮死后与魏延争权，最终被废自杀。",
+    "game_use": "适合高行政低人望的幕僚：后勤强，易与武将冲突。",
+    "sources": [
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "liu-yuxi",
+    "name": "刘禹锡",
+    "name_en": "Liu Yuxi",
+    "aliases": [
+      "刘梦得",
+      "诗豪"
+    ],
+    "courtesy_name": "梦得",
+    "birth": 772,
+    "death": 842,
+    "birth_place": "洛阳",
+    "period": "中唐",
+    "faction_id": "tang",
+    "roles": [
+      "诗人",
+      "文臣"
+    ],
+    "tags": [
+      "永贞革新",
+      "贬谪",
+      "竹枝词",
+      "诗豪"
+    ],
+    "traits": [
+      "刚直",
+      "乐观",
+      "博学",
+      "善诗"
+    ],
+    "relationships": [
+      {
+        "target": "liu-zongyuan",
+        "type": "同志/诗友",
+        "note": "二王八司马"
+      }
+    ],
+    "events": [
+      "yongzhen-reform",
+      "yuanhe-poetry"
+    ],
+    "quotes": [],
+    "summary": "刘禹锡参与永贞革新，失败后长期贬谪，以《竹枝词》《陋室铭》闻名，是中唐重要诗人。",
+    "game_use": "适合贬谪文臣：文化声望高，政治命运受党争影响。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "QUANTANGSHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "tang-wuzong",
+    "name": "唐武宗",
+    "name_en": "Emperor Wuzong of Tang",
+    "aliases": [
+      "李炎",
+      "会昌帝"
+    ],
+    "courtesy_name": null,
+    "birth": 814,
+    "death": 846,
+    "birth_place": "长安",
+    "period": "晚唐",
+    "faction_id": "tang",
+    "roles": [
+      "皇帝"
+    ],
+    "tags": [
+      "会昌中兴",
+      "李德裕",
+      "灭佛",
+      "泽潞"
+    ],
+    "traits": [
+      "果决",
+      "务实",
+      "刚毅",
+      "短寿"
+    ],
+    "relationships": [
+      {
+        "target": "li-deyu",
+        "type": "君臣",
+        "note": "会昌中兴"
+      }
+    ],
+    "events": [
+      "huichang"
+    ],
+    "quotes": [],
+    "summary": "唐武宗任用李德裕，击退回鹘、平定泽潞、推行灭佛，史称会昌中兴，但因服丹早逝。",
+    "game_use": "适合强硬改革型皇帝：短期国力回升，寿命与继承是最大风险。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wang-xianzhi",
+    "name": "王仙芝",
+    "name_en": "Wang Xianzhi",
+    "aliases": [
+      "王仙芝"
+    ],
+    "courtesy_name": null,
+    "birth": null,
+    "death": 878,
+    "birth_place": "濮州",
+    "period": "晚唐",
+    "faction_id": "huang-chao",
+    "roles": [
+      "叛乱首领",
+      "盐贩"
+    ],
+    "tags": [
+      "唐末民变",
+      "私盐",
+      "长垣",
+      "黄巢"
+    ],
+    "traits": [
+      "勇猛",
+      "善流动",
+      "缺乏政治纲领",
+      "轻信"
+    ],
+    "relationships": [
+      {
+        "target": "huang-chao",
+        "type": "盟友/分裂",
+        "note": "黄巢起义前身"
+      }
+    ],
+    "events": [
+      "huang-chao-rebellion"
+    ],
+    "quotes": [],
+    "summary": "王仙芝于 875 年在长垣起兵，是唐末民变的先驱，黄巢曾依附其部，后因招安分歧分裂，878 年败死。",
+    "game_use": "适合流寇型叛乱领袖：初期动员强，缺乏根据地与政治整合。",
+    "sources": [
+      "JIUTANGSHU",
+      "XINTANGSHU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "zhao-guangyi",
+    "name": "赵光义",
+    "name_en": "Zhao Guangyi",
+    "aliases": [
+      "宋太宗",
+      "赵匡义",
+      "赵炅"
+    ],
+    "courtesy_name": null,
+    "birth": 939,
+    "death": 997,
+    "birth_place": "开封",
+    "period": "宋初统一",
+    "faction_id": "song",
+    "roles": [
+      "皇帝",
+      "军事统帅"
+    ],
+    "tags": [
+      "宋太宗",
+      "灭北汉",
+      "雍熙北伐",
+      "重文"
+    ],
+    "traits": [
+      "勤政",
+      "多疑",
+      "好大喜功",
+      "善权谋"
+    ],
+    "relationships": [
+      {
+        "target": "zhao-kuangyin",
+        "type": "兄弟/继承",
+        "note": "宋太祖之弟"
+      }
+    ],
+    "events": [
+      "chenqiao",
+      "northern-han-conquest"
+    ],
+    "quotes": [],
+    "summary": "赵光义继兄位为宋太宗，灭北汉完成局部统一，两次北伐辽国失败，转向重文守内。",
+    "game_use": "适合守成扩张型君主：统一南方强，对辽野战与骑兵弱。",
+    "sources": [
+      "SONGSHI",
+      "XUWUDAISHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wang-yanjun",
+    "name": "王延钧",
+    "name_en": "Wang Yanjun",
+    "aliases": [
+      "闽惠宗",
+      "王鏻"
+    ],
+    "courtesy_name": null,
+    "birth": null,
+    "death": 935,
+    "birth_place": "光州固始",
+    "period": "十国",
+    "faction_id": "min",
+    "roles": [
+      "皇帝"
+    ],
+    "tags": [
+      "闽",
+      "惠宗",
+      "称帝",
+      "道教"
+    ],
+    "traits": [
+      "奢侈",
+      "迷信",
+      "暴虐",
+      "短视"
+    ],
+    "relationships": [
+      {
+        "target": "wang-shenzhi",
+        "type": "父子",
+        "note": "闽太祖之子"
+      }
+    ],
+    "events": [],
+    "quotes": [],
+    "summary": "王延钧继王审知据闽，933 年称帝，国号闽，后期迷信道教、诛杀宗室，被儿子所杀。",
+    "game_use": "适合二代割据君主：继承资源好，政治稳定与军事能力差。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "ma-xifan",
+    "name": "马希范",
+    "name_en": "Ma Xifan",
+    "aliases": [
+      "楚文昭王"
+    ],
+    "courtesy_name": null,
+    "birth": 899,
+    "death": 947,
+    "birth_place": "长沙",
+    "period": "十国",
+    "faction_id": "chu",
+    "roles": [
+      "国王"
+    ],
+    "tags": [
+      "楚",
+      "文昭王",
+      "奢靡",
+      "溪州"
+    ],
+    "traits": [
+      "奢侈",
+      "文雅",
+      "好大喜功",
+      "不善继承"
+    ],
+    "relationships": [
+      {
+        "target": "ma-yin",
+        "type": "父子",
+        "note": "楚武穆王之子"
+      }
+    ],
+    "events": [],
+    "quotes": [],
+    "summary": "马希范继马殷为楚王，前期安定，后期大兴土木、加重赋税，死后诸子争位，楚国衰亡。",
+    "game_use": "适合富庶政权的守成君主：经济基础好，继承安排失败导致内乱。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "liu-sheng",
+    "name": "刘晟",
+    "name_en": "Liu Sheng",
+    "aliases": [
+      "南汉中宗"
+    ],
+    "courtesy_name": null,
+    "birth": 920,
+    "death": 958,
+    "birth_place": "兴王府",
+    "period": "十国",
+    "faction_id": "southern-han",
+    "roles": [
+      "皇帝"
+    ],
+    "tags": [
+      "南汉",
+      "中宗",
+      "宦官",
+      "诛杀宗室"
+    ],
+    "traits": [
+      "多疑",
+      "残暴",
+      "奢侈",
+      "依赖宦官"
+    ],
+    "relationships": [
+      {
+        "target": "liu-yan",
+        "type": "父子",
+        "note": "南汉高祖之子"
+      }
+    ],
+    "events": [],
+    "quotes": [],
+    "summary": "刘晟杀兄自立为南汉中宗，诛杀宗室、重用宦官，维持岭南割据但政治日益腐败。",
+    "game_use": "适合猜忌型君主：短期集权，长期人才凋零。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "zhang-bao",
+    "name": "张宝",
+    "name_en": "Zhang Bao",
+    "aliases": [
+      "地公将军"
+    ],
+    "courtesy_name": null,
+    "birth": null,
+    "death": 184,
+    "birth_place": "巨鹿",
+    "period": "东汉末",
+    "faction_id": "yellow-turban",
+    "roles": [
+      "宗教领袖",
+      "叛乱首领"
+    ],
+    "tags": [
+      "黄巾",
+      "地公将军",
+      "太平道"
+    ],
+    "traits": [
+      "宗教动员",
+      "勇猛",
+      "缺乏战略"
+    ],
+    "relationships": [
+      {
+        "target": "zhang-jiao",
+        "type": "兄弟",
+        "note": "天公将军之弟"
+      }
+    ],
+    "events": [
+      "yellow-turban"
+    ],
+    "quotes": [],
+    "summary": "张宝为张角之弟，号地公将军，黄巾起义中据广宗，与皇甫嵩作战，184 年兵败被杀。",
+    "game_use": "适合宗教叛乱副首领：动员强，正面战弱。",
+    "sources": [
+      "HOUHANSHU",
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "zhang-liang",
+    "name": "张梁",
+    "name_en": "Zhang Liang",
+    "aliases": [
+      "人公将军"
+    ],
+    "courtesy_name": null,
+    "birth": null,
+    "death": 184,
+    "birth_place": "巨鹿",
+    "period": "东汉末",
+    "faction_id": "yellow-turban",
+    "roles": [
+      "宗教领袖",
+      "叛乱首领"
+    ],
+    "tags": [
+      "黄巾",
+      "人公将军",
+      "太平道"
+    ],
+    "traits": [
+      "宗教动员",
+      "坚韧",
+      "缺乏战略"
+    ],
+    "relationships": [
+      {
+        "target": "zhang-jiao",
+        "type": "兄弟",
+        "note": "天公将军之弟"
+      }
+    ],
+    "events": [
+      "yellow-turban"
+    ],
+    "quotes": [],
+    "summary": "张梁为张角之弟，号人公将军，守广宗，皇甫嵩夜袭破城，张梁战死。",
+    "game_use": "适合宗教叛乱副首领：守城与动员强，野战弱。",
+    "sources": [
+      "HOUHANSHU",
+      "SANGUOZHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  }
+]

@@ -1,0 +1,97 @@
+# 十國春秋 卷110 · 卷一百一十‧十國世系表
+
+> 来源：Wikisource《十國春秋/卷110》  
+> 修订号：2442984  
+> 许可：CC BY-SA 4.0（Wikisource 贡献者整理；古籍原文为公有领域）  
+> 抓取日期：2026-11-14  
+> 原始链接：https://zh.wikisource.org/wiki/%E5%8D%81%E5%9C%8B%E6%98%A5%E7%A7%8B/%E5%8D%B7110
+
+---
+
+夏書言“惇叙九族”，大雅稱“本支百世”，誠以子姓蕃衍，篤親親而别昭穆也。十國譜牒多散亡，迺子孫昆弟名號時時見於他書，故秩然不紊焉。稍次其原流行輩，作十國世系表。
+colspan="10" align=left |吴世系
+rowspan="2" | 怤
+style="border-bottom:1.5px solid black" width=10%|
+rowspan="2" |太祖行密
+colspan="2" style="border-bottom:1.5px solid black" width=10%|
+rowspan="2" | 烈祖1em渥
+rowspan="2" style="border-left:1.5px solid black; border-bottom:1.5px solid black"|
+rowspan="2" |高祖鴻演
+colspan="2" style="border-bottom:1.5px solid black" width=10%|
+rowspan="2" |南陽王玢
+rowspan="2" style="border-left:1.5px solid black; border-bottom:1.5px solid black"|
+colspan="2"|
+rowspan="2" |睿帝1em溥
+colspan="2" style="border-bottom:1.5px solid black"|
+rowspan="2" |太子1em漣
+rowspan="2" style="border-left:1.5px solid black; border-bottom:1.5px solid black"|
+rowspan="2" |
+rowspan="2" align=center|江夏王璘
+rowspan="2" |（注：歐陽五代史又做麟）
+rowspan="2" style="border-left:1.5px solid black; border-bottom:1.5px solid black"|
+rowspan="2" |宜春王璆
+align="center" |建安王珙
+rowspan="2" |（注：二人皆睿帝從子）
+宜陽王璪
+colspan="10" align=left |南唐世系
+rowspan="2" | 慶宗榮
+style="border-bottom:1.5px solid black" width=10%|
+rowspan="2" |烈祖昪
+colspan="2" style="border-bottom:1.5px solid black" width=10%|
+rowspan="2" | 元宗璟3em
+colspan="3" style="border-bottom:1.5px solid black" width=10%|
+rowspan="2" |文獻太子弘冀
+rowspan="2" style="border-left:1.5px solid black; border-bottom:1.5px solid black"|
+rowspan="2" style="border-left:1.5px solid black; border-bottom:1.5px solid black"|
+rowspan="2" |楚定王1em景遷
+rowspan="2" |後主煜3em
+rowspan="2" style="border-left:1.5px solid black; border-bottom:1.5px solid black" |
+rowspan="2" style="border-left:1.5px solid black; border-bottom:1.5px solid black"|
+rowspan="2" |晉文成王景遂
+rowspan="2" |慶王2em弘茂
+rowspan="2" style="border-left:1.5px solid black; border-bottom:1.5px solid black"|
+rowspan="2" style="border-left:1.5px solid black; border-bottom:1.5px solid black"|
+rowspan="2" align="center" |齊昭孝王景達
+rowspan="2" align="center" |南楚國公從善
+rowspan="2" style="border-left:1.5px solid black; border-bottom:1.5px solid black"|
+rowspan="2" style="border-left:1.5px solid black; border-bottom:1.5px solid black"|
+rowspan="2" align="center"|江昭順王景逷
+style="border-bottom:1.5px solid black"|
+rowspan="2" align="center"|江國公1em從鎰
+rowspan="10" style="border-left:1.5px solid black" width=10%|
+rowspan="2" style="border-left:1.5px solid black; border-bottom:1.5px solid black"|
+align="center"|1em晉陵公景邁
+rowspan="2" align="center" |鄂國公1em從謙
+align="center"|1em上饒公景遜
+rowspan="2" style="border-left:1.5px solid black; border-bottom:1.5px solid black"|
+align="center"|1em桂陽公景邈
+rowspan="2" |邵平郡公從度
+align="center"|1em平陽公景逸
+align="center"|（注：以上烈祖従子）
+rowspan="2" style="border-left:1.5px solid black; border-bottom:1.5px solid black"|
+rowspan="2" align="center"|文陽郡公從信
+rowspan="2" style="border-left:1.5px solid black; border-bottom:1.5px solid black"|
+rowspan="2" align="right"|良佐
+rowspan="2" align="right"|季操
+colspan="2" style="border-top:1.5px solid black"|
+align=center rowspan="2" |後主
+colspan="2" style="border-bottom:1.5px solid black" width=10%|
+align=center rowspan="2" |清源郡公仲寓
+style="border-bottom:1.5px solid black"|
+align=center rowspan="2" |正言
+rowspan="2" style="border-left:1.5px solid black; border-bottom:1.5px solid black"|
+align=center rowspan="2" |歧懐獻王仲宣
+align=center |4em仲遠
+align=center |4em仲興
+align=center |4em仲偉
+align=center |4em仲康
+align=center |4em仲宜
+（注：以上後主従子）
+align=center rowspan="2" |南楚國公
+colspan="2" style="border-bottom:1.5px solid black" width=30% |
+align=center rowspan="2" |仲翊
+rowspan="2" style="border-left:1.5px solid black; border-bottom:1.5px solid black" |
+align=center rowspan="2" |仲猷
+align=center rowspan="2" |鄂國公
+style="border-bottom:1.5px solid black" width=30% |
+align=center rowspan="2" |仲偃

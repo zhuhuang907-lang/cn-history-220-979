@@ -1,0 +1,1691 @@
+[
+  {
+    "id": "baixiang",
+    "name": "柏乡之战",
+    "name_en": "Battle of Baixiang",
+    "aliases": [
+      "柏乡",
+      "梁晋柏乡之战"
+    ],
+    "year": 910,
+    "end_year": null,
+    "period": "五代",
+    "type": "battle",
+    "location_id": "baixiang",
+    "factions": [
+      "later-liang",
+      "later-tang"
+    ],
+    "characters": [
+      "li-cunxu",
+      "zhu-wen"
+    ],
+    "summary": "后梁朱温派大军攻成德，晋王李存勖率沙陀骑兵救援，在柏乡大破梁军，梁晋攻守之势逆转。",
+    "causes": "成德、义武两镇叛梁附晋，朱温试图夺回河北。",
+    "course": "梁军据柏乡，晋军以骑兵诱敌、夹击梁军步兵，梁军大溃，损失惨重。",
+    "outcome": "梁军精锐受损，河北诸镇倒向晋国，李存勖取得战略主动。",
+    "significance": "柏乡之战是晋梁争霸的转折点，奠定后唐灭梁的基础。",
+    "game_hooks": [
+      "骑兵夹击",
+      "河北争夺",
+      "以少胜多",
+      "梁晋争霸"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "khitan-foundation",
+    "name": "契丹建国",
+    "name_en": "Foundation of the Khitan Empire",
+    "aliases": [
+      "阿保机称帝",
+      "辽朝建立"
+    ],
+    "year": 916,
+    "end_year": null,
+    "period": "五代",
+    "type": "succession",
+    "location_id": "shangjing",
+    "factions": [
+      "khitan"
+    ],
+    "characters": [
+      "yelv-abaoji"
+    ],
+    "summary": "耶律阿保机统一契丹八部，称帝建元，国号契丹，后改辽，建立草原帝国。",
+    "causes": "契丹部族经济发展、汉人流亡带来制度与农业，阿保机借中原混乱扩张。",
+    "course": "阿保机平定诸弟之乱，统一契丹，创契丹文字，设南北面官，定都上京。",
+    "outcome": "契丹成为东北亚最强政权，长期影响五代与北宋。",
+    "significance": "契丹建国改变东亚政治格局，燕云问题由此产生。",
+    "game_hooks": [
+      "部族统一",
+      "南北面官",
+      "草原帝国",
+      "汉制吸收"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "later-tang-foundation",
+    "name": "后唐建立",
+    "name_en": "Foundation of Later Tang",
+    "aliases": [
+      "李存勖称帝",
+      "同光元年"
+    ],
+    "year": 923,
+    "end_year": null,
+    "period": "五代",
+    "type": "succession",
+    "location_id": "weizhou",
+    "factions": [
+      "later-tang",
+      "later-liang"
+    ],
+    "characters": [
+      "li-cunxu",
+      "guo-chongtao"
+    ],
+    "summary": "李存勖在魏州称帝，沿用唐国号，史称后唐，随后攻灭后梁，定都洛阳。",
+    "causes": "晋国已控制河北，后梁衰弱，李存勖需要称帝建立正统。",
+    "course": "李存勖称帝，以郭崇韬为枢密使，率军奇袭汴州，后梁末帝自杀。",
+    "outcome": "后唐统一中原，成为五代版图最大的王朝。",
+    "significance": "后唐以唐室继承者自居，试图重建大一统帝国。",
+    "game_hooks": [
+      "称帝",
+      "奇袭汴梁",
+      "唐室正统",
+      "沙陀政权"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "liang-conquest",
+    "name": "后唐灭后梁",
+    "name_en": "Later Tang Conquest of Later Liang",
+    "aliases": [
+      "灭梁",
+      "汴梁陷落"
+    ],
+    "year": 923,
+    "end_year": null,
+    "period": "五代",
+    "type": "war",
+    "location_id": "bianzhou",
+    "factions": [
+      "later-tang",
+      "later-liang"
+    ],
+    "characters": [
+      "li-cunxu",
+      "guo-chongtao",
+      "wang-yanzhang"
+    ],
+    "summary": "李存勖采纳郭崇韬建议，绕过梁军主力奇袭汴州，后梁末帝自杀，后梁灭亡。",
+    "causes": "后梁主力被王彦章、段凝分调，汴州空虚；晋军士气正盛。",
+    "course": "晋军自郓州直趋汴州，八日而至，梁末帝令皇甫麟杀己，梁亡。",
+    "outcome": "后唐统一中原，梁晋四十年争霸结束。",
+    "significance": "灭梁是五代最经典的奇袭战，展示战略机动与情报的价值。",
+    "game_hooks": [
+      "长途奇袭",
+      "首都突袭",
+      "梁晋终局",
+      "情报战"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "xingjiao",
+    "name": "兴教门之变",
+    "name_en": "Xingjiao Gate Mutiny",
+    "aliases": [
+      "兴教门",
+      "庄宗被杀"
+    ],
+    "year": 926,
+    "end_year": null,
+    "period": "五代",
+    "type": "coup",
+    "location_id": "luoyang",
+    "factions": [
+      "later-tang"
+    ],
+    "characters": [
+      "li-cunxu",
+      "li-siyuan",
+      "guo-chongtao"
+    ],
+    "summary": "后唐庄宗李存勖宠信伶宦、猜忌功臣，郭崇韬被杀后军心离散，伶人郭从谦发动兴教门兵变，庄宗中箭身亡。",
+    "causes": "庄宗后期荒政、滥杀功臣、克扣军赏，魏州兵变后局势失控。",
+    "course": "李嗣源被乱军拥立，庄宗亲征失利，退守洛阳；郭从谦率军攻兴教门，庄宗被杀。",
+    "outcome": "李嗣源即位为明宗，后唐进入相对稳定期。",
+    "significance": "兴教门之变是五代“兵骄将叛”的典型，显示皇权对军队控制的脆弱。",
+    "game_hooks": [
+      "伶人兵变",
+      "功臣被杀",
+      "军心离散",
+      "禁军倒戈"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "mingzong-era",
+    "name": "明宗之治",
+    "name_en": "Reign of Emperor Mingzong",
+    "aliases": [
+      "天成至长兴",
+      "后唐明宗"
+    ],
+    "year": 926,
+    "end_year": 933,
+    "period": "五代",
+    "type": "reform",
+    "location_id": "luoyang",
+    "factions": [
+      "later-tang"
+    ],
+    "characters": [
+      "li-siyuan",
+      "feng-dao"
+    ],
+    "summary": "后唐明宗李嗣源革除庄宗弊政，裁减冗费、减轻赋税、稳定政局，是五代少有的安定时期。",
+    "causes": "庄宗末年政治军事崩溃，明宗需要恢复秩序。",
+    "course": "明宗杀贪官、罢伶宦、整顿财政，任用冯道等文臣，与民休息。",
+    "outcome": "中原经济恢复，史称“年谷屡丰，兵革罕用”。",
+    "significance": "明宗之治说明五代并非只有战乱，也存在制度修复的努力。",
+    "game_hooks": [
+      "休养生息",
+      "财政整顿",
+      "文臣政治",
+      "短暂治世"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "nine-classics-printing",
+    "name": "雕版印九经",
+    "name_en": "Printing of the Nine Classics",
+    "aliases": [
+      "冯道印书",
+      "国子监刻书"
+    ],
+    "year": 932,
+    "end_year": 953,
+    "period": "五代",
+    "type": "cultural",
+    "location_id": "luoyang",
+    "factions": [
+      "later-tang",
+      "later-zhou"
+    ],
+    "characters": [
+      "feng-dao"
+    ],
+    "summary": "冯道奏请依唐石经雕版印刷九经，历后唐、后晋、后汉、后周二十余年完成，是官方大规模印书之始。",
+    "causes": "战乱导致书籍散佚，科举与教育需要标准经本。",
+    "course": "国子监校定经文，雕版刊印，颁行天下。",
+    "outcome": "九经广泛流传，印刷术从民间走向官方。",
+    "significance": "雕版九经是印刷史与文教史的重要里程碑。",
+    "game_hooks": [
+      "印刷术",
+      "文教",
+      "标准经本",
+      "乱世存文"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "WUDAIHUIYAO",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "later-jin-foundation",
+    "name": "后晋建立",
+    "name_en": "Foundation of Later Jin",
+    "aliases": [
+      "石敬瑭称帝",
+      "天福元年"
+    ],
+    "year": 936,
+    "end_year": null,
+    "period": "五代",
+    "type": "succession",
+    "location_id": "taiyuan",
+    "factions": [
+      "later-jin",
+      "later-tang",
+      "khitan"
+    ],
+    "characters": [
+      "shi-jingtang",
+      "yelv-deguang",
+      "sang-weihan"
+    ],
+    "summary": "石敬瑭在契丹支持下于太原称帝，建立后晋，随后攻入洛阳，后唐灭亡。",
+    "causes": "后唐末帝猜忌石敬瑭，石敬瑭据河东求援于契丹。",
+    "course": "石敬瑭向契丹称臣、称儿，割燕云十六州，契丹出兵助其灭后唐。",
+    "outcome": "后晋建立，但成为契丹附庸，燕云十六州永久脱离中原。",
+    "significance": "后晋建立是五代对外关系与地缘格局的重大转折。",
+    "game_hooks": [
+      "儿皇帝",
+      "借兵",
+      "割地",
+      "后唐灭亡"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "sixteen-prefectures",
+    "name": "割让燕云十六州",
+    "name_en": "Cession of the Sixteen Prefectures",
+    "aliases": [
+      "燕云十六州",
+      "幽云十六州"
+    ],
+    "year": 936,
+    "end_year": 937,
+    "period": "五代",
+    "type": "treaty",
+    "location_id": "youzhou",
+    "factions": [
+      "later-jin",
+      "khitan"
+    ],
+    "characters": [
+      "shi-jingtang",
+      "yelv-deguang",
+      "sang-weihan"
+    ],
+    "summary": "石敬瑭为换取契丹出兵，割幽、蓟、瀛、莫、涿、檀、顺、新、妫、儒、武、云、应、寰、朔、蔚十六州予契丹。",
+    "causes": "石敬瑭兵力不足，需要契丹支持对抗后唐。",
+    "course": "桑维翰主持谈判，石敬瑭称臣称儿，割地并岁输帛三十万匹。",
+    "outcome": "契丹获得长城以南战略要地，中原失去北方屏障。",
+    "significance": "燕云十六州的丧失影响北宋国防近两百年。",
+    "game_hooks": [
+      "战略要地",
+      "称臣纳贡",
+      "长城防线",
+      "长期遗患"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "khitan-entry",
+    "name": "契丹灭后晋",
+    "name_en": "Khitan Conquest of Later Jin",
+    "aliases": [
+      "辽灭后晋",
+      "契丹入汴"
+    ],
+    "year": 946,
+    "end_year": 947,
+    "period": "五代",
+    "type": "war",
+    "location_id": "bianzhou",
+    "factions": [
+      "khitan",
+      "later-jin"
+    ],
+    "characters": [
+      "yelv-deguang",
+      "shi-chonggui",
+      "jing-yanguang",
+      "du-zhongwei",
+      "sang-weihan",
+      "feng-dao"
+    ],
+    "summary": "辽太宗耶律德光三次南征，后晋主帅杜重威阵前投降，辽军攻入汴州，后晋灭亡。",
+    "causes": "石重贵拒绝称臣，辽晋矛盾激化；后晋内部藩镇离心。",
+    "course": "辽军南下，杜重威率主力降辽，汴州陷落，石重贵被俘北迁。",
+    "outcome": "后晋灭亡，耶律德光在汴州称帝，改国号辽。",
+    "significance": "契丹首次入主中原，暴露中原政权军事与政治的全面危机。",
+    "game_hooks": [
+      "藩镇叛降",
+      "草原入主",
+      "首都陷落",
+      "称帝中原"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "khitan-withdrawal",
+    "name": "契丹北撤",
+    "name_en": "Khitan Withdrawal from the Central Plains",
+    "aliases": [
+      "辽军北归",
+      "耶律德光病死"
+    ],
+    "year": 947,
+    "end_year": null,
+    "period": "五代",
+    "type": "war",
+    "location_id": "taiyuan",
+    "factions": [
+      "khitan",
+      "later-han"
+    ],
+    "characters": [
+      "yelv-deguang",
+      "liu-zhiyuan"
+    ],
+    "summary": "辽军在中原纵兵劫掠，激起反抗，耶律德光被迫北撤，途中病死；刘知远乘机在太原称帝。",
+    "causes": "辽军后勤不继、纵兵“打草谷”，中原军民群起反抗。",
+    "course": "耶律德光撤军北归，病死栾城；刘知远率河东军南下，收复中原。",
+    "outcome": "契丹退出中原，后汉建立。",
+    "significance": "契丹北撤说明草原政权难以直接统治中原农业社会。",
+    "game_hooks": [
+      "占领成本",
+      "民心反抗",
+      "北撤",
+      "权力真空"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "later-han-foundation",
+    "name": "后汉建立",
+    "name_en": "Foundation of Later Han",
+    "aliases": [
+      "刘知远称帝",
+      "天福十二年"
+    ],
+    "year": 947,
+    "end_year": null,
+    "period": "五代",
+    "type": "succession",
+    "location_id": "bianzhou",
+    "factions": [
+      "later-han",
+      "khitan"
+    ],
+    "characters": [
+      "liu-zhiyuan"
+    ],
+    "summary": "刘知远在太原称帝，契丹北撤后进入汴州，建立后汉，是五代最短命的王朝。",
+    "causes": "契丹灭晋后中原无主，河东节度使刘知远拥有最强兵力。",
+    "course": "刘知远称帝，改国号汉，重用史弘肇、杨邠、郭威等武将。",
+    "outcome": "后汉建立，但内部将相矛盾激烈，仅四年而亡。",
+    "significance": "后汉是沙陀军事集团最后的中原政权。",
+    "game_hooks": [
+      "河东起兵",
+      "真空入主",
+      "武将政治",
+      "短命王朝"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "guowei-rebellion",
+    "name": "郭威起兵",
+    "name_en": "Guo Wei's Rebellion",
+    "aliases": [
+      "澶州兵变",
+      "后汉灭亡"
+    ],
+    "year": 950,
+    "end_year": 951,
+    "period": "五代",
+    "type": "rebellion",
+    "location_id": "chanzhou",
+    "factions": [
+      "later-han",
+      "later-zhou"
+    ],
+    "characters": [
+      "guo-wei",
+      "liu-chengyou"
+    ],
+    "summary": "后汉隐帝诛杀郭威全家，郭威在邺都起兵南下，隐帝被杀，郭威被拥立为帝。",
+    "causes": "隐帝与顾命大臣冲突，猜忌郭威，屠杀其家属。",
+    "course": "郭威起兵，七里坡击败汉军，入汴州；隐帝死于乱军，郭威称帝。",
+    "outcome": "后汉灭亡，后周建立。",
+    "significance": "郭威起兵是五代军人拥立的典型，也开启后周改革。",
+    "game_hooks": [
+      "全家被杀",
+      "兵变拥立",
+      "邺都起兵",
+      "王朝更替"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "later-zhou-foundation",
+    "name": "后周建立",
+    "name_en": "Foundation of Later Zhou",
+    "aliases": [
+      "郭威称帝",
+      "广顺元年"
+    ],
+    "year": 951,
+    "end_year": null,
+    "period": "五代",
+    "type": "succession",
+    "location_id": "bianzhou",
+    "factions": [
+      "later-zhou",
+      "later-han"
+    ],
+    "characters": [
+      "guo-wei"
+    ],
+    "summary": "郭威在汴州称帝，建立后周，革除后汉苛政，开启五代最后的改革与统一进程。",
+    "causes": "后汉内乱，郭威掌握禁军与邺都兵力。",
+    "course": "郭威称帝，改元广顺，减轻赋税、废酷刑、整顿吏治。",
+    "outcome": "后周政治清明，为柴荣改革与北宋统一奠定基础。",
+    "significance": "后周是五代制度转型的关键王朝。",
+    "game_hooks": [
+      "开国改革",
+      "宽刑薄赋",
+      "禁军政治",
+      "统一前夜"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "guowei-reform",
+    "name": "郭威改革",
+    "name_en": "Guo Wei's Reforms",
+    "aliases": [
+      "广顺改革",
+      "后周太祖新政"
+    ],
+    "year": 951,
+    "end_year": 954,
+    "period": "五代",
+    "type": "reform",
+    "location_id": "bianzhou",
+    "factions": [
+      "later-zhou"
+    ],
+    "characters": [
+      "guo-wei"
+    ],
+    "summary": "郭威废除后汉苛法、减轻赋税、整顿军纪、抑制寺院经济，恢复中原社会秩序。",
+    "causes": "后汉刑罚残酷、赋役繁重，中原经济残破。",
+    "course": "废牛租、罢营田、宽盗贼之法，裁汰冗兵，奖励农桑。",
+    "outcome": "后周国力恢复，为柴荣改革提供财政与制度基础。",
+    "significance": "郭威改革是五代由乱向治的转折。",
+    "game_hooks": [
+      "宽刑",
+      "减税",
+      "军纪",
+      "恢复生产"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "WUDAIHUIYAO",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "gaoping",
+    "name": "高平之战",
+    "name_en": "Battle of Gaoping",
+    "aliases": [
+      "高平",
+      "后周破北汉"
+    ],
+    "year": 954,
+    "end_year": null,
+    "period": "五代",
+    "type": "battle",
+    "location_id": "gaoping",
+    "factions": [
+      "later-zhou",
+      "northern-han",
+      "khitan"
+    ],
+    "characters": [
+      "chai-rong",
+      "liu-chong",
+      "zhao-kuangyin"
+    ],
+    "summary": "北汉刘崇联合契丹南下，后周世宗柴荣亲征，在高平大破联军，确立后周军事优势。",
+    "causes": "郭威去世，北汉认为后周幼主可欺，联合契丹南征。",
+    "course": "后周右军溃退，柴荣亲冒矢石督战，赵匡胤等率禁军反击，北汉军大败。",
+    "outcome": "北汉元气大伤，后周乘胜整军，柴荣威信确立。",
+    "significance": "高平之战是五代后期最重要的战役之一，直接催生后周军制改革。",
+    "game_hooks": [
+      "御驾亲征",
+      "阵前逆转",
+      "禁军整编",
+      "北汉契丹联军"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "shizong-reform",
+    "name": "周世宗改革",
+    "name_en": "Emperor Shizong's Reforms",
+    "aliases": [
+      "显德改革",
+      "柴荣新政"
+    ],
+    "year": 954,
+    "end_year": 959,
+    "period": "五代",
+    "type": "reform",
+    "location_id": "bianzhou",
+    "factions": [
+      "later-zhou"
+    ],
+    "characters": [
+      "chai-rong",
+      "zhao-kuangyin"
+    ],
+    "summary": "柴荣整顿禁军、均定田赋、兴修水利、限制佛教、扩建开封，使后周成为统一核心。",
+    "causes": "高平之战暴露军制弊端，后周需要强兵与财政。",
+    "course": "裁汰老弱、招募精壮，设殿前司；均田租、修汴河、毁佛寺三万余所。",
+    "outcome": "后周军力与财政大增，具备统一条件。",
+    "significance": "柴荣改革被北宋直接继承，是五代制度遗产的集大成。",
+    "game_hooks": [
+      "禁军改革",
+      "均田",
+      "水利",
+      "毁佛"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "WUDAIHUIYAO",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "shizong-buddhism",
+    "name": "周世宗毁佛",
+    "name_en": "Emperor Shizong's Persecution of Buddhism",
+    "aliases": [
+      "显德毁佛",
+      "三武一宗灭佛"
+    ],
+    "year": 955,
+    "end_year": null,
+    "period": "五代",
+    "type": "religious",
+    "location_id": "bianzhou",
+    "factions": [
+      "later-zhou"
+    ],
+    "characters": [
+      "chai-rong"
+    ],
+    "summary": "柴荣下令毁佛，废寺院三万余所，收铜像铸钱，僧尼还俗，以扩充财政与劳动力。",
+    "causes": "寺院经济膨胀、铜钱短缺，后周需要军费与货币。",
+    "course": "除敕额寺院外一律废除，收寺院田产与铜像，禁止私度僧尼。",
+    "outcome": "后周获得大量土地、铜材与劳动力，但佛教文化受创。",
+    "significance": "世宗毁佛是“三武一宗”之一，体现乱世财政与宗教的冲突。",
+    "game_hooks": [
+      "寺院经济",
+      "铸钱",
+      "宗教政策",
+      "财政动员"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "huainan-campaign",
+    "name": "后周征淮南",
+    "name_en": "Later Zhou Campaign in Huainan",
+    "aliases": [
+      "三征淮南",
+      "南唐割江北"
+    ],
+    "year": 956,
+    "end_year": 958,
+    "period": "五代",
+    "type": "war",
+    "location_id": "shouchun",
+    "factions": [
+      "later-zhou",
+      "southern-tang"
+    ],
+    "characters": [
+      "chai-rong",
+      "li-jing-nantang",
+      "zhao-kuangyin"
+    ],
+    "summary": "柴荣三次亲征南唐，攻取寿州、濠州、滁州等地，南唐去帝号称臣，割让江北十四州。",
+    "causes": "后周需要控制江淮漕运与盐利，南唐是南方最强政权。",
+    "course": "周军围攻寿州，赵匡胤在滁州、六合屡败唐军；南唐被迫求和。",
+    "outcome": "南唐失去江北，后周获得富庶的淮南与长江北岸。",
+    "significance": "征淮南为北宋统一南方奠定战略与财政基础。",
+    "game_hooks": [
+      "江淮争夺",
+      "水陆协同",
+      "割地称臣",
+      "漕运盐利"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "NANTANGSHU_LU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "shizong-northern-expedition",
+    "name": "周世宗北伐",
+    "name_en": "Emperor Shizong's Northern Expedition",
+    "aliases": [
+      "显德北伐",
+      "收复三关"
+    ],
+    "year": 959,
+    "end_year": null,
+    "period": "五代",
+    "type": "war",
+    "location_id": "waqiaoguan",
+    "factions": [
+      "later-zhou",
+      "khitan"
+    ],
+    "characters": [
+      "chai-rong"
+    ],
+    "summary": "柴荣北伐辽国，收复瓦桥关、益津关、淤口关及瀛、莫、易三州，准备攻幽州时病倒。",
+    "causes": "后周国力上升，契丹内政不稳，柴荣试图收复燕云。",
+    "course": "周军水陆并进，辽守将纷纷投降，四十二天收复三关三州。",
+    "outcome": "柴荣病重撤军，不久去世，北伐成果由北宋继承。",
+    "significance": "北伐展示后周军力，也留下“出师未捷”的历史遗憾。",
+    "game_hooks": [
+      "北伐",
+      "三关",
+      "燕云",
+      "英年早逝"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "chenqiao",
+    "name": "陈桥兵变",
+    "name_en": "Chenqiao Mutiny",
+    "aliases": [
+      "陈桥驿",
+      "黄袍加身"
+    ],
+    "year": 960,
+    "end_year": null,
+    "period": "宋初统一",
+    "type": "coup",
+    "location_id": "chenqiao",
+    "factions": [
+      "later-zhou",
+      "song"
+    ],
+    "characters": [
+      "zhao-kuangyin"
+    ],
+    "summary": "后周殿前都点检赵匡胤率军北上，在陈桥驿被部下黄袍加身，回师汴州，代周建宋。",
+    "causes": "柴荣早逝，幼主柴宗训即位，禁军将领掌握实权。",
+    "course": "赵匡胤借口北汉、契丹入侵率军出征，夜宿陈桥驿，将士拥立，回汴州受禅。",
+    "outcome": "北宋建立，后周恭帝禅位。",
+    "significance": "陈桥兵变是五代军人拥立的最后一幕，也是宋代中央集权的起点。",
+    "game_hooks": [
+      "黄袍加身",
+      "禁军拥立",
+      "禅让",
+      "开国"
+    ],
+    "sources": [
+      "SONGSHI",
+      "XUWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "song-foundation",
+    "name": "北宋建立",
+    "name_en": "Foundation of the Northern Song",
+    "aliases": [
+      "赵宋建国",
+      "建隆元年"
+    ],
+    "year": 960,
+    "end_year": null,
+    "period": "宋初统一",
+    "type": "succession",
+    "location_id": "bianzhou",
+    "factions": [
+      "song",
+      "later-zhou"
+    ],
+    "characters": [
+      "zhao-kuangyin"
+    ],
+    "summary": "赵匡胤受后周禅让，建立宋朝，定都开封，逐步削平南北割据政权。",
+    "causes": "后周幼主临朝，禁军将领拥立赵匡胤。",
+    "course": "赵匡胤称帝，改元建隆，保留后周官僚体系，稳定政局。",
+    "outcome": "北宋建立，开启统一战争。",
+    "significance": "北宋建立结束五代中原王朝的频繁更替，但燕云问题延续。",
+    "game_hooks": [
+      "开国",
+      "禅让",
+      "禁军",
+      "统一战略"
+    ],
+    "sources": [
+      "SONGSHI",
+      "XUWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "li-jun-rebellion",
+    "name": "李筠之乱",
+    "name_en": "Li Jun's Rebellion",
+    "aliases": [
+      "潞州之乱",
+      "李筠反宋"
+    ],
+    "year": 960,
+    "end_year": null,
+    "period": "宋初统一",
+    "type": "rebellion",
+    "location_id": "luzhou",
+    "factions": [
+      "later-zhou",
+      "northern-han",
+      "song"
+    ],
+    "characters": [
+      "li-jun",
+      "zhao-kuangyin",
+      "liu-chong"
+    ],
+    "summary": "后周昭义节度使李筠联合北汉起兵反宋，宋太祖亲征，攻破泽州，李筠自焚。",
+    "causes": "李筠怀念后周，不满赵匡胤代周。",
+    "course": "李筠据潞州，北汉出兵支援；宋军围攻泽州，李筠兵败自焚。",
+    "outcome": "叛乱迅速平定，北宋稳定北方。",
+    "significance": "李筠之乱是宋初削平旧周势力的第一战。",
+    "game_hooks": [
+      "旧臣反叛",
+      "亲征",
+      "北汉介入",
+      "速战速决"
+    ],
+    "sources": [
+      "SONGSHI",
+      "XUWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "li-zhongjin-rebellion",
+    "name": "李重进之乱",
+    "name_en": "Li Zhongjin's Rebellion",
+    "aliases": [
+      "扬州之乱",
+      "李重进反宋"
+    ],
+    "year": 960,
+    "end_year": 961,
+    "period": "宋初统一",
+    "type": "rebellion",
+    "location_id": "yangzhou",
+    "factions": [
+      "later-zhou",
+      "song"
+    ],
+    "characters": [
+      "li-zhongjin",
+      "zhao-kuangyin"
+    ],
+    "summary": "后周宗室李重进据扬州起兵反宋，宋太祖亲征，围城破之，李重进自焚。",
+    "causes": "李重进为后周太祖外甥，担心被宋廷清算。",
+    "course": "李重进据扬州，宋军水陆围攻，城破，李重进全家自焚。",
+    "outcome": "淮南平定，北宋消除后方隐患。",
+    "significance": "李重进之乱平定后，北宋得以全力南征。",
+    "game_hooks": [
+      "宗室反叛",
+      "扬州围城",
+      "后方稳定",
+      "亲征"
+    ],
+    "sources": [
+      "SONGSHI",
+      "XUWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "cup-of-wine",
+    "name": "杯酒释兵权",
+    "name_en": "Disarming the Generals at a Banquet",
+    "aliases": [
+      "杯酒释兵权",
+      "收禁军兵权"
+    ],
+    "year": 961,
+    "end_year": null,
+    "period": "宋初统一",
+    "type": "reform",
+    "location_id": "bianzhou",
+    "factions": [
+      "song"
+    ],
+    "characters": [
+      "zhao-kuangyin"
+    ],
+    "summary": "赵匡胤宴请石守信等禁军将领，以富贵换取兵权，解除殿前、侍卫亲军高级将领实权。",
+    "causes": "赵匡胤自身以禁军拥立，深知武将专兵之患。",
+    "course": "宴席间暗示将领交权，诸将称病请辞，改任虚职，禁军由皇帝直接控制。",
+    "outcome": "中央集权加强，但宋军指挥体系趋于分散。",
+    "significance": "杯酒释兵权奠定宋代“重文抑武”与强干弱枝的国策。",
+    "game_hooks": [
+      "和平削权",
+      "禁军改革",
+      "重文抑武",
+      "中央集权"
+    ],
+    "sources": [
+      "SONGSHI",
+      "XUWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "southern-conquest",
+    "name": "北宋统一南方",
+    "name_en": "Song Unification of the South",
+    "aliases": [
+      "先南后北",
+      "削平十国"
+    ],
+    "year": 963,
+    "end_year": 979,
+    "period": "宋初统一",
+    "type": "war",
+    "location_id": "jiangling",
+    "factions": [
+      "song",
+      "jingnan",
+      "later-shu",
+      "southern-han",
+      "southern-tang",
+      "wuyue",
+      "northern-han"
+    ],
+    "characters": [
+      "zhao-kuangyin",
+      "meng-chang",
+      "liu-chang",
+      "li-yu",
+      "qian-chu",
+      "liu-chong"
+    ],
+    "summary": "北宋采取先南后北战略，先后平定荆南、后蜀、南汉、南唐，吴越纳土，最后灭北汉。",
+    "causes": "南方诸国富庶但分裂，北宋需要统一以整合财政与消除后方威胁。",
+    "course": "963 年取荆南，965 年灭后蜀，971 年灭南汉，975 年灭南唐，978 年吴越归附，979 年灭北汉。",
+    "outcome": "北宋基本统一中国本部，结束五代十国分裂。",
+    "significance": "先南后北战略成功整合南方经济，但燕云未复成为长期隐患。",
+    "game_hooks": [
+      "先南后北",
+      "统一战争",
+      "割据政权",
+      "战略选择"
+    ],
+    "sources": [
+      "SONGSHI",
+      "XUWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "former-shu-conquest",
+    "name": "后唐灭前蜀",
+    "name_en": "Later Tang Conquest of Former Shu",
+    "aliases": [
+      "灭前蜀",
+      "郭崇韬伐蜀"
+    ],
+    "year": 925,
+    "end_year": null,
+    "period": "五代",
+    "type": "war",
+    "location_id": "chengdu",
+    "factions": [
+      "later-tang",
+      "former-shu"
+    ],
+    "characters": [
+      "guo-chongtao",
+      "wang-yan",
+      "li-cunxu"
+    ],
+    "summary": "后唐庄宗派郭崇韬、魏王李继岌伐前蜀，蜀军望风而降，七十日灭前蜀。",
+    "causes": "前蜀王衍荒政，后唐希望统一巴蜀获取财富。",
+    "course": "唐军自关中入蜀，王衍投降，郭崇韬入成都，后因猜忌被杀。",
+    "outcome": "前蜀灭亡，但后唐未能稳固控制蜀地。",
+    "significance": "灭前蜀展示后唐军力，也暴露功臣与宦官矛盾。",
+    "game_hooks": [
+      "蜀道进军",
+      "速亡",
+      "功臣被杀",
+      "巴蜀财富"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "later-shu-conquest",
+    "name": "北宋灭后蜀",
+    "name_en": "Song Conquest of Later Shu",
+    "aliases": [
+      "灭后蜀",
+      "王全斌伐蜀"
+    ],
+    "year": 965,
+    "end_year": null,
+    "period": "宋初统一",
+    "type": "war",
+    "location_id": "chengdu",
+    "factions": [
+      "song",
+      "later-shu"
+    ],
+    "characters": [
+      "zhao-kuangyin",
+      "meng-chang"
+    ],
+    "summary": "宋太祖派王全斌等分路伐后蜀，蜀军溃败，孟昶投降，后蜀灭亡。",
+    "causes": "北宋统一战略指向巴蜀，后蜀政治腐败、武备废弛。",
+    "course": "宋军自剑门、三峡入蜀，仅六十六日抵成都，孟昶出降。",
+    "outcome": "后蜀灭亡，巴蜀财富与人力并入北宋。",
+    "significance": "灭后蜀为北宋提供巨额财政，也因宋军劫掠引发蜀地叛乱。",
+    "game_hooks": [
+      "剑门天险",
+      "速灭",
+      "财富整合",
+      "占领暴政"
+    ],
+    "sources": [
+      "SONGSHI",
+      "XUWUDAISHI",
+      "SHIGUOCHUNQIU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "southern-han-conquest",
+    "name": "北宋灭南汉",
+    "name_en": "Song Conquest of Southern Han",
+    "aliases": [
+      "灭南汉",
+      "潘美伐岭南"
+    ],
+    "year": 970,
+    "end_year": 971,
+    "period": "宋初统一",
+    "type": "war",
+    "location_id": "guangzhou",
+    "factions": [
+      "song",
+      "southern-han"
+    ],
+    "characters": [
+      "zhao-kuangyin",
+      "liu-chang"
+    ],
+    "summary": "宋太祖派潘美南征，突破南汉象阵与防线，攻占兴王府，刘鋹投降。",
+    "causes": "南汉宦官专权、政治腐败，北宋需要统一岭南。",
+    "course": "宋军自湖南南下，击败南汉象兵，攻破广州，刘鋹出降。",
+    "outcome": "南汉灭亡，岭南并入北宋。",
+    "significance": "灭南汉使北宋获得海上贸易与岭南资源。",
+    "game_hooks": [
+      "象阵",
+      "岭南远征",
+      "宦官亡国",
+      "海上贸易"
+    ],
+    "sources": [
+      "SONGSHI",
+      "XUWUDAISHI",
+      "SHIGUOCHUNQIU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "southern-tang-fall",
+    "name": "北宋灭南唐",
+    "name_en": "Song Conquest of Southern Tang",
+    "aliases": [
+      "灭南唐",
+      "曹彬伐江南"
+    ],
+    "year": 974,
+    "end_year": 975,
+    "period": "宋初统一",
+    "type": "war",
+    "location_id": "jinling",
+    "factions": [
+      "song",
+      "southern-tang"
+    ],
+    "characters": [
+      "zhao-kuangyin",
+      "li-yu",
+      "han-xizai"
+    ],
+    "summary": "宋太祖派曹彬、潘美率军渡江，围攻金陵，李煜投降，南唐灭亡。",
+    "causes": "南唐去帝号称臣仍不能满足北宋统一要求，李煜拒入朝。",
+    "course": "宋军在采石架浮桥渡江，围金陵近一年，城破，李煜出降。",
+    "outcome": "南唐灭亡，北宋基本统一江南。",
+    "significance": "灭南唐是北宋统一南方的决定性战役，也留下李煜的亡国词。",
+    "game_hooks": [
+      "长江浮桥",
+      "金陵围城",
+      "亡国之君",
+      "词史"
+    ],
+    "sources": [
+      "SONGSHI",
+      "XUWUDAISHI",
+      "NANTANGSHU_LU",
+      "XUWUDAISHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "jinling-fall",
+    "name": "金陵陷落",
+    "name_en": "Fall of Jinling",
+    "aliases": [
+      "金陵城破",
+      "李煜出降"
+    ],
+    "year": 975,
+    "end_year": null,
+    "period": "宋初统一",
+    "type": "battle",
+    "location_id": "jinling",
+    "factions": [
+      "song",
+      "southern-tang"
+    ],
+    "characters": [
+      "li-yu",
+      "han-xizai"
+    ],
+    "summary": "宋军围困金陵近一年，城内粮尽，城破后李煜奉表投降，南唐覆灭。",
+    "causes": "南唐孤立无援，李煜误信神佛与佞臣，拒绝突围。",
+    "course": "宋军昼夜攻城，金陵陷落，李煜被俘送汴京。",
+    "outcome": "南唐灭亡，李煜被封违命侯。",
+    "significance": "金陵陷落象征十国时代终结，江南文化精英北迁。",
+    "game_hooks": [
+      "围城粮尽",
+      "投降",
+      "文化北迁",
+      "亡国"
+    ],
+    "sources": [
+      "SONGSHI",
+      "XUWUDAISHI",
+      "NANTANGSHU_LU"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wuyue-submission",
+    "name": "吴越纳土归宋",
+    "name_en": "Wuyue Submission to Song",
+    "aliases": [
+      "钱俶纳土",
+      "吴越归宋"
+    ],
+    "year": 978,
+    "end_year": null,
+    "period": "宋初统一",
+    "type": "diplomatic",
+    "location_id": "hangzhou",
+    "factions": [
+      "wuyue",
+      "song"
+    ],
+    "characters": [
+      "qian-chu",
+      "zhao-kuangyin"
+    ],
+    "summary": "吴越王钱俶在北宋统一大势下献出两浙十三州，避免战争，吴越和平并入宋朝。",
+    "causes": "南唐已灭，吴越三面受宋包围，抵抗无望。",
+    "course": "钱俶入朝，上表纳土，宋接收两浙州县。",
+    "outcome": "两浙和平归宋，经济文化未受破坏。",
+    "significance": "纳土归宋是小国在大一统趋势下的理性选择。",
+    "game_hooks": [
+      "和平归附",
+      "保境安民",
+      "两浙经济",
+      "统一大势"
+    ],
+    "sources": [
+      "SONGSHI",
+      "WUYUEBEISHI",
+      "XUWUDAISHI"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "northern-han-conquest",
+    "name": "北宋灭北汉",
+    "name_en": "Song Conquest of Northern Han",
+    "aliases": [
+      "灭北汉",
+      "围攻太原"
+    ],
+    "year": 979,
+    "end_year": null,
+    "period": "宋初统一",
+    "type": "war",
+    "location_id": "taiyuan",
+    "factions": [
+      "song",
+      "northern-han",
+      "khitan"
+    ],
+    "characters": [
+      "zhao-kuangyin"
+    ],
+    "summary": "宋太宗赵光义亲征北汉，围太原，击退辽援军，北汉主刘继元投降，十国结束。",
+    "causes": "北宋已统一南方，北汉是最后一个割据政权。",
+    "course": "宋军长期围困太原，辽军来援被击退，城内粮尽，刘继元出降。",
+    "outcome": "北汉灭亡，北宋完成局部统一。",
+    "significance": "北汉灭亡标志五代十国结束，但宋军随即伐辽失败。",
+    "game_hooks": [
+      "太原围城",
+      "辽援",
+      "十国终局",
+      "统一完成"
+    ],
+    "sources": [
+      "SONGSHI",
+      "XUWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wuyue-foundation",
+    "name": "吴越建立",
+    "name_en": "Foundation of Wuyue",
+    "aliases": [
+      "钱镠据两浙",
+      "吴越国"
+    ],
+    "year": 907,
+    "end_year": null,
+    "period": "十国",
+    "type": "succession",
+    "location_id": "hangzhou",
+    "factions": [
+      "wuyue",
+      "later-liang"
+    ],
+    "characters": [
+      "qian-liu"
+    ],
+    "summary": "钱镠据两浙，受后梁封吴越王，建立吴越国，定都杭州，保境安民、发展水利贸易。",
+    "causes": "唐末藩镇割据，钱镠击败董昌、杨行密等势力控制两浙。",
+    "course": "钱镠受梁册封，建吴越国，修筑海塘、发展海外贸易。",
+    "outcome": "吴越成为十国中最稳定富庶的政权之一。",
+    "significance": "吴越奠定杭州区域中心地位，为南宋临安奠定基础。",
+    "game_hooks": [
+      "保境安民",
+      "海塘",
+      "海外贸易",
+      "小国生存"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "WUYUEBEISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "qiantang-dike",
+    "name": "钱塘江海塘",
+    "name_en": "Qiantang Sea Wall",
+    "aliases": [
+      "钱镠筑海塘",
+      "捍海石塘"
+    ],
+    "year": 910,
+    "end_year": null,
+    "period": "十国",
+    "type": "administrative",
+    "location_id": "hangzhou",
+    "factions": [
+      "wuyue"
+    ],
+    "characters": [
+      "qian-liu"
+    ],
+    "summary": "钱镠征发民工修筑钱塘江捍海石塘，抵御潮患，保护杭州与两浙农业。",
+    "causes": "钱塘江潮水侵袭杭州，威胁城市与农田。",
+    "course": "以竹笼装石、木桩固定，筑成海塘，并设撩湖军疏浚西湖。",
+    "outcome": "杭州城市与两浙农业得到保护，经济持续发展。",
+    "significance": "海塘工程是五代十国最重要的水利建设之一。",
+    "game_hooks": [
+      "水利工程",
+      "潮患",
+      "城市发展",
+      "民生"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "WUYUEBEISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "southern-tang-foundation",
+    "name": "南唐建立",
+    "name_en": "Foundation of Southern Tang",
+    "aliases": [
+      "李昪代吴",
+      "徐知诰建唐"
+    ],
+    "year": 937,
+    "end_year": null,
+    "period": "十国",
+    "type": "succession",
+    "location_id": "jinling",
+    "factions": [
+      "southern-tang",
+      "wu-yang"
+    ],
+    "characters": [
+      "li-bian",
+      "song-qiqiu"
+    ],
+    "summary": "徐知诰（李昪）受吴禅让，建立南唐，定都金陵，恢复李唐国号，成为十国中最强盛的政权。",
+    "causes": "杨吴后期权臣徐氏掌握军政，杨氏皇室衰微。",
+    "course": "李昪受禅称帝，改国号唐，轻徭薄赋、兴文教，与吴越、闽、楚维持和平。",
+    "outcome": "南唐成为江淮霸主，文化经济繁荣。",
+    "significance": "南唐是十国文化高峰，也是北宋统一南方的最强对手。",
+    "game_hooks": [
+      "权臣篡位",
+      "恢复唐号",
+      "江淮富庶",
+      "文教兴盛"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "NANTANGSHU_LU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "former-shu-foundation",
+    "name": "前蜀建立",
+    "name_en": "Foundation of Former Shu",
+    "aliases": [
+      "王建据蜀",
+      "前蜀开国"
+    ],
+    "year": 907,
+    "end_year": null,
+    "period": "十国",
+    "type": "succession",
+    "location_id": "chengdu",
+    "factions": [
+      "former-shu",
+      "tang"
+    ],
+    "characters": [
+      "wang-jian",
+      "wei-zhuang"
+    ],
+    "summary": "王建据成都，受唐末藩镇推戴称帝，建立前蜀，收留唐末文人，保存大量文化资源。",
+    "causes": "黄巢之乱后唐廷失去对巴蜀控制，王建逐步兼并两川。",
+    "course": "王建称帝，定都成都，任用韦庄等文人，制度仿唐。",
+    "outcome": "前蜀成为巴蜀割据政权，文化繁荣但军事有限。",
+    "significance": "前蜀是唐末文人避难与文化保存的重要中心。",
+    "game_hooks": [
+      "巴蜀割据",
+      "文人避难",
+      "仿唐制度",
+      "成都繁荣"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "later-shu-foundation",
+    "name": "后蜀建立",
+    "name_en": "Foundation of Later Shu",
+    "aliases": [
+      "孟知祥据蜀",
+      "后蜀开国"
+    ],
+    "year": 934,
+    "end_year": null,
+    "period": "十国",
+    "type": "succession",
+    "location_id": "chengdu",
+    "factions": [
+      "later-shu",
+      "later-tang"
+    ],
+    "characters": [
+      "meng-zhixiang",
+      "meng-chang"
+    ],
+    "summary": "后唐西川节度使孟知祥兼并东川，称帝建立后蜀，定都成都，传子孟昶。",
+    "causes": "后唐内乱，对巴蜀控制减弱，孟知祥据险自立。",
+    "course": "孟知祥击败董璋，统一两川，称帝；死后孟昶继位。",
+    "outcome": "后蜀维持三十余年，成都经济文化繁荣。",
+    "significance": "后蜀是十国中后期巴蜀的稳定政权，最终被北宋所灭。",
+    "game_hooks": [
+      "两川统一",
+      "据险自立",
+      "成都繁荣",
+      "二代而亡"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "min-foundation",
+    "name": "闽国建立",
+    "name_en": "Foundation of Min",
+    "aliases": [
+      "王审知据闽",
+      "闽国"
+    ],
+    "year": 909,
+    "end_year": null,
+    "period": "十国",
+    "type": "succession",
+    "location_id": "fuzhou",
+    "factions": [
+      "min",
+      "later-liang"
+    ],
+    "characters": [
+      "wang-shenzhi"
+    ],
+    "summary": "王审知据福建，受后梁封闽王，建立闽国，发展海上贸易与文教，保境安民。",
+    "causes": "唐末黄巢之乱后福建真空，王氏兄弟率光州兵入闽。",
+    "course": "王审知统一福建，受梁册封，招抚流亡、发展泉州港。",
+    "outcome": "闽国成为福建历史上第一个独立政权。",
+    "significance": "闽国奠定福建区域开发与海洋贸易基础。",
+    "game_hooks": [
+      "入闽",
+      "海贸",
+      "保境",
+      "区域开发"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "chu-foundation",
+    "name": "楚国建立",
+    "name_en": "Foundation of Chu",
+    "aliases": [
+      "马殷据湖南",
+      "马楚"
+    ],
+    "year": 907,
+    "end_year": null,
+    "period": "十国",
+    "type": "succession",
+    "location_id": "changsha",
+    "factions": [
+      "chu",
+      "later-liang"
+    ],
+    "characters": [
+      "ma-yin"
+    ],
+    "summary": "马殷据湖南，受后梁封楚王，建立楚国，定都长沙，发展茶叶贸易与商业。",
+    "causes": "唐末湖南藩镇混战，马殷逐步统一湘中。",
+    "course": "马殷受梁册封，推行茶税、铸铅铁钱、招徕商旅。",
+    "outcome": "楚国成为湖南割据政权，经济繁荣但政治不稳。",
+    "significance": "楚国以商业立国，是十国经济史的典型案例。",
+    "game_hooks": [
+      "茶马贸易",
+      "商业立国",
+      "湖南",
+      "铅铁钱"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "southern-han-foundation",
+    "name": "南汉建立",
+    "name_en": "Foundation of Southern Han",
+    "aliases": [
+      "刘龑称帝",
+      "南汉"
+    ],
+    "year": 917,
+    "end_year": null,
+    "period": "十国",
+    "type": "succession",
+    "location_id": "guangzhou",
+    "factions": [
+      "southern-han"
+    ],
+    "characters": [
+      "liu-yan"
+    ],
+    "summary": "刘龑据岭南称帝，建立南汉，定都兴王府（广州），依赖海上贸易与宦官政治。",
+    "causes": "唐末岭南藩镇割据，刘氏父子逐步统一岭南。",
+    "course": "刘龑称帝，改广州为兴王府，发展海外贸易，重用宦官。",
+    "outcome": "南汉成为岭南割据政权，后期政治腐败。",
+    "significance": "南汉是岭南海洋贸易与宦官政治的代表。",
+    "game_hooks": [
+      "岭南割据",
+      "海上贸易",
+      "宦官政治",
+      "兴王府"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "jingnan-foundation",
+    "name": "荆南建立",
+    "name_en": "Foundation of Jingnan",
+    "aliases": [
+      "高季兴据荆南",
+      "南平国"
+    ],
+    "year": 924,
+    "end_year": null,
+    "period": "十国",
+    "type": "succession",
+    "location_id": "jiangling",
+    "factions": [
+      "jingnan",
+      "later-tang"
+    ],
+    "characters": [
+      "gao-jixing"
+    ],
+    "summary": "高季兴据江陵，受后唐封南平王，建立荆南，以弹丸之地周旋于诸国之间。",
+    "causes": "后梁末年后唐初年，江陵处于南北交通要冲，中央控制薄弱。",
+    "course": "高季兴受封，截留各国贡赋、经营商税，维持独立。",
+    "outcome": "荆南成为十国中最小的政权，靠外交与贸易生存。",
+    "significance": "荆南是地缘缓冲小国的典型，展示生存外交。",
+    "game_hooks": [
+      "夹缝生存",
+      "截留贡赋",
+      "商税",
+      "外交投机"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "northern-han-foundation",
+    "name": "北汉建立",
+    "name_en": "Foundation of Northern Han",
+    "aliases": [
+      "刘崇称帝",
+      "东汉"
+    ],
+    "year": 951,
+    "end_year": null,
+    "period": "十国",
+    "type": "succession",
+    "location_id": "taiyuan",
+    "factions": [
+      "northern-han",
+      "later-zhou"
+    ],
+    "characters": [
+      "liu-chong"
+    ],
+    "summary": "后汉高祖刘知远之弟刘崇在太原称帝，建立北汉，依附契丹与后周、北宋对抗。",
+    "causes": "郭威代汉，刘崇作为后汉宗室据河东自立。",
+    "course": "刘崇称帝，国号汉，向契丹称侄称臣，联合南下。",
+    "outcome": "北汉成为十国中唯一北方政权，坚持至 979 年。",
+    "significance": "北汉是五代十国最后的割据政权，也是宋辽关系的焦点。",
+    "game_hooks": [
+      "河东割据",
+      "契丹附庸",
+      "太原坚城",
+      "最后十国"
+    ],
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  }
+]

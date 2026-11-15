@@ -1,0 +1,1101 @@
+[
+  {
+    "id": "li-cunxu",
+    "name": "李存勖",
+    "name_en": "Li Cunxu",
+    "aliases": [
+      "后唐庄宗",
+      "李亚子"
+    ],
+    "courtesy_name": null,
+    "birth": 885,
+    "death": 926,
+    "birth_place": "应州金城",
+    "period": "五代",
+    "faction_id": "later-tang",
+    "roles": [
+      "皇帝",
+      "军事统帅"
+    ],
+    "tags": [
+      "沙陀",
+      "灭梁",
+      "骑兵",
+      "伶人"
+    ],
+    "traits": [
+      "勇猛",
+      "果决",
+      "善战",
+      "后期荒怠"
+    ],
+    "relationships": [
+      {
+        "target": "li-keyong",
+        "type": "父子",
+        "note": "李克用之子"
+      },
+      {
+        "target": "zhu-wen",
+        "type": "对手",
+        "note": "灭后梁"
+      },
+      {
+        "target": "guo-wei",
+        "type": "君臣",
+        "note": "后周太祖"
+      }
+    ],
+    "events": [
+      "later-tang-foundation",
+      "liang-conquest",
+      "xingjiao"
+    ],
+    "quotes": [],
+    "summary": "李存勖继承李克用基业，灭后梁建立后唐，军事天才却治国无方，最终死于兴教门之变。",
+    "game_use": "适合“军事天才+政治低能”型君主：战场极强，内政与忠诚管理差。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "li-siyuan",
+    "name": "李嗣源",
+    "name_en": "Li Siyuan",
+    "aliases": [
+      "后唐明宗",
+      "李亶"
+    ],
+    "courtesy_name": null,
+    "birth": 867,
+    "death": 933,
+    "birth_place": "应州金城",
+    "period": "五代",
+    "faction_id": "later-tang",
+    "roles": [
+      "皇帝",
+      "将领"
+    ],
+    "tags": [
+      "沙陀",
+      "明宗之治",
+      "节俭",
+      "禁军"
+    ],
+    "traits": [
+      "宽厚",
+      "节俭",
+      "务实",
+      "不识字"
+    ],
+    "relationships": [
+      {
+        "target": "li-cunxu",
+        "type": "君臣/义兄弟",
+        "note": "兴教门之变后即位"
+      },
+      {
+        "target": "shi-jingtang",
+        "type": "君臣/女婿",
+        "note": "石敬瑭"
+      }
+    ],
+    "events": [
+      "mingzong-era",
+      "xingjiao"
+    ],
+    "quotes": [],
+    "summary": "李嗣源为李克用养子，后唐明宗，即位后节俭宽政，史称明宗之治，但未能解决禁军与藩镇问题。",
+    "game_use": "适合“务实守成”型君主：降低财政消耗、提升民心，但军事扩张弱。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "shi-jingtang",
+    "name": "石敬瑭",
+    "name_en": "Shi Jingtang",
+    "aliases": [
+      "后晋高祖",
+      "儿皇帝"
+    ],
+    "courtesy_name": null,
+    "birth": 892,
+    "death": 942,
+    "birth_place": "太原",
+    "period": "五代",
+    "faction_id": "later-jin",
+    "roles": [
+      "皇帝",
+      "节度使"
+    ],
+    "tags": [
+      "沙陀",
+      "燕云十六州",
+      "契丹",
+      "儿皇帝"
+    ],
+    "traits": [
+      "隐忍",
+      "权谋",
+      "屈辱",
+      "务实"
+    ],
+    "relationships": [
+      {
+        "target": "li-siyuan",
+        "type": "君臣/女婿",
+        "note": "后唐明宗"
+      },
+      {
+        "target": "yelv-abaoji",
+        "type": "君臣/依附",
+        "note": "契丹册封"
+      }
+    ],
+    "events": [
+      "later-jin-foundation",
+      "sixteen-prefectures"
+    ],
+    "quotes": [],
+    "summary": "石敬瑭以割让燕云十六州、称儿皇帝为代价换取契丹支持，建立后晋，深刻改变华北战略格局。",
+    "game_use": "适合“屈辱外交”路线：短期获得强援，长期丧失屏障与合法性。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "liu-zhiyuan",
+    "name": "刘知远",
+    "name_en": "Liu Zhiyuan",
+    "aliases": [
+      "后汉高祖"
+    ],
+    "courtesy_name": null,
+    "birth": 895,
+    "death": 948,
+    "birth_place": "太原",
+    "period": "五代",
+    "faction_id": "later-han",
+    "roles": [
+      "皇帝",
+      "节度使"
+    ],
+    "tags": [
+      "沙陀",
+      "河东",
+      "后汉",
+      "契丹"
+    ],
+    "traits": [
+      "沉稳",
+      "隐忍",
+      "善观时变",
+      "严酷"
+    ],
+    "relationships": [
+      {
+        "target": "shi-jingtang",
+        "type": "君臣",
+        "note": "后晋河东节度使"
+      },
+      {
+        "target": "guo-wei",
+        "type": "君臣",
+        "note": "后汉枢密使"
+      }
+    ],
+    "events": [
+      "later-han-foundation",
+      "khitan-withdrawal"
+    ],
+    "quotes": [],
+    "summary": "刘知远在后晋灭亡、契丹北撤之际称帝建立后汉，但统治严酷、猜忌功臣，国祚极短。",
+    "game_use": "适合“乱世捡漏”型势力：在契丹北撤后快速填补真空，但内部稳定差。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "guo-wei",
+    "name": "郭威",
+    "name_en": "Guo Wei",
+    "aliases": [
+      "后周太祖",
+      "郭文仲"
+    ],
+    "courtesy_name": "文仲",
+    "birth": 904,
+    "death": 954,
+    "birth_place": "邢州尧山",
+    "period": "五代",
+    "faction_id": "later-zhou",
+    "roles": [
+      "皇帝",
+      "枢密使"
+    ],
+    "tags": [
+      "后周",
+      "改革",
+      "禁军",
+      "节俭"
+    ],
+    "traits": [
+      "沉稳",
+      "节俭",
+      "善用人",
+      "果决"
+    ],
+    "relationships": [
+      {
+        "target": "liu-zhiyuan",
+        "type": "君臣",
+        "note": "后汉枢密使"
+      },
+      {
+        "target": "chai-rong",
+        "type": "养父子",
+        "note": "后周世宗"
+      }
+    ],
+    "events": [
+      "later-zhou-foundation",
+      "guowei-reform"
+    ],
+    "quotes": [],
+    "summary": "郭威由后汉枢密使起兵建立后周，革除苛政、整顿禁军，为世宗改革与北宋统一奠定基础。",
+    "game_use": "适合“改革开国”型君主：财政与军制改革强，但在位时间短。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "chai-rong",
+    "name": "柴荣",
+    "name_en": "Chai Rong",
+    "aliases": [
+      "后周世宗",
+      "柴荣"
+    ],
+    "courtesy_name": null,
+    "birth": 921,
+    "death": 959,
+    "birth_place": "邢州龙岗",
+    "period": "五代",
+    "faction_id": "later-zhou",
+    "roles": [
+      "皇帝",
+      "改革家",
+      "军事统帅"
+    ],
+    "tags": [
+      "世宗改革",
+      "北伐",
+      "禁军",
+      "统一"
+    ],
+    "traits": [
+      "雄才",
+      "果决",
+      "勤政",
+      "急躁"
+    ],
+    "relationships": [
+      {
+        "target": "guo-wei",
+        "type": "养父子",
+        "note": "后周太祖"
+      },
+      {
+        "target": "zhao-kuangyin",
+        "type": "君臣",
+        "note": "殿前都点检"
+      }
+    ],
+    "events": [
+      "shizong-reform",
+      "gaoping",
+      "shizong-northern-expedition"
+    ],
+    "quotes": [],
+    "summary": "周世宗柴荣改革禁军、财政与漕运，南征北战，收复燕云部分，因病早逝，统一成果被赵匡胤继承。",
+    "game_use": "适合“高强度改革+早逝”型君主：短时间内爆发式增强国力，但继承危机致命。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "zhao-kuangyin",
+    "name": "赵匡胤",
+    "name_en": "Zhao Kuangyin",
+    "aliases": [
+      "宋太祖",
+      "赵九重"
+    ],
+    "courtesy_name": "元朗",
+    "birth": 927,
+    "death": 976,
+    "birth_place": "洛阳夹马营",
+    "period": "宋初统一",
+    "faction_id": "song",
+    "roles": [
+      "皇帝",
+      "宋开国"
+    ],
+    "tags": [
+      "陈桥兵变",
+      "杯酒释兵权",
+      "先南后北",
+      "禁军"
+    ],
+    "traits": [
+      "沉稳",
+      "宽厚",
+      "权谋",
+      "重文"
+    ],
+    "relationships": [
+      {
+        "target": "chai-rong",
+        "type": "君臣",
+        "note": "后周殿前都点检"
+      },
+      {
+        "target": "zhao-guangyi",
+        "type": "兄弟",
+        "note": "宋太宗"
+      }
+    ],
+    "events": [
+      "chenqiao",
+      "song-foundation",
+      "southern-conquest"
+    ],
+    "quotes": [],
+    "summary": "赵匡胤通过陈桥兵变建立北宋，杯酒释兵权、改革禁军，采取先南后北策略统一大部分地区。",
+    "game_use": "适合“禁军拥立+集权”型开国君主：统一与制度设计强，但边防与继承问题突出。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "qian-liu",
+    "name": "钱镠",
+    "name_en": "Qian Liu",
+    "aliases": [
+      "吴越武肃王",
+      "钱具美"
+    ],
+    "courtesy_name": "具美",
+    "birth": 852,
+    "death": 932,
+    "birth_place": "杭州临安",
+    "period": "十国",
+    "faction_id": "wuyue",
+    "roles": [
+      "国王",
+      "吴越开国"
+    ],
+    "tags": [
+      "吴越",
+      "水利",
+      "海贸",
+      "保境"
+    ],
+    "traits": [
+      "务实",
+      "勤政",
+      "谨慎",
+      "善治理"
+    ],
+    "relationships": [
+      {
+        "target": "yang-xingmi",
+        "type": "对手/邻居",
+        "note": "吴越与杨吴"
+      }
+    ],
+    "events": [
+      "wuyue-foundation",
+      "qiantang-dike"
+    ],
+    "quotes": [],
+    "summary": "钱镠建立吴越国，定都杭州，修海塘、兴水利、发展海贸，推行保境安民政策。",
+    "game_use": "适合“经济型割据”君主：水利、海贸与民心强，军事扩张弱。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "WUYUEBEISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "yang-xingmi",
+    "name": "杨行密",
+    "name_en": "Yang Xingmi",
+    "aliases": [
+      "吴武忠王",
+      "杨化源"
+    ],
+    "courtesy_name": "化源",
+    "birth": 852,
+    "death": 905,
+    "birth_place": "庐州合肥",
+    "period": "十国",
+    "faction_id": "wu-yang",
+    "roles": [
+      "军阀",
+      "吴王"
+    ],
+    "tags": [
+      "淮南",
+      "杨吴",
+      "水军",
+      "盐利"
+    ],
+    "traits": [
+      "沉稳",
+      "善战",
+      "宽厚",
+      "善用人"
+    ],
+    "relationships": [
+      {
+        "target": "zhu-wen",
+        "type": "对手",
+        "note": "清口之战"
+      },
+      {
+        "target": "li-bian",
+        "type": "后继者",
+        "note": "徐温养子，南唐建立"
+      }
+    ],
+    "events": [
+      "wu-foundation",
+      "qingkou"
+    ],
+    "quotes": [],
+    "summary": "杨行密据淮南，清口之战大败朱温，建立杨吴，控制江淮盐利与漕运。",
+    "game_use": "适合“江淮割据”型君主：水军、盐利与防御强，但继承与权臣问题突出。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "li-bian",
+    "name": "李昪",
+    "name_en": "Li Bian",
+    "aliases": [
+      "南唐烈祖",
+      "徐知诰"
+    ],
+    "courtesy_name": null,
+    "birth": 888,
+    "death": 943,
+    "birth_place": "徐州彭城",
+    "period": "十国",
+    "faction_id": "southern-tang",
+    "roles": [
+      "皇帝",
+      "南唐开国"
+    ],
+    "tags": [
+      "南唐",
+      "唐室",
+      "保境",
+      "文治"
+    ],
+    "traits": [
+      "谨慎",
+      "节俭",
+      "善权谋",
+      "重文"
+    ],
+    "relationships": [
+      {
+        "target": "yang-xingmi",
+        "type": "旧主",
+        "note": "杨吴权臣"
+      },
+      {
+        "target": "li-jing",
+        "type": "父子",
+        "note": "南唐元宗"
+      }
+    ],
+    "events": [
+      "southern-tang-foundation"
+    ],
+    "quotes": [],
+    "summary": "李昪原为杨吴权臣徐知诰，篡吴建南唐，自称唐室后裔，推行保境安民与文治。",
+    "game_use": "适合“权臣篡位+文治”型君主：合法性建构与内政强，军事保守。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "NANTANGSHU_MA",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wang-jian",
+    "name": "王建",
+    "name_en": "Wang Jian",
+    "aliases": [
+      "前蜀高祖",
+      "王光图"
+    ],
+    "courtesy_name": "光图",
+    "birth": 847,
+    "death": 918,
+    "birth_place": "许州舞阳",
+    "period": "十国",
+    "faction_id": "former-shu",
+    "roles": [
+      "皇帝",
+      "前蜀开国"
+    ],
+    "tags": [
+      "前蜀",
+      "巴蜀",
+      "唐臣",
+      "保境"
+    ],
+    "traits": [
+      "机敏",
+      "务实",
+      "善用人",
+      "多疑"
+    ],
+    "relationships": [
+      {
+        "target": "wang-yan",
+        "type": "父子",
+        "note": "前蜀后主"
+      }
+    ],
+    "events": [
+      "former-shu-foundation"
+    ],
+    "quotes": [],
+    "summary": "王建原为唐末壁州刺史，据巴蜀建立前蜀，收容唐室旧臣，发展经济与文化。",
+    "game_use": "适合“巴蜀割据”型君主：地形与经济强，继承风险大。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "meng-zhixiang",
+    "name": "孟知祥",
+    "name_en": "Meng Zhixiang",
+    "aliases": [
+      "后蜀高祖"
+    ],
+    "courtesy_name": null,
+    "birth": 874,
+    "death": 934,
+    "birth_place": "邢州龙岗",
+    "period": "十国",
+    "faction_id": "later-shu",
+    "roles": [
+      "皇帝",
+      "后蜀开国"
+    ],
+    "tags": [
+      "后蜀",
+      "巴蜀",
+      "后唐",
+      "割据"
+    ],
+    "traits": [
+      "沉稳",
+      "果决",
+      "善治理",
+      "务实"
+    ],
+    "relationships": [
+      {
+        "target": "meng-chang",
+        "type": "父子",
+        "note": "后蜀后主"
+      },
+      {
+        "target": "li-cunxu",
+        "type": "君臣",
+        "note": "后唐灭前蜀"
+      }
+    ],
+    "events": [
+      "later-shu-foundation"
+    ],
+    "quotes": [],
+    "summary": "孟知祥原为后唐西川节度使，趁后唐内乱据蜀建立后蜀，发展经济与文化。",
+    "game_use": "适合“后唐分裂”型割据：巴蜀资源强，需处理中原王朝的吞并意图。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wang-shenzhi",
+    "name": "王审知",
+    "name_en": "Wang Shenzhi",
+    "aliases": [
+      "闽太祖",
+      "王信通"
+    ],
+    "courtesy_name": "信通",
+    "birth": 862,
+    "death": 925,
+    "birth_place": "光州固始",
+    "period": "十国",
+    "faction_id": "min",
+    "roles": [
+      "国王",
+      "闽开国"
+    ],
+    "tags": [
+      "闽",
+      "海贸",
+      "保境",
+      "福建"
+    ],
+    "traits": [
+      "节俭",
+      "宽厚",
+      "务实",
+      "重文"
+    ],
+    "relationships": [
+      {
+        "target": "wang-yanjun",
+        "type": "父子",
+        "note": "闽惠宗"
+      }
+    ],
+    "events": [
+      "min-foundation"
+    ],
+    "quotes": [],
+    "summary": "王审知据福建，建立闽国，推行保境安民、发展海贸与文教，被称为开闽王。",
+    "game_use": "适合“海贸型割据”君主：港口与商业强，军事扩张弱。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "ma-yin",
+    "name": "马殷",
+    "name_en": "Ma Yin",
+    "aliases": [
+      "楚武穆王",
+      "马霸图"
+    ],
+    "courtesy_name": "霸图",
+    "birth": 852,
+    "death": 930,
+    "birth_place": "许州鄢陵",
+    "period": "十国",
+    "faction_id": "chu",
+    "roles": [
+      "国王",
+      "楚开国"
+    ],
+    "tags": [
+      "楚",
+      "茶马",
+      "湖南",
+      "保境"
+    ],
+    "traits": [
+      "务实",
+      "善经商",
+      "宽厚",
+      "稳健"
+    ],
+    "relationships": [
+      {
+        "target": "ma-xifan",
+        "type": "父子",
+        "note": "楚文昭王"
+      }
+    ],
+    "events": [
+      "chu-foundation"
+    ],
+    "quotes": [],
+    "summary": "马殷据湖南建立楚国，发展茶叶与马匹贸易，推行保境安民，使长沙成为区域商业中心。",
+    "game_use": "适合“贸易型割据”君主：茶马贸易与商税强，军事一般。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "liu-yan",
+    "name": "刘龑",
+    "name_en": "Liu Yan",
+    "aliases": [
+      "南汉高祖",
+      "刘岩"
+    ],
+    "courtesy_name": null,
+    "birth": 889,
+    "death": 942,
+    "birth_place": "封州",
+    "period": "十国",
+    "faction_id": "southern-han",
+    "roles": [
+      "皇帝",
+      "南汉开国"
+    ],
+    "tags": [
+      "南汉",
+      "岭南",
+      "海贸",
+      "香药"
+    ],
+    "traits": [
+      "奢侈",
+      "残暴",
+      "善权术",
+      "重商"
+    ],
+    "relationships": [
+      {
+        "target": "liu-sheng",
+        "type": "父子",
+        "note": "南汉中宗"
+      }
+    ],
+    "events": [
+      "southern-han-foundation"
+    ],
+    "quotes": [],
+    "summary": "刘龑据岭南建立南汉，发展广州海贸与香药贸易，但统治奢侈残暴，宦官政治渐起。",
+    "game_use": "适合“海贸+暴政”型君主：商业收入高，民心与官僚忠诚低。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "gao-jixing",
+    "name": "高季兴",
+    "name_en": "Gao Jixing",
+    "aliases": [
+      "荆南武信王",
+      "高贻孙"
+    ],
+    "courtesy_name": "贻孙",
+    "birth": 858,
+    "death": 929,
+    "birth_place": "陕州峡石",
+    "period": "十国",
+    "faction_id": "jingnan",
+    "roles": [
+      "国王",
+      "荆南开国"
+    ],
+    "tags": [
+      "荆南",
+      "江陵",
+      "商税",
+      "夹缝"
+    ],
+    "traits": [
+      "机敏",
+      "务实",
+      "善外交",
+      "无赖"
+    ],
+    "relationships": [
+      {
+        "target": "zhu-wen",
+        "type": "君臣",
+        "note": "后梁荆南节度使"
+      }
+    ],
+    "events": [
+      "jingnan-foundation"
+    ],
+    "quotes": [],
+    "summary": "高季兴据江陵建立荆南，依靠过境商税与灵活外交在十国夹缝中生存，被称为高赖子。",
+    "game_use": "适合“极小势力”玩法：外交与商税是生命线，军事几乎不可扩张。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "liu-chong",
+    "name": "刘崇",
+    "name_en": "Liu Chong",
+    "aliases": [
+      "北汉世祖",
+      "刘旻"
+    ],
+    "courtesy_name": null,
+    "birth": 895,
+    "death": 954,
+    "birth_place": "太原",
+    "period": "十国",
+    "faction_id": "northern-han",
+    "roles": [
+      "皇帝",
+      "北汉开国"
+    ],
+    "tags": [
+      "北汉",
+      "河东",
+      "契丹",
+      "后汉"
+    ],
+    "traits": [
+      "刚愎",
+      "坚韧",
+      "依附",
+      "好战"
+    ],
+    "relationships": [
+      {
+        "target": "liu-zhiyuan",
+        "type": "兄弟",
+        "note": "后汉高祖"
+      }
+    ],
+    "events": [
+      "northern-han-foundation",
+      "gaoping"
+    ],
+    "quotes": [],
+    "summary": "刘崇为后汉高祖之弟，后周代汉后据太原建立北汉，依附契丹与中原王朝对抗。",
+    "game_use": "适合“最后一个北方割据”势力：太原坚城+契丹援军，但国力极弱。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "li-yu",
+    "name": "李煜",
+    "name_en": "Li Yu",
+    "aliases": [
+      "南唐后主",
+      "李重光",
+      "词帝"
+    ],
+    "courtesy_name": "重光",
+    "birth": 937,
+    "death": 978,
+    "birth_place": "金陵",
+    "period": "十国",
+    "faction_id": "southern-tang",
+    "roles": [
+      "皇帝",
+      "词人"
+    ],
+    "tags": [
+      "南唐",
+      "词",
+      "亡国",
+      "金陵"
+    ],
+    "traits": [
+      "敏感",
+      "才情",
+      "仁弱",
+      "逃避"
+    ],
+    "relationships": [
+      {
+        "target": "li-jing",
+        "type": "父子",
+        "note": "南唐元宗"
+      },
+      {
+        "target": "zhao-kuangyin",
+        "type": "君臣/俘虏",
+        "note": "北宋灭南唐"
+      }
+    ],
+    "events": [
+      "southern-tang-fall",
+      "jinling-fall"
+    ],
+    "quotes": [
+      {
+        "text": "问君能有几多愁，恰似一江春水向东流。",
+        "source": "全唐诗《虞美人》"
+      }
+    ],
+    "summary": "李煜为南唐后主，词艺绝伦却治国无能，北宋灭南唐后被俘，最终被赐死。",
+    "game_use": "适合“文化天才+亡国之君”：文化值极高，军事与政治决策弱。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "SHIGUOCHUNQIU",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "feng-dao",
+    "name": "冯道",
+    "name_en": "Feng Dao",
+    "aliases": [
+      "冯可道",
+      "长乐老"
+    ],
+    "courtesy_name": "可道",
+    "birth": 882,
+    "death": 954,
+    "birth_place": "瀛州景城",
+    "period": "五代",
+    "faction_id": "later-zhou",
+    "roles": [
+      "宰相",
+      "学者"
+    ],
+    "tags": [
+      "五朝元老",
+      "宰相",
+      "印刷",
+      "官场"
+    ],
+    "traits": [
+      "圆滑",
+      "务实",
+      "宽厚",
+      "自保"
+    ],
+    "relationships": [
+      {
+        "target": "li-cunxu",
+        "type": "君臣",
+        "note": "后唐"
+      },
+      {
+        "target": "guo-wei",
+        "type": "君臣",
+        "note": "后周"
+      }
+    ],
+    "events": [
+      "nine-classics-printing"
+    ],
+    "quotes": [],
+    "summary": "冯道历仕五朝八姓，官至宰相，主持雕版印刷九经，是五代官场生存与文教延续的代表。",
+    "game_use": "适合“官僚系统稳定器”：跨政权保留行政能力，但忠诚度低、声望争议大。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  },
+  {
+    "id": "wei-zhuang",
+    "name": "韦庄",
+    "name_en": "Wei Zhuang",
+    "aliases": [
+      "韦端己",
+      "浣花词"
+    ],
+    "courtesy_name": "端己",
+    "birth": 836,
+    "death": 910,
+    "birth_place": "京兆杜陵",
+    "period": "晚唐",
+    "faction_id": "former-shu",
+    "roles": [
+      "诗人",
+      "词人",
+      "宰相"
+    ],
+    "tags": [
+      "花间词",
+      "前蜀",
+      "唐末",
+      "长安"
+    ],
+    "traits": [
+      "才情",
+      "感伤",
+      "务实",
+      "善词"
+    ],
+    "relationships": [
+      {
+        "target": "wang-jian",
+        "type": "君臣",
+        "note": "前蜀宰相"
+      }
+    ],
+    "events": [
+      "huang-chao-rebellion",
+      "former-shu-foundation"
+    ],
+    "quotes": [],
+    "summary": "韦庄为唐末五代词人，花间派代表，晚年入前蜀为宰相，作品多写乱离与江南。",
+    "game_use": "适合“文化官僚”型角色：提升文教与外交文书，可触发花间词事件。",
+    "sources": [
+      "JIUWUDAISHI",
+      "XINWUDAISHI",
+      "HUAJIANJI",
+      "ZIZHITONGJIAN"
+    ],
+    "reliability": "A"
+  }
+]
